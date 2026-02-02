@@ -1,0 +1,15 @@
+2026/01/23-16:34:22.129 3c345 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_raydium.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/23-16:34:22.129 3c345 Recovering log #4
+2026/01/23-16:34:22.130 3c345 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_raydium.io_0.indexeddb.leveldb/000004.log 
+2026/01/23-16:35:39.964 3c357 Level-0 table #8: started
+2026/01/23-16:35:40.029 3c357 Level-0 table #8: 209 bytes OK
+2026/01/23-16:35:40.107 3c357 Delete type=0 #4
+2026/01/23-16:35:40.107 3c357 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/23-16:35:40.107 3c357 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 72 : 1
+2026/01/23-16:35:40.107 3c357 Compacting 1@1 + 1@2 files
+2026/01/23-16:35:40.138 3c357 Generated table #9@1: 23 keys, 813 bytes
+2026/01/23-16:35:40.138 3c357 Compacted 1@1 + 1@2 files => 813 bytes
+2026/01/23-16:35:40.207 3c357 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/23-16:35:40.207 3c357 Delete type=2 #8
+2026/01/23-16:35:40.207 3c357 Delete type=2 #5
+2026/01/23-16:35:40.208 3c357 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 72 : 1 .. (end); will stop at (end)

@@ -1,0 +1,2 @@
+import{o as _,q as t}from"./chunk-UWURTNRY.js";_();t();var o={LEVEL_ONE:5,LEVEL_TWO:30,LEVEL_THREE:120,LEVEL_FOUR:360,LEVEL_FIVE:720,LEVEL_MAX:9999999999},e={AUTO:"auto",LIGHT:"light",DARK:"dark"},a={auto:"wallet_extension_tab_appearance_follow_system",light:"wallet_extension_tab_appearance_light_mode",dark:"wallet_extension_tab_apperance_dark_mode"};export{o as a,e as b,a as c};
+//# sourceMappingURL=chunk-KYVX6VSI.js.map

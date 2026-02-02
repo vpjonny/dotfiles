@@ -1,0 +1,7 @@
+2026/02/01-13:37:20.971 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-13:37:20.972 662 Recovering log #3
+2026/02/01-13:37:20.972 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
+2026/02/01-13:37:53.010 664 Level-0 table #5: started
+2026/02/01-13:37:53.013 664 Level-0 table #5: 4137 bytes OK
+2026/02/01-13:37:53.016 664 Delete type=0 #3
+2026/02/01-13:37:53.016 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

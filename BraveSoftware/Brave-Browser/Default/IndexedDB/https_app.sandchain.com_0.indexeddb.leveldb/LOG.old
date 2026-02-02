@@ -1,0 +1,13 @@
+2026/02/01-11:51:51.814 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.sandchain.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-11:51:51.815 664 Recovering log #510
+2026/02/01-11:51:51.816 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.sandchain.com_0.indexeddb.leveldb/000510.log 
+2026/02/01-11:51:52.423 662 Level-0 table #516: started
+2026/02/01-11:51:52.426 662 Level-0 table #516: 6157 bytes OK
+2026/02/01-11:51:52.429 662 Delete type=0 #510
+2026/02/01-11:51:52.430 662 Manual compaction at level-0 from '\x00\x93\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x94\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/01-11:53:26.991 664 Compacting 1@1 + 1@2 files
+2026/02/01-11:53:26.996 664 Generated table #517@1: 42 keys, 3157 bytes
+2026/02/01-11:53:26.996 664 Compacted 1@1 + 1@2 files => 3157 bytes
+2026/02/01-11:53:26.998 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-11:53:26.999 664 Delete type=2 #516
+2026/02/01-11:53:26.999 664 Delete type=2 #513

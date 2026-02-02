@@ -1,0 +1,15 @@
+2026/02/02-16:35:00.613 613 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.stobix.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-16:35:00.613 613 Recovering log #4
+2026/02/02-16:35:00.633 613 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.stobix.com_0.indexeddb.leveldb/000004.log 
+2026/02/02-16:56:09.970 613 Level-0 table #8: started
+2026/02/02-16:56:09.994 613 Level-0 table #8: 182211 bytes OK
+2026/02/02-16:56:10.001 613 Delete type=0 #4
+2026/02/02-16:56:10.002 613 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/02-16:56:10.003 613 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01 \x03\x00\xa0\xd5\x7f\xec\xc1yB\x00\x01:\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00p\x00p\x00.\x00s\x00t\x00o\x00b\x00i\x00x\x00.\x00c\x00o\x00m\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00t\x00i\x00c\x00k\x00e\x00r\x00s\x00/\x00s\x00b\x00x\x00p\x00.\x00p\x00n\x00g' @ 8768 : 1
+2026/02/02-16:56:10.003 613 Compacting 1@1 + 1@2 files
+2026/02/02-16:56:10.028 613 Generated table #9@1: 513 keys, 22341 bytes
+2026/02/02-16:56:10.028 613 Compacted 1@1 + 1@2 files => 22341 bytes
+2026/02/02-16:56:10.031 613 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-16:56:10.032 613 Delete type=2 #8
+2026/02/02-16:56:10.032 613 Delete type=2 #5
+2026/02/02-16:56:10.033 623 Manual compaction at level-1 from '\x00\x05\x01 \x03\x00\xa0\xd5\x7f\xec\xc1yB\x00\x01:\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00p\x00p\x00.\x00s\x00t\x00o\x00b\x00i\x00x\x00.\x00c\x00o\x00m\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00t\x00i\x00c\x00k\x00e\x00r\x00s\x00/\x00s\x00b\x00x\x00p\x00.\x00p\x00n\x00g' @ 8768 : 1 .. (end); will stop at (end)

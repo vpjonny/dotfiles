@@ -1,0 +1,13 @@
+2025/11/23-14:16:40.730 5cf Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.hypefury.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/23-14:16:40.731 5cf Recovering log #6
+2025/11/23-14:16:40.731 5cf Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.hypefury.com_0.indexeddb.leveldb/000006.log 
+2025/11/23-14:16:40.845 5cd Level-0 table #10: started
+2025/11/23-14:16:40.848 5cd Level-0 table #10: 67538 bytes OK
+2025/11/23-14:16:40.851 5cd Delete type=0 #6
+2025/11/23-14:16:40.851 5cd Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 441 : 1
+2025/11/23-14:16:40.851 5cd Compacting 1@0 + 1@1 files
+2025/11/23-14:16:40.854 5cd Generated table #11@0: 149 keys, 4722 bytes
+2025/11/23-14:16:40.854 5cd Compacted 1@0 + 1@1 files => 4722 bytes
+2025/11/23-14:16:40.856 5cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/23-14:16:40.857 5cd Delete type=2 #10
+2025/11/23-14:16:40.857 5cd Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 441 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

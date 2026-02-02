@@ -1,0 +1,7 @@
+2026/02/02-15:35:54.174 613 Log #6: dropping 8 bytes; Corruption: missing start of fragmented record(2)
+2026/02/02-15:35:54.177 613 Log #6: 17 ops saved to Table #7 OK
+2026/02/02-15:35:54.177 613 Archiving /home/slova/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/iledlaeogohbilgbfhmbgkgmpplbfboh/000006.log: OK
+2026/02/02-15:35:54.178 613 Table #4: 17 entries OK
+2026/02/02-15:35:54.178 613 Table #7: 17 entries OK
+2026/02/02-15:35:54.179 613 Archiving /home/slova/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/iledlaeogohbilgbfhmbgkgmpplbfboh/MANIFEST-000001: OK
+2026/02/02-15:35:54.181 613 **** Repaired leveldb /home/slova/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/iledlaeogohbilgbfhmbgkgmpplbfboh; recovered 2 files; 2147 bytes. Some data may have been lost. ****

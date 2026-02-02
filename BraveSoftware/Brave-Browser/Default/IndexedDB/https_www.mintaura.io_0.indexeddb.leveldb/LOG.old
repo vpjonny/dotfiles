@@ -1,0 +1,14 @@
+2025/11/24-20:00:54.456 5cd Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mintaura.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-20:00:54.456 5cd Recovering log #31
+2025/11/24-20:00:54.457 5cd Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mintaura.io_0.indexeddb.leveldb/000031.log 
+2025/11/24-20:00:54.457 5cd Delete type=2 #29
+2025/11/24-20:00:54.670 5e1 Level-0 table #36: started
+2025/11/24-20:00:54.673 5e1 Level-0 table #36: 651 bytes OK
+2025/11/24-20:00:54.676 5e1 Delete type=0 #31
+2025/11/24-20:00:54.676 5cd Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 268 : 1
+2025/11/24-20:00:54.676 5cd Compacting 1@0 + 1@1 files
+2025/11/24-20:00:54.678 5cd Generated table #37@0: 15 keys, 795 bytes
+2025/11/24-20:00:54.679 5cd Compacted 1@0 + 1@1 files => 795 bytes
+2025/11/24-20:00:54.681 5cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/24-20:00:54.681 5cd Delete type=2 #36
+2025/11/24-20:00:54.682 5cd Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 268 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

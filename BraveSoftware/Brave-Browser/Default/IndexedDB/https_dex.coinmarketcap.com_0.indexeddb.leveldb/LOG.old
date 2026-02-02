@@ -1,0 +1,15 @@
+2026/01/24-15:40:33.721 3c358 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dex.coinmarketcap.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/24-15:40:33.722 3c358 Recovering log #7
+2026/01/24-15:40:33.729 3c358 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dex.coinmarketcap.com_0.indexeddb.leveldb/000007.log 
+2026/01/24-15:41:36.044 3c347 Level-0 table #12: started
+2026/01/24-15:41:36.057 3c347 Level-0 table #12: 153720 bytes OK
+2026/01/24-15:41:36.078 3c347 Delete type=0 #7
+2026/01/24-15:41:36.079 3c347 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/24-15:41:36.079 3c357 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x08\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e' @ 1604 : 1
+2026/01/24-15:41:36.080 3c357 Compacting 1@1 + 1@2 files
+2026/01/24-15:41:36.086 3c357 Generated table #13@1: 59 keys, 15366 bytes
+2026/01/24-15:41:36.086 3c357 Compacted 1@1 + 1@2 files => 15366 bytes
+2026/01/24-15:41:36.104 3c357 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/24-15:41:36.105 3c357 Delete type=2 #12
+2026/01/24-15:41:36.106 3c357 Delete type=2 #9
+2026/01/24-15:41:36.111 3c347 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x08\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e' @ 1604 : 1 .. (end); will stop at (end)

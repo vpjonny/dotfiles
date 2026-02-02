@@ -1,0 +1,18 @@
+2025/12/04-20:29:45.203 5c0 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bubbles.art_0.indexeddb.leveldb since it was missing.
+2025/12/04-20:29:45.210 5c0 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bubbles.art_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/04-20:30:06.621 5ac Level-0 table #5: started
+2025/12/04-20:30:06.626 5ac Level-0 table #5: 3295 bytes OK
+2025/12/04-20:30:06.629 5ac Delete type=0 #3
+2025/12/04-20:30:06.630 5ac Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/04-20:34:21.735 5ad Level-0 table #7: started
+2025/12/04-20:34:21.771 5ad Level-0 table #7: 2074 bytes OK
+2025/12/04-20:34:21.823 5ad Delete type=0 #4
+2025/12/04-20:34:21.824 5ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/04-20:34:21.825 5ad Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 204 : 1
+2025/12/04-20:34:21.825 5ad Compacting 1@1 + 1@2 files
+2025/12/04-20:34:21.864 5ad Generated table #8@1: 34 keys, 914 bytes
+2025/12/04-20:34:21.864 5ad Compacted 1@1 + 1@2 files => 914 bytes
+2025/12/04-20:34:21.928 5ad compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/04-20:34:21.929 5ad Delete type=2 #7
+2025/12/04-20:34:21.929 5ad Delete type=2 #5
+2025/12/04-20:34:21.929 5ad Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 204 : 1 .. (end); will stop at (end)

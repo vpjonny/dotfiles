@@ -1,0 +1,1 @@
+(self.webpackChunktemple_wallet=self.webpackChunktemple_wallet||[]).push([[483],{58483:()=>{}}]);

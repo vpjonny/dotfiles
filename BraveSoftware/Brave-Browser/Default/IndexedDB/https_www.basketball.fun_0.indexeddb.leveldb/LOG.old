@@ -1,0 +1,15 @@
+2026/01/29-01:02:51.249 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.basketball.fun_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/29-01:02:51.250 8c5 Recovering log #4
+2026/01/29-01:02:51.251 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.basketball.fun_0.indexeddb.leveldb/000004.log 
+2026/01/29-01:04:09.983 8c7 Level-0 table #8: started
+2026/01/29-01:04:09.986 8c7 Level-0 table #8: 209 bytes OK
+2026/01/29-01:04:09.989 8c7 Delete type=0 #4
+2026/01/29-01:04:09.990 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/29-01:04:09.990 8c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 99 : 1
+2026/01/29-01:04:09.990 8c7 Compacting 1@1 + 1@2 files
+2026/01/29-01:04:09.993 8c7 Generated table #9@1: 34 keys, 786 bytes
+2026/01/29-01:04:09.993 8c7 Compacted 1@1 + 1@2 files => 786 bytes
+2026/01/29-01:04:09.995 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/29-01:04:09.996 8c7 Delete type=2 #8
+2026/01/29-01:04:09.996 8c7 Delete type=2 #5
+2026/01/29-01:04:09.997 8c7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 99 : 1 .. (end); will stop at (end)

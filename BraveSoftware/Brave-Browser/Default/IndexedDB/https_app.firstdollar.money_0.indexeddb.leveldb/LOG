@@ -1,0 +1,7 @@
+2026/01/27-11:52:35.293 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.firstdollar.money_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-11:52:35.293 c77 Recovering log #3
+2026/01/27-11:52:35.293 c77 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.firstdollar.money_0.indexeddb.leveldb/000003.log 
+2026/01/27-12:04:00.129 c79 Level-0 table #5: started
+2026/01/27-12:04:00.172 c79 Level-0 table #5: 1568 bytes OK
+2026/01/27-12:04:00.239 c79 Delete type=0 #3
+2026/01/27-12:04:00.240 c79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

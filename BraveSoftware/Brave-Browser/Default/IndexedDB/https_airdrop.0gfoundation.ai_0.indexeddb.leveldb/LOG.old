@@ -1,0 +1,7 @@
+2025/09/22-22:11:49.120 5f9 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_airdrop.0gfoundation.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/22-22:11:49.121 5f9 Recovering log #3
+2025/09/22-22:11:49.122 5f9 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_airdrop.0gfoundation.ai_0.indexeddb.leveldb/000003.log 
+2025/09/22-22:12:46.557 5fa Level-0 table #5: started
+2025/09/22-22:12:46.560 5fa Level-0 table #5: 1160 bytes OK
+2025/09/22-22:12:46.562 5fa Delete type=0 #3
+2025/09/22-22:12:46.563 5fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+2026/02/02-17:29:12.287 613 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pancakeswap.finance_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:29:12.288 613 Recovering log #166
+2026/02/02-17:29:12.288 613 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pancakeswap.finance_0.indexeddb.leveldb/000166.log 
+2026/02/02-17:29:12.289 613 Delete type=2 #164
+2026/02/02-17:29:12.402 624 Level-0 table #171: started
+2026/02/02-17:29:12.404 624 Level-0 table #171: 4170 bytes OK
+2026/02/02-17:29:12.407 624 Delete type=0 #166
+2026/02/02-17:29:12.407 612 Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at '\x00.\x00\x00\x05' @ 10888 : 1
+2026/02/02-17:29:12.407 612 Compacting 1@0 + 1@1 files
+2026/02/02-17:29:12.409 612 Generated table #172@0: 281 keys, 3954 bytes
+2026/02/02-17:29:12.409 612 Compacted 1@0 + 1@1 files => 3954 bytes
+2026/02/02-17:29:12.411 612 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-17:29:12.411 612 Delete type=2 #171
+2026/02/02-17:29:12.412 612 Manual compaction at level-0 from '\x00.\x00\x00\x05' @ 10888 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)

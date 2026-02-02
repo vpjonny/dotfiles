@@ -1,0 +1,6 @@
+2026/01/28-18:45:10.623 8c5 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.inkscore.xyz_0.indexeddb.leveldb since it was missing.
+2026/01/28-18:45:10.628 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.inkscore.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-18:48:15.022 8c5 Level-0 table #5: started
+2026/01/28-18:48:15.084 8c5 Level-0 table #5: 1145 bytes OK
+2026/01/28-18:48:15.148 8c5 Delete type=0 #3
+2026/01/28-18:48:15.148 8c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

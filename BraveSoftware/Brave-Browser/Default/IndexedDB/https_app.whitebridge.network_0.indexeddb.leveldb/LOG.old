@@ -1,0 +1,14 @@
+2025/10/30-15:59:45.990 5d3 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.whitebridge.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/30-15:59:45.990 5d3 Recovering log #94
+2025/10/30-15:59:45.999 5d3 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.whitebridge.network_0.indexeddb.leveldb/000094.log 
+2025/10/30-15:59:45.999 5d3 Delete type=2 #92
+2025/10/30-15:59:46.032 5d4 Level-0 table #99: started
+2025/10/30-15:59:46.035 5d4 Level-0 table #99: 2374 bytes OK
+2025/10/30-15:59:46.038 5d4 Delete type=0 #94
+2025/10/30-15:59:46.038 5d3 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1054 : 1
+2025/10/30-15:59:46.038 5d3 Compacting 1@0 + 1@1 files
+2025/10/30-15:59:46.042 5d3 Generated table #100@0: 86 keys, 2148 bytes
+2025/10/30-15:59:46.043 5d3 Compacted 1@0 + 1@1 files => 2148 bytes
+2025/10/30-15:59:46.052 5d3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/30-15:59:46.052 5d3 Delete type=2 #99
+2025/10/30-15:59:46.053 5d3 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1054 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)

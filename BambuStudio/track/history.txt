@@ -1,0 +1,2 @@
+{"action":"skip","source":"user_privacy_choice","time":"2025-10-26 16:13:39 UTC+02:00","user_id":"default_user","uuid":"94fec82d-27c0-45fc-aa89-af5b7ed0acb2"}
+{"action":"skip","source":"user_guide","time":"2025-10-26 16:13:55 UTC+02:00","user_id":"default_user","uuid":"94fec82d-27c0-45fc-aa89-af5b7ed0acb2"}

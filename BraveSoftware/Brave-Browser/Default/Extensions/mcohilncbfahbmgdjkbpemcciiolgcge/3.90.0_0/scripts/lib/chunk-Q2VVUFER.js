@@ -1,0 +1,2 @@
+import{Ba as t}from"./chunk-22THXMTO.js";import{o as a,q as s}from"./chunk-LHDKEQAM.js";a();s();async function d(e){return await t.get("/priapi/v1/dx/trade/multi/v2/meme/configs",{params:e})}async function u(e){return await t.get("/priapi/v1/dx/trade/multi/tokens/meme/search",{params:e})}async function l(e){return await t.get("/priapi/v1/dx/trade/multi/tokens/meme/supportTokenInfo",{params:e})}export{d as a,u as b,l as c};
+//# sourceMappingURL=chunk-Q2VVUFER.js.map

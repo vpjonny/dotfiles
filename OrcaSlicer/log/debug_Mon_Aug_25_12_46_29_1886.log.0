@@ -1,0 +1,9 @@
+[warning]	2025-08-25 12:46:29.547491[Thread 0x0000712ceca1acc0]:Failed to load to hints.cereal. File does not exists. /home/slova/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-08-25 12:46:31.730191[Thread 0x0000712c709fd6c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-08-25 12:46:31.730240[Thread 0x0000712c709fd6c0]:Dbus Messages listening terminating.
+[error]	2025-08-25 12:46:34.621281[Thread 0x0000712ceca1acc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-25 12:46:36.232617[Thread 0x0000712ceca1acc0]:12:46:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-25 12:46:36.265421[Thread 0x0000712ceca1acc0]:12:46:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-25 12:46:36.303184[Thread 0x0000712ceca1acc0]:12:46:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-25 12:46:36.504001[Thread 0x0000712ceca1acc0]:12:46:36 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-25 12:46:39.972591[Thread 0x0000712ceca1acc0]:calc_exclude_triangles:Unable to create exclude triangles

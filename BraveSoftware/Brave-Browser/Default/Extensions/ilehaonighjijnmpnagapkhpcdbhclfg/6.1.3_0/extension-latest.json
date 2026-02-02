@@ -1,0 +1,14 @@
+{
+  "version": "6.1.3",
+  "pub_date": "2025-12-04T15:48:11Z",
+  "content_length": {
+    "macos": "0",
+    "windows": "0",
+    "linux": "0"
+  },
+  "links": {
+    "macos": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-macos-6.1.3.zip",
+    "windows": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-windows-6.1.3.zip",
+    "linux": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-linux-6.1.3.zip"
+  }
+}

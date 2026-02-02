@@ -1,0 +1,15 @@
+2025/12/01-17:10:50.645 5ac Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nexus.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/01-17:10:50.645 5ac Recovering log #127
+2025/12/01-17:10:50.645 5ac Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nexus.xyz_0.indexeddb.leveldb/000127.log 
+2025/12/01-17:10:50.646 5ac Delete type=2 #126
+2025/12/01-17:10:51.628 5ad Level-0 table #132: started
+2025/12/01-17:10:51.632 5ad Level-0 table #132: 2057 bytes OK
+2025/12/01-17:10:51.639 5ad Delete type=0 #127
+2025/12/01-17:10:51.640 5ac Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x00\x00\x05' @ 1546 : 1
+2025/12/01-17:10:51.640 5ac Compacting 1@0 + 1@1 files
+2025/12/01-17:10:51.661 5ac Generated table #133@0: 65 keys, 1850 bytes
+2025/12/01-17:10:51.662 5ac Compacted 1@0 + 1@1 files => 1850 bytes
+2025/12/01-17:10:51.664 5ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/01-17:10:51.664 5ac Delete type=2 #132
+2025/12/01-17:10:51.664 5ac Manual compaction at level-0 from '\x00(\x00\x00\x05' @ 1546 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/01-17:10:52.124 5c2 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,45 @@
+2025/09/15-20:14:58.990 10971 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/WebStorage/1092/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/09/15-20:14:58.991 10971 Recovering log #16
+2025/09/15-20:14:58.991 10971 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/WebStorage/1092/IndexedDB/indexeddb.leveldb/000016.log 
+2025/09/15-20:14:58.995 10971 Delete type=2 #15
+2025/09/15-20:15:25.118 1096f Level-0 table #21: started
+2025/09/15-20:15:25.206 1096f Level-0 table #21: 9895 bytes OK
+2025/09/15-20:15:25.334 1096f Delete type=0 #16
+2025/09/15-20:15:25.354 1096f Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3135 : 1
+2025/09/15-20:15:25.354 1096f Compacting 1@0 + 1@1 files
+2025/09/15-20:15:25.459 1096f Generated table #22@0: 862 keys, 8789 bytes
+2025/09/15-20:15:25.459 1096f Compacted 1@0 + 1@1 files => 8789 bytes
+2025/09/15-20:15:25.552 1096f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/15-20:15:25.552 1096f Delete type=2 #21
+2025/09/15-20:15:25.553 1096f Manual compaction at level-0 from '\x00\x07\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3135 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/15-20:22:52.392 1096f Level-0 table #24: started
+2025/09/15-20:22:52.397 1096f Level-0 table #24: 16657 bytes OK
+2025/09/15-20:22:52.409 1096f Delete type=0 #20
+2025/09/15-20:22:52.409 1096f Delete type=2 #18
+2025/09/15-20:22:52.410 1096f Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4053 : 1
+2025/09/15-20:22:52.410 1096f Compacting 1@0 + 1@1 files
+2025/09/15-20:22:52.428 1096f Generated table #25@0: 951 keys, 9600 bytes
+2025/09/15-20:22:52.428 1096f Compacted 1@0 + 1@1 files => 9600 bytes
+2025/09/15-20:22:52.431 1096f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/15-20:22:52.431 1096f Delete type=2 #24
+2025/09/15-20:22:52.431 1096f Manual compaction at level-0 from '\x00\x08\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4053 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/15-22:36:41.398 10970 Level-0 table #27: started
+2025/09/15-22:36:41.402 10970 Level-0 table #27: 69396 bytes OK
+2025/09/15-22:36:41.404 10970 Delete type=0 #23
+2025/09/15-22:36:41.404 10970 Delete type=2 #22
+2025/09/15-22:36:41.405 10970 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00_\x00i\x00m\x00m\x00o\x00r\x00t\x00a\x00l\x00|\x00d\x00e\x00v\x00i\x00c\x00e\x00T\x00o\x00k\x00e\x00n' @ 4147 : 1
+2025/09/15-22:36:41.405 10970 Compacting 1@0 + 1@1 files
+2025/09/15-22:36:41.410 10970 Generated table #28@0: 1806 keys, 16722 bytes
+2025/09/15-22:36:41.410 10970 Compacted 1@0 + 1@1 files => 16722 bytes
+2025/09/15-22:36:41.412 10970 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/15-22:36:41.412 10970 Delete type=2 #25
+2025/09/15-22:36:41.412 10970 Delete type=2 #27
+2025/09/15-22:36:41.413 10970 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x15\x00_\x00i\x00m\x00m\x00o\x00r\x00t\x00a\x00l\x00|\x00d\x00e\x00v\x00i\x00c\x00e\x00T\x00o\x00k\x00e\x00n' @ 4147 : 1 .. (end); will stop at (end)
+2025/09/15-22:36:41.413 10970 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00_\x00i\x00m\x00m\x00o\x00r\x00t\x00a\x00l\x00|\x00d\x00e\x00v\x00i\x00c\x00e\x00T\x00o\x00k\x00e\x00n' @ 7039 : 1
+2025/09/15-22:36:41.413 10970 Compacting 1@1 + 1@2 files
+2025/09/15-22:36:41.415 10970 Generated table #29@1: 22 keys, 1062 bytes
+2025/09/15-22:36:41.415 10970 Compacted 1@1 + 1@2 files => 1062 bytes
+2025/09/15-22:36:41.417 10970 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/15-22:36:41.418 10970 Delete type=2 #28
+2025/09/15-22:36:41.418 10970 Delete type=2 #5
+2025/09/15-22:36:41.419 10970 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00_\x00i\x00m\x00m\x00o\x00r\x00t\x00a\x00l\x00|\x00d\x00e\x00v\x00i\x00c\x00e\x00T\x00o\x00k\x00e\x00n' @ 7039 : 1 .. (end); will stop at (end)

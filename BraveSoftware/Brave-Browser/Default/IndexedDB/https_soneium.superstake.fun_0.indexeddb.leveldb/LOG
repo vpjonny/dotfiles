@@ -1,0 +1,13 @@
+2026/01/13-19:39:19.962 841 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_soneium.superstake.fun_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-19:39:19.962 841 Recovering log #65
+2026/01/13-19:39:19.963 841 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_soneium.superstake.fun_0.indexeddb.leveldb/000065.log 
+2026/01/13-19:39:20.605 852 Level-0 table #70: started
+2026/01/13-19:39:20.646 852 Level-0 table #70: 4411 bytes OK
+2026/01/13-19:39:20.787 852 Delete type=0 #65
+2026/01/13-19:39:20.787 843 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/13-19:40:18.362 843 Compacting 1@1 + 1@2 files
+2026/01/13-19:40:18.416 843 Generated table #71@1: 70 keys, 3207 bytes
+2026/01/13-19:40:18.417 843 Compacted 1@1 + 1@2 files => 3207 bytes
+2026/01/13-19:40:18.494 843 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/13-19:40:18.495 843 Delete type=2 #70
+2026/01/13-19:40:18.495 843 Delete type=2 #67

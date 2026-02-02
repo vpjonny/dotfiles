@@ -1,0 +1,37 @@
+2025/12/24-16:34:42.065 82a Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.ens.domains_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/24-16:34:42.065 82a Recovering log #14
+2025/12/24-16:34:42.126 82a Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.ens.domains_0.indexeddb.leveldb/000014.log 
+2025/12/24-16:35:07.521 829 Compacting 2@0 + 1@1 files
+2025/12/24-16:35:07.530 829 Generated table #17@0: 1142 keys, 90831 bytes
+2025/12/24-16:35:07.530 829 Compacted 2@0 + 1@1 files => 90831 bytes
+2025/12/24-16:35:07.532 829 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/24-16:35:07.532 829 Delete type=2 #15
+2025/12/24-16:35:07.532 829 Delete type=2 #10
+2025/12/24-16:35:07.532 829 Delete type=2 #12
+2025/12/24-16:35:07.656 829 Level-0 table #19: started
+2025/12/24-16:35:07.671 829 Level-0 table #19: 1050819 bytes OK
+2025/12/24-16:35:07.673 829 Delete type=0 #14
+2025/12/24-16:35:30.815 829 Level-0 table #21: started
+2025/12/24-16:35:30.828 829 Level-0 table #21: 1265691 bytes OK
+2025/12/24-16:35:30.831 829 Delete type=0 #18
+2025/12/24-16:35:33.432 82a Level-0 table #23: started
+2025/12/24-16:35:33.458 82a Level-0 table #23: 4307072 bytes OK
+2025/12/24-16:35:33.461 82a Delete type=0 #20
+2025/12/24-16:35:46.975 82a Level-0 table #25: started
+2025/12/24-16:35:46.996 82a Level-0 table #25: 4180383 bytes OK
+2025/12/24-16:35:46.998 82a Delete type=0 #22
+2025/12/24-16:35:47.000 82a Compacting 4@0 + 1@1 files
+2025/12/24-16:35:47.019 82a Generated table #26@0: 1612 keys, 69620 bytes
+2025/12/24-16:35:47.020 82a Compacted 4@0 + 1@1 files => 69620 bytes
+2025/12/24-16:35:47.024 82a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/24-16:35:47.025 82a Delete type=2 #19
+2025/12/24-16:35:47.025 82a Delete type=2 #25
+2025/12/24-16:35:47.025 82a Delete type=2 #23
+2025/12/24-16:35:47.025 82a Delete type=2 #17
+2025/12/24-16:35:47.025 82a Delete type=2 #21
+2025/12/24-16:35:49.346 83b Level-0 table #28: started
+2025/12/24-16:35:49.364 83b Level-0 table #28: 4219218 bytes OK
+2025/12/24-16:35:49.367 83b Delete type=0 #24
+2025/12/24-16:36:02.953 829 Level-0 table #30: started
+2025/12/24-16:36:02.969 829 Level-0 table #30: 4207185 bytes OK
+2025/12/24-16:36:02.971 829 Delete type=0 #27

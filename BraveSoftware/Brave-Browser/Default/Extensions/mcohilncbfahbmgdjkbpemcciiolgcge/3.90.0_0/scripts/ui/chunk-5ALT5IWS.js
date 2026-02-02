@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-RQ4NNINW.js";import{b as p}from"./chunk-E6SXR3B6.js";import{F as c}from"./chunk-RPH2MNBW.js";import{o as a,q as o}from"./chunk-UWURTNRY.js";a();o();var t=class{constructor(){this.setServiceState=r=>{e.update({serviceState:{...e.serviceState,...r}})};this.tradePreCheck=async r=>{e.preCheckData||e.update({preChecking:!0});let[s,i]=await c(p(r));if(s){e.update({preChecking:!1});return}e.update({preChecking:!1,preCheckData:i.data})}}},m=new t;export{m as a};
+//# sourceMappingURL=chunk-5ALT5IWS.js.map

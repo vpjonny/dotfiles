@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.plasmo.e6b9cddd.png",
+         "16": "icon16.plasmo.b05b1c02.png",
+         "32": "icon32.plasmo.95822fce.png",
+         "48": "icon48.plasmo.d66eb54b.png",
+         "64": "icon64.plasmo.c1497236.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "static/background/index.js"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "handler.e6ce6152.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'"
+   },
+   "description": "Browser Extension Node for ARO Network",
+   "host_permissions": [ "https://*/*", "http://*/*", "wss://*/*", "ws://*/*" ],
+   "icons": {
+      "128": "icon128.plasmo.e6b9cddd.png",
+      "16": "icon16.plasmo.b05b1c02.png",
+      "32": "icon32.plasmo.95822fce.png",
+      "48": "icon48.plasmo.d66eb54b.png",
+      "64": "icon64.plasmo.c1497236.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6eWnQ44BhjL97P+P49pY9DsOgWe/4Pt9TGEZkFxLd4ofG7kjrUUm3MqIC7IIh4YeK5CFzhZGzegh6er1ZWT2g9+bdgcrknWbcF/dpjG5vZspwyH0eVxF/NApXs+bN6bITBOxxUMBK8gE0BnR5IE6g5j10dyzAkhMyF+vANLmxv2wuqrzAE1MX/eK+XqPe+ctSLT4XAHbulfewgnVPMFuFlLglouoC6ht/JlPRAdXeMhHaKxzcgKaeSjNUsU5Bo27C/xbHMjXbp7NK6ItRlcgvkXkJs1JxMf27gjPK6LR85tVpeP3361jAi+jsZ/Ugrlwjh6i9fnIXvNGlrP1SofB+QIDAQAB",
+   "manifest_version": 3,
+   "name": "ARO Lite",
+   "permissions": [ "storage", "scripting", "offscreen", "tabs", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.7",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "tabs/offscreen.html" ]
+   } ]
+}

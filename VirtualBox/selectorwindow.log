@@ -1,0 +1,21 @@
+00:00:01.774926 VirtualBox GUI VM Selector Window 7.2.0 r170228 linux.amd64 (Aug 14 2025 19:02:36) release log
+00:00:01.774930 Log opened 2025-09-03T18:53:08.848098000Z
+00:00:01.774932 Build Type: release
+00:00:01.774936 OS Product: Linux
+00:00:01.774939 OS Release: 6.12.43-1-lts
+00:00:01.774941 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 20 Aug 2025 17:50:11 +0000
+00:00:01.774996 DMI Product Name: Aspire V3-771
+00:00:01.775017 DMI Product Version: V2.23
+00:00:01.775027 Firmware type: UEFI
+00:00:01.775240 Secure Boot: Disabled
+00:00:01.775320 Host RAM: 15811MB (15.4GB) total, 8335MB (8.1GB) available
+00:00:01.775326 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.775327 Process ID: 10316
+00:00:01.775328 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.775390 Qt version: 6.9.1
+00:00:01.779876 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.829227 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.066164 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.124432 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x27 x 1920x1009
+00:01:30.759856 GUI: UICommon: Handling aboutToQuit request..
+00:01:31.659838 GUI: UICommon: aboutToQuit request handled!

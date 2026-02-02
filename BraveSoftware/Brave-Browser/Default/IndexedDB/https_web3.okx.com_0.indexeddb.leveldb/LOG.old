@@ -1,0 +1,48 @@
+2026/01/26-18:55:57.883 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web3.okx.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/26-18:55:57.883 c77 Recovering log #180
+2026/01/26-18:55:57.947 c77 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web3.okx.com_0.indexeddb.leveldb/000180.log 
+2026/01/26-18:56:51.974 c77 Level-0 table #187: started
+2026/01/26-18:56:51.996 c77 Level-0 table #187: 1363791 bytes OK
+2026/01/26-18:56:52.001 c77 Delete type=0 #180
+2026/01/26-18:56:52.857 c77 Compacting 1@1 + 1@2 files
+2026/01/26-18:56:52.870 c77 Generated table #188@1: 394 keys, 154940 bytes
+2026/01/26-18:56:52.870 c77 Compacted 1@1 + 1@2 files => 154940 bytes
+2026/01/26-18:56:52.872 c77 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-18:56:52.873 c77 Delete type=2 #184
+2026/01/26-18:56:52.873 c77 Delete type=2 #187
+2026/01/26-18:56:55.335 c77 Level-0 table #190: started
+2026/01/26-18:56:55.350 c77 Level-0 table #190: 877487 bytes OK
+2026/01/26-18:56:55.354 c77 Delete type=0 #186
+2026/01/26-18:56:56.399 c77 Compacting 1@1 + 1@2 files
+2026/01/26-18:56:56.409 c77 Generated table #191@1: 394 keys, 158823 bytes
+2026/01/26-18:56:56.409 c77 Compacted 1@1 + 1@2 files => 158823 bytes
+2026/01/26-18:56:56.411 c77 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-18:56:56.411 c77 Delete type=2 #188
+2026/01/26-18:56:56.411 c77 Delete type=2 #190
+2026/01/26-18:56:57.230 c88 Level-0 table #193: started
+2026/01/26-18:56:57.246 c88 Level-0 table #193: 877381 bytes OK
+2026/01/26-18:56:57.250 c88 Delete type=0 #189
+2026/01/26-18:56:57.667 c77 Compacting 1@1 + 1@2 files
+2026/01/26-18:56:57.680 c77 Generated table #194@1: 398 keys, 167593 bytes
+2026/01/26-18:56:57.681 c77 Compacted 1@1 + 1@2 files => 167593 bytes
+2026/01/26-18:56:57.683 c77 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-18:56:57.683 c77 Delete type=2 #193
+2026/01/26-18:56:57.683 c77 Delete type=2 #191
+2026/01/26-18:56:58.505 c77 Level-0 table #196: started
+2026/01/26-18:56:58.521 c77 Level-0 table #196: 874943 bytes OK
+2026/01/26-18:56:58.525 c77 Delete type=0 #192
+2026/01/26-18:56:59.108 c79 Compacting 1@1 + 1@2 files
+2026/01/26-18:56:59.118 c79 Generated table #197@1: 398 keys, 169753 bytes
+2026/01/26-18:56:59.118 c79 Compacted 1@1 + 1@2 files => 169753 bytes
+2026/01/26-18:56:59.122 c79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-18:56:59.122 c79 Delete type=2 #194
+2026/01/26-18:56:59.122 c79 Delete type=2 #196
+2026/01/26-18:56:59.819 c79 Level-0 table #199: started
+2026/01/26-18:56:59.833 c79 Level-0 table #199: 868034 bytes OK
+2026/01/26-18:56:59.837 c79 Delete type=0 #195
+2026/01/26-18:57:00.610 c77 Compacting 1@1 + 1@2 files
+2026/01/26-18:57:00.622 c77 Generated table #200@1: 398 keys, 171797 bytes
+2026/01/26-18:57:00.622 c77 Compacted 1@1 + 1@2 files => 171797 bytes
+2026/01/26-18:57:00.625 c77 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-18:57:00.625 c77 Delete type=2 #197
+2026/01/26-18:57:00.625 c77 Delete type=2 #199

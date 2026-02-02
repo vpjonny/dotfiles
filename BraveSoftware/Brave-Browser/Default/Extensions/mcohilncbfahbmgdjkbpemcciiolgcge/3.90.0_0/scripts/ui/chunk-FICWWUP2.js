@@ -1,0 +1,2 @@
+import{a as s}from"./chunk-KC2XLVFC.js";import{a as n}from"./chunk-EQ34WRCJ.js";import{o as t,q as r}from"./chunk-UWURTNRY.js";t();r();function d(){return s(({from:e,error:a,to:i,coinId:o,transaction:u,txBytes:p})=>{n.captureEvent({tags:{address:e},message:"API_ERROR_build_sui_tx",contexts:{report:{info:JSON.stringify({from:e,coinId:o,to:i,error:a?.message,transaction:u,txBytes:p})}},exception:{values:[{type:"API_ERROR_build_sui_tx",value:e}]},level:"info"})})}var l=d;export{l as a};
+//# sourceMappingURL=chunk-FICWWUP2.js.map

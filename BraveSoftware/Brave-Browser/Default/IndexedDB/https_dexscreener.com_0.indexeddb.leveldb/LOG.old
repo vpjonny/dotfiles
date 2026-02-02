@@ -1,0 +1,7 @@
+2026/01/28-19:03:56.203 8c7 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dexscreener.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-19:03:56.203 8c7 Recovering log #51
+2026/01/28-19:03:56.203 8c7 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dexscreener.com_0.indexeddb.leveldb/000051.log 
+2026/01/28-19:03:56.223 8d7 Level-0 table #57: started
+2026/01/28-19:03:56.226 8d7 Level-0 table #57: 887 bytes OK
+2026/01/28-19:03:56.229 8d7 Delete type=0 #51
+2026/01/28-19:03:56.229 8c5 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

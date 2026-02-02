@@ -1,0 +1,14 @@
+2025/12/11-16:05:14.563 e52 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_snag-web.onrender.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-16:05:14.563 e52 Recovering log #10
+2025/12/11-16:05:14.564 e52 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_snag-web.onrender.com_0.indexeddb.leveldb/000010.log 
+2025/12/11-16:05:14.564 e52 Delete type=2 #8
+2025/12/11-16:05:15.167 e64 Level-0 table #15: started
+2025/12/11-16:05:15.217 e64 Level-0 table #15: 527 bytes OK
+2025/12/11-16:05:15.268 e64 Delete type=0 #10
+2025/12/11-16:05:15.269 e52 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 198 : 1
+2025/12/11-16:05:15.270 e52 Compacting 1@0 + 1@1 files
+2025/12/11-16:05:15.303 e52 Generated table #16@0: 9 keys, 507 bytes
+2025/12/11-16:05:15.303 e52 Compacted 1@0 + 1@1 files => 507 bytes
+2025/12/11-16:05:15.357 e52 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/11-16:05:15.358 e52 Delete type=2 #15
+2025/12/11-16:05:15.358 e52 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 198 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

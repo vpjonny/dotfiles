@@ -1,0 +1,1299 @@
+{
+   "acceptTerms": {
+      "message": "条件を承諾"
+   },
+   "acceptTermsInputDescription": {
+      "message": "$termsOfUsageLink$ and $privacyPolicyLink$\nを読んだうえで同意しました",
+      "placeholders": {
+         "privacyPolicyLink": {
+            "content": "$2"
+         },
+         "termsOfUsageLink": {
+            "content": "$1"
+         }
+      }
+   },
+   "account": {
+      "message": "アカウント"
+   },
+   "accountAddressLabel": {
+      "message": "現在のアカウントのアドレスです。共有して資金を受け取ることができます。"
+   },
+   "accountName": {
+      "message": "アカウント名"
+   },
+   "accountNameInputDescription": {
+      "message": "新しいアカウントの名前は何になりますか？"
+   },
+   "accountOrGroupNameInputTitle": {
+      "message": "1～16文字、特殊文字なし"
+   },
+   "accountToBeRemoved": {
+      "message": "削除するアカウント。"
+   },
+   "accounts": {
+      "message": "アカウント"
+   },
+   "actionConfirmation": {
+      "message": "アクションを確定"
+   },
+   "activity": {
+      "message": "アクティビティ"
+   },
+   "add": {
+      "message": "追加"
+   },
+   "addDerivationPathPrompt": {
+      "message": "デフォルトでは、導出は使用されません。追加するには「カスタム導出パス」をクリックしてください。"
+   },
+   "addLedgerAccount": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledgerアカウントを追加"
+   },
+   "addNetwork": {
+      "message": "ネットワークを追加"
+   },
+   "addToken": {
+      "message": "トークンを追加"
+   },
+   "additionalFee": {
+      "message": "追加手数料"
+   },
+   "address": {
+      "message": "アドレス"
+   },
+   "addressInputDescription": {
+      "message": "テゾスアカウントまたはスマートコントラクトのアドレス"
+   },
+   "addressInputDescriptionWithDomain": {
+      "message": "アカウントまたはスマートコントラクトのアドレスまたはテゾスドメイン。"
+   },
+   "addressOfDeployedTokenContract": {
+      "message": "デプロイされたトークンコントラクトのアドレス"
+   },
+   "addressOfTokenContract": {
+      "message": "$assetSymbol$トークンコントラクトのアドレス。",
+      "placeholders": {
+         "assetSymbol": {
+            "content": "$1"
+         }
+      }
+   },
+   "alert": {
+      "message": "アラート"
+   },
+   "alpha": {
+      "message": "アルファ"
+   },
+   "amount": {
+      "message": "額"
+   },
+   "amountMustBePositive": {
+      "message": "正の数でなければなりません"
+   },
+   "amountPlaceholder": {
+      "message": "例: 123.45"
+   },
+   "appDesc": {
+      "message": "🔐💰テゾスブロックチェーン用のクリプトカレンシーウォレットをブラウザ用のWeb拡張機能として提供"
+   },
+   "appName": {
+      "message": "テンプル - テゾスウォレット"
+   },
+   "appRequestOperationToYou": {
+      "message": "$origin$があなたにオペレーションを要求しています",
+      "placeholders": {
+         "origin": {
+            "content": "$1"
+         }
+      }
+   },
+   "appRequestsToSign": {
+      "message": "$origin$が署名を要求しています",
+      "placeholders": {
+         "origin": {
+            "content": "$1"
+         }
+      }
+   },
+   "appWouldLikeToConnectToYourWallet": {
+      "message": "$origin$があなたのウォレットへの接続を希望しています。",
+      "placeholders": {
+         "origin": {
+            "content": "$1"
+         }
+      }
+   },
+   "approveForSmb": {
+      "message": "$spender$用",
+      "placeholders": {
+         "spender": {
+            "content": "$1"
+         }
+      }
+   },
+   "approveToken": {
+      "message": "トークンを承認"
+   },
+   "asset": {
+      "message": "アセット"
+   },
+   "assets": {
+      "message": "アセット"
+   },
+   "assetsWhileMessage": {
+      "message": "アセットデータを取得中"
+   },
+   "atLeast1LowercaseLetter": {
+      "message": "小文字1字以上"
+   },
+   "atLeast1Number": {
+      "message": "数字1字以上"
+   },
+   "atLeast1UppercaseLetter": {
+      "message": "大文字1字以上"
+   },
+   "attentionExclamation": {
+      "message": "注意！"
+   },
+   "availableToSend": {
+      "message": "送ることができる額（最大）:"
+   },
+   "backToUnlockPage": {
+      "message": "アンロックページに戻る"
+   },
+   "backtracked": {
+      "message": "バックトラック済み"
+   },
+   "backupNewSeedPhrase": {
+      "message": "新しいシードフレーズをバックアップ"
+   },
+   "backupedInputDescription": {
+      "message": "フレーズを失くした場合、資金が失われる\nリスクがあることを承知しました。"
+   },
+   "backupedInputLabel": {
+      "message": "シードフレーズのバックアップを作成しました"
+   },
+   "branchName": {
+      "message": "Branch: $branch$",
+      "placeholders": {
+         "branch": {
+            "content": "$1"
+         }
+      }
+   },
+   "bytes": {
+      "message": "バイト"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cannotBeRemoved": {
+      "message": "削除できません"
+   },
+   "clean": {
+      "message": "クリーン"
+   },
+   "clickOnContractToImport": {
+      "message": "インポートしたいコントラクトをクリック"
+   },
+   "clickOnCustomDerivationPath": {
+      "message": "「カスタム導出パス」をクリックしてカスタマイズしてください。"
+   },
+   "clickOnRecipientAccount": {
+      "message": "資金を送りたいアカウントをクリックしてください。"
+   },
+   "clickToRevealOrEditField": {
+      "message": "このフィールドを表示または編集"
+   },
+   "comingSoonComment": {
+      "message": "（近日公開）"
+   },
+   "confirm": {
+      "message": "確定"
+   },
+   "confirmAction": {
+      "message": "$action$を確定",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirmActionOnDevice": {
+      "message": "アクションを確定:"
+   },
+   "confirmTermsError": {
+      "message": "利用規約を確認しないと続行できません"
+   },
+   "connect": {
+      "message": "接続"
+   },
+   "connectLedger": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledgerを接続"
+   },
+   "connection": {
+      "message": "接続"
+   },
+   "connectionUnavailable": {
+      "message": "利用できません"
+   },
+   "continue": {
+      "message": "続行"
+   },
+   "contract": {
+      "message": "コントラクト"
+   },
+   "contractAddressInputDescription": {
+      "message": "接続するコントラクトのアドレス"
+   },
+   "contractAddressInputPlaceholder": {
+      "message": "例: KT1a9w1S7hN5s..."
+   },
+   "contractAlreadyImported": {
+      "message": "このコントラクトはすでにインポートされています"
+   },
+   "contractNotOriginated": {
+      "message": "コントラクトが始められていません"
+   },
+   "copiedAddress": {
+      "message": "コピーしました"
+   },
+   "copiedHash": {
+      "message": "コピーしました"
+   },
+   "copyAddressToClipboard": {
+      "message": "クリップボードにコピー"
+   },
+   "copyHashToClipboard": {
+      "message": "クリップボードにコピー"
+   },
+   "create": {
+      "message": "作成"
+   },
+   "createAccount": {
+      "message": "アカウントを作成"
+   },
+   "createNewWallet": {
+      "message": "新しいウォレットを作成"
+   },
+   "createNewWalletDescription": {
+      "message": "テンプルウォレットを始めたばかりですか？一緒に設定してみましょう！これにより、 新しいウォレットとシードフレーズが作成されます"
+   },
+   "currentNetworks": {
+      "message": "現在のネットワーク"
+   },
+   "customDerivationPath": {
+      "message": "カスタム導出パス"
+   },
+   "customFeeDescription": {
+      "message": "カスタム"
+   },
+   "cycles_other": {
+      "description": "For plural forms",
+      "message": "$amount$サイクル",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "dApps": {
+      "description": "Dapps = Decentralized Applications",
+      "message": "Dapps"
+   },
+   "dAppsCheckmarkPrompt": {
+      "description": "DApps = Decentralized Applications",
+      "message": "チェックマークをクリックして、DAppsインタラクション機能を$action$",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "dAppsInteraction": {
+      "description": "DApps = Decentralized Applications",
+      "message": "DAppsインタラクション"
+   },
+   "decimals": {
+      "message": "小数"
+   },
+   "decimalsInputDescription": {
+      "message": "小数点以下の桁数。例: BTCは8、USDは2。"
+   },
+   "decline": {
+      "message": "却下"
+   },
+   "defaultAccount": {
+      "message": "デフォルトのアカウント (最初のアカウント)"
+   },
+   "defaultAccountName": {
+      "message": "アカウント、$accountNumber$",
+      "placeholders": {
+         "accountNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "defaultDerivationPathLabel": {
+      "message": "デフォルトで、$path$導出を使用。",
+      "placeholders": {
+         "path": {
+            "content": "$1"
+         }
+      }
+   },
+   "defaultLedgerName": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledger $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "defaultWatchOnlyAccountName": {
+      "message": "監視専用$accountNumber$",
+      "placeholders": {
+         "accountNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "delegate": {
+      "message": "委任"
+   },
+   "delegation": {
+      "message": "委任"
+   },
+   "delegationToSmb": {
+      "message": "$delegate$へ",
+      "placeholders": {
+         "delegate": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "deleteNetworkConfirm": {
+      "message": "本当にこのネットワークを削除しますか？"
+   },
+   "deleteNetworkHint": {
+      "message": "Xアイコンをクリックしてネットワークを削除します。ネットワークを編集したい場合は、ネットワークを削除して、新しいパラメータで別のネットワークを追加してください。"
+   },
+   "deployNew": {
+      "message": "今すぐデプロイ"
+   },
+   "derivation": {
+      "message": "導出"
+   },
+   "derivationPath": {
+      "message": "導出パス"
+   },
+   "derivationPathExample": {
+      "message": "m/44'/1729'/\u003Caccount_index>'/0'"
+   },
+   "derivationPathExample2": {
+      "message": "例: $derivationPath$",
+      "placeholders": {
+         "derivationPath": {
+            "content": "$1"
+         }
+      }
+   },
+   "derivationPathMustStartWithM": {
+      "message": "最初の文字は「m」でなければなりません"
+   },
+   "derivationSeparatorMustBeSlash": {
+      "message": "区切りは「/」でなければなりません"
+   },
+   "deviceName": {
+      "message": "$device$デバイス",
+      "placeholders": {
+         "device": {
+            "content": "$1"
+         }
+      }
+   },
+   "disable": {
+      "message": "無効にする"
+   },
+   "disabled": {
+      "message": "無効です"
+   },
+   "disabledForWatchOnlyAccount": {
+      "message": "監視専用アカウントには無効"
+   },
+   "doNotSharePhrase": {
+      "message": "\u003Cb>このフレーズを誰とも共有しないでください\u003C/b>! アカウントの乗っ取りに使用される恐れがあります。"
+   },
+   "doNotSharePrivateKey": {
+      "message": "この文字セットを誰とも\u003Cb>共有しないでください\u003C/b>！現在のアカウントを乗っ取られる恐れがあります。"
+   },
+   "domain": {
+      "message": "ドメイン"
+   },
+   "domainDoesntResolveToAddress": {
+      "message": "ドメイン「$value$」がアドレスに分解されません",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "edit": {
+      "message": "編集"
+   },
+   "email": {
+      "message": "メールアドレス"
+   },
+   "enable": {
+      "message": "有効にする"
+   },
+   "enablePopup": {
+      "message": "ポップアップを有効にする"
+   },
+   "enabled": {
+      "message": "有効です"
+   },
+   "enterPasswordToRemoveAccount": {
+      "message": "アカウントを削除するにはパスワードを入力してください。"
+   },
+   "error": {
+      "message": "エラー"
+   },
+   "errorChangingAccountName": {
+      "message": "アカウント名の変更中にエラーが発生しました"
+   },
+   "errorWhileFetchingUrl": {
+      "message": "$url$から取得中にエラーが発生しました",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "explore": {
+      "message": "探索"
+   },
+   "exploreMore": {
+      "message": "さらに探る..."
+   },
+   "fa2TokenAlreadyExists": {
+      "message": "アドレスが「$address$」でIDが「$tokenId$」のトークンは既に存在しています。",
+      "placeholders": {
+         "address": {
+            "content": "$1"
+         },
+         "tokenId": {
+            "content": "$2"
+         }
+      }
+   },
+   "failed": {
+      "message": "失敗しました"
+   },
+   "failedToLoadChainID": {
+      "message": "このネットワークのチェーンIDの読み込みに失敗しました"
+   },
+   "failedToParseMetadata": {
+      "message": "メタデータの解析に失敗しました"
+   },
+   "failedToResetExtension": {
+      "message": "拡張機能のリセットに失敗しました: $errorMessage$",
+      "placeholders": {
+         "errorMessage": {
+            "content": "$1"
+         }
+      }
+   },
+   "fastFeeDescription": {
+      "message": "速い"
+   },
+   "fee": {
+      "message": "手数料"
+   },
+   "fetchingConfirmationDetails": {
+      "message": "確認の詳細を取得中"
+   },
+   "firefoxLedgerConnectionError": {
+      "message": "$sorry$。$browser$による$device$デバイスへの接続が一時的に$unavailable$です。",
+      "placeholders": {
+         "browser": {
+            "content": "$3"
+         },
+         "device": {
+            "content": "$2"
+         },
+         "sorry": {
+            "content": "$1"
+         },
+         "unavailable": {
+            "content": "$4"
+         }
+      }
+   },
+   "formatsAllowed": {
+      "message": ".png、.jpg、.jpeg、.gif、.webpの画像のみ可"
+   },
+   "generalSettings": {
+      "message": "一般"
+   },
+   "hash": {
+      "message": "ハッシュ"
+   },
+   "iconURL": {
+      "message": "アイコンURL"
+   },
+   "iconURLInputDescription": {
+      "message": "トークンロゴ用画像URL"
+   },
+   "ifYouDontSeeYourAsset": {
+      "message": "アセットが見つからない場合は、\n$toClick$をクリックしてみてください。",
+      "placeholders": {
+         "toClick": {
+            "content": "$1"
+         }
+      }
+   },
+   "ifYouWantToRemoveAnotherAccount": {
+      "message": "別のアカウントを削除したい場合は、右上のドロップダウンから選択してください。"
+   },
+   "ifYouWantToRevealPrivateKeyFromOtherAccount": {
+      "message": "他のアカウントの秘密鍵を表示したい場合は、右上のドロップダウンから選択してください。"
+   },
+   "importAccount": {
+      "message": "アカウントをインポート"
+   },
+   "importExistingWallet": {
+      "message": "既存のウォレットをインポート"
+   },
+   "importNewAccountTitle": {
+      "message": "アカウントを復元しますか？別のアカウントでサインインしますか？"
+   },
+   "importWalletUsingSeedPhrase": {
+      "message": "シードフレーズを使ってウォレットをインポート"
+   },
+   "importedAccount": {
+      "message": "インポート済み"
+   },
+   "importedPlural": {
+      "message": "インポート済み"
+   },
+   "inAsset": {
+      "message": "$assetSymbol$建て",
+      "placeholders": {
+         "assetSymbol": {
+            "content": "$1"
+         }
+      }
+   },
+   "incorrectTokenIdErrorMessage": {
+      "message": "提供されたデータでトークンを処理中に失敗しました。トークンIDが正しいことを確認してください。"
+   },
+   "interaction": {
+      "message": "インタラクション"
+   },
+   "interactionWithContract": {
+      "message": "$contract$で",
+      "placeholders": {
+         "contract": {
+            "content": "$1"
+         }
+      }
+   },
+   "interactionWithSomeEntrypoint": {
+      "message": "コントラクト「$contractAddress$」のエントリポイント 「$entrypoint$」とのインタラクション",
+      "placeholders": {
+         "contractAddress": {
+            "content": "$2"
+         },
+         "entrypoint": {
+            "content": "$1"
+         }
+      }
+   },
+   "invalidAddress": {
+      "message": "無効なアドレス"
+   },
+   "invalidAddressOrDomain": {
+      "message": "無効なアドレスまたはドメイン名"
+   },
+   "invalidJsonInput": {
+      "message": "無効なJSON"
+   },
+   "invalidPath": {
+      "message": "無効なパス"
+   },
+   "invalidRpcCantGetChainId": {
+      "description": "RPC = Remote Procedure Call (https://en.wikipedia.org/wiki/Remote_procedure_call)",
+      "message": "無効なRPC: チェーンIDが取得できません"
+   },
+   "justAMinute": {
+      "message": "お待ちください..."
+   },
+   "justValidPreGeneratedMnemonic": {
+      "message": "有効な事前生成されたニーモニック"
+   },
+   "keepSeedPhraseSecret": {
+      "message": "秘密にしてください。"
+   },
+   "language": {
+      "message": "言語"
+   },
+   "ledger": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledger"
+   },
+   "ledgerNameConstraint": {
+      "message": "1～16文字、特殊文字なし"
+   },
+   "ledgerNameInputDescription": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledgerアカウントの名前は何になりますか？"
+   },
+   "ledgerNano": {
+      "description": "Ledger = https://www.ledger.com/",
+      "message": "Ledger Nano"
+   },
+   "links": {
+      "message": "リンク"
+   },
+   "loadMore": {
+      "message": "さらに読み込む"
+   },
+   "lock": {
+      "message": "ブロック"
+   },
+   "lockedWalletAlreadyExists": {
+      "message": "ロックされたウォレット\u003Cb>がすでに存在します\u003C/b>。\n新しいものをインポートすると、\u003Cb>既存のもの\u003C/b>が破棄されます。"
+   },
+   "mainAssetBalanceIsZero": {
+      "message": "XTZ（メインアセット）の残高がゼロです。手数料にはXTZ資金が必要です。"
+   },
+   "makeSureToBackupSeedPhrase": {
+      "message": "忘れずにシードフレーズをバックアップしてください！"
+   },
+   "makeSureTokenIdIsCorrect": {
+      "message": "トークンIDが正しいことを確認してください。"
+   },
+   "manage": {
+      "message": "管理"
+   },
+   "manageAssets": {
+      "message": "アセットを管理"
+   },
+   "managedKTAccount": {
+      "message": "管理されたKT"
+   },
+   "maximalAmount": {
+      "message": "最大: $amount$",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "maximiseView": {
+      "message": "表示を最大化"
+   },
+   "mayHappenBecauseYouAreOffline": {
+      "message": "現在オフラインであるために発生する可能性があります。"
+   },
+   "minimalFeeDescription": {
+      "message": "最少"
+   },
+   "minimalFeeGreaterThanBalance": {
+      "message": "この取引の手数料最小額は残高を上回っています。"
+   },
+   "minimalFeeGreaterThanBalanceVerbose": {
+      "message": "この取引に必要な最小の手数料は残高を上回っています。空のマネージャーアカウントに資金を送るため、多額の手数料が必要になる場合があります。そのためには、1回限りの0.06425 $gasTokenSymbol$ の焼却手数料が必要となります。",
+      "placeholders": {
+         "gasTokenSymbol": {
+            "content": "$1"
+         }
+      }
+   },
+   "mnemonic": {
+      "message": "ニーモニック"
+   },
+   "mnemonicInputLabel": {
+      "message": "シードフレーズ"
+   },
+   "mnemonicSpacingConstraint": {
+      "message": "単語をシングルスペースで区切る"
+   },
+   "mnemonicWordsAmountConstraint": {
+      "message": "英語で12、15、18、21、24語"
+   },
+   "mustBeEqualToPasswordAbove": {
+      "message": "上記のパスワードと同じでなければなりません"
+   },
+   "mustBeUnique": {
+      "message": "固有でなければなりません"
+   },
+   "mustBeValidURL": {
+      "message": "有効なURLでなければなりません"
+   },
+   "name": {
+      "message": "名前"
+   },
+   "network": {
+      "message": "ネットワーク"
+   },
+   "networkNamePlaceholder": {
+      "message": "カスタムネットワーク"
+   },
+   "networkOrOtherIssue": {
+      "message": "ネットワークまたは他の技術的な問題"
+   },
+   "networks": {
+      "message": "ネットワーク"
+   },
+   "no": {
+      "message": "いいえ"
+   },
+   "noAssetsFound": {
+      "message": "アセットが見つかりません"
+   },
+   "noOperationsFound": {
+      "message": "オペレーションが見つかりませんでした"
+   },
+   "nonFa2TokenAlreadyExists": {
+      "message": "アドレスが「$address$」のトークンは既に存在します。",
+      "placeholders": {
+         "address": {
+            "content": "$1"
+         }
+      }
+   },
+   "nonNegativeIntMessage": {
+      "message": "整数、0以上"
+   },
+   "notAllowed": {
+      "message": "許可されていません"
+   },
+   "notContractAddress": {
+      "message": "コントラクトアドレスではありません"
+   },
+   "notEnoughCurrencyFunds": {
+      "message": "$currency$資金が足りません",
+      "placeholders": {
+         "currency": {
+            "content": "$1"
+         }
+      }
+   },
+   "notIdentified": {
+      "message": "特定できません"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "onlyHTTPS": {
+      "message": "HTTPSのみ"
+   },
+   "onlyKTContractAddressAllowed": {
+      "description": "KT not translated",
+      "message": "KTのみ...コントラクトアドレス可"
+   },
+   "oops": {
+      "message": "おっと！"
+   },
+   "openNewTab": {
+      "message": "新しいタブを開く"
+   },
+   "operationHash": {
+      "message": "オペレーションハッシュ"
+   },
+   "operationHistoryWhileMessage": {
+      "message": "オペレーション履歴を取得中または処理中"
+   },
+   "operationSuccessfullyProcessed": {
+      "message": "$type$の処理と確定に成功しました！",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "operations": {
+      "message": "オペレーション"
+   },
+   "optionalComment": {
+      "message": "任意"
+   },
+   "orIPFSImageURL": {
+      "message": "またはIPFS画像URL"
+   },
+   "password": {
+      "message": "パスワード"
+   },
+   "passwordInputDescription": {
+      "message": "ウォレットパスワードではありません。\n追加的なニーモニックの導出に使用されます。"
+   },
+   "pathForHDAccounts": {
+      "description": "HD = Hierarchical Deterministic",
+      "message": "HDアカウント用。シードフレーズからすべてのアカウントを復元するために使用するものです。"
+   },
+   "payloadToSign": {
+      "message": "署名するペイロード"
+   },
+   "pending": {
+      "message": "保留中"
+   },
+   "popupDisabled": {
+      "message": "無効です"
+   },
+   "popupEnabled": {
+      "message": "有効です"
+   },
+   "popupSettings": {
+      "message": "ポップアップモード"
+   },
+   "popupSettingsDescription": {
+      "message": "ここでは、拡張機能パネルのプラグインのアイコンをクリックすると表示されるポップアップを設定します。"
+   },
+   "preview": {
+      "message": "プレビュー"
+   },
+   "privacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "privateKey": {
+      "message": "秘密鍵"
+   },
+   "privateKeyCannotBeRevealed": {
+      "message": "秘密鍵は表示できません"
+   },
+   "privateKeyFieldDescription": {
+      "message": "現在のアカウントキー。秘密にしてください。"
+   },
+   "processing": {
+      "message": "処理中..."
+   },
+   "protectedFormField": {
+      "message": "保護されています"
+   },
+   "qrCode": {
+      "message": "QRコード"
+   },
+   "rank": {
+      "message": "ランク"
+   },
+   "raw": {
+      "message": "未加工"
+   },
+   "reDelegate": {
+      "message": "再委任"
+   },
+   "receive": {
+      "message": "受け取る"
+   },
+   "recipient": {
+      "message": "受取先"
+   },
+   "recipientInputPlaceholder": {
+      "message": "例: tz1a9w1S7hN5s..."
+   },
+   "recipientInputPlaceholderWithDomain": {
+      "description": "alice.tez = domain like google.com",
+      "message": "例: alice.tez、または tz1a9w1S7hN5s..."
+   },
+   "referredByTokenContactAddressInvalid": {
+      "message": "トークンコントラクトで参照されるコントラクトアドレス、$address$は無効です。",
+      "placeholders": {
+         "address": {
+            "content": "$1"
+         }
+      }
+   },
+   "referredByTokenContractNotFound": {
+      "message": "トークンコントラクトで参照されるコントラクト、$address$は見つかりませんでした。",
+      "placeholders": {
+         "address": {
+            "content": "$1"
+         }
+      }
+   },
+   "reject": {
+      "message": "拒否"
+   },
+   "remove": {
+      "message": "削除"
+   },
+   "removeAccount": {
+      "message": "アカウントを削除"
+   },
+   "removeAccountDescription": {
+      "message": "このセクションを使用して、選択したアカウントを削除します。インポートしたアカウントのみ削除することができます。"
+   },
+   "repeatPassword": {
+      "message": "パスワードをリピート"
+   },
+   "repeatPasswordInputDescription": {
+      "message": "パスワードをもう一度入力してください。"
+   },
+   "requestSent": {
+      "message": "$type$のリクエストを送信しました！確認しています...",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "required": {
+      "message": "必須"
+   },
+   "resetExtension": {
+      "message": "拡張機能をリセット"
+   },
+   "resetExtensionConfirmation": {
+      "message": "テンプルウォレットをリセットしてもよろしいですか？\nリセットすると、すべてのデータが削除されます。"
+   },
+   "resolvedAddress": {
+      "message": "分解されたアドレス"
+   },
+   "retry": {
+      "message": "再試行"
+   },
+   "reveal": {
+      "message": "表示"
+   },
+   "revealNewSeedPhrase": {
+      "message": "新しいシードフレーズを表示するには\u003Cb>下の領域をクリックしてください\u003C/b>。\nそして、このフレーズを紙に書いて、\u003Cb>安全な場所に保管してください\u003C/b>。または暗記することもできます。"
+   },
+   "revealPrivateKey": {
+      "message": "秘密鍵を表示"
+   },
+   "revealSecretPasswordInputDescription": {
+      "message": "パスワードを入力して、$secretName$を表示します。",
+      "placeholders": {
+         "secretName": {
+            "content": "$1"
+         }
+      }
+   },
+   "revealSeedPhrase": {
+      "message": "シードフレーズを表示"
+   },
+   "rocketFeeDescription": {
+      "message": "ロケット"
+   },
+   "rpcBaseURL": {
+      "description": "RPC = Remote Procedure Call (https://en.wikipedia.org/wiki/Remote_procedure_call)",
+      "message": "RPCベースURL"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "searchAssets": {
+      "message": "アセットを検索..."
+   },
+   "seedPhrase": {
+      "message": "シードフレーズ"
+   },
+   "selectAnotherAssetPrompt": {
+      "message": "エリアをクリックして、別のアセットまたはトークンを選択します。"
+   },
+   "selfComment": {
+      "message": "（自身）"
+   },
+   "send": {
+      "message": "送る"
+   },
+   "sendToMyAccounts": {
+      "message": "マイアカウントに送る"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "signAction": {
+      "message": "署名"
+   },
+   "smthWentWrong": {
+      "message": "不具合が発生しました"
+   },
+   "smthWentWrongWhile": {
+      "message": "$action$中に何か問題が発生しました",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "someMethodNotDefinedInContract": {
+      "message": "「$name$」メソッドはコントラクトで定義されていません。",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "someMethodSignatureDoesNotMatchStandard": {
+      "message": "「$name$」メソッドの署名が標準と一致しません。",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "someNetworkIsNotCurrent": {
+      "message": "ネットワーク、$network$が指定されましたが、現在のネットワークではありません",
+      "placeholders": {
+         "network": {
+            "content": "$1"
+         }
+      }
+   },
+   "someNetworkWithChainIdIsNotCurrent": {
+      "message": "チェーンID、$chainId$が指定されましたが、これは現在のネットワークのチェーンIDではありません",
+      "placeholders": {
+         "chainId": {
+            "content": "$1"
+         }
+      }
+   },
+   "someUnknownToken": {
+      "message": "不明なトークン、$token$",
+      "placeholders": {
+         "token": {
+            "content": "$1"
+         }
+      }
+   },
+   "soon": {
+      "message": "まもなく"
+   },
+   "sorry": {
+      "message": "申し訳ありません！"
+   },
+   "sortBy": {
+      "message": "並び替え順"
+   },
+   "space": {
+      "message": "スペース"
+   },
+   "submit": {
+      "message": "送信"
+   },
+   "success": {
+      "message": "成功"
+   },
+   "swapNoun": {
+      "message": "スワップ"
+   },
+   "symbol": {
+      "message": "記号"
+   },
+   "templeWalletOptions": {
+      "message": "テンプルウォレット | オプション"
+   },
+   "termsOfUsage": {
+      "message": "利用規約"
+   },
+   "termsOfUse": {
+      "message": "利用規約"
+   },
+   "thisMayHappenBecause": {
+      "message": "以下の理由が考えられます:"
+   },
+   "timedOutOperationConfirmation": {
+      "message": "タイムアウトしたオペレーションの確認。待機するか後で再びお試しください。"
+   },
+   "toBeConnectedWithDApp": {
+      "message": "はdAppと接続予定。"
+   },
+   "toContinue": {
+      "message": "続行するには"
+   },
+   "tokenContractNotFound": {
+      "message": "コントラクトは見つかりませんでした。"
+   },
+   "tokenContractPlaceholder": {
+      "message": "例: KT1v9CmPy..."
+   },
+   "tokenDoesNotMatchStandard": {
+      "message": "提供されたトークンコントラクトは標準、$standard$と一致しません",
+      "placeholders": {
+         "standard": {
+            "content": "$1"
+         }
+      }
+   },
+   "tokenId": {
+      "message": "トークンID"
+   },
+   "tokenIdInputDescription": {
+      "message": "FA2コントラクト内のトークンを識別する非負整数"
+   },
+   "tokenNameInputDescription": {
+      "message": "BTCアセットの「BitCoin」など、トークン名"
+   },
+   "tokenNameInputPlaceholder": {
+      "message": "例: MySuperToken"
+   },
+   "tokenNamePatternDescription": {
+      "message": "3～25文字"
+   },
+   "tokenSymbolInputDescription": {
+      "message": "米ドルの「USD」など、トークン記号。"
+   },
+   "tokenSymbolInputPlaceholder": {
+      "message": "例: WEW、BOW、LALなど"
+   },
+   "tokenSymbolPatternDescription": {
+      "message": "文字はa～z、A～Z、0～9のみ可、長さは2～10文字"
+   },
+   "tokensRecepientInputDescription": {
+      "message": "$assetSymbol$資金の送り先アドレス。",
+      "placeholders": {
+         "assetSymbol": {
+            "content": "$1"
+         }
+      }
+   },
+   "tokensRecepientInputDescriptionWithDomain": {
+      "message": "$assetSymbol$資金の送り先アドレスまたはテゾスドメイン",
+      "placeholders": {
+         "assetSymbol": {
+            "content": "$1"
+         }
+      }
+   },
+   "transaction": {
+      "message": "取引"
+   },
+   "transactionOfSomeType": {
+      "message": "タイプ「$type$」の取引",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "transfer": {
+      "message": "送金"
+   },
+   "transferFromSmb": {
+      "message": "$sender$から",
+      "placeholders": {
+         "sender": {
+            "content": "$1"
+         }
+      }
+   },
+   "transferToSmb": {
+      "message": "$receiver$へ",
+      "placeholders": {
+         "receiver": {
+            "content": "$1"
+         }
+      }
+   },
+   "transfers": {
+      "message": "送金"
+   },
+   "tryAgain": {
+      "message": "もう一度お試しください"
+   },
+   "tryingToTransferToYourself": {
+      "message": "自分に送金をしようとしています。\n本当に自分に送金したいのか確認してください。"
+   },
+   "unableToContinueWithoutConfirming": {
+      "message": "利用規約を確認しないと続行できません"
+   },
+   "unableToEstimateTransactionAction": {
+      "message": "提供された受取先への取引を見積もることができません。"
+   },
+   "unableToSendTransactionAction": {
+      "message": "提供された受取先に取引を送ることができません。"
+   },
+   "undelegation": {
+      "message": "委任なし"
+   },
+   "unexpectedOrInvalidFile": {
+      "message": "予期しないまたは無効なファイル"
+   },
+   "unknownBakerDescription": {
+      "message": "提供されたアドレスは、ベーカーとして知られていません！資金は自己責任でのみ委任してください。"
+   },
+   "unknownBakerTitle": {
+      "message": "不明なベーカー"
+   },
+   "unknownErrorCheckingSomeEntrypoint": {
+      "message": "エントリポイント「$name$」のチェック中に不明なエラーが発生しました。",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "unknownNetwork": {
+      "message": "不明:"
+   },
+   "unknownParseErrorOccurred": {
+      "message": "不明な解析エラーが発生しました。"
+   },
+   "unlock": {
+      "message": "アンロック"
+   },
+   "unlockPasswordInputDescription": {
+      "message": "パスワードを使用してウォレットを保護します。"
+   },
+   "unlockWallet": {
+      "message": "ウォレットをアンロック"
+   },
+   "upload": {
+      "message": "アップロード"
+   },
+   "validImageURL": {
+      "message": "無効な画像URL"
+   },
+   "versionLabel": {
+      "message": "バージョン: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewAccountAddressWarning": {
+      "message": "このサイトは、あなたのアカウントアドレスを表示するためのアクセスを要求しています。交流するサイトが常に信頼できるか確認してください。"
+   },
+   "waitWhileContractBeingDeployed": {
+      "message": "コントラクトがデプロイされている間は、このページを離れたり、ウィンドウを閉じたりしないでください。フォームとこのアラートは、コントラクトが正常にデプロイされると消えます。"
+   },
+   "watchOnlyAccount": {
+      "message": "監視専用"
+   },
+   "website": {
+      "message": "ウェブサイト"
+   },
+   "welcomeTo": {
+      "message": "ようこそ"
+   },
+   "yes": {
+      "message": "はい"
+   },
+   "youAreNotContractManager": {
+      "message": "あなたはコントラクトマネージャーではありません"
+   },
+   "youCannotGetPrivateKeyFromThisAccountType": {
+      "message": "$accountType$アカウントから秘密鍵を入手することはできません。",
+      "placeholders": {
+         "accountType": {
+            "content": "$1"
+         }
+      }
+   },
+   "youWillNeedThisSeedPhrase": {
+      "message": "ブラウザやデバイスを切り替えた場合、アカウントにアクセスするためにこのシードフレーズが必要になります。"
+   },
+   "yourBalanceIsZero": {
+      "message": "残高はゼロです。"
+   }
+}

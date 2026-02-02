@@ -1,0 +1,6 @@
+2026/01/28-21:48:04.634 8d7 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.raflux.io_0.indexeddb.leveldb since it was missing.
+2026/01/28-21:48:04.779 8d7 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.raflux.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-21:59:02.739 8c7 Level-0 table #5: started
+2026/01/28-21:59:02.783 8c7 Level-0 table #5: 11720 bytes OK
+2026/01/28-21:59:02.843 8c7 Delete type=0 #3
+2026/01/28-21:59:02.844 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

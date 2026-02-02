@@ -1,0 +1,14 @@
+2025/12/24-13:05:04.097 829 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_marketplace.roninchain.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/24-13:05:04.097 829 Recovering log #41
+2025/12/24-13:05:04.098 829 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_marketplace.roninchain.com_0.indexeddb.leveldb/000041.log 
+2025/12/24-13:05:04.098 829 Delete type=2 #40
+2025/12/24-13:05:04.404 829 Level-0 table #46: started
+2025/12/24-13:05:04.406 829 Level-0 table #46: 527 bytes OK
+2025/12/24-13:05:04.409 829 Delete type=0 #41
+2025/12/24-13:05:04.409 829 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 2174 : 1
+2025/12/24-13:05:04.409 829 Compacting 1@0 + 1@1 files
+2025/12/24-13:05:04.412 829 Generated table #47@0: 251 keys, 8816 bytes
+2025/12/24-13:05:04.413 829 Compacted 1@0 + 1@1 files => 8816 bytes
+2025/12/24-13:05:04.414 829 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/24-13:05:04.415 829 Delete type=2 #46
+2025/12/24-13:05:04.415 829 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 2174 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

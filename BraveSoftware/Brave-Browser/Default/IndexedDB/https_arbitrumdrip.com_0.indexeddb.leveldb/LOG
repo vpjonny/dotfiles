@@ -1,0 +1,6 @@
+2025/09/03-21:46:20.951 5a2 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_arbitrumdrip.com_0.indexeddb.leveldb since it was missing.
+2025/09/03-21:46:20.957 5a2 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_arbitrumdrip.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/03-21:49:48.820 5a3 Level-0 table #5: started
+2025/09/03-21:49:48.853 5a3 Level-0 table #5: 1202270 bytes OK
+2025/09/03-21:49:48.857 5a3 Delete type=0 #3
+2025/09/03-21:49:48.858 5a3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

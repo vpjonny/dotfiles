@@ -1,0 +1,20 @@
+2026/02/01-13:41:23.119 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dexscreener.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-13:41:23.120 664 Recovering log #56
+2026/02/01-13:41:23.121 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dexscreener.com_0.indexeddb.leveldb/000056.log 
+2026/02/01-13:41:23.270 678 Level-0 table #60: started
+2026/02/01-13:41:23.280 678 Level-0 table #60: 6988 bytes OK
+2026/02/01-13:41:23.306 678 Delete type=0 #56
+2026/02/01-13:41:23.307 676 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 2015 : 1
+2026/02/01-13:41:23.307 676 Compacting 1@0 + 1@1 files
+2026/02/01-13:41:23.346 676 Generated table #61@0: 42 keys, 3263 bytes
+2026/02/01-13:41:23.346 676 Compacted 1@0 + 1@1 files => 3263 bytes
+2026/02/01-13:41:23.438 676 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-13:41:23.438 676 Delete type=2 #60
+2026/02/01-13:41:23.438 662 Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 2015 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/01-13:42:40.076 664 Compacting 1@1 + 1@2 files
+2026/02/01-13:42:40.084 664 Generated table #62@1: 56 keys, 3649 bytes
+2026/02/01-13:42:40.084 664 Compacted 1@1 + 1@2 files => 3649 bytes
+2026/02/01-13:42:40.087 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-13:42:40.087 664 Delete type=2 #61
+2026/02/01-13:42:40.087 664 Delete type=2 #54
+2026/02/01-13:42:40.087 664 Delete type=2 #57

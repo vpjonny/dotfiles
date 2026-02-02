@@ -1,0 +1,34 @@
+2025/11/06-12:01:32.002 60c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_craft-world.gg_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-12:01:32.006 60c Recovering log #9
+2025/11/06-12:01:32.009 60c Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_craft-world.gg_0.indexeddb.leveldb/000009.log 
+2025/11/06-12:01:32.323 61c Level-0 table #14: started
+2025/11/06-12:01:32.410 61c Level-0 table #14: 95240 bytes OK
+2025/11/06-12:01:32.499 61c Delete type=0 #9
+2025/11/06-12:01:32.501 60e Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-12:01:32.564 61d Level-0 table #16: started
+2025/11/06-12:01:32.597 61d Level-0 table #16: 1706 bytes OK
+2025/11/06-12:01:32.675 61d Delete type=0 #13
+2025/11/06-12:01:32.675 60c Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 3204 : 1
+2025/11/06-12:01:32.675 60c Compacting 1@0 + 1@1 files
+2025/11/06-12:01:32.717 60c Generated table #17@0: 735 keys, 28165 bytes
+2025/11/06-12:01:32.717 60c Compacted 1@0 + 1@1 files => 28165 bytes
+2025/11/06-12:01:32.804 60c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/06-12:01:32.804 60c Delete type=2 #16
+2025/11/06-12:01:32.805 60c Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 3204 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-12:01:46.755 60e Compacting 1@1 + 1@2 files
+2025/11/06-12:01:46.761 60e Generated table #18@1: 396 keys, 37824 bytes
+2025/11/06-12:01:46.761 60e Compacted 1@1 + 1@2 files => 37824 bytes
+2025/11/06-12:01:46.763 60e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-12:01:46.764 60e Delete type=2 #11
+2025/11/06-12:01:46.764 60e Delete type=2 #14
+2025/11/06-12:01:46.764 60e Delete type=2 #17
+2025/11/06-12:58:56.676 61c Level-0 table #20: started
+2025/11/06-12:58:56.679 61c Level-0 table #20: 67902 bytes OK
+2025/11/06-12:58:56.681 61c Delete type=0 #15
+2025/11/06-12:58:56.682 61c Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:00:19.726 61e Compacting 1@1 + 1@2 files
+2025/11/06-13:00:19.733 61e Generated table #21@1: 450 keys, 42969 bytes
+2025/11/06-13:00:19.733 61e Compacted 1@1 + 1@2 files => 42969 bytes
+2025/11/06-13:00:19.736 61e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-13:00:19.737 61e Delete type=2 #20
+2025/11/06-13:00:19.737 61e Delete type=2 #18

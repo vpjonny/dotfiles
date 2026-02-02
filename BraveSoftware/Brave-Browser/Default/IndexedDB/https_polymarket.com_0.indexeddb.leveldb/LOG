@@ -1,0 +1,17 @@
+2026/02/02-17:13:16.224 613 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_polymarket.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:13:16.224 613 Recovering log #221
+2026/02/02-17:13:16.226 613 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_polymarket.com_0.indexeddb.leveldb/000221.log 
+2026/02/02-17:14:52.671 623 Level-0 table #227: started
+2026/02/02-17:14:52.675 623 Level-0 table #227: 12749 bytes OK
+2026/02/02-17:14:52.678 623 Delete type=0 #221
+2026/02/02-17:14:52.679 626 Manual compaction at level-0 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/02-17:14:52.704 612 Level-0 table #229: started
+2026/02/02-17:14:52.707 612 Level-0 table #229: 854 bytes OK
+2026/02/02-17:14:52.710 612 Delete type=0 #226
+2026/02/02-17:14:52.710 612 Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at '\x00@\x00\x00\x05' @ 9108 : 1
+2026/02/02-17:14:52.710 612 Compacting 1@0 + 1@1 files
+2026/02/02-17:14:52.713 612 Generated table #230@0: 135 keys, 4013 bytes
+2026/02/02-17:14:52.713 612 Compacted 1@0 + 1@1 files => 4013 bytes
+2026/02/02-17:14:52.716 612 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-17:14:52.717 612 Delete type=2 #229
+2026/02/02-17:14:52.719 612 Manual compaction at level-0 from '\x00@\x00\x00\x05' @ 9108 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)

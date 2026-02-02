@@ -1,0 +1,7 @@
+2025/09/30-16:14:41.133 59c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_earn.taker.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/30-16:14:41.133 59c Recovering log #3
+2025/09/30-16:14:41.134 59c Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_earn.taker.xyz_0.indexeddb.leveldb/000003.log 
+2025/09/30-16:25:46.323 59a Level-0 table #5: started
+2025/09/30-16:25:46.326 59a Level-0 table #5: 1404 bytes OK
+2025/09/30-16:25:46.330 59a Delete type=0 #3
+2025/09/30-16:25:46.331 59a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

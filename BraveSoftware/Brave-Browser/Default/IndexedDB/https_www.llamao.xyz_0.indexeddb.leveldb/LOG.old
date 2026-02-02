@@ -1,0 +1,15 @@
+2025/09/17-23:51:46.535 5fa Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.llamao.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/17-23:51:46.535 5fa Recovering log #4
+2025/09/17-23:51:46.535 5fa Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.llamao.xyz_0.indexeddb.leveldb/000004.log 
+2025/09/18-03:54:23.341 5fb Level-0 table #8: started
+2025/09/18-03:54:23.376 5fb Level-0 table #8: 209 bytes OK
+2025/09/18-03:54:23.425 5fb Delete type=0 #4
+2025/09/18-03:54:23.426 5fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/18-03:54:23.427 5fa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 58 : 1
+2025/09/18-03:54:23.427 5fa Compacting 1@1 + 1@2 files
+2025/09/18-03:54:23.470 5fa Generated table #9@1: 21 keys, 648 bytes
+2025/09/18-03:54:23.470 5fa Compacted 1@1 + 1@2 files => 648 bytes
+2025/09/18-03:54:23.517 5fa compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-03:54:23.518 5fa Delete type=2 #8
+2025/09/18-03:54:23.518 5fa Delete type=2 #5
+2025/09/18-03:54:23.518 5fa Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 58 : 1 .. (end); will stop at (end)

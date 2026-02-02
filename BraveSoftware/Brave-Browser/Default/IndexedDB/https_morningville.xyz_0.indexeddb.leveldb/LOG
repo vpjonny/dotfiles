@@ -1,0 +1,6 @@
+2025/12/11-14:45:01.664 e50 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morningville.xyz_0.indexeddb.leveldb since it was missing.
+2025/12/11-14:45:01.680 e50 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morningville.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-14:45:05.976 e52 Level-0 table #5: started
+2025/12/11-14:45:05.980 e52 Level-0 table #5: 1240 bytes OK
+2025/12/11-14:45:05.982 e52 Delete type=0 #3
+2025/12/11-14:45:05.982 e52 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

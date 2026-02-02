@@ -1,0 +1,15 @@
+2026/01/30-14:11:31.713 6fb2 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nfts2me.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/30-14:11:31.713 6fb2 Recovering log #7
+2026/01/30-14:11:31.721 6fb2 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nfts2me.com_0.indexeddb.leveldb/000007.log 
+2026/01/30-14:13:51.866 664 Level-0 table #12: started
+2026/01/30-14:13:51.934 664 Level-0 table #12: 33825 bytes OK
+2026/01/30-14:13:52.009 664 Delete type=0 #7
+2026/01/30-14:13:52.009 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/30-14:13:52.009 664 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x00\x00\xc8\x04\x00k\x00e\x00y\x00s' @ 787 : 1
+2026/01/30-14:13:52.010 664 Compacting 1@1 + 1@2 files
+2026/01/30-14:13:52.058 664 Generated table #13@1: 77 keys, 3350 bytes
+2026/01/30-14:13:52.059 664 Compacted 1@1 + 1@2 files => 3350 bytes
+2026/01/30-14:13:52.135 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/30-14:13:52.135 664 Delete type=2 #12
+2026/01/30-14:13:52.136 664 Delete type=2 #9
+2026/01/30-14:13:52.136 664 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x04\x00k\x00e\x00y\x00s' @ 787 : 1 .. (end); will stop at (end)

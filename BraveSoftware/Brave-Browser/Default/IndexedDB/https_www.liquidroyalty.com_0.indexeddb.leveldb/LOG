@@ -1,0 +1,6 @@
+2026/01/31-19:47:02.780 662 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.liquidroyalty.com_0.indexeddb.leveldb since it was missing.
+2026/01/31-19:47:02.786 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.liquidroyalty.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/31-20:05:24.171 664 Level-0 table #5: started
+2026/01/31-20:05:24.257 664 Level-0 table #5: 1153 bytes OK
+2026/01/31-20:05:24.360 664 Delete type=0 #3
+2026/01/31-20:05:24.361 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

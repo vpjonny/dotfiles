@@ -1,0 +1,6 @@
+2025/11/27-18:30:04.150 5c9 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ten-protocol.notion.site_0.indexeddb.leveldb since it was missing.
+2025/11/27-18:30:04.159 5c9 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ten-protocol.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-18:30:16.114 5c9 Level-0 table #5: started
+2025/11/27-18:30:16.121 5c9 Level-0 table #5: 2656 bytes OK
+2025/11/27-18:30:16.124 5c9 Delete type=0 #3
+2025/11/27-18:30:16.125 5c9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

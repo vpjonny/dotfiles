@@ -1,0 +1,15 @@
+2026/02/02-12:02:31.657 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_passport.immutable.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-12:02:31.657 664 Recovering log #91
+2026/02/02-12:02:31.657 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_passport.immutable.com_0.indexeddb.leveldb/000091.log 
+2026/02/02-12:02:36.670 664 Level-0 table #96: started
+2026/02/02-12:02:36.672 664 Level-0 table #96: 1879 bytes OK
+2026/02/02-12:02:36.675 664 Delete type=0 #91
+2026/02/02-12:02:36.675 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/02-12:02:36.675 664 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00i\x00c\x00o\x00n\x00-\x00W\x00a\x00l\x00l\x00e\x00t\x00-\x00b\x00o\x00l\x00d' @ 1540 : 0
+2026/02/02-12:02:36.675 664 Compacting 1@1 + 1@2 files
+2026/02/02-12:02:36.677 664 Generated table #97@1: 34 keys, 1912 bytes
+2026/02/02-12:02:36.677 664 Compacted 1@1 + 1@2 files => 1912 bytes
+2026/02/02-12:02:36.679 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-12:02:36.680 664 Delete type=2 #96
+2026/02/02-12:02:36.680 664 Delete type=2 #93
+2026/02/02-12:02:36.680 664 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00i\x00c\x00o\x00n\x00-\x00W\x00a\x00l\x00l\x00e\x00t\x00-\x00b\x00o\x00l\x00d' @ 1540 : 0 .. (end); will stop at (end)

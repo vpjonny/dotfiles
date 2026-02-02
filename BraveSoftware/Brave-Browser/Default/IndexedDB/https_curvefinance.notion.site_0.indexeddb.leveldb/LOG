@@ -1,0 +1,6 @@
+2025/12/03-15:32:51.050 5ac Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_curvefinance.notion.site_0.indexeddb.leveldb since it was missing.
+2025/12/03-15:32:51.057 5ac Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_curvefinance.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/03-15:32:53.512 5c0 Level-0 table #5: started
+2025/12/03-15:32:53.516 5c0 Level-0 table #5: 573 bytes OK
+2025/12/03-15:32:53.519 5c0 Delete type=0 #3
+2025/12/03-15:32:53.519 5ac Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

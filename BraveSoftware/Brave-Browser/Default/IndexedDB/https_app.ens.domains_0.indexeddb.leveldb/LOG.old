@@ -1,0 +1,6 @@
+2025/11/19-11:49:18.578 5c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.ens.domains_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/19-11:49:18.579 5c5 Recovering log #11
+2025/11/19-11:49:18.588 5c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.ens.domains_0.indexeddb.leveldb/000011.log 
+2025/11/19-11:49:48.832 5d8 Level-0 table #15: started
+2025/11/19-11:49:48.864 5d8 Level-0 table #15: 4200165 bytes OK
+2025/11/19-11:49:48.869 5d8 Delete type=0 #11

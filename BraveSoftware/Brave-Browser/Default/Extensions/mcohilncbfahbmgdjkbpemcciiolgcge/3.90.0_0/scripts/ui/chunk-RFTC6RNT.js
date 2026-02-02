@@ -1,0 +1,2 @@
+import{p as i,q as s,r as o,s as u,t as R,u as r,v as A}from"./chunk-EQ34WRCJ.js";import{o as n,q as t}from"./chunk-UWURTNRY.js";n();t();var f=()=>{let{userAgent:e}=navigator;return e.includes("Firefox")?u:"brave"in navigator?i:e.includes("Edg/")?o:e.includes("OPR")?R:e.toLowerCase().search(r)!==-1?r:e.includes("Safari")&&!e.includes("Chrome")?A:s};export{f as a};
+//# sourceMappingURL=chunk-RFTC6RNT.js.map

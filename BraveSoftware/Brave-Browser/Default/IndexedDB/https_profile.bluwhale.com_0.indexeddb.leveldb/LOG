@@ -1,0 +1,14 @@
+2026/01/13-17:23:43.198 853 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_profile.bluwhale.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-17:23:43.199 853 Recovering log #453
+2026/01/13-17:23:43.203 853 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_profile.bluwhale.com_0.indexeddb.leveldb/000453.log 
+2026/01/13-17:23:43.203 853 Delete type=2 #451
+2026/01/13-17:23:43.321 841 Level-0 table #458: started
+2026/01/13-17:23:43.322 841 Level-0 table #458: 1578 bytes OK
+2026/01/13-17:23:43.325 841 Delete type=0 #453
+2026/01/13-17:23:43.325 841 Manual compaction at level-0 from '\x00s\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00t\x00\x00\x00' @ 0 : 0; will stop at '\x00s\x00\x00\x05' @ 6855 : 1
+2026/01/13-17:23:43.325 841 Compacting 1@0 + 1@1 files
+2026/01/13-17:23:43.327 841 Generated table #459@0: 81 keys, 1556 bytes
+2026/01/13-17:23:43.327 841 Compacted 1@0 + 1@1 files => 1556 bytes
+2026/01/13-17:23:43.329 841 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-17:23:43.329 841 Delete type=2 #458
+2026/01/13-17:23:43.329 841 Manual compaction at level-0 from '\x00s\x00\x00\x05' @ 6855 : 1 .. '\x00t\x00\x00\x00' @ 0 : 0; will stop at (end)

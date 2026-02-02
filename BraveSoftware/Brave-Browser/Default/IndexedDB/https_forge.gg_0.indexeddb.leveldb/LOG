@@ -1,0 +1,14 @@
+2026/01/26-16:21:29.076 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forge.gg_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/26-16:21:29.076 c77 Recovering log #114
+2026/01/26-16:21:29.078 c77 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forge.gg_0.indexeddb.leveldb/000114.log 
+2026/01/26-16:21:29.078 c77 Delete type=2 #112
+2026/01/26-16:21:29.238 c88 Level-0 table #119: started
+2026/01/26-16:21:29.240 c88 Level-0 table #119: 8879 bytes OK
+2026/01/26-16:21:29.243 c88 Delete type=0 #114
+2026/01/26-16:21:29.243 c77 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\x05' @ 2197 : 1
+2026/01/26-16:21:29.243 c77 Compacting 1@0 + 1@1 files
+2026/01/26-16:21:29.246 c77 Generated table #120@0: 59 keys, 3178 bytes
+2026/01/26-16:21:29.246 c77 Compacted 1@0 + 1@1 files => 3178 bytes
+2026/01/26-16:21:29.248 c77 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/26-16:21:29.248 c77 Delete type=2 #119
+2026/01/26-16:21:29.248 c77 Manual compaction at level-0 from '\x00 \x00\x00\x05' @ 2197 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

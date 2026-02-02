@@ -1,0 +1,2 @@
+import{Ea as t}from"./chunk-P5GHREX3.js";import{o as a,q as s}from"./chunk-UWURTNRY.js";a();s();async function o(e){return await t.get("/priapi/v1/dx/trade/multi/v2/meme/configs",{params:e})}async function d(e){return await t.get("/priapi/v1/dx/trade/multi/tokens/meme/search",{params:e})}async function u(e){return await t.get("/priapi/v1/dx/trade/multi/tokens/meme/supportTokenInfo",{params:e})}export{o as a,d as b,u as c};
+//# sourceMappingURL=chunk-BMAGLTJ7.js.map

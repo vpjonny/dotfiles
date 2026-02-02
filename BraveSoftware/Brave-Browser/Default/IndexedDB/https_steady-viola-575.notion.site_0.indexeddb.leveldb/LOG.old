@@ -1,0 +1,7 @@
+2025/10/21-15:22:57.959 613 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_steady-viola-575.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/21-15:22:57.960 613 Recovering log #4
+2025/10/21-15:22:57.960 613 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_steady-viola-575.notion.site_0.indexeddb.leveldb/000004.log 
+2025/10/21-15:23:02.480 624 Level-0 table #8: started
+2025/10/21-15:23:02.483 624 Level-0 table #8: 572 bytes OK
+2025/10/21-15:23:02.487 624 Delete type=0 #4
+2025/10/21-15:23:02.487 615 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

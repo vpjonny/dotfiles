@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "e1a7393a-a3e9-41f3-aeb2-c390f6229a97",
+      "logo": {
+        "imageUrl": "77871207-d337-4606-b619-60c545508c8e/791a83cf-a248-4774-a982-a00468d1e69f.png",
+        "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_1",
+        "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+        "companyName": "Xapo"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "77871207-d337-4606-b619-60c545508c8e/4f76f24e-2fdd-44b8-ba41-f0601c670a5e.jpg",
+          "creativeInstanceId": "b0eaa4aa-f18f-4e21-b928-491c752d2289",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "e85e42c4-2d1b-479f-8043-52b60a71c8ef/bc74b68b-cbd1-49cf-8dca-cb45d537935c.jpg",
+          "creativeInstanceId": "6974cf07-8f93-408f-802c-c1e8b38697f2",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e85e42c4-2d1b-479f-8043-52b60a71c8ef/791a83cf-a248-4774-a982-a00468d1e69f.png",
+            "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_2",
+            "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+            "companyName": "Xapo"
+          }
+        },
+        {
+          "imageUrl": "8e74907e-d14c-48be-bdad-6fe0ccfb4207/d3bd6c07-0e56-41f2-89f0-bf4cab1b2e20.jpg",
+          "creativeInstanceId": "0ff5fcad-5908-4985-8a54-f2360562dff6",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "8e74907e-d14c-48be-bdad-6fe0ccfb4207/791a83cf-a248-4774-a982-a00468d1e69f.png",
+            "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_4",
+            "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+            "companyName": "Xapo"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "e1a7393a-a3e9-41f3-aeb2-c390f6229a97",
+      "logo": {
+        "imageUrl": "77871207-d337-4606-b619-60c545508c8e/791a83cf-a248-4774-a982-a00468d1e69f.png",
+        "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_1",
+        "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+        "companyName": "Xapo"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "77871207-d337-4606-b619-60c545508c8e/4f76f24e-2fdd-44b8-ba41-f0601c670a5e.jpg",
+          "creativeInstanceId": "b0eaa4aa-f18f-4e21-b928-491c752d2289",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "e85e42c4-2d1b-479f-8043-52b60a71c8ef/bc74b68b-cbd1-49cf-8dca-cb45d537935c.jpg",
+          "creativeInstanceId": "6974cf07-8f93-408f-802c-c1e8b38697f2",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e85e42c4-2d1b-479f-8043-52b60a71c8ef/791a83cf-a248-4774-a982-a00468d1e69f.png",
+            "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_2",
+            "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+            "companyName": "Xapo"
+          }
+        },
+        {
+          "imageUrl": "8e74907e-d14c-48be-bdad-6fe0ccfb4207/d3bd6c07-0e56-41f2-89f0-bf4cab1b2e20.jpg",
+          "creativeInstanceId": "0ff5fcad-5908-4985-8a54-f2360562dff6",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "8e74907e-d14c-48be-bdad-6fe0ccfb4207/791a83cf-a248-4774-a982-a00468d1e69f.png",
+            "destinationUrl": "https://www.xapobank.com/en?utm_source=brave_browser_ad&utm_medium=image&utm_campaign=brave_ntt_sep2025&utm_content=ad_4",
+            "alt": "Xapo Bank - Your bitcoin. Protected. Rewarded. Ready to use. - see how it works.",
+            "companyName": "Xapo"
+          }
+        }
+      ]
+    }
+  ]
+}

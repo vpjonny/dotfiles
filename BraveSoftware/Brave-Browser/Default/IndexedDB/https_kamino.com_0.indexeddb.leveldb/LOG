@@ -1,0 +1,6 @@
+2025/11/09-19:04:12.059 623 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kamino.com_0.indexeddb.leveldb since it was missing.
+2025/11/09-19:04:12.064 623 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kamino.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/09-19:05:22.243 623 Level-0 table #5: started
+2025/11/09-19:05:22.246 623 Level-0 table #5: 787 bytes OK
+2025/11/09-19:05:22.249 623 Delete type=0 #3
+2025/11/09-19:05:22.249 623 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

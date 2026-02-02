@@ -1,0 +1,2 @@
+import{d as e}from"./chunk-EQ34WRCJ.js";import{L as a,O as f}from"./chunk-URGJ6D4O.js";import{o as r,q as i}from"./chunk-UWURTNRY.js";r();i();var s={pnlReversed:!1,mode:a.MODERN},o="pnlConfig";async function c(){try{let n=await e.get(o);return n[o]?n[o]:s}catch{return s}}async function g(n){await e.set({[o]:n})}async function l(){return c()}async function C(n={}){let t={...await l(),...n};return await g(t),f(t),t}async function x(){let n=await l();await C(n)}export{s as a,l as b,C as c,x as d};
+//# sourceMappingURL=chunk-XE7E2P4R.js.map

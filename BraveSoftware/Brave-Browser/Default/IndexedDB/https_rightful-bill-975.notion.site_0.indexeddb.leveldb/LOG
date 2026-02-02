@@ -1,0 +1,6 @@
+2025/12/11-17:46:35.480 e52 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_rightful-bill-975.notion.site_0.indexeddb.leveldb since it was missing.
+2025/12/11-17:46:35.486 e52 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_rightful-bill-975.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-17:46:37.635 e62 Level-0 table #5: started
+2025/12/11-17:46:37.641 e62 Level-0 table #5: 594 bytes OK
+2025/12/11-17:46:37.644 e62 Delete type=0 #3
+2025/12/11-17:46:37.644 e50 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

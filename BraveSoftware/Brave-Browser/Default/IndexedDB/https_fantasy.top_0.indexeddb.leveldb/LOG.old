@@ -1,0 +1,10 @@
+2026/02/02-11:55:14.991 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fantasy.top_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-11:55:14.992 662 Recovering log #374
+2026/02/02-11:55:15.024 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fantasy.top_0.indexeddb.leveldb/000374.log 
+2026/02/02-11:55:19.384 664 Level-0 table #379: started
+2026/02/02-11:55:19.447 664 Level-0 table #379: 861167 bytes OK
+2026/02/02-11:55:19.450 664 Delete type=0 #374
+2026/02/02-11:55:19.478 662 Compacting 1@1 + 1@2 files
+2026/02/02-11:55:19.550 662 Generated table #380@1: 11527 keys, 1113318 bytes
+2026/02/02-11:55:19.551 662 Compacted 1@1 + 1@2 files => 1113318 bytes
+2026/02/02-11:55:19.553 662 compacted to: files[ 0 0 1 0 0 0 0 ]

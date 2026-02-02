@@ -1,0 +1,2 @@
+import{e as l}from"./chunk-NS5EW6UN.js";import{B as a,I as s}from"./chunk-MJDO2VHF.js";import{Nb as r}from"./chunk-EQ34WRCJ.js";import{o as n,q as o}from"./chunk-UWURTNRY.js";n();o();var S=i=>async(u,c)=>{let e=c(),t=a(e),d=s(e,t)?.serverWalletType,m={txSource:r.NORMAL,accountId:t,walletType:d,...i};return await l(m,{walletSignParams:{needXClientSign:!0,walletId:t}})};export{S as a};
+//# sourceMappingURL=chunk-LOWDVO7P.js.map

@@ -1,0 +1,55 @@
+2026/01/27-15:41:06.684 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-15:41:06.689 8c5 Recovering log #775
+2026/01/27-15:41:06.964 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000775.log 
+2026/01/27-15:41:27.197 8d9 Level-0 table #781: started
+2026/01/27-15:41:27.232 8d9 Level-0 table #781: 850545 bytes OK
+2026/01/27-15:41:27.234 8d9 Delete type=0 #775
+2026/01/27-15:41:27.235 8d9 Manual compaction at level-0 from '\x00\xc0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc1\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/27-15:41:27.240 8d8 Level-0 table #783: started
+2026/01/27-15:41:27.242 8d8 Level-0 table #783: 19459 bytes OK
+2026/01/27-15:41:27.245 8d8 Delete type=0 #780
+2026/01/27-15:41:27.245 8c5 Manual compaction at level-0 from '\x00\xc1\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc2\x00\x00\x00' @ 0 : 0; will stop at '\x00\xc1\x00\x00\x05' @ 210932 : 0
+2026/01/27-15:41:27.245 8c5 Compacting 1@0 + 1@1 files
+2026/01/27-15:41:27.290 8c5 Generated table #784@0: 16128 keys, 489765 bytes
+2026/01/27-15:41:27.290 8c5 Compacted 1@0 + 1@1 files => 489765 bytes
+2026/01/27-15:41:27.292 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/27-15:41:27.293 8c5 Delete type=2 #783
+2026/01/27-15:41:27.293 8c5 Manual compaction at level-0 from '\x00\xc1\x00\x00\x05' @ 210932 : 0 .. '\x00\xc2\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/27-15:41:27.556 8d8 Compacting 1@1 + 1@2 files
+2026/01/27-15:41:27.587 8d8 Generated table #785@1: 7570 keys, 1392648 bytes
+2026/01/27-15:41:27.587 8d8 Compacted 1@1 + 1@2 files => 1392648 bytes
+2026/01/27-15:41:27.589 8d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/27-15:41:27.589 8d8 Delete type=2 #781
+2026/01/27-15:56:41.644 8c7 Level-0 table #787: started
+2026/01/27-15:56:41.674 8c7 Level-0 table #787: 1132863 bytes OK
+2026/01/27-15:56:41.678 8c7 Delete type=2 #778
+2026/01/27-15:56:41.678 8c7 Delete type=2 #784
+2026/01/27-15:56:41.678 8c7 Delete type=0 #782
+2026/01/27-15:57:32.672 8c7 Compacting 1@1 + 1@2 files
+2026/01/27-15:57:32.714 8c7 Generated table #788@1: 10122 keys, 1562831 bytes
+2026/01/27-15:57:32.714 8c7 Compacted 1@1 + 1@2 files => 1562831 bytes
+2026/01/27-15:57:32.716 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/27-15:57:32.716 8c7 Delete type=2 #787
+2026/01/27-15:57:32.716 8c7 Delete type=2 #785
+2026/01/27-17:51:23.049 8d7 Level-0 table #790: started
+2026/01/27-17:51:23.106 8d7 Level-0 table #790: 1083564 bytes OK
+2026/01/27-17:51:23.114 8d7 Delete type=0 #786
+2026/01/27-17:52:50.091 8c7 Compacting 1@1 + 1@2 files
+2026/01/27-17:52:50.361 8c7 Generated table #791@1: 16952 keys, 2034311 bytes
+2026/01/27-17:52:50.361 8c7 Compacted 1@1 + 1@2 files => 2034311 bytes
+2026/01/27-17:52:50.450 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/27-17:52:50.451 8c7 Delete type=2 #788
+2026/01/27-17:52:50.451 8c7 Delete type=2 #790
+2026/01/27-18:49:14.290 8c7 Level-0 table #793: started
+2026/01/27-18:49:14.342 8c7 Level-0 table #793: 510418 bytes OK
+2026/01/27-18:49:14.347 8c7 Delete type=0 #789
+2026/01/27-18:49:14.349 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/27-18:49:14.350 8c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00{\x01\x02\x010\x00s\x00t\x00r\x00a\x00t\x00e\x00g\x00y\x00-\x00c\x00o\x00n\x00f\x00i\x00g\x00-\x00f\x00f\x00b\x003\x000\x003\x006\x008\x000\x009\x00f\x002\x007\x00c\x00c\x006\x004\x00f\x004\x004\x00a\x00d\x008\x00a\x003\x005\x00f\x003\x00b\x000\x00f\x00d' @ 280575 : 1
+2026/01/27-18:49:14.350 8c7 Compacting 1@1 + 1@2 files
+2026/01/27-18:49:14.539 8c7 Generated table #794@1: 18369 keys, 2152971 bytes
+2026/01/27-18:49:14.544 8c7 Generated table #795@1: 28 keys, 21171 bytes
+2026/01/27-18:49:14.545 8c7 Compacted 1@1 + 1@2 files => 2174142 bytes
+2026/01/27-18:49:14.549 8c7 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/27-18:49:14.550 8c7 Delete type=2 #793
+2026/01/27-18:49:14.551 8c7 Delete type=2 #791
+2026/01/27-18:49:14.554 8c7 Manual compaction at level-1 from '\x00{\x01\x02\x010\x00s\x00t\x00r\x00a\x00t\x00e\x00g\x00y\x00-\x00c\x00o\x00n\x00f\x00i\x00g\x00-\x00f\x00f\x00b\x003\x000\x003\x006\x008\x000\x009\x00f\x002\x007\x00c\x00c\x006\x004\x00f\x004\x004\x00a\x00d\x008\x00a\x003\x005\x00f\x003\x00b\x000\x00f\x00d' @ 280575 : 1 .. (end); will stop at (end)

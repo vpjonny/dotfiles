@@ -1,0 +1,42 @@
+2025/09/19-13:30:18.447 5fb Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bybit.com_0.indexeddb.leveldb since it was missing.
+2025/09/19-13:30:18.452 5fb Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bybit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/19-13:30:20.538 5fa Level-0 table #5: started
+2025/09/19-13:30:20.640 5fa Level-0 table #5: 1699 bytes OK
+2025/09/19-13:30:20.696 5fa Delete type=0 #3
+2025/09/19-13:30:20.698 5fa Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/19-13:30:27.323 5f9 Level-0 table #7: started
+2025/09/19-13:30:27.329 5f9 Level-0 table #7: 3784 bytes OK
+2025/09/19-13:30:27.331 5f9 Delete type=0 #4
+2025/09/19-13:30:27.332 5f9 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/19-13:31:29.705 623 Level-0 table #9: started
+2025/09/19-13:31:29.707 623 Level-0 table #9: 651 bytes OK
+2025/09/19-13:31:29.709 623 Delete type=0 #6
+2025/09/19-13:31:29.710 5f9 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 304 : 1
+2025/09/19-13:31:29.710 5f9 Compacting 1@0 + 1@1 files
+2025/09/19-13:31:29.712 5f9 Generated table #10@0: 119 keys, 2023 bytes
+2025/09/19-13:31:29.712 5f9 Compacted 1@0 + 1@1 files => 2023 bytes
+2025/09/19-13:31:29.714 5f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/19-13:31:29.714 5f9 Delete type=2 #9
+2025/09/19-13:31:29.714 5f9 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 304 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/19-13:31:43.566 623 Level-0 table #12: started
+2025/09/19-13:31:43.567 623 Level-0 table #12: 651 bytes OK
+2025/09/19-13:31:43.570 623 Delete type=2 #7
+2025/09/19-13:31:43.570 623 Delete type=0 #8
+2025/09/19-13:31:43.570 5f9 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 323 : 1
+2025/09/19-13:31:43.570 5f9 Compacting 1@0 + 1@1 files
+2025/09/19-13:31:43.574 5f9 Generated table #13@0: 123 keys, 2049 bytes
+2025/09/19-13:31:43.574 5f9 Compacted 1@0 + 1@1 files => 2049 bytes
+2025/09/19-13:31:43.576 5f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/19-13:31:43.577 5f9 Delete type=2 #12
+2025/09/19-13:31:43.577 5f9 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 323 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/19-13:31:44.160 5fb Level-0 table #15: started
+2025/09/19-13:31:44.163 5fb Level-0 table #15: 1202 bytes OK
+2025/09/19-13:31:44.165 5fb Delete type=0 #11
+2025/09/19-13:31:44.165 5fb Delete type=2 #10
+2025/09/19-13:31:44.165 5f9 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 382 : 1
+2025/09/19-13:31:44.165 5f9 Compacting 1@0 + 1@1 files
+2025/09/19-13:31:44.167 5f9 Generated table #16@0: 152 keys, 2364 bytes
+2025/09/19-13:31:44.168 5f9 Compacted 1@0 + 1@1 files => 2364 bytes
+2025/09/19-13:31:44.170 5f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/19-13:31:44.170 5f9 Delete type=2 #15
+2025/09/19-13:31:44.170 5f9 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 382 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

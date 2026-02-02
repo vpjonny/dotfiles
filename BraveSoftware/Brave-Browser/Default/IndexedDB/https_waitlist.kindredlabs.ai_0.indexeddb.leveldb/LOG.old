@@ -1,0 +1,13 @@
+2026/02/02-12:41:21.102 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_waitlist.kindredlabs.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-12:41:21.103 662 Recovering log #469
+2026/02/02-12:41:21.103 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_waitlist.kindredlabs.ai_0.indexeddb.leveldb/000469.log 
+2026/02/02-12:41:21.163 676 Level-0 table #474: started
+2026/02/02-12:41:21.165 676 Level-0 table #474: 6734 bytes OK
+2026/02/02-12:41:21.168 676 Delete type=0 #469
+2026/02/02-12:41:21.168 662 Manual compaction at level-0 from '\x00|\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00}\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/02-12:42:41.202 664 Compacting 1@1 + 1@2 files
+2026/02/02-12:42:41.240 664 Generated table #475@1: 69 keys, 8474 bytes
+2026/02/02-12:42:41.240 664 Compacted 1@1 + 1@2 files => 8474 bytes
+2026/02/02-12:42:41.305 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-12:42:41.305 664 Delete type=2 #474
+2026/02/02-12:42:41.305 664 Delete type=2 #471

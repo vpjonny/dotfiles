@@ -1,0 +1,2 @@
+import{a as m}from"./chunk-BD5XO4WL.js";import{s as n}from"./chunk-DSNMNSMD.js";import{_ as t}from"./chunk-URGJ6D4O.js";import{b as s}from"./chunk-FLSAETOH.js";import{f as a,o,q as r}from"./chunk-UWURTNRY.js";o();r();var _=a(s());var i=196,p=({chainId:e})=>e===i,g=e=>p({chainId:e})?{title:_.default.createElement("span",{"data-testid":m.SELECT_NETWORK_PAGE.XLAYER_FAST_TAG},n("wallet_extension_select_network_tag_fast")),category:t.CATEGORY.fill,color:t.COLOR.lime,size:t.SIZE.md}:"";export{p as a,g as b};
+//# sourceMappingURL=chunk-ZLI6GILE.js.map

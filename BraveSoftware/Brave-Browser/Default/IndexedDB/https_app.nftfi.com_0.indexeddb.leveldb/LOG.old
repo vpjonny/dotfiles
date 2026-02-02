@@ -1,0 +1,6 @@
+2025/12/04-19:48:00.202 5ad Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nftfi.com_0.indexeddb.leveldb since it was missing.
+2025/12/04-19:48:00.208 5ad Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nftfi.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/04-19:49:50.631 5ad Level-0 table #5: started
+2025/12/04-19:49:50.633 5ad Level-0 table #5: 6938 bytes OK
+2025/12/04-19:49:50.635 5ad Delete type=0 #3
+2025/12/04-19:49:50.635 5ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

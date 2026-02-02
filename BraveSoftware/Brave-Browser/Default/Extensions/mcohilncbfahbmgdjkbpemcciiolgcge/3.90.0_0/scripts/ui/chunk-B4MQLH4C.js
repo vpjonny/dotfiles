@@ -1,0 +1,2 @@
+import{sa as a}from"./chunk-VHMBEOFX.js";import{j as s}from"./chunk-WYX7GFOD.js";import{b as l}from"./chunk-FLSAETOH.js";import{f as u,o as t,q as e}from"./chunk-UWURTNRY.js";t();e();var p=u(l());var m={"MNEMONIC WALLET":"seed_phrase","PRIVATE KEY WALLET":"private_key","MPC WALLET":"mpc","HARDWARE WALLET":"hardware"},c=n=>{let o=s(n),i=m[o?.keyringIdentityType];return(0,p.useCallback)(r=>{a({wallet_type:i,...r,wallet_id:o?.walletId,page_type:r.page_type||r.trade})},[i,n])};t();e();export{c as a};
+//# sourceMappingURL=chunk-B4MQLH4C.js.map

@@ -1,0 +1,14 @@
+2025/09/15-20:15:17.392 10970 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whop.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/15-20:15:17.393 10970 Recovering log #13
+2025/09/15-20:15:17.393 10970 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whop.com_0.indexeddb.leveldb/000013.log 
+2025/09/15-20:15:17.394 10970 Delete type=2 #11
+2025/09/15-20:15:17.443 10970 Level-0 table #18: started
+2025/09/15-20:15:17.446 10970 Level-0 table #18: 1350 bytes OK
+2025/09/15-20:15:17.449 10970 Delete type=0 #13
+2025/09/15-20:15:17.449 10970 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 312 : 1
+2025/09/15-20:15:17.449 10970 Compacting 1@0 + 1@1 files
+2025/09/15-20:15:17.452 10970 Generated table #19@0: 5 keys, 246 bytes
+2025/09/15-20:15:17.452 10970 Compacted 1@0 + 1@1 files => 246 bytes
+2025/09/15-20:15:17.455 10970 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/15-20:15:17.456 10970 Delete type=2 #18
+2025/09/15-20:15:17.456 10970 Manual compaction at level-0 from '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 312 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

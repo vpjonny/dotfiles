@@ -1,0 +1,6 @@
+2026/01/10-19:34:57.183 bfb Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lp.cleopetra.fun_0.indexeddb.leveldb since it was missing.
+2026/01/10-19:34:57.189 bfb Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lp.cleopetra.fun_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/10-19:37:17.364 bfd Level-0 table #5: started
+2026/01/10-19:37:17.420 bfd Level-0 table #5: 1147 bytes OK
+2026/01/10-19:37:17.480 bfd Delete type=0 #3
+2026/01/10-19:37:17.481 bfd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

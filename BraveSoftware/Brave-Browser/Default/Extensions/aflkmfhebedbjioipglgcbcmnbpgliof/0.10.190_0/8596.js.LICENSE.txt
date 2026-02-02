@@ -1,0 +1,22 @@
+/*!
+   *  decimal.js v10.4.3
+   *  An arbitrary-precision Decimal type for JavaScript.
+   *  https://github.com/MikeMcl/decimal.js
+   *  Copyright (c) 2022 Michael Mclaughlin <M8ch88l@gmail.com>
+   *  MIT Licence
+   */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
+
+/**
+ * @license qrcode.react
+ * Copyright (c) Paul O'Shannessy
+ * SPDX-License-Identifier: ISC
+ */

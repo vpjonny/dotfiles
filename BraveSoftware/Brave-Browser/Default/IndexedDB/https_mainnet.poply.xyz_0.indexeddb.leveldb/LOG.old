@@ -1,0 +1,7 @@
+2025/11/27-19:55:44.212 5ad Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mainnet.poply.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-19:55:44.212 5ad Recovering log #3
+2025/11/27-19:55:44.213 5ad Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mainnet.poply.xyz_0.indexeddb.leveldb/000003.log 
+2025/11/27-21:24:00.692 5ad Level-0 table #5: started
+2025/11/27-21:24:00.694 5ad Level-0 table #5: 1328 bytes OK
+2025/11/27-21:24:00.697 5ad Delete type=0 #3
+2025/11/27-21:24:00.697 5c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2026/01/28-14:42:37.529 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_slurpyswap.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-14:42:37.530 8c5 Recovering log #27
+2026/01/28-14:42:37.530 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_slurpyswap.com_0.indexeddb.leveldb/000027.log 
+2026/01/28-14:44:12.853 8c7 Level-0 table #32: started
+2026/01/28-14:44:12.856 8c7 Level-0 table #32: 226 bytes OK
+2026/01/28-14:44:12.859 8c7 Delete type=0 #27
+2026/01/28-14:44:12.860 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/28-14:44:12.861 8c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 81 : 1
+2026/01/28-14:44:12.861 8c7 Compacting 1@1 + 1@2 files
+2026/01/28-14:44:12.863 8c7 Generated table #33@1: 23 keys, 842 bytes
+2026/01/28-14:44:12.864 8c7 Compacted 1@1 + 1@2 files => 842 bytes
+2026/01/28-14:44:12.866 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-14:44:12.867 8c7 Delete type=2 #32
+2026/01/28-14:44:12.867 8c7 Delete type=2 #29
+2026/01/28-14:44:12.867 8c7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 81 : 1 .. (end); will stop at (end)

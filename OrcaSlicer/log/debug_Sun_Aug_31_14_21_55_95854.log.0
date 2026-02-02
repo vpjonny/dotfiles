@@ -1,0 +1,7 @@
+[warning]	2025-08-31 14:21:56.005022[Thread 0x000075703ea18cc0]:Failed to load to hints.cereal. File does not exists. /home/slova/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-08-31 14:21:58.507071[Thread 0x000075703ea18cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-31 14:21:59.134349[Thread 0x000075703ea18cc0]:02:21:59 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:21:59.178238[Thread 0x000075703ea18cc0]:02:21:59 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:21:59.285354[Thread 0x000075703ea18cc0]:02:21:59 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:21:59.295334[Thread 0x000075703ea18cc0]:02:21:59 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-31 14:22:01.063253[Thread 0x000075703ea18cc0]:calc_exclude_triangles:Unable to create exclude triangles

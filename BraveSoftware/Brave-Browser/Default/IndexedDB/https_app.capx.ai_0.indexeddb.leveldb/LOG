@@ -1,0 +1,13 @@
+2025/12/10-19:02:31.907 2fb6f Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.capx.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-19:02:31.908 2fb6f Recovering log #6
+2025/12/10-19:02:31.908 2fb6f Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.capx.ai_0.indexeddb.leveldb/000006.log 
+2025/12/10-19:02:32.172 2fb83 Level-0 table #11: started
+2025/12/10-19:02:32.175 2fb83 Level-0 table #11: 805 bytes OK
+2025/12/10-19:02:32.178 2fb83 Delete type=0 #6
+2025/12/10-19:02:32.178 2fb71 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/10-19:02:38.495 2fb82 Compacting 1@1 + 1@2 files
+2025/12/10-19:02:38.501 2fb82 Generated table #12@1: 173 keys, 4284 bytes
+2025/12/10-19:02:38.501 2fb82 Compacted 1@1 + 1@2 files => 4284 bytes
+2025/12/10-19:02:38.503 2fb82 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/10-19:02:38.503 2fb82 Delete type=2 #11
+2025/12/10-19:02:38.503 2fb82 Delete type=2 #8

@@ -1,0 +1,7 @@
+2025/09/06-18:22:07.630 59a Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_test.pharosname.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/06-18:22:07.630 59a Recovering log #24
+2025/09/06-18:22:07.641 59a Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_test.pharosname.com_0.indexeddb.leveldb/000024.log 
+2025/09/06-18:22:20.855 59a Compacting 3@0 + 1@1 files
+2025/09/06-18:22:20.889 59a Generated table #27@0: 2394 keys, 102489 bytes
+2025/09/06-18:22:20.890 59a Compacted 3@0 + 1@1 files => 102489 bytes
+2025/09/06-18:22:20.895 59a compacted to: files[ 0 1 1 0 0 0 0 ]

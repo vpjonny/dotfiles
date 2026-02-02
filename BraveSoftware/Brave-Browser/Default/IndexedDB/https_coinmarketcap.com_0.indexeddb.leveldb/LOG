@@ -1,0 +1,30 @@
+2026/02/02-17:56:56.841 612 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:56:56.843 612 Recovering log #2431
+2026/02/02-17:56:56.924 612 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/002431.log 
+2026/02/02-17:57:35.178 624 Level-0 table #2436: started
+2026/02/02-17:57:35.363 624 Level-0 table #2436: 1525734 bytes OK
+2026/02/02-17:57:35.416 624 Delete type=0 #2431
+2026/02/02-17:57:37.577 624 Compacting 1@1 + 1@2 files
+2026/02/02-17:57:37.656 624 Generated table #2437@1: 1077 keys, 112648 bytes
+2026/02/02-17:57:37.657 624 Compacted 1@1 + 1@2 files => 112648 bytes
+2026/02/02-17:57:37.707 624 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-17:57:37.708 624 Delete type=2 #2436
+2026/02/02-17:57:37.708 624 Delete type=2 #2433
+2026/02/02-18:00:37.616 624 Level-0 table #2439: started
+2026/02/02-18:00:37.645 624 Level-0 table #2439: 1470746 bytes OK
+2026/02/02-18:00:37.649 624 Delete type=0 #2435
+2026/02/02-18:00:38.415 612 Compacting 1@1 + 1@2 files
+2026/02/02-18:00:38.454 612 Generated table #2440@1: 1077 keys, 112660 bytes
+2026/02/02-18:00:38.454 612 Compacted 1@1 + 1@2 files => 112660 bytes
+2026/02/02-18:00:38.456 612 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-18:03:37.894 624 Level-0 table #2442: started
+2026/02/02-18:03:37.940 624 Level-0 table #2442: 1471443 bytes OK
+2026/02/02-18:03:37.943 624 Delete type=0 #2438
+2026/02/02-18:03:37.943 624 Delete type=2 #2437
+2026/02/02-18:03:37.943 624 Delete type=2 #2439
+2026/02/02-18:03:51.310 612 Compacting 1@1 + 1@2 files
+2026/02/02-18:03:51.378 612 Generated table #2443@1: 1105 keys, 114682 bytes
+2026/02/02-18:03:51.378 612 Compacted 1@1 + 1@2 files => 114682 bytes
+2026/02/02-18:03:51.428 612 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-18:03:51.429 612 Delete type=2 #2442
+2026/02/02-18:03:51.429 612 Delete type=2 #2440

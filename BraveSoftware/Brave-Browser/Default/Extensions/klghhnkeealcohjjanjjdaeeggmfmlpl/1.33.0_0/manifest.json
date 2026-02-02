@@ -1,0 +1,62 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "logo-icon-128.4a4ea3f9.png",
+         "16": "logo-icon-16.f3c62d27.png",
+         "32": "logo-icon-32.4a59008d.png",
+         "48": "logo-icon-48.1d23ed75.png"
+      },
+      "default_popup": "popup.8e8f209b.html",
+      "default_title": "Zerion"
+   },
+   "author": "https://zerion.io/",
+   "background": {
+      "service_worker": "background.687c82fc.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+E"
+         }
+      },
+      "sidepanel_open_custom": {
+         "description": "Toggle Sidepanel View",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "content-script.68dfd1e7.css" ],
+      "js": [ "content-script.8a17b343.js" ],
+      "matches": [ "https://*/*", "http://localhost/*", "http://0.0.0.0/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "logo-icon-128.4a4ea3f9.png",
+      "16": "logo-icon-16.f3c62d27.png",
+      "32": "logo-icon-32.4a59008d.png",
+      "48": "logo-icon-48.1d23ed75.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgkahGwTZdOxy3I6uS5N164fXacN9htdJqBB9fD9skK2+2Wvz+u2E6TG/xXxB0CbcP70LRYzPxR5YU76HIbAmLNfl9W2BKcnY0e1mMo2ehgYHoQRCwhfAE6w39j/FkUdbOoMGPiODysgnRnM+0Ae+wkVr3XGMyu0e5ZDeVP4sBRj6q2a+fApWr3KspgQutm/vCaW+4LhLwqU/j1DFo75xLbI2rfRPn2etQftu1xp8CBivYc4D6E4dwFumwr/WJt9EXcj/w1HwyOzJfZ8XOKdhF0VgQH6kJsvk8x/twTFlpqQOBmFzjyFBLZgq3CCPJhGQTumu8dNOlNMABEzPFJHgYwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "alarms", "scripting", "sidePanel", "storage", "unlimitedStorage" ],
+   "short_name": "__MSG_appName__",
+   "side_panel": {
+      "default_path": "sidepanel.21ca0c41.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.33.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "content-script/in-page.js" ]
+   }, {
+      "matches": [ "https://*/*", "http://localhost/*", "http://0.0.0.0/*" ],
+      "resources": [ "zerion-logo.e3bf8e32.svg", "close.a6482606.svg" ]
+   } ]
+}

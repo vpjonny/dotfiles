@@ -1,0 +1,6 @@
+2025/10/15-14:08:38.777 5c4 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.sentiment.xyz_0.indexeddb.leveldb since it was missing.
+2025/10/15-14:08:38.782 5c4 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.sentiment.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/15-14:11:53.544 5c3 Level-0 table #5: started
+2025/10/15-14:11:53.576 5c3 Level-0 table #5: 1147 bytes OK
+2025/10/15-14:11:53.630 5c3 Delete type=0 #3
+2025/10/15-14:11:53.630 5c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

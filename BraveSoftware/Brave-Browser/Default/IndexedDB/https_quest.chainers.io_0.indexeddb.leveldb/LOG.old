@@ -1,0 +1,14 @@
+2026/01/20-19:22:11.161 83c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quest.chainers.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/20-19:22:11.161 83c Recovering log #171
+2026/01/20-19:22:11.161 83c Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quest.chainers.io_0.indexeddb.leveldb/000171.log 
+2026/01/20-19:22:11.161 83c Delete type=2 #169
+2026/01/20-19:22:12.418 83c Level-0 table #176: started
+2026/01/20-19:22:12.421 83c Level-0 table #176: 509 bytes OK
+2026/01/20-19:22:12.423 83c Delete type=0 #171
+2026/01/20-19:22:12.424 83c Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at '\x00.\x00\x00\x05' @ 947 : 1
+2026/01/20-19:22:12.424 83c Compacting 1@0 + 1@1 files
+2026/01/20-19:22:12.426 83c Generated table #177@0: 7 keys, 455 bytes
+2026/01/20-19:22:12.426 83c Compacted 1@0 + 1@1 files => 455 bytes
+2026/01/20-19:22:12.429 83c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/20-19:22:12.429 83c Delete type=2 #176
+2026/01/20-19:22:12.429 83c Manual compaction at level-0 from '\x00.\x00\x00\x05' @ 947 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)

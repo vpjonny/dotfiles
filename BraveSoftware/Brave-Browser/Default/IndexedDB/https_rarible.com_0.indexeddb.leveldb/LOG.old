@@ -1,0 +1,15 @@
+2026/01/04-18:51:04.767 81b Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_rarible.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/04-18:51:04.767 81b Recovering log #19
+2026/01/04-18:51:04.768 81b Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_rarible.com_0.indexeddb.leveldb/000019.log 
+2026/01/04-18:54:37.704 81b Level-0 table #24: started
+2026/01/04-18:54:37.755 81b Level-0 table #24: 190 bytes OK
+2026/01/04-18:54:37.831 81b Delete type=0 #19
+2026/01/04-18:54:37.831 81b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/04-18:54:37.831 81b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 64 : 1
+2026/01/04-18:54:37.831 81b Compacting 1@1 + 1@2 files
+2026/01/04-18:54:37.888 81b Generated table #25@1: 21 keys, 643 bytes
+2026/01/04-18:54:37.888 81b Compacted 1@1 + 1@2 files => 643 bytes
+2026/01/04-18:54:37.976 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/04-18:54:37.977 81b Delete type=2 #24
+2026/01/04-18:54:37.977 81b Delete type=2 #21
+2026/01/04-18:54:37.978 81b Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 64 : 1 .. (end); will stop at (end)

@@ -1,0 +1,26 @@
+2025/11/05-21:19:30.343 60c Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_craft-world.gg_0.indexeddb.leveldb since it was missing.
+2025/11/05-21:19:30.349 60c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_craft-world.gg_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/05-21:19:30.549 61c Level-0 table #5: started
+2025/11/05-21:19:30.553 61c Level-0 table #5: 2471 bytes OK
+2025/11/05-21:19:30.557 61c Delete type=0 #3
+2025/11/05-21:19:30.557 61c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-21:19:30.685 60c Level-0 table #7: started
+2025/11/05-21:19:30.688 60c Level-0 table #7: 2071 bytes OK
+2025/11/05-21:19:30.690 60c Delete type=0 #4
+2025/11/05-21:19:30.693 60c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-21:19:45.748 61e Compacting 1@1 + 1@2 files
+2025/11/05-21:19:45.756 61e Generated table #8@1: 79 keys, 1431 bytes
+2025/11/05-21:19:45.756 61e Compacted 1@1 + 1@2 files => 1431 bytes
+2025/11/05-21:19:45.758 61e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/05-21:19:45.758 61e Delete type=2 #7
+2025/11/05-21:19:45.758 61e Delete type=2 #5
+2025/11/05-21:36:15.085 60c Level-0 table #10: started
+2025/11/05-21:36:15.089 60c Level-0 table #10: 57415 bytes OK
+2025/11/05-21:36:15.091 60c Delete type=0 #6
+2025/11/05-21:36:15.091 60c Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-21:37:29.961 60e Compacting 1@1 + 1@2 files
+2025/11/05-21:37:29.969 60e Generated table #11@1: 290 keys, 25405 bytes
+2025/11/05-21:37:29.969 60e Compacted 1@1 + 1@2 files => 25405 bytes
+2025/11/05-21:37:29.972 60e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/05-21:37:29.972 60e Delete type=2 #10
+2025/11/05-21:37:29.973 60e Delete type=2 #8

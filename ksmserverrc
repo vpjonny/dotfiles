@@ -1,0 +1,21 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101eb135179185000175519302900000008540006
+clientId2=101eb135179185000176426609000000008610005
+clientId3=101eb135179185000176494026200000008610076
+count=3
+discardCommand3[$e]=rm,$HOME/.config/session/dolphin_101eb135179185000176494026200000008610076_1764956868_477511
+program1=/usr/bin/kwalletd6
+program2=/usr/bin/firewall-applet
+program3=/usr/bin/dolphin
+restartCommand1=/usr/bin/kwalletd6,-session,101eb135179185000175519302900000008540006_1764956868_478318
+restartCommand2=/usr/bin/firewall-applet,-session,101eb135179185000176426609000000008610005_1764956868_477501,-name,firewall-applet
+restartCommand3=/usr/bin/dolphin,-session,101eb135179185000176494026200000008610076_1764956868_477511
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=slova
+userId2=slova
+userId3=slova

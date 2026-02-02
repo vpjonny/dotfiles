@@ -1,0 +1,13 @@
+2026/01/29-15:58:35.302 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_play.intraverse.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/29-15:58:35.303 8c5 Recovering log #129
+2026/01/29-15:58:35.304 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_play.intraverse.io_0.indexeddb.leveldb/000129.log 
+2026/01/29-15:58:35.323 8d7 Level-0 table #134: started
+2026/01/29-15:58:35.326 8d7 Level-0 table #134: 54302 bytes OK
+2026/01/29-15:58:35.328 8d7 Delete type=0 #129
+2026/01/29-15:58:35.328 8c5 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/29-16:00:14.581 8c7 Compacting 1@1 + 1@2 files
+2026/01/29-16:00:14.587 8c7 Generated table #135@1: 188 keys, 12101 bytes
+2026/01/29-16:00:14.587 8c7 Compacted 1@1 + 1@2 files => 12101 bytes
+2026/01/29-16:00:14.589 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/29-16:00:14.589 8c7 Delete type=2 #134
+2026/01/29-16:00:14.589 8c7 Delete type=2 #131

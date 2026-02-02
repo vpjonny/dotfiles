@@ -1,0 +1,15 @@
+2026/01/28-20:20:38.680 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_minting.moonbirds.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-20:20:38.680 8c5 Recovering log #29
+2026/01/28-20:20:38.680 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_minting.moonbirds.com_0.indexeddb.leveldb/000029.log 
+2026/01/28-20:21:01.974 8c7 Level-0 table #36: started
+2026/01/28-20:21:01.977 8c7 Level-0 table #36: 411 bytes OK
+2026/01/28-20:21:01.981 8c7 Delete type=0 #29
+2026/01/28-20:21:01.982 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/28-20:21:01.982 8c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x00\x00\x05' @ 312 : 1
+2026/01/28-20:21:01.982 8c7 Compacting 1@1 + 1@2 files
+2026/01/28-20:21:01.986 8c7 Generated table #37@1: 63 keys, 1236 bytes
+2026/01/28-20:21:01.986 8c7 Compacted 1@1 + 1@2 files => 1236 bytes
+2026/01/28-20:21:01.989 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-20:21:01.990 8c7 Delete type=2 #33
+2026/01/28-20:21:01.990 8c7 Delete type=2 #36
+2026/01/28-20:21:01.991 8c7 Manual compaction at level-1 from '\x00\x0b\x00\x00\x05' @ 312 : 1 .. (end); will stop at (end)

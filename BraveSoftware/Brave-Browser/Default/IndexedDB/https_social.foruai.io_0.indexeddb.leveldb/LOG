@@ -1,0 +1,15 @@
+2025/11/19-11:30:02.047 5c3 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_social.foruai.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/19-11:30:02.047 5c3 Recovering log #4
+2025/11/19-11:30:02.048 5c3 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_social.foruai.io_0.indexeddb.leveldb/000004.log 
+2025/11/19-11:43:02.213 5d7 Level-0 table #8: started
+2025/11/19-11:43:02.217 5d7 Level-0 table #8: 190 bytes OK
+2025/11/19-11:43:02.221 5d7 Delete type=0 #4
+2025/11/19-11:43:02.228 5d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/19-11:43:02.228 5d7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 59 : 1
+2025/11/19-11:43:02.229 5d7 Compacting 1@1 + 1@2 files
+2025/11/19-11:43:02.232 5d7 Generated table #9@1: 21 keys, 656 bytes
+2025/11/19-11:43:02.233 5d7 Compacted 1@1 + 1@2 files => 656 bytes
+2025/11/19-11:43:02.239 5d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/19-11:43:02.241 5d7 Delete type=2 #8
+2025/11/19-11:43:02.241 5d7 Delete type=2 #5
+2025/11/19-11:43:02.252 5d7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 59 : 1 .. (end); will stop at (end)

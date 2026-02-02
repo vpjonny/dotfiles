@@ -1,0 +1,6 @@
+2025/12/09-17:30:46.454 2fb80 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lookerstudio.google.com_0.indexeddb.leveldb since it was missing.
+2025/12/09-17:30:46.459 2fb80 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lookerstudio.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/09-17:30:46.533 2fb82 Level-0 table #5: started
+2025/12/09-17:30:46.536 2fb82 Level-0 table #5: 1485 bytes OK
+2025/12/09-17:30:46.540 2fb82 Delete type=0 #3
+2025/12/09-17:30:46.540 2fb80 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

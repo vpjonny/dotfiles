@@ -1,0 +1,7 @@
+2026/01/21-14:55:42.249 c11 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claim.fogo.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/21-14:55:42.250 c11 Recovering log #3
+2026/01/21-14:55:42.250 c11 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claim.fogo.io_0.indexeddb.leveldb/000003.log 
+2026/01/21-14:56:07.121 c23 Level-0 table #5: started
+2026/01/21-14:56:07.123 c23 Level-0 table #5: 1678 bytes OK
+2026/01/21-14:56:07.126 c23 Delete type=0 #3
+2026/01/21-14:56:07.126 c23 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

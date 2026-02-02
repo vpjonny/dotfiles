@@ -1,0 +1,2 @@
+import{e as r}from"./chunk-URGJ6D4O.js";import{a as _}from"./chunk-FB3ILH2L.js";import{b as i}from"./chunk-FLSAETOH.js";import{f as t,o as e,q as o}from"./chunk-UWURTNRY.js";e();o();var m=t(i()),a=t(_());e();o();var s={base:"_base_2qo26_1"};var k=({loading:l,children:n,height:f,style:p={},...u})=>l?m.default.createElement(r.Input,{className:(0,a.default)(s.base),style:{height:f,...p},...u}):n??null,h=k;export{h as a};
+//# sourceMappingURL=chunk-XAUZ4FZE.js.map

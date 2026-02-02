@@ -1,0 +1,18 @@
+2025/11/22-20:19:37.951 5cd Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_intract-io.notion.site_0.indexeddb.leveldb since it was missing.
+2025/11/22-20:19:37.958 5cd Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_intract-io.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/22-20:19:39.423 5e3 Level-0 table #5: started
+2025/11/22-20:19:39.426 5e3 Level-0 table #5: 578 bytes OK
+2025/11/22-20:19:39.429 5e3 Delete type=0 #3
+2025/11/22-20:19:39.430 5cd Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/22-20:19:41.430 5e1 Level-0 table #7: started
+2025/11/22-20:19:41.433 5e1 Level-0 table #7: 249 bytes OK
+2025/11/22-20:19:41.436 5e1 Delete type=0 #4
+2025/11/22-20:19:41.437 5e1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/22-20:19:41.437 5e1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2025/11/22-20:19:41.437 5e1 Compacting 1@1 + 1@2 files
+2025/11/22-20:19:41.440 5e1 Generated table #8@1: 6 keys, 253 bytes
+2025/11/22-20:19:41.440 5e1 Compacted 1@1 + 1@2 files => 253 bytes
+2025/11/22-20:19:41.443 5e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/22-20:19:41.443 5e1 Delete type=2 #7
+2025/11/22-20:19:41.444 5e1 Delete type=2 #5
+2025/11/22-20:19:41.444 5e1 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

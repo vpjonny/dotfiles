@@ -1,0 +1,27 @@
+2025/11/05-15:42:59.064 5e4 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dune.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/05-15:42:59.065 5e4 Recovering log #24
+2025/11/05-15:42:59.065 5e4 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dune.com_0.indexeddb.leveldb/000024.log 
+2025/11/05-15:43:06.326 5f5 Level-0 table #30: started
+2025/11/05-15:43:06.328 5f5 Level-0 table #30: 598 bytes OK
+2025/11/05-15:43:06.331 5f5 Delete type=0 #24
+2025/11/05-15:43:06.331 5e4 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-15:43:06.331 5e4 Manual compaction at level-1 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 964 : 0
+2025/11/05-15:43:06.331 5e4 Compacting 1@1 + 1@2 files
+2025/11/05-15:43:06.333 5e4 Generated table #31@1: 101 keys, 1996 bytes
+2025/11/05-15:43:06.333 5e4 Compacted 1@1 + 1@2 files => 1996 bytes
+2025/11/05-15:43:06.335 5e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/05-15:43:06.335 5e4 Delete type=2 #30
+2025/11/05-15:43:06.336 5e4 Manual compaction at level-1 from '\x00\x0a\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 964 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-15:45:03.601 5e6 Level-0 table #33: started
+2025/11/05-15:45:03.604 5e6 Level-0 table #33: 1535 bytes OK
+2025/11/05-15:45:03.607 5e6 Delete type=0 #29
+2025/11/05-15:45:03.607 5e6 Delete type=2 #27
+2025/11/05-15:45:03.607 5e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/05-15:45:03.608 5e6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 1012 : 1
+2025/11/05-15:45:03.608 5e6 Compacting 1@1 + 1@2 files
+2025/11/05-15:45:03.610 5e6 Generated table #34@1: 114 keys, 2161 bytes
+2025/11/05-15:45:03.610 5e6 Compacted 1@1 + 1@2 files => 2161 bytes
+2025/11/05-15:45:03.612 5e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/05-15:45:03.613 5e6 Delete type=2 #31
+2025/11/05-15:45:03.613 5e6 Delete type=2 #33
+2025/11/05-15:45:03.613 5e6 Manual compaction at level-1 from '\x00\x0b\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 1012 : 1 .. (end); will stop at (end)

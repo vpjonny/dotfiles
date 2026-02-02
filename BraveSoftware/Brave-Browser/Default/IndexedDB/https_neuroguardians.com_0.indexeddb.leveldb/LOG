@@ -1,0 +1,15 @@
+2026/01/20-18:37:59.742 84d Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neuroguardians.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/20-18:37:59.743 84d Recovering log #4
+2026/01/20-18:37:59.743 84d Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neuroguardians.com_0.indexeddb.leveldb/000004.log 
+2026/01/20-19:19:07.704 83e Level-0 table #8: started
+2026/01/20-19:19:07.735 83e Level-0 table #8: 33618 bytes OK
+2026/01/20-19:19:07.832 83e Delete type=0 #4
+2026/01/20-19:19:07.832 83e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/20-19:19:07.833 83e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x02\x00@\x9c\x7f\xc6\xbdyB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x003\x003\x008\x002\x001\x00c\x005\x009\x00f\x00c\x00a\x006\x00c\x001\x00a\x00f\x004\x009\x00d\x001\x00c\x00b\x000\x008\x007\x008\x003\x008\x00a\x009\x008\x003\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 886 : 1
+2026/01/20-19:19:07.833 83e Compacting 1@1 + 1@2 files
+2026/01/20-19:19:07.886 83e Generated table #9@1: 58 keys, 2818 bytes
+2026/01/20-19:19:07.886 83e Compacted 1@1 + 1@2 files => 2818 bytes
+2026/01/20-19:19:07.935 83e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/20-19:19:07.936 83e Delete type=2 #8
+2026/01/20-19:19:07.936 83e Delete type=2 #5
+2026/01/20-19:19:07.936 83e Manual compaction at level-1 from '\x00\x02\x01\x1f\x02\x00@\x9c\x7f\xc6\xbdyB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x003\x003\x008\x002\x001\x00c\x005\x009\x00f\x00c\x00a\x006\x00c\x001\x00a\x00f\x004\x009\x00d\x001\x00c\x00b\x000\x008\x007\x008\x003\x008\x00a\x009\x008\x003\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 886 : 1 .. (end); will stop at (end)

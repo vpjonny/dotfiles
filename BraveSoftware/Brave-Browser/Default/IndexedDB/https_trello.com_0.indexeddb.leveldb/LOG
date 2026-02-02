@@ -1,0 +1,15 @@
+2025/11/13-20:55:45.027 5c1 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/13-20:55:45.027 5c1 Recovering log #13
+2025/11/13-20:55:45.027 5c1 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/000013.log 
+2025/11/13-21:03:27.985 5d3 Level-0 table #18: started
+2025/11/13-21:03:28.007 5d3 Level-0 table #18: 1085321 bytes OK
+2025/11/13-21:03:28.010 5d3 Delete type=0 #13
+2025/11/13-21:03:28.012 5d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/13-21:03:28.013 5d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01"\x04\x02\x01\x06\x00t\x00r\x00e\x00l\x00l\x00o\x03\x00P9\x9e\xe9\xa7yB\x00\x01$\x000\x009\x009\x004\x004\x007\x00a\x00c\x00-\x00d\x005\x00a\x001\x00-\x004\x002\x004\x001\x00-\x00a\x004\x008\x008\x00-\x00b\x00a\x007\x00f\x006\x00b\x005\x001\x006\x008\x00f\x00b' @ 49890 : 1
+2025/11/13-21:03:28.013 5d3 Compacting 1@1 + 1@2 files
+2025/11/13-21:03:28.028 5d3 Generated table #19@1: 2490 keys, 179994 bytes
+2025/11/13-21:03:28.028 5d3 Compacted 1@1 + 1@2 files => 179994 bytes
+2025/11/13-21:03:28.030 5d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/13-21:03:28.031 5d3 Delete type=2 #15
+2025/11/13-21:03:28.031 5d3 Delete type=2 #18
+2025/11/13-21:03:28.032 5d3 Manual compaction at level-1 from '\x00\x01\x01"\x04\x02\x01\x06\x00t\x00r\x00e\x00l\x00l\x00o\x03\x00P9\x9e\xe9\xa7yB\x00\x01$\x000\x009\x009\x004\x004\x007\x00a\x00c\x00-\x00d\x005\x00a\x001\x00-\x004\x002\x004\x001\x00-\x00a\x004\x008\x008\x00-\x00b\x00a\x007\x00f\x006\x00b\x005\x001\x006\x008\x00f\x00b' @ 49890 : 1 .. (end); will stop at (end)

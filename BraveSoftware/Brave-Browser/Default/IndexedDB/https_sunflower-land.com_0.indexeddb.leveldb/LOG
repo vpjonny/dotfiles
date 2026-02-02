@@ -1,0 +1,25 @@
+2025/11/06-13:40:46.219 60e Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sunflower-land.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-13:40:46.219 60e Recovering log #521
+2025/11/06-13:40:46.226 60e Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sunflower-land.com_0.indexeddb.leveldb/000521.log 
+2025/11/06-13:40:46.227 60e Delete type=2 #518
+2025/11/06-13:40:46.227 60e Delete type=2 #523
+2025/11/06-13:40:46.468 61d Manual compaction at level-0 from '\x00\xb9\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xba\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:40:46.658 60e Level-0 table #527: started
+2025/11/06-13:40:46.663 60e Level-0 table #527: 22674 bytes OK
+2025/11/06-13:40:46.668 60e Delete type=0 #521
+2025/11/06-13:40:46.668 60e Manual compaction at level-0 from '\x00\xba\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xbb\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:40:53.174 61e Compacting 1@1 + 1@2 files
+2025/11/06-13:40:53.196 61e Generated table #528@1: 4469 keys, 281529 bytes
+2025/11/06-13:40:53.196 61e Compacted 1@1 + 1@2 files => 281529 bytes
+2025/11/06-13:40:53.200 61e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-13:40:53.859 61d Manual compaction at level-0 from '\x00\xbb\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xbc\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:40:54.693 60e Level-0 table #530: started
+2025/11/06-13:40:54.697 60e Level-0 table #530: 29735 bytes OK
+2025/11/06-13:40:54.700 60e Delete type=0 #526
+2025/11/06-13:40:54.700 60e Delete type=2 #527
+2025/11/06-13:40:54.700 60e Delete type=2 #524
+2025/11/06-13:40:54.702 60e Manual compaction at level-0 from '\x00\xbc\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xbd\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:40:54.849 61d Compacting 1@1 + 1@2 files
+2025/11/06-13:40:54.880 61d Generated table #531@1: 4557 keys, 288379 bytes
+2025/11/06-13:40:54.880 61d Compacted 1@1 + 1@2 files => 288379 bytes
+2025/11/06-13:40:54.883 61d compacted to: files[ 0 0 1 0 0 0 0 ]

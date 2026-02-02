@@ -1,0 +1,7 @@
+2025/11/13-15:15:11.971 5d0 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claim.beamable.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/13-15:15:11.971 5d0 Recovering log #3
+2025/11/13-15:15:11.972 5d0 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claim.beamable.network_0.indexeddb.leveldb/000003.log 
+2025/11/13-15:17:03.596 5c1 Level-0 table #5: started
+2025/11/13-15:17:03.598 5c1 Level-0 table #5: 8429 bytes OK
+2025/11/13-15:17:03.600 5c1 Delete type=0 #3
+2025/11/13-15:17:03.600 5c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

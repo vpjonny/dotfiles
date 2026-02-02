@@ -1,0 +1,14 @@
+2026/02/01-13:06:23.948 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.trex.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-13:06:23.949 664 Recovering log #449
+2026/02/01-13:06:23.950 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.trex.xyz_0.indexeddb.leveldb/000449.log 
+2026/02/01-13:06:23.950 664 Delete type=2 #447
+2026/02/01-13:06:26.665 677 Level-0 table #454: started
+2026/02/01-13:06:26.669 677 Level-0 table #454: 4944 bytes OK
+2026/02/01-13:06:26.672 677 Delete type=0 #449
+2026/02/01-13:06:26.673 677 Manual compaction at level-0 from '\x00w\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00x\x00\x00\x00' @ 0 : 0; will stop at '\x00w\x00\x00\x05' @ 18155 : 1
+2026/02/01-13:06:26.673 677 Compacting 1@0 + 1@1 files
+2026/02/01-13:06:26.677 677 Generated table #455@0: 316 keys, 4563 bytes
+2026/02/01-13:06:26.677 677 Compacted 1@0 + 1@1 files => 4563 bytes
+2026/02/01-13:06:26.679 677 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-13:06:26.680 677 Delete type=2 #454
+2026/02/01-13:06:26.680 664 Manual compaction at level-0 from '\x00w\x00\x00\x05' @ 18155 : 1 .. '\x00x\x00\x00\x00' @ 0 : 0; will stop at (end)

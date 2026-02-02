@@ -1,0 +1,6 @@
+2025/09/19-16:06:19.957 5fb Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.transient.xyz_0.indexeddb.leveldb since it was missing.
+2025/09/19-16:06:19.963 5fb Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.transient.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/19-16:07:25.457 5fa Level-0 table #5: started
+2025/09/19-16:07:25.460 5fa Level-0 table #5: 1145 bytes OK
+2025/09/19-16:07:25.462 5fa Delete type=0 #3
+2025/09/19-16:07:25.463 5fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

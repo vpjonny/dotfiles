@@ -1,0 +1,5 @@
+2025/12/26-15:10:56.233 82a Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zombiedefense.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/26-15:10:56.235 82a Recovering log #1977
+2025/12/26-15:10:56.280 82a Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zombiedefense.xyz_0.indexeddb.leveldb/001977.log 
+2025/12/26-15:17:25.169 82a Level-0 table #1982: started
+2025/12/26-15:17:25.325 82a Level-0 table #1982: 1062022 bytes OK

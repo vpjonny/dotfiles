@@ -1,0 +1,1079 @@
+GACHA MACHINE.webp
+size:2263,2263
+filter:Linear,Linear
+pma:true
+scale:0.18
+Arrow_01
+bounds:2247,1557,32,14
+rotate:90
+Arrow_02
+bounds:2247,1557,32,14
+rotate:90
+Cap_01_Base
+bounds:2,77,273,200
+rotate:90
+Cap_02_Base
+bounds:1749,2061,273,200
+Cap_03_Base
+bounds:230,1651,273,200
+rotate:90
+Cap_04_Base
+bounds:230,1376,273,200
+rotate:90
+Cap_05_Base
+bounds:255,919,273,200
+rotate:90
+Cap_05_Top
+bounds:432,1833,273,200
+Cap_Premium_base
+bounds:2,628,274,201
+rotate:90
+Cap_Premium_top
+bounds:2,352,274,201
+rotate:90
+Cap_screen_01
+bounds:707,1834,30,30
+Cap_screen_02
+bounds:1121,1659,30,30
+Cap_screen_03
+bounds:218,644,30,30
+Cap_small_01
+bounds:2209,570,52,53
+Cap_small_02
+bounds:2209,515,52,53
+Cap_small_03
+bounds:370,1980,53,53
+Cap_small_04
+bounds:370,1926,52,53
+rotate:90
+Cap_small_05
+bounds:1840,1135,52,53
+Cap_small_07
+bounds:2202,2026,52,53
+Cap_small_08
+bounds:1840,1080,52,53
+Cap_small_09
+bounds:2202,1917,52,52
+Cap_small_10
+bounds:1793,27,52,52
+Cap_small_11
+bounds:1847,27,52,52
+Cap_small_12
+bounds:160,23,52,52
+Cap_small_13
+bounds:2202,1971,52,53
+Cap_small_14
+bounds:2198,461,52,52
+Cap_small_15
+bounds:2169,152,52,52
+Cap_small_16
+bounds:2196,1753,52,52
+Cap_small_17
+bounds:2195,1699,52,52
+Cap_small_18
+bounds:2195,1645,52,52
+Cap_small_19
+bounds:2169,98,52,52
+Cap_small_20
+bounds:2195,1591,52,52
+Cap_small_21
+bounds:2193,1537,52,52
+Cap_small_22
+bounds:2193,1483,52,52
+Cap_small_23
+bounds:2196,1862,52,53
+Cap_small_24
+bounds:2191,1429,52,52
+Cap_small_Premium
+bounds:2196,1807,52,53
+Capsule_Chamber
+bounds:2,904,282,251
+rotate:90
+Coin_screen_01
+bounds:1594,1190,29,29
+Coin_screen_02
+bounds:391,594,29,29
+Coin_screen_03
+bounds:1949,571,29,29
+Crank
+bounds:1628,1761,119,119
+Gacha_Machine
+bounds:2,1557,226,367
+offsets:0,1,229,369
+Gacha_Machine_blue
+bounds:370,2035,226,367
+offsets:0,1,229,369
+rotate:90
+Gacha_Machine_cyan
+bounds:2,1188,226,367
+offsets:0,1,229,369
+Gacha_Machine_pink
+bounds:739,2035,226,367
+offsets:0,1,229,369
+rotate:90
+Int_drop_zone
+bounds:758,1117,77,64
+rotate:90
+Light_up
+bounds:205,357,269,5
+rotate:90
+Lights_Base
+bounds:1108,2095,323,166
+offsets:2,17,384,220
+Lights_L
+bounds:1657,1882,76,226
+offsets:0,0,77,226
+Lights_R
+bounds:218,676,76,226
+offsets:1,0,77,226
+Reflex_01
+bounds:2,1926,366,335
+offsets:0,23,369,369
+Reflex_02
+bounds:236,324,138,155
+offsets:102,112,369,369
+rotate:90
+Shine Lights L
+bounds:212,397,22,229
+offsets:1,1,80,231
+Shine Lights R
+bounds:204,121,22,229
+offsets:57,1,80,231
+Shine_Light_up
+bounds:205,628,274,11
+offsets:1,1,276,13
+rotate:90
+Shine_Lights_base
+bounds:1433,2110,314,151
+offsets:2,1,320,198
+VFX/COMMON/Idle/Capsule idlefx00
+bounds:1762,714,112,112
+offsets:16,8,144,129
+VFX/COMMON/Idle/Capsule idlefx01
+bounds:1635,596,106,107
+offsets:19,10,144,129
+VFX/COMMON/Idle/Capsule idlefx02
+bounds:1029,881,100,101
+offsets:22,12,144,129
+VFX/COMMON/Idle/Capsule idlefx03
+bounds:1030,673,98,99
+offsets:23,12,144,129
+rotate:90
+VFX/COMMON/Idle/Capsule idlefx04
+bounds:1527,43,94,94
+offsets:25,14,144,129
+VFX/COMMON/Idle/Capsule idlefx05
+bounds:1619,147,94,94
+offsets:25,12,144,129
+VFX/COMMON/Idle/Capsule idlefx06
+bounds:1623,51,94,94
+offsets:25,12,144,129
+VFX/COMMON/Idle/Capsule idlefx07
+bounds:1715,177,94,94
+offsets:25,11,144,129
+VFX/COMMON/Idle/Capsule idlefx08
+bounds:1911,85,90,91
+offsets:27,13,144,129
+VFX/COMMON/Idle/Capsule idlefx09
+bounds:1811,177,94,94
+offsets:25,11,144,129
+VFX/COMMON/Idle/Capsule idlefx10
+bounds:1907,178,94,94
+offsets:25,12,144,129
+VFX/COMMON/Idle/Capsule idlefx11
+bounds:1719,81,94,94
+offsets:25,12,144,129
+VFX/COMMON/Idle/Capsule idlefx12
+bounds:1815,81,94,94
+offsets:25,14,144,129
+VFX/COMMON/Idle/Capsule idlefx13
+bounds:2006,205,98,99
+offsets:23,12,144,129
+rotate:90
+VFX/COMMON/Idle/Capsule idlefx14
+bounds:1798,273,100,101
+offsets:22,12,144,129
+VFX/COMMON/Idle/Capsule idlefx15
+bounds:1734,487,106,107
+offsets:19,10,144,129
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00000
+bounds:2147,957,109,107
+offsets:79,79,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00001
+bounds:2147,957,109,107
+offsets:79,79,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00002
+bounds:1987,516,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00003
+bounds:1987,516,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00004
+bounds:2098,516,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00005
+bounds:2098,516,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00006
+bounds:1524,596,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00007
+bounds:1524,596,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00008
+bounds:1623,487,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00009
+bounds:1623,487,109,107
+offsets:79,79,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00010
+bounds:1690,376,109,107
+offsets:79,79,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00011
+bounds:1690,376,109,107
+offsets:79,79,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00012
+bounds:1980,408,107,106
+offsets:81,80,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00013
+bounds:1980,408,107,106
+offsets:81,80,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00014
+bounds:1900,274,104,105
+offsets:84,80,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00015
+bounds:1900,274,104,105
+offsets:84,80,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00016
+bounds:2006,305,99,101
+offsets:84,82,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00017
+bounds:2006,305,99,101
+offsets:84,82,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00018
+bounds:1575,243,96,95
+offsets:87,84,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00019
+bounds:1575,243,96,95
+offsets:87,84,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00020
+bounds:1331,122,89,89
+offsets:90,88,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00021
+bounds:1331,122,89,89
+offsets:90,88,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00022
+bounds:2003,119,84,84
+offsets:92,89,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00023
+bounds:2003,119,84,84
+offsets:92,89,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00024
+bounds:2003,39,82,78
+offsets:94,92,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00025
+bounds:2003,39,82,78
+offsets:94,92,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00026
+bounds:2,2,78,73
+offsets:92,94,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00027
+bounds:2,2,78,73
+offsets:92,94,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00028
+bounds:82,6,76,69
+offsets:96,96,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00029
+bounds:82,6,76,69
+offsets:96,96,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00030
+bounds:1719,10,72,69
+offsets:100,96,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00031
+bounds:1719,10,72,69
+offsets:100,96,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00032
+bounds:2089,125,78,78
+offsets:98,92,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00033
+bounds:2089,125,78,78
+offsets:98,92,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00034
+bounds:230,1194,180,265
+offsets:44,0,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00035
+bounds:230,1194,180,265
+offsets:44,0,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00036
+bounds:432,1566,180,265
+offsets:44,0,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00037
+bounds:432,1566,180,265
+offsets:44,0,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00038
+bounds:966,1650,153,214
+offsets:57,23,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00039
+bounds:966,1650,153,214
+offsets:57,23,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00040
+bounds:965,1866,151,167
+offsets:57,44,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00041
+bounds:965,1866,151,167
+offsets:57,44,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00042
+bounds:981,1265,169,175
+offsets:51,35,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00043
+bounds:981,1265,169,175
+offsets:51,35,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00044
+bounds:1160,1509,180,140
+offsets:44,51,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00045
+bounds:1160,1509,180,140
+offsets:44,51,270,270
+rotate:90
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00046
+bounds:981,1098,15,15
+offsets:129,130,270,270
+VFX/COMMON/Open/Capsule Open/Capsule_Open_Common00047
+bounds:981,1098,15,15
+offsets:129,130,270,270
+VFX/EPIC/Idle/IDDLE_EPIC0000
+bounds:1160,1373,134,141
+offsets:23,67,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0001
+bounds:639,907,128,138
+offsets:26,70,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0002
+bounds:617,580,122,137
+offsets:29,72,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0003
+bounds:1412,952,118,136
+offsets:31,72,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0004
+bounds:1550,951,114,119
+offsets:33,74,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0005
+bounds:1646,706,114,120
+offsets:33,72,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0006
+bounds:1772,829,115,119
+offsets:32,72,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0007
+bounds:1594,1072,116,119
+offsets:31,71,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0008
+bounds:1789,950,114,120
+offsets:30,73,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0009
+bounds:1037,2,118,123
+offsets:29,71,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0010
+bounds:1286,2,118,119
+offsets:29,72,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0011
+bounds:1162,2,118,122
+offsets:29,72,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0012
+bounds:1101,373,118,124
+offsets:29,74,180,270
+rotate:90
+VFX/EPIC/Idle/IDDLE_EPIC0013
+bounds:907,824,120,127
+offsets:29,72,180,270
+VFX/EPIC/Idle/IDDLE_EPIC0014
+bounds:1131,977,122,138
+offsets:29,72,180,270
+rotate:90
+VFX/EPIC/Open/Epic_open0000
+bounds:769,825,128,136
+offsets:26,70,180,270
+rotate:90
+VFX/EPIC/Open/Epic_open0001
+bounds:541,272,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0002
+bounds:1465,1370,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0003
+bounds:1462,1221,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0004
+bounds:690,272,147,148
+offsets:18,59,180,270
+VFX/EPIC/Open/Epic_open0005
+bounds:831,1098,147,148
+offsets:18,59,180,270
+rotate:90
+VFX/EPIC/Open/Epic_open0006
+bounds:1445,1072,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0007
+bounds:1897,1589,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0008
+bounds:2046,1627,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0009
+bounds:1614,1376,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0010
+bounds:1896,1440,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0011
+bounds:981,1115,148,148
+offsets:17,59,180,270
+VFX/EPIC/Open/Epic_open0012
+bounds:769,955,141,141
+offsets:21,63,180,270
+VFX/EPIC/Open/Epic_open0013
+bounds:680,127,136,143
+offsets:23,65,180,270
+VFX/EPIC/Open/Epic_open0014
+bounds:839,297,129,129
+offsets:29,68,180,270
+VFX/EPIC/Open/Epic_open0015
+bounds:1099,248,124,123
+offsets:29,71,180,270
+VFX/EPIC/Open/Epic_open0016
+bounds:1095,122,124,124
+offsets:31,70,180,270
+VFX/EPIC/Open/Epic_open0017
+bounds:1227,350,124,124
+offsets:31,70,180,270
+VFX/EPIC/Open/Epic_open0018
+bounds:432,1384,180,190
+offsets:0,42,180,270
+rotate:90
+VFX/EPIC/Open/Epic_open0019
+bounds:978,1442,180,206
+offsets:0,32,180,270
+VFX/EPIC/Open/Epic_open0020
+bounds:1475,1918,180,190
+offsets:0,46,180,270
+VFX/EPIC/Open/Epic_open0021
+bounds:1118,1898,180,195
+offsets:0,44,180,270
+VFX/EPIC/Open/Epic_open0022
+bounds:296,758,153,159
+offsets:16,60,180,270
+VFX/EPIC/Open/Epic_open0023
+bounds:1896,1291,147,147
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0024
+bounds:1749,1742,146,146
+offsets:18,60,180,270
+VFX/EPIC/Open/Epic_open0025
+bounds:1749,1594,146,146
+offsets:18,60,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0000
+bounds:1152,1231,140,149
+offsets:26,57,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0001
+bounds:1470,1640,150,138
+offsets:26,66,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0002
+bounds:1897,1738,144,139
+offsets:20,70,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0003
+bounds:1303,1372,160,141
+offsets:8,75,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0004
+bounds:1897,1879,180,144
+offsets:0,74,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0005
+bounds:457,861,166,137
+offsets:4,82,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0006
+bounds:393,324,146,140
+offsets:13,82,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0007
+bounds:1261,603,127,110
+offsets:22,81,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0008
+bounds:1905,921,107,119
+offsets:35,83,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0009
+bounds:391,466,112,148
+offsets:31,76,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0010
+bounds:1131,1101,128,155
+offsets:21,70,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0011
+bounds:896,694,128,132
+offsets:14,67,180,270
+rotate:90
+VFX/LEGENDARY/Idle/Capsule idlefx backup0012
+bounds:618,719,139,140
+offsets:1,60,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0013
+bounds:2046,1485,145,140
+offsets:0,55,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0014
+bounds:818,127,147,143
+offsets:1,51,180,270
+VFX/LEGENDARY/Idle/Capsule idlefx backup0015
+bounds:381,163,139,159
+offsets:14,40,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0000
+bounds:1763,1453,131,139
+offsets:28,61,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0001
+bounds:1763,1324,131,127
+offsets:28,72,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0002
+bounds:1395,828,129,122
+offsets:28,72,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0003
+bounds:1131,859,130,116
+offsets:23,73,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0004
+bounds:759,699,135,124
+offsets:20,67,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0005
+bounds:2026,848,120,107
+offsets:29,77,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0006
+bounds:2045,1338,144,145
+offsets:14,61,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0007
+bounds:2045,1191,144,145
+offsets:14,61,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0008
+bounds:1763,1190,131,132
+offsets:21,67,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0009
+bounds:993,544,127,128
+offsets:23,69,180,270
+rotate:90
+VFX/LEGENDARY/Open/OPEN LEGENDARY0010
+bounds:971,418,128,124
+offsets:24,71,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0011
+bounds:522,127,143,156
+offsets:25,70,180,270
+rotate:90
+VFX/LEGENDARY/Open/OPEN LEGENDARY0012
+bounds:1225,228,120,124
+offsets:26,70,180,270
+rotate:90
+VFX/LEGENDARY/Open/OPEN LEGENDARY0013
+bounds:1524,705,120,121
+offsets:26,73,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0014
+bounds:1666,950,120,121
+offsets:26,73,180,270
+rotate:90
+VFX/LEGENDARY/Open/OPEN LEGENDARY0015
+bounds:451,580,137,164
+offsets:22,53,180,270
+rotate:90
+VFX/LEGENDARY/Open/OPEN LEGENDARY0016
+bounds:831,1247,148,181
+offsets:17,46,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0017
+bounds:497,1192,157,190
+offsets:13,42,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0018
+bounds:1121,1691,170,205
+offsets:6,35,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0019
+bounds:624,1392,176,210
+offsets:3,32,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0020
+bounds:802,1430,174,207
+offsets:4,34,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0021
+bounds:1101,493,18,18
+offsets:83,131,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0022
+bounds:741,701,16,16
+offsets:84,132,180,270
+VFX/LEGENDARY/Open/OPEN LEGENDARY0023
+bounds:1271,1084,15,15
+offsets:85,132,180,270
+VFX/RARE/Idle/Capsule idlefx backup0000
+bounds:2107,307,92,100
+offsets:43,78,180,270
+VFX/RARE/Idle/Capsule idlefx backup0001
+bounds:1876,705,110,112
+offsets:35,78,180,270
+rotate:90
+VFX/RARE/Idle/Capsule idlefx backup0002
+bounds:1221,122,104,108
+offsets:38,79,180,270
+rotate:90
+VFX/RARE/Idle/Capsule idlefx backup0003
+bounds:1505,463,111,116
+offsets:34,76,180,270
+rotate:90
+VFX/RARE/Idle/Capsule idlefx backup0004
+bounds:782,2,126,123
+offsets:28,72,180,270
+VFX/RARE/Idle/Capsule idlefx backup0005
+bounds:371,2,140,159
+offsets:22,45,180,270
+VFX/RARE/Idle/Capsule idlefx backup0006
+bounds:1303,1221,149,157
+offsets:17,57,180,270
+rotate:90
+VFX/RARE/Idle/Capsule idlefx backup0007
+bounds:2043,1921,157,158
+offsets:10,57,180,270
+VFX/RARE/Idle/Capsule idlefx backup0008
+bounds:296,625,153,131
+offsets:14,81,180,270
+VFX/RARE/Idle/Capsule idlefx backup0009
+bounds:2107,206,99,97
+offsets:38,79,180,270
+rotate:90
+VFX/RARE/Idle/Capsule idlefx backup0010
+bounds:1690,273,106,101
+offsets:35,78,180,270
+VFX/RARE/Idle/Capsule idlefx backup0011
+bounds:1889,817,121,102
+offsets:28,79,180,270
+VFX/RARE/Idle/Capsule idlefx backup0012
+bounds:1610,1525,136,108
+offsets:18,79,180,270
+VFX/RARE/Idle/Capsule idlefx backup0013
+bounds:513,2,138,123
+offsets:24,69,180,270
+VFX/RARE/Idle/Capsule idlefx backup0014
+bounds:2045,1068,144,121
+offsets:19,79,180,270
+VFX/RARE/Idle/Capsule idlefx backup0015
+bounds:1288,1083,155,136
+offsets:16,77,180,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00000
+bounds:1650,828,120,120
+offsets:75,75,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00001
+bounds:1650,828,120,120
+offsets:75,75,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00002
+bounds:1353,337,124,124
+offsets:73,72,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00003
+bounds:1353,337,124,124
+offsets:73,72,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00004
+bounds:228,163,151,159
+offsets:58,56,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00005
+bounds:228,163,151,159
+offsets:58,56,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00006
+bounds:689,422,148,156
+offsets:62,57,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00007
+bounds:689,422,148,156
+offsets:62,57,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00008
+bounds:228,2,141,159
+offsets:66,45,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00009
+bounds:228,2,141,159
+offsets:66,45,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00010
+bounds:839,428,130,130
+offsets:70,70,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00011
+bounds:839,428,130,130
+offsets:70,70,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00012
+bounds:1622,1635,124,125
+offsets:74,73,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00013
+bounds:1622,1635,124,125
+offsets:74,73,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00014
+bounds:1351,213,122,123
+offsets:76,73,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00015
+bounds:1351,213,122,123
+offsets:76,73,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00016
+bounds:1407,2,118,118
+offsets:77,76,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00017
+bounds:1407,2,118,118
+offsets:77,76,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00018
+bounds:1990,625,110,111
+offsets:81,79,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00019
+bounds:1990,625,110,111
+offsets:81,79,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00020
+bounds:236,464,153,159
+offsets:57,50,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00021
+bounds:236,464,153,159
+offsets:57,50,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00022
+bounds:541,421,146,157
+offsets:63,51,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00023
+bounds:541,421,146,157
+offsets:63,51,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00024
+bounds:451,719,140,165
+offsets:67,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00025
+bounds:451,719,140,165
+offsets:67,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00026
+bounds:1251,476,125,125
+offsets:73,71,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00027
+bounds:1251,476,125,125
+offsets:73,71,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00028
+bounds:1030,773,99,106
+offsets:87,79,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00029
+bounds:1030,773,99,106
+offsets:87,79,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00030
+bounds:1422,123,88,103
+offsets:93,74,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00031
+bounds:1422,123,88,103
+offsets:93,74,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00032
+bounds:614,1604,180,227
+offsets:45,24,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00033
+bounds:614,1604,180,227
+offsets:45,24,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00034
+bounds:2024,2081,180,232
+offsets:45,20,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00035
+bounds:2024,2081,180,232
+offsets:45,20,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00036
+bounds:656,1196,173,194
+offsets:49,42,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00037
+bounds:656,1196,173,194
+offsets:49,42,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00038
+bounds:1302,1515,157,179
+offsets:58,43,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00039
+bounds:1302,1515,157,179
+offsets:58,43,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00040
+bounds:1614,1231,143,147
+offsets:65,47,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00041
+bounds:1614,1231,143,147
+offsets:65,47,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00042
+bounds:2043,1776,151,143
+offsets:61,49,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00043
+bounds:2043,1776,151,143
+offsets:61,49,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00044
+bounds:1896,1147,147,142
+offsets:62,49,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00045
+bounds:1896,1147,147,142
+offsets:62,49,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00046
+bounds:1475,1780,151,136
+offsets:61,52,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00047
+bounds:1475,1780,151,136
+offsets:61,52,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00048
+bounds:1461,1519,147,119
+offsets:63,59,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00049
+bounds:1461,1519,147,119
+offsets:63,59,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00050
+bounds:639,1047,143,117
+offsets:65,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00051
+bounds:639,1047,143,117
+offsets:65,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00052
+bounds:912,953,143,114
+offsets:65,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00053
+bounds:912,953,143,114
+offsets:65,61,270,270
+rotate:90
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00054
+bounds:1271,975,139,106
+offsets:67,63,270,270
+VFX/RARE/Open/Capsule Open/Capsule_Open_Rare00055
+bounds:1271,975,139,106
+offsets:67,63,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00000
+bounds:910,2,125,123
+offsets:72,72,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00001
+bounds:910,2,125,123
+offsets:72,72,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00002
+bounds:1131,731,129,126
+offsets:70,70,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00003
+bounds:1131,731,129,126
+offsets:70,70,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00004
+bounds:858,560,132,133
+offsets:69,66,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00005
+bounds:858,560,132,133
+offsets:69,66,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00006
+bounds:1262,715,128,129
+offsets:71,69,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00007
+bounds:1262,715,128,129
+offsets:71,69,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00008
+bounds:1263,845,128,130
+offsets:71,70,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00009
+bounds:1263,845,128,130
+offsets:71,70,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00010
+bounds:1393,698,128,129
+offsets:71,71,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00011
+bounds:1393,698,128,129
+offsets:71,71,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00012
+bounds:970,289,127,127
+offsets:71,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00013
+bounds:970,289,127,127
+offsets:71,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00014
+bounds:967,162,126,125
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00015
+bounds:967,162,126,125
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00016
+bounds:653,2,127,123
+offsets:71,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00017
+bounds:653,2,127,123
+offsets:71,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00018
+bounds:1390,576,126,120
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00019
+bounds:1390,576,126,120
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00020
+bounds:1123,493,126,119
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00021
+bounds:1123,493,126,119
+offsets:72,71,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00022
+bounds:1715,1072,123,116
+offsets:73,73,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00023
+bounds:1715,1072,123,116
+offsets:73,73,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00024
+bounds:2012,737,115,109
+offsets:77,77,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00025
+bounds:2012,737,115,109
+offsets:77,77,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00026
+bounds:1527,139,96,90
+offsets:87,86,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00027
+bounds:1527,139,96,90
+offsets:87,86,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00028
+bounds:1888,381,108,90
+offsets:81,86,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00029
+bounds:1888,381,108,90
+offsets:81,86,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00030
+bounds:1799,376,109,87
+offsets:80,89,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00031
+bounds:1799,376,109,87
+offsets:80,89,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00032
+bounds:1476,237,98,97
+offsets:88,84,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00033
+bounds:1476,237,98,97
+offsets:88,84,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00034
+bounds:1735,1890,160,169
+offsets:56,57,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00035
+bounds:1735,1890,160,169
+offsets:56,57,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00036
+bounds:707,1866,167,256
+offsets:52,9,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00037
+bounds:707,1866,167,256
+offsets:52,9,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00038
+bounds:796,1639,168,225
+offsets:51,24,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00039
+bounds:796,1639,168,225
+offsets:51,24,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00040
+bounds:1300,1898,173,195
+offsets:49,44,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00041
+bounds:1300,1898,173,195
+offsets:49,44,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00042
+bounds:457,1000,180,190
+offsets:45,48,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00043
+bounds:457,1000,180,190
+offsets:45,48,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00044
+bounds:1293,1696,175,200
+offsets:45,43,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00045
+bounds:1293,1696,175,200
+offsets:45,43,270,270
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00046
+bounds:967,127,33,32
+offsets:120,120,270,270
+rotate:90
+VFX/UNCOMMON/Capsule Open/Capsule _Open_Uncommon00047
+bounds:967,127,33,32
+offsets:120,120,270,270
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx00
+bounds:1526,828,122,121
+offsets:10,3,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx01
+bounds:1905,1030,115,115
+offsets:15,6,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx02
+bounds:1131,614,128,115
+offsets:7,2,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx03
+bounds:2148,847,108,113
+offsets:19,1,144,129
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx04
+bounds:2103,625,109,109
+offsets:19,2,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx05
+bounds:1479,340,121,101
+offsets:20,8,144,129
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx06
+bounds:1875,602,110,101
+offsets:21,8,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx07
+bounds:1842,491,105,109
+offsets:21,0,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx08
+bounds:2089,409,105,107
+offsets:23,0,144,129
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx09
+bounds:2026,957,119,109
+offsets:17,0,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx10
+bounds:1762,607,111,105
+offsets:19,4,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx11
+bounds:1028,984,129,101
+offsets:2,8,144,129
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx12
+bounds:1378,463,125,111
+offsets:7,0,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx13
+bounds:1582,340,121,106
+offsets:16,8,144,129
+rotate:90
+VFX/UNCOMMON/Idle/Uncommonidlefx14
+bounds:2129,736,115,109
+offsets:14,8,144,129
+VFX/UNCOMMON/Idle/Uncommonidlefx15
+bounds:741,580,117,115
+offsets:12,6,144,129
+rotate:90
+Veggie_screen_01
+bounds:1101,513,20,29
+Veggie_screen_02
+bounds:839,272,23,26
+rotate:90
+Veggie_screen_03
+bounds:802,1402,24,26

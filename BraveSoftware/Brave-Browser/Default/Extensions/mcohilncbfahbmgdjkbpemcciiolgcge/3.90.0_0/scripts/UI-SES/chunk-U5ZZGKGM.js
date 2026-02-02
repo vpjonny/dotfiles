@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-WFJJHRZ4.js";import{l as n,m as s}from"./chunk-L3SRMZJF.js";import{n as e,p as r}from"./chunk-N62DF26F.js";e();r();async function u(){return!!(navigator.credentials&&!!navigator.credentials.create&&t()!==s&&t()!==n)}async function p(){if(PublicKeyCredential&&!!PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable)try{if(await PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable())return!0}catch{return!1}return!1}e();r();export{u as a,p as b};
+//# sourceMappingURL=chunk-U5ZZGKGM.js.map

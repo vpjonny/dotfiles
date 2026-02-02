@@ -1,0 +1,6218 @@
+{
+   "App_version_copied": {
+      "message": "應用程式版本已複製"
+   },
+   "Back_up_now": {
+      "message": "立即備份"
+   },
+   "Change": {
+      "message": "更改"
+   },
+   "Change_password": {
+      "message": "更改密碼"
+   },
+   "ConfirmPassword": {
+      "message": "重新輸入密碼"
+   },
+   "Copy": {
+      "message": "複製"
+   },
+   "Copy_address": {
+      "message": "複製地址"
+   },
+   "Create_password": {
+      "message": "建立密碼"
+   },
+   "Cut": {
+      "message": "剪下"
+   },
+   "Delete_all_accounts_and_logout": {
+      "message": "刪除所有帳戶並登出"
+   },
+   "Delete_keystone_wallet_data_description": {
+      "message": "錢包數據和所有個人數據將從此設備中刪除。"
+   },
+   "Delete_wallet_data": {
+      "message": "刪除錢包數據"
+   },
+   "Delete_wallet_data_description": {
+      "message": "錢包密鑰和所有個人數據將從此設備中刪除。"
+   },
+   "Edit": {
+      "message": "編輯"
+   },
+   "I_have_a_backup_copy_of_recovery_phrase": {
+      "message": "我有一份助記詞的備份"
+   },
+   "IncorrectCurrentPassword": {
+      "message": "當前密碼不正確。"
+   },
+   "Localization": {
+      "message": "語言"
+   },
+   "Lock_screen": {
+      "message": "鎖定螢幕"
+   },
+   "Manage": {
+      "message": "管理"
+   },
+   "Manage_wallets": {
+      "message": "管理錢包"
+   },
+   "MinPassword": {
+      "message": "必須至少包含 6 個字元。"
+   },
+   "Minimize": {
+      "message": "最小化"
+   },
+   "NFT_collection_id": {
+      "message": "NFT 收藏 ID"
+   },
+   "NFT_creation": {
+      "message": "NFT 創建"
+   },
+   "NFT_item_id": {
+      "message": "NFT 物品 ID"
+   },
+   "Name_your_wallet": {
+      "message": "命名你的錢包"
+   },
+   "Name_your_wallet_description": {
+      "message": "為您的錢包命名，以便在使用 Tonkeeper 時輕鬆識別。這些名稱存儲在本地，只有您可以看到。"
+   },
+   "Old_password": {
+      "message": "當前密碼"
+   },
+   "Password": {
+      "message": "密碼"
+   },
+   "PasswordChanged": {
+      "message": "密碼已更改"
+   },
+   "PasswordDoNotMatch": {
+      "message": "密碼不匹配。"
+   },
+   "Redo": {
+      "message": "取消復原"
+   },
+   "Reload": {
+      "message": "重新載入"
+   },
+   "Rename": {
+      "message": "重新命名"
+   },
+   "Ton_page_description": {
+      "message": "TON 是由 Telegram 設計的完全去中心化的第一層區塊鏈，由於它擁有超快的交易速度、極低的費用、易於使用的應用程序，而且對環境友好，吸引了數十億用戶。"
+   },
+   "Toncoin": {
+      "message": "Toncoin"
+   },
+   "Undo": {
+      "message": "復原"
+   },
+   "Unexpected_QR_Code": {
+      "message": "出現未預期的二維碼"
+   },
+   "Unlock": {
+      "message": "解鎖"
+   },
+   "View": {
+      "message": "查看"
+   },
+   "Wallet_name": {
+      "message": "錢包名稱"
+   },
+   "Window": {
+      "message": "視窗"
+   },
+   "about_tonkeeper_pro": {
+      "message": "關於 Tonkeeper Pro"
+   },
+   "account_is_already_added_action": {
+      "message": "打開錢包"
+   },
+   "account_is_already_added_label": {
+      "message": "此錢包已添加為"
+   },
+   "accounts_delete_folder": {
+      "message": "取消群組資料夾"
+   },
+   "accounts_manage_folder": {
+      "message": "編輯資料夾"
+   },
+   "accounts_manage_folder_move_from_other": {
+      "message": "從其他資料夾移動"
+   },
+   "accounts_manage_folder_name": {
+      "message": "資料夾名稱"
+   },
+   "accounts_new_folder": {
+      "message": "新資料夾"
+   },
+   "actionTitle": {
+      "message": "打開 錢包"
+   },
+   "action_fee_details_free_pro_transfer": {
+      "message": "Pro 訂閱者 免費轉賬"
+   },
+   "activate": {
+      "message": "啟用"
+   },
+   "active": {
+      "message": "活躍"
+   },
+   "activityActionModal_withdrawal_request": {
+      "message": "請求解除質押"
+   },
+   "activity_empty_reset_filters_button": {
+      "message": "重設篩選器"
+   },
+   "activity_empty_reset_filters_description": {
+      "message": "由於已套用的篩選條件，某些歷史項目可能無法顯示"
+   },
+   "activity_empty_reset_filters_title": {
+      "message": "未找到歷史項目"
+   },
+   "activity_empty_transaction_caption": {
+      "message": "進行您的第一筆交易！"
+   },
+   "activity_empty_transaction_title": {
+      "message": "您的歷史活動將在此顯示"
+   },
+   "activity_failed_transaction": {
+      "message": "失敗"
+   },
+   "activity_screen_title": {
+      "message": "歷史活動"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "add_by_sk_fireblocks_title": {
+      "message": "以 Fireblocks 私鑰的帳戶"
+   },
+   "add_by_sk_title": {
+      "message": "透過私鑰帳戶"
+   },
+   "add_dns_address": {
+      "message": "新增錢包地址，域名 %1% 將連結到該地址。"
+   },
+   "add_edit_favorite_add_title": {
+      "message": "新的收藏"
+   },
+   "add_edit_favorite_address_label": {
+      "message": "地址"
+   },
+   "add_edit_favorite_delete": {
+      "message": "刪除"
+   },
+   "add_edit_favorite_edit_title": {
+      "message": "編輯收藏"
+   },
+   "add_edit_favorite_name_placeholder": {
+      "message": "名稱"
+   },
+   "add_edit_favorite_save": {
+      "message": "儲存"
+   },
+   "add_wallet": {
+      "message": "添加錢包"
+   },
+   "add_wallet_group_hardware_title": {
+      "message": "硬體錢包"
+   },
+   "add_wallet_group_other_options": {
+      "message": "其他選項"
+   },
+   "add_wallet_modal_fireblocks_description": {
+      "message": "從 Fireblocks 匯入現有金鑰以存取您的錢包"
+   },
+   "add_wallet_modal_fireblocks_title": {
+      "message": "從 Fireblocks 匯入"
+   },
+   "add_wallet_modal_mam_subtitle": {
+      "message": "使用單一的秘密助記詞管理多個錢包"
+   },
+   "add_wallet_modal_mam_title": {
+      "message": "新增多重錢包帳戶"
+   },
+   "add_wallet_modal_testnet_subtitle": {
+      "message": "使用24個助記詞導入測試網錢包"
+   },
+   "add_wallet_modal_testnet_title": {
+      "message": "測試網帳戶"
+   },
+   "add_wallet_modal_watch_only_subtitle": {
+      "message": "在無助記詞的情況下監控錢包活動"
+   },
+   "add_wallet_modal_watch_only_title": {
+      "message": "觀察帳戶"
+   },
+   "add_wallet_new_multisig_description": {
+      "message": "用於共同管理和保護加密貨幣資金"
+   },
+   "add_wallet_new_multisig_title": {
+      "message": "新增多重簽名錢包"
+   },
+   "add_watch_only_title": {
+      "message": "觀察帳戶"
+   },
+   "address_copied": {
+      "message": "地址已複製"
+   },
+   "all_assets_jettons": {
+      "message": "所有資產"
+   },
+   "already_have_subscription": {
+      "message": "您的其中一個錢包上已經有一個有效的 Apple 應用程式內訂閱（ID: %{transactionId}）。如需存取 Pro，請使用該錢包登入。"
+   },
+   "and": {
+      "message": "和"
+   },
+   "appExtensionDescription": {
+      "message": "您的 延伸 錢包 在 The Open Network 上"
+   },
+   "appName": {
+      "message": "Tonkeeper"
+   },
+   "appTitle": {
+      "message": "Tonkeeper — TON 錢包"
+   },
+   "app_store": {
+      "message": "App Store 應用程式商店"
+   },
+   "approval_accepted": {
+      "message": "已接受"
+   },
+   "approval_declined": {
+      "message": "隱藏"
+   },
+   "approval_details_token": {
+      "message": "代幣詳情"
+   },
+   "approval_id_collection": {
+      "message": "收藏 ID"
+   },
+   "approval_id_token": {
+      "message": "代幣ID"
+   },
+   "approval_name": {
+      "message": "名稱"
+   },
+   "approval_not_spam": {
+      "message": "不是垃圾訊息"
+   },
+   "approval_spam": {
+      "message": "垃圾訊息"
+   },
+   "approval_unverified_token": {
+      "message": "未驗證的代幣"
+   },
+   "aside_add_wallet": {
+      "message": "添加錢包"
+   },
+   "aside_dashboard": {
+      "message": "儀表板"
+   },
+   "aside_discover": {
+      "message": "探索"
+   },
+   "aside_expires_on": {
+      "message": "於 %date% 過期"
+   },
+   "aside_header_number_wallets": {
+      "message": "%{number} 錢包"
+   },
+   "aside_pro_subscription_is_active": {
+      "message": "Pro 訂閱已啟用。"
+   },
+   "aside_pro_trial_is_active": {
+      "message": "Pro試用已啟用。"
+   },
+   "aside_settings": {
+      "message": "偏好設定"
+   },
+   "auto": {
+      "message": "自動"
+   },
+   "auto_renew": {
+      "message": "自動續訂"
+   },
+   "balances_setup_wallet": {
+      "message": "設定錢包"
+   },
+   "battery_buy_error_min": {
+      "message": "最小值：%{amount}"
+   },
+   "battery_buy_error_not_enough_balance": {
+      "message": "資金不足"
+   },
+   "battery_buy_remaining": {
+      "message": "剩餘：%{value}"
+   },
+   "battery_capabilities_description_web": {
+      "message": "轉帳USDT TRC20，通過Tonkeeper兌換，轉移NFT和代幣。"
+   },
+   "battery_capabilities_supported_transactions_label": {
+      "message": "支援的交易"
+   },
+   "battery_charges": {
+      "message": "%{charges} 次充能"
+   },
+   "battery_info_will_be_paid": {
+      "message": "將被支付：%{items}"
+   },
+   "battery_n_battery_charges": {
+      "message": "%{charges} 次電池充電"
+   },
+   "battery_other_ways_by_crypto_title": {
+      "message": "使用 %{symbol} 充電"
+   },
+   "battery_other_ways_gift_subtitle": {
+      "message": "與朋友分享"
+   },
+   "battery_other_ways_gift_title": {
+      "message": "電池禮物"
+   },
+   "battery_out_of_num_available": {
+      "message": "共 %{number} 個可用"
+   },
+   "battery_packages_disclaimer": {
+      "message": "一次充電涵蓋平均交易費用。某些交易可能會花費更多。"
+   },
+   "battery_please_wait": {
+      "message": "電池將在幾分鐘內充電"
+   },
+   "battery_promocode_title": {
+      "message": "優惠碼"
+   },
+   "battery_recharge_by_crypto_other_subtitle": {
+      "message": "手動輸入數量"
+   },
+   "battery_recharge_by_crypto_other_title": {
+      "message": "其他"
+   },
+   "battery_recharge_by_crypto_title": {
+      "message": "充電"
+   },
+   "battery_refunds_link": {
+      "message": "充值與退款記錄"
+   },
+   "battery_settings_nft_price": {
+      "message": "≈ 每次轉帳%{charges}次充電"
+   },
+   "battery_settings_nft_title": {
+      "message": "NFT轉移"
+   },
+   "battery_settings_swap_price": {
+      "message": "≈ 每次兌換 %{charges} 次充能"
+   },
+   "battery_settings_swap_title": {
+      "message": "透過Tonkeeper進行兌換"
+   },
+   "battery_settings_token_transfer_price": {
+      "message": "≈ 每次轉帳%{charges}筆手續費"
+   },
+   "battery_settings_token_transfer_title": {
+      "message": "代幣轉帳"
+   },
+   "battery_settings_trc20_transfer_disclamer": {
+      "message": "對於 USDT TRC20 交易，電池電量值可能會因各種市場因素而大幅波動。"
+   },
+   "battery_settings_trc20_transfer_title": {
+      "message": "USDT TRC20 轉帳價格"
+   },
+   "battery_title": {
+      "message": "Tonkeeper 電池"
+   },
+   "battery_transactions_description": {
+      "message": "選定的交易將由 Tonkeeper 電池支付。"
+   },
+   "battery_transactions_settings": {
+      "message": "電池設定"
+   },
+   "battery_transactions_title": {
+      "message": "交易"
+   },
+   "battery_transactions_type_swap": {
+      "message": "兌換"
+   },
+   "battery_transactions_type_transfer": {
+      "message": "轉移"
+   },
+   "battery_transactions_type_usdt_trc20_transfer": {
+      "message": "USDT TRC20 轉帳"
+   },
+   "battery_transactions_types_nft": {
+      "message": "NFT 轉移"
+   },
+   "biometry_default": {
+      "message": "生物識別"
+   },
+   "biometry_ios_fingerprint": {
+      "message": "指紋識別"
+   },
+   "bring_all_to_front": {
+      "message": "將所有置於頂層"
+   },
+   "browser_actions_copy_link": {
+      "message": "複製連結"
+   },
+   "browser_actions_pin": {
+      "message": "置頂"
+   },
+   "browser_actions_refresh": {
+      "message": "重新整理"
+   },
+   "browser_actions_share": {
+      "message": "分享"
+   },
+   "browser_actions_unpin": {
+      "message": "取消固定"
+   },
+   "browser_apps_all": {
+      "message": "全部"
+   },
+   "browser_connected": {
+      "message": "已連接"
+   },
+   "browser_new_tab": {
+      "message": "新分頁"
+   },
+   "browser_search": {
+      "message": "搜尋"
+   },
+   "browser_title": {
+      "message": "瀏覽器"
+   },
+   "browser_using_wallet": {
+      "message": "正在使用"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancel_failed": {
+      "message": "取消訂閱失敗！"
+   },
+   "cancel_subscription": {
+      "message": "取消訂閱"
+   },
+   "canceled": {
+      "message": "已取消"
+   },
+   "cancelling": {
+      "message": "正在取消"
+   },
+   "chains_title": {
+      "message": "區塊鏈"
+   },
+   "check_words_caption": {
+      "message": "為了檢查您是否正確寫下了助記詞，請輸入第 %1%、%2% 和 %3% 個單詞。"
+   },
+   "check_words_success": {
+      "message": "恭喜！您已設置好您的錢包"
+   },
+   "check_words_title": {
+      "message": "那麼，讓我們檢查一下"
+   },
+   "choose_another_wallet": {
+      "message": "選擇另一個錢包"
+   },
+   "choose_billing_description": {
+      "message": "選擇每月或每年計費。兩者皆包含所有專業功能。"
+   },
+   "choose_wallet_for_pro": {
+      "message": "選擇 Pro 的錢包"
+   },
+   "choose_wallets_subtitle": {
+      "message": "選擇您想要添加的錢包。"
+   },
+   "choose_wallets_title": {
+      "message": "選擇錢包"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "collectibles_empty_header": {
+      "message": "您的收藏品將在此顯示"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "confirmSendModal_wallet": {
+      "message": "錢包:"
+   },
+   "confirm_action": {
+      "message": "確認操作"
+   },
+   "confirm_disable_two_fa_description": {
+      "message": "停用雙重驗證（2FA）會降低錢包安全性。任何擁有您的恢復助記詞的人都能完全控制您的錢包。"
+   },
+   "confirm_disable_two_fa_ok_button": {
+      "message": "將2FA停用請求發送到您的Telegram"
+   },
+   "confirm_disable_two_fa_title": {
+      "message": "要停用雙重驗證嗎？"
+   },
+   "confirm_discard_btn_continue_editing": {
+      "message": "繼續編輯"
+   },
+   "confirm_discard_btn_discard": {
+      "message": "捨棄變更"
+   },
+   "confirm_discard_description": {
+      "message": "您有未儲存的變更。如果您關閉此視窗，您的進度將會遺失。您要繼續嗎？"
+   },
+   "confirm_discard_title": {
+      "message": "您確定要離開嗎？"
+   },
+   "confirm_error_insufficient_balance_light": {
+      "message": "餘額不足"
+   },
+   "confirm_error_insufficient_battery_balance": {
+      "message": "Tonkeeper Battery 餘額不足"
+   },
+   "confirm_error_insufficient_host_wallet_balance": {
+      "message": "多簽簽名錢包 %{wallet} 餘額不足以支付區塊鏈手續費。最低所需餘額為 0.5 TON。"
+   },
+   "confirm_modal_transfer": {
+      "message": "轉移"
+   },
+   "confirm_sending_fee": {
+      "message": "費用"
+   },
+   "confirm_sending_sign": {
+      "message": "簽名"
+   },
+   "confirm_sending_submit": {
+      "message": "確認並發送"
+   },
+   "confirm_sending_title": {
+      "message": "確認發送"
+   },
+   "confirm_unlink": {
+      "message": "確認取消連結"
+   },
+   "confirm_view_fee_row_free_pro_subtitle": {
+      "message": "給 Pro 訂閱者"
+   },
+   "connect_telegram": {
+      "message": "連接 Telegram"
+   },
+   "connect_wallet": {
+      "message": "連接錢包"
+   },
+   "connected_apps_short": {
+      "message": "已連接的應用程式"
+   },
+   "contact_support": {
+      "message": "聯繫支援"
+   },
+   "continue": {
+      "message": "繼續"
+   },
+   "continue_for": {
+      "message": "繼續用於"
+   },
+   "continue_from": {
+      "message": "繼續從"
+   },
+   "continue_with_tonkeeper_pro": {
+      "message": "繼續使用 Tonkeeper Pro"
+   },
+   "copied": {
+      "message": "已複製"
+   },
+   "country": {
+      "message": "國家"
+   },
+   "create": {
+      "message": "建立"
+   },
+   "create_encryption_key": {
+      "message": "建立加密金鑰"
+   },
+   "create_encryption_key_description": {
+      "message": "要開始您的訂閱，請建立一組加密金鑰。請以您的密碼或生物辨識資訊確認。"
+   },
+   "create_multisig_add_participant": {
+      "message": "新增參與者"
+   },
+   "create_multisig_await_deployment_description": {
+      "message": "這可能需要幾分鐘。"
+   },
+   "create_multisig_await_deployment_help_explorer_button": {
+      "message": "在區塊瀏覽器上查看合約"
+   },
+   "create_multisig_await_deployment_help_support_button": {
+      "message": "獲取幫助"
+   },
+   "create_multisig_await_deployment_help_title": {
+      "message": "什麼都沒發生？"
+   },
+   "create_multisig_await_deployment_title": {
+      "message": "正在等待您的錢包部署"
+   },
+   "create_multisig_can_change_hint": {
+      "message": "您可以隨時更改參與者的數量、他們的角色以及成功交易所需的簽名數量。"
+   },
+   "create_multisig_create_wallet": {
+      "message": "創建錢包"
+   },
+   "create_multisig_duplicated_address_error": {
+      "message": "地址已經被添加"
+   },
+   "create_multisig_error_already_deployed": {
+      "message": "此多重簽名合約已存在。請嘗試使用另一個錢包來部署多重簽名合約。"
+   },
+   "create_multisig_invalid_address_error": {
+      "message": "無效的地址"
+   },
+   "create_multisig_participants": {
+      "message": "參與者"
+   },
+   "create_multisig_quorum": {
+      "message": "法定人數"
+   },
+   "create_multisig_quorum_invalid_number_participants_error": {
+      "message": "參與者數量無效"
+   },
+   "create_multisig_quorum_participants": {
+      "message": "參與者"
+   },
+   "create_multisig_quorum_zero_participants_error": {
+      "message": "至少需要一位參與者"
+   },
+   "create_multisig_what_are_signers": {
+      "message": "所有參與者都可以確認交易並提出更改建議，例如添加或移除參與者。"
+   },
+   "create_pin_current_title": {
+      "message": "輸入當前密碼"
+   },
+   "create_pin_new_title": {
+      "message": "建立新密碼"
+   },
+   "create_pin_repeat_title": {
+      "message": "重新輸入密碼"
+   },
+   "create_pin_title": {
+      "message": "建立密碼"
+   },
+   "create_wallet_caption": {
+      "message": "我們強烈建議您寫下助記詞，因為這是唯一能在您丟失設備的情況下訪問和恢復錢包的方法。不要通過電子郵件發送給自己或截圖。離線保存更安全。"
+   },
+   "create_wallet_generated": {
+      "message": "您的錢包已成功創建！"
+   },
+   "create_wallet_generating": {
+      "message": "正在生成錢包..."
+   },
+   "create_wallet_title": {
+      "message": "拿起一支筆和一張紙"
+   },
+   "crypto": {
+      "message": "加密"
+   },
+   "crypto_payment": {
+      "message": "加密貨幣付款"
+   },
+   "customize": {
+      "message": "自訂"
+   },
+   "customize_modal_subtitle": {
+      "message": "錢包名稱和圖示會儲存在您的裝置上。"
+   },
+   "customize_modal_title": {
+      "message": "自定義你的錢包"
+   },
+   "dapp_bowser_wallet_connected_toast": {
+      "message": "錢包已連接"
+   },
+   "dashboard_column_name": {
+      "message": "名稱"
+   },
+   "dashboard_manage_modal_title": {
+      "message": "儀表板"
+   },
+   "delete": {
+      "message": "刪除"
+   },
+   "deleting_wallet_warning": {
+      "message": "刪除錢包後，PRO 功能將無法使用。使用具有有效訂閱的錢包登入後，這些功能將恢復。"
+   },
+   "deleting_wallets_warning": {
+      "message": "刪除所有錢包後，PRO 功能將不可用。登入具有有效訂閱的錢包後，這些功能將恢復。"
+   },
+   "desktop_only": {
+      "message": "僅限桌面"
+   },
+   "disable": {
+      "message": "停用"
+   },
+   "disabled": {
+      "message": "已停用"
+   },
+   "disconnect": {
+      "message": "斷開連接"
+   },
+   "disconnect_all_apps": {
+      "message": "斷開連接所有應用程式"
+   },
+   "disconnect_all_apps_confirm": {
+      "message": "斷開連接所有應用程式？"
+   },
+   "dns_address_linked": {
+      "message": "地址已連結"
+   },
+   "dns_address_unlinked": {
+      "message": "地址未連結"
+   },
+   "dns_current_address": {
+      "message": "您目前的地址"
+   },
+   "dns_expiration_date": {
+      "message": "到期日"
+   },
+   "dns_linked_with_another_address_warn": {
+      "message": "此域名未連結到您目前的地址。請小心與此域名的交易。"
+   },
+   "dns_renew_title": {
+      "message": "續訂網域"
+   },
+   "dns_renew_toast_success": {
+      "message": "域名已續約"
+   },
+   "dns_renew_until_btn": {
+      "message": "續訂至 %{untilDate}"
+   },
+   "domains_empty_header": {
+      "message": "您的域名將在此顯示"
+   },
+   "edit_wallet": {
+      "message": "編輯"
+   },
+   "enabled": {
+      "message": "已啟用"
+   },
+   "ends": {
+      "message": "結束"
+   },
+   "enter_password": {
+      "message": "輸入密碼"
+   },
+   "enter_promo_code": {
+      "message": "輸入優惠碼"
+   },
+   "error_current_wallet_doesnot_support_connection_to_service": {
+      "message": "當前錢包不支援連接到該服務"
+   },
+   "error_invalid_domain": {
+      "message": "無效的網域"
+   },
+   "error_keystone_doesnot_support_sign_data": {
+      "message": "Keystone 不支援資料簽章。"
+   },
+   "error_multisig_doesnot_support_connection": {
+      "message": "多重簽名錢包不支援連接 dApps。"
+   },
+   "error_multisig_doesnot_support_sign_data": {
+      "message": "多重簽名錢包不支援資料簽署。"
+   },
+   "error_not_less_ton": {
+      "message": "訂閱金額不可低於0.1 TON！"
+   },
+   "error_occurred": {
+      "message": "發生錯誤"
+   },
+   "error_signer_doesnot_support_connect": {
+      "message": "通過 QR 碼連接的簽署者不支援連接此 dApp。"
+   },
+   "error_signer_doesnot_support_sign_data": {
+      "message": "通過 QR 碼連接的簽署方不支持資料簽署。"
+   },
+   "error_unsupported_wallet": {
+      "message": "不支援的錢包版本！"
+   },
+   "error_watch_only_doesnot_support_connection": {
+      "message": "Watch Only錢包不支援連接到dApp。"
+   },
+   "error_watch_only_doesnot_support_sign_data": {
+      "message": "僅供觀看錢包不支援資料簽署。"
+   },
+   "every_day_few": {
+      "message": "每%{count}天"
+   },
+   "every_day_many": {
+      "message": "每隔 %{count} 天"
+   },
+   "every_day_one": {
+      "message": "每天"
+   },
+   "every_day_other": {
+      "message": "每%{count}天"
+   },
+   "every_hour_few": {
+      "message": "每%{count}小時"
+   },
+   "every_hour_many": {
+      "message": "每隔 %{count} 小時"
+   },
+   "every_hour_one": {
+      "message": "每小時"
+   },
+   "every_hour_other": {
+      "message": "每%{count}小時"
+   },
+   "every_minute_few": {
+      "message": "每%{count}分鐘"
+   },
+   "every_minute_many": {
+      "message": "每%{count}分鐘"
+   },
+   "every_minute_one": {
+      "message": "每分鐘"
+   },
+   "every_minute_other": {
+      "message": "每隔%{count}分鐘"
+   },
+   "every_month_few": {
+      "message": "每%{count}個月"
+   },
+   "every_month_many": {
+      "message": "每%{count}個月"
+   },
+   "every_month_one": {
+      "message": "每個月"
+   },
+   "every_month_other": {
+      "message": "每隔%{count}個月"
+   },
+   "every_second_few": {
+      "message": "每隔%{count}秒"
+   },
+   "every_second_many": {
+      "message": "每隔 %{count} 秒"
+   },
+   "every_second_one": {
+      "message": "每一秒"
+   },
+   "every_second_other": {
+      "message": "每隔 %{count} 秒"
+   },
+   "every_week_few": {
+      "message": "每%{count}週"
+   },
+   "every_week_many": {
+      "message": "每%{count}週"
+   },
+   "every_week_one": {
+      "message": "每週"
+   },
+   "every_week_other": {
+      "message": "每%{count}週"
+   },
+   "every_year_few": {
+      "message": "每隔%{count}年"
+   },
+   "every_year_many": {
+      "message": "每%{count}年"
+   },
+   "every_year_one": {
+      "message": "每年"
+   },
+   "every_year_other": {
+      "message": "每隔%{count}年"
+   },
+   "exchange_method_dont_show_again": {
+      "message": "不再顯示"
+   },
+   "exchange_method_open_warning": {
+      "message": "您正在開啟一個非由 Tonkeeper 操作的外部應用程式。"
+   },
+   "exchange_modal_other_ways_to_buy": {
+      "message": "其他購買方式"
+   },
+   "exchange_other_ways": {
+      "message": "其他購買或出售TON的方式"
+   },
+   "exchange_title": {
+      "message": "購買 TON"
+   },
+   "expiration_date": {
+      "message": "到期日"
+   },
+   "expired": {
+      "message": "已過期"
+   },
+   "export_dot_csv": {
+      "message": "匯出 .CSV"
+   },
+   "export_trc_20_wallet": {
+      "message": "匯出TRC20錢包"
+   },
+   "extension_cancellation_success": {
+      "message": "自動續訂已成功取消！您的訂閱將保持有效至"
+   },
+   "failed_connect_telegram": {
+      "message": "無法連接到 Telegram！"
+   },
+   "failed_subscriptions_loading": {
+      "message": "無法載入訂閱"
+   },
+   "force_reload": {
+      "message": "強制重新載入"
+   },
+   "free": {
+      "message": "免費"
+   },
+   "future_charges_stopped": {
+      "message": "未來收費已停止"
+   },
+   "get_tonkeeper_pro": {
+      "message": "獲取 Tonkeeper Pro"
+   },
+   "help": {
+      "message": "幫助"
+   },
+   "hide": {
+      "message": "隱藏"
+   },
+   "hide_others": {
+      "message": "隱藏其他"
+   },
+   "hide_tonkeeper_pro": {
+      "message": "隱藏 Tonkeeper Pro"
+   },
+   "history_filters_all_assets": {
+      "message": "所有代幣"
+   },
+   "history_filters_hide_spam": {
+      "message": "隱藏垃圾訊息"
+   },
+   "history_filters_hide_spam_description": {
+      "message": "篩選器在重新啟動時不會重置"
+   },
+   "history_filters_initiator": {
+      "message": "發起者"
+   },
+   "history_no_transactions_yet": {
+      "message": "尚未有交易"
+   },
+   "history_spam_nft": {
+      "message": "垃圾訊息 NFT"
+   },
+   "import_add_wallet": {
+      "message": "添加錢包"
+   },
+   "import_add_wallet_description": {
+      "message": "建立一個新錢包或匯入現有錢包。"
+   },
+   "import_chose_mnemonic_option_bip39": {
+      "message": "Bip39 助記詞"
+   },
+   "import_chose_mnemonic_option_tonKeychain": {
+      "message": "Ton鑰匙圈"
+   },
+   "import_chose_mnemonic_option_tonMnemonic": {
+      "message": "Ton標準助記詞"
+   },
+   "import_chose_mnemonic_type_description": {
+      "message": "此密鑰可用於不同類型的錢包。請從下方列表中選擇您需要的錢包類型。"
+   },
+   "import_chose_mnemonic_type_title": {
+      "message": "選擇密鑰類型"
+   },
+   "import_csv": {
+      "message": "匯入 CSV"
+   },
+   "import_csv_description": {
+      "message": "拖放文件或點擊下面的按鈕上傳。請查看下面的示例表結構以避免錯誤。"
+   },
+   "import_dot_csv": {
+      "message": "匯入 .CSV"
+   },
+   "import_existing_wallet": {
+      "message": "現有錢包"
+   },
+   "import_existing_wallet_description": {
+      "message": "使用24個助記詞導入錢包"
+   },
+   "import_existing_wallet_description_extended": {
+      "message": "使用24個或12個助記詞導入錢包"
+   },
+   "import_multisend_dnd_error": {
+      "message": "無法解析拖放的檔案"
+   },
+   "import_multisend_drop_file": {
+      "message": "拖放檔案"
+   },
+   "import_multisend_error_column": {
+      "message": "欄"
+   },
+   "import_multisend_error_invalid_amount": {
+      "message": "無效的轉移數量"
+   },
+   "import_multisend_error_invalid_asset": {
+      "message": "無效的轉移資產"
+   },
+   "import_multisend_error_invalid_csv": {
+      "message": "CSV 文件的格式無效"
+   },
+   "import_multisend_error_invalid_receiver": {
+      "message": "無效的接收者格式"
+   },
+   "import_multisend_error_invalid_row_length": {
+      "message": "CSV 列的長度無效"
+   },
+   "import_multisend_error_line": {
+      "message": "行"
+   },
+   "import_multisend_error_list_empty": {
+      "message": "CSV 表格是空的"
+   },
+   "import_multisend_error_too_many_crypto_assets": {
+      "message": "列表中有太多不同的加密資產要轉移。請確保所有指定加密資產的行使用相同的加密資產。"
+   },
+   "import_multisend_error_too_many_fiat_assets": {
+      "message": "列表中有太多不同的法定資產要轉移。請確保所有指定法定資產的行使用相同的法定資產。"
+   },
+   "import_multisend_error_unknown": {
+      "message": "未知的解析錯誤"
+   },
+   "import_multisend_fiat_warn_description": {
+      "message": "切換或更換貨幣以繼續。"
+   },
+   "import_multisend_fiat_warn_switch_button": {
+      "message": "切換錢包貨幣為"
+   },
+   "import_multisend_fiat_warn_title": {
+      "message": "錢包中的貨幣與文件中的貨幣不匹配。"
+   },
+   "import_multisend_table_comment": {
+      "message": "Comment"
+   },
+   "import_multisend_table_example": {
+      "message": "表格範例"
+   },
+   "import_multisend_table_heading_address": {
+      "message": "EQ 或 UQ 地址 / 十六進位地址 / 域名 .ton"
+   },
+   "import_multisend_table_heading_amount": {
+      "message": "數量"
+   },
+   "import_multisend_table_heading_asset": {
+      "message": "法幣代碼 / TON / 十六進制, EQ 或 UQ 代幣主地址"
+   },
+   "import_multisend_table_heading_comment": {
+      "message": "可選 comment"
+   },
+   "import_new_wallet": {
+      "message": "新錢包"
+   },
+   "import_new_wallet_description": {
+      "message": "創建新錢包"
+   },
+   "import_signer": {
+      "message": "與Signer配對"
+   },
+   "import_signer_description": {
+      "message": "完全離線、氣隙隔離、所有 TON 功能"
+   },
+   "import_wallet_12_words": {
+      "message": "12 個字"
+   },
+   "import_wallet_24_words": {
+      "message": "24 個字"
+   },
+   "import_wallet_caption": {
+      "message": "要恢復錢包的訪問權限，請輸入在創建錢包時給您的24個助記詞。"
+   },
+   "import_wallet_caption_12": {
+      "message": "要恢復錢包的訪問權限，請輸入在創建錢包時給您的12個助記詞。"
+   },
+   "import_wallet_title": {
+      "message": "輸入您的\n助記詞"
+   },
+   "import_wallet_title_web": {
+      "message": "輸入您的 助記詞"
+   },
+   "import_wallet_wrong_words_err": {
+      "message": "不正確的短語"
+   },
+   "in_app_purchase": {
+      "message": "應用程式內購買"
+   },
+   "incorrect_wallet_type": {
+      "message": "錢包類型不正確"
+   },
+   "info_about_inactive_back": {
+      "message": "返回"
+   },
+   "interval": {
+      "message": "間隔"
+   },
+   "intro_continue_btn": {
+      "message": "開始使用"
+   },
+   "intro_item1_caption": {
+      "message": "由於 The Open Network 獨特的架構，TON 交易在幾秒鐘內完成。"
+   },
+   "intro_item1_title": {
+      "message": "世界級速度"
+   },
+   "intro_item2_caption": {
+      "message": "Tonkeeper 將您的加密密鑰存儲在您的設備上。所有交易均通過去中心化協議執行，因此您的加密貨幣永遠不會落入中心化交易所的手中。"
+   },
+   "intro_item2_title": {
+      "message": "端到端安全"
+   },
+   "intro_title": {
+      "message": "歡迎\n來到 "
+   },
+   "jetton_id": {
+      "message": "代幣 ID: %{jettonAddress}"
+   },
+   "jettons_list_title": {
+      "message": "代幣"
+   },
+   "keychain_read_error": {
+      "message": "無法從鑰匙圈獲取資料"
+   },
+   "keystone_pair_subtitle": {
+      "message": "使用 AIR-GAP 硬體錢包提升安全等級"
+   },
+   "keystone_pair_title": {
+      "message": "與 Keystone 配對"
+   },
+   "keystone_sign_subtitle": {
+      "message": "請打開 Keystone 並掃描交易二維碼"
+   },
+   "keystone_sign_title": {
+      "message": "連接Keystone"
+   },
+   "later": {
+      "message": "稍後"
+   },
+   "learn_more": {
+      "message": "了解更多"
+   },
+   "ledger_blind_sign_error": {
+      "message": "必須在 Ledger 裝置設定中啟用盲簽名"
+   },
+   "ledger_choose_wallets": {
+      "message": "選擇錢包"
+   },
+   "ledger_connect_header": {
+      "message": "連接 Ledger"
+   },
+   "ledger_continue_with_ledger": {
+      "message": "繼續使用 Ledger"
+   },
+   "ledger_operation_not_supported": {
+      "message": "此操作不適用於 Ledger 錢包。請選擇其他錢包並重試。"
+   },
+   "ledger_pair_subtitle": {
+      "message": "硬體模組、藍牙或USB-C、有限的TON功能"
+   },
+   "ledger_pair_title": {
+      "message": "連結Ledger"
+   },
+   "ledger_steps_confirm_num_tx": {
+      "message": "在 Ledger 上確認交易編號 #%{number}"
+   },
+   "ledger_steps_confirm_proof": {
+      "message": "在 Ledger 上確認操作"
+   },
+   "ledger_steps_confirm_tx": {
+      "message": "在 Ledger 上確認您的交易"
+   },
+   "ledger_steps_connect": {
+      "message": "將 Ledger 連接到您的設備"
+   },
+   "ledger_steps_connect_tab_back": {
+      "message": "連接後，切換回此視窗以繼續"
+   },
+   "ledger_steps_connect_tab_switch": {
+      "message": "切換到新開啟的分頁以連接Ledger"
+   },
+   "ledger_steps_install_ton": {
+      "message": "安裝 TON 應用程式"
+   },
+   "ledger_steps_open_ton": {
+      "message": "解鎖並打開 TON 應用程式"
+   },
+   "legal_font_license": {
+      "message": "Montserrat 字體"
+   },
+   "legal_header_title": {
+      "message": "法律"
+   },
+   "legal_licenses_title": {
+      "message": "許可證"
+   },
+   "legal_powered_by": {
+      "message": "由…提供支援"
+   },
+   "legal_privacy": {
+      "message": "隱私權政策"
+   },
+   "legal_terms": {
+      "message": "服務條款"
+   },
+   "links_interceptor_modal_browser_button": {
+      "message": "在瀏覽器中打開"
+   },
+   "links_interceptor_modal_checkbox_label": {
+      "message": "記住我的選擇"
+   },
+   "links_interceptor_modal_continue_button": {
+      "message": "在擴充功能中繼續"
+   },
+   "links_interceptor_modal_description": {
+      "message": "您可以在擴充功能中或在瀏覽器中開啟連結，以便在桌面上繼續。"
+   },
+   "links_interceptor_modal_title": {
+      "message": "在哪裡打開此連結？"
+   },
+   "loading": {
+      "message": "載入中"
+   },
+   "lockscreen_subtitle": {
+      "message": "輸入密碼以解鎖你的錢包"
+   },
+   "logout_failed": {
+      "message": "登出失敗"
+   },
+   "logout_on_unlock_many": {
+      "message": "這將會刪除您的所有錢包金鑰。請確保您已備份您的助記詞。"
+   },
+   "logout_on_unlock_one": {
+      "message": "這將會刪除您的錢包金鑰。請確保您已備份您的助記詞。"
+   },
+   "mam_account_explanation": {
+      "message": "帳戶助記詞可用於訪問所有使用它創建的錢包，並且僅在 Tonkeeper Pro 中受支持。如果您想導出特定錢包，請改用錢包助記詞備份。"
+   },
+   "manage_unavailable": {
+      "message": "訂閱管理暫時無法使用"
+   },
+   "manifest_mismatch_error": {
+      "message": "為了保護您免受網路釣魚攻擊，連線已被封鎖。實際網域為 %{actual} 的 dApp 正嘗試以 %{declared} 的身份授權。請重新檢查 dApp 的網址。"
+   },
+   "meta_encrypt_key_creation_failed": {
+      "message": "加密金鑰建立失敗！"
+   },
+   "migration_with_passcode": {
+      "message": "輸入密碼"
+   },
+   "month": {
+      "message": "月"
+   },
+   "multi_send_about_w5": {
+      "message": "關於 W5"
+   },
+   "multi_send_add_more": {
+      "message": "新增更多"
+   },
+   "multi_send_continue_with_pro": {
+      "message": " "
+   },
+   "multi_send_delete_description": {
+      "message": "此操作無法撤銷，所有數據將會丟失。"
+   },
+   "multi_send_delete_list": {
+      "message": "刪除列表"
+   },
+   "multi_send_discard_and_close": {
+      "message": "捨棄並關閉"
+   },
+   "multi_send_edit": {
+      "message": "編輯"
+   },
+   "multi_send_edit_list_name": {
+      "message": "編輯清單名稱"
+   },
+   "multi_send_enter_a_name": {
+      "message": "輸入您的清單的新名稱:"
+   },
+   "multi_send_header": {
+      "message": "新增多重發送"
+   },
+   "multi_send_insufficient_balance": {
+      "message": " "
+   },
+   "multi_send_list": {
+      "message": "列表"
+   },
+   "multi_send_maximum_255_reached": {
+      "message": " "
+   },
+   "multi_send_maximum_2fa_reached": {
+      "message": "由於啟用雙重驗證，目前的錢包不支援發送超過 %{number} 條訊息。"
+   },
+   "multi_send_maximum_for_2fa_reached": {
+      "message": "已達到具備2FA錢包的最大限制"
+   },
+   "multi_send_maximum_reached": {
+      "message": "已達到最多 255 個欄位，適用於 W5 錢包版本"
+   },
+   "multi_send_new_list": {
+      "message": "新列表"
+   },
+   "multi_send_remaining": {
+      "message": "剩餘"
+   },
+   "multi_send_save_as_new": {
+      "message": "另存為新檔"
+   },
+   "multi_send_save_description": {
+      "message": "儲存包含地址、金額和評論的列表以供將來使用。"
+   },
+   "multi_send_save_list": {
+      "message": "儲存列表"
+   },
+   "multi_send_save_title": {
+      "message": "儲存此列表？"
+   },
+   "multi_send_show_all": {
+      "message": "顯示全部"
+   },
+   "multi_send_switch_to_w5": {
+      "message": "切換到W5"
+   },
+   "multi_send_update_description": {
+      "message": "更新當前列表中的資訊。"
+   },
+   "multi_send_wallets": {
+      "message": "錢包"
+   },
+   "multi_send_will_be_sent": {
+      "message": "將被發送"
+   },
+   "multichain": {
+      "message": "多鏈"
+   },
+   "multisend_confirm_error_insufficient_ton_for_fee": {
+      "message": "錢包餘額 %balance% 不足以支付區塊鏈費用。所需的最低餘額：%required%。未使用的 TON 將在交易後退還到您的錢包。"
+   },
+   "multisig_add_description": {
+      "message": "指定可以管理此錢包的參與者。"
+   },
+   "multisig_add_title": {
+      "message": "設定你的錢包"
+   },
+   "multisig_config_diff_add_participant": {
+      "message": "新增參與者"
+   },
+   "multisig_config_diff_quorum_updates": {
+      "message": "法定人數更新"
+   },
+   "multisig_config_diff_remove_participant": {
+      "message": "移除參與者"
+   },
+   "multisig_create_order_title": {
+      "message": "新請求"
+   },
+   "multisig_deploy": {
+      "message": "部署多重簽名"
+   },
+   "multisig_lifetime_1440_minutes": {
+      "message": "24 小時"
+   },
+   "multisig_lifetime_30_minutes": {
+      "message": "30 分鐘"
+   },
+   "multisig_lifetime_360_minutes": {
+      "message": "6 小時"
+   },
+   "multisig_lifetime_60_minutes": {
+      "message": "1小時"
+   },
+   "multisig_lifetime_720_minutes": {
+      "message": "12 小時"
+   },
+   "multisig_order_details_explore": {
+      "message": "請求詳情"
+   },
+   "multisig_order_details_pending_signatures": {
+      "message": "待簽名"
+   },
+   "multisig_order_details_signed_wallets": {
+      "message": "已簽署的錢包"
+   },
+   "multisig_order_notification_title": {
+      "message": "多重簽名請求"
+   },
+   "multisig_order_select_time_description": {
+      "message": "選擇法定人數簽署交易的時間。"
+   },
+   "multisig_order_view": {
+      "message": "查看"
+   },
+   "multisig_orders_th_created": {
+      "message": "已建立"
+   },
+   "multisig_orders_th_send": {
+      "message": "發送"
+   },
+   "multisig_orders_th_signatures": {
+      "message": "簽名"
+   },
+   "multisig_orders_th_status": {
+      "message": "狀態"
+   },
+   "multisig_participant_you": {
+      "message": "你:"
+   },
+   "multisig_signed_label": {
+      "message": "簽署者"
+   },
+   "multisig_signed_value": {
+      "message": "%{signed} 位簽署者中的 %{total} 位"
+   },
+   "multisig_signed_value_short": {
+      "message": "%{signed} 个，共 %{total} 个"
+   },
+   "multisig_status_completed": {
+      "message": "已完成"
+   },
+   "multisig_status_expired": {
+      "message": "已過期"
+   },
+   "multisig_status_label": {
+      "message": "狀態"
+   },
+   "multisig_status_progress": {
+      "message": "待處理"
+   },
+   "multisig_time_left": {
+      "message": "剩餘時間"
+   },
+   "multisig_time_to_sign_transaction": {
+      "message": "簽署交易的時間"
+   },
+   "multisig_you_have_signed_the_request": {
+      "message": "您已簽署此請求"
+   },
+   "new_transfer_order_button": {
+      "message": "新轉移請求"
+   },
+   "nft_about_collection": {
+      "message": "關於收藏"
+   },
+   "nft_actions_hide_and_report": {
+      "message": "隱藏並舉報垃圾訊息"
+   },
+   "nft_actions_hide_nft": {
+      "message": "隱藏NFT"
+   },
+   "nft_actions_view_on_explorer": {
+      "message": "在 Tonviewer 上查看"
+   },
+   "nft_collection": {
+      "message": "收藏"
+   },
+   "nft_contract_address": {
+      "message": "合約地址"
+   },
+   "nft_deploy_collection_title": {
+      "message": "創建 NFT 收藏"
+   },
+   "nft_details": {
+      "message": "詳情"
+   },
+   "nft_empty_description": {
+      "message": "購買、出售、交換與收藏"
+   },
+   "nft_empty_go_discover_button": {
+      "message": "在\"探索\"中探索應用程式和服務"
+   },
+   "nft_link_domain_button": {
+      "message": "連結域名"
+   },
+   "nft_link_username_button": {
+      "message": "連結名稱"
+   },
+   "nft_more": {
+      "message": "更多"
+   },
+   "nft_on_sale": {
+      "message": "發售中"
+   },
+   "nft_on_sale_text": {
+      "message": "NFT現在在市場上出售。\n要轉移，您應該先將其從銷售中移除。"
+   },
+   "nft_open_in_marketplace": {
+      "message": "在 NFT 市場查看"
+   },
+   "nft_owner_address": {
+      "message": "擁有者"
+   },
+   "nft_single_nft": {
+      "message": "單一 NFT"
+   },
+   "nft_transfer_nft": {
+      "message": "轉移"
+   },
+   "nft_transfer_title": {
+      "message": "轉移 NFT"
+   },
+   "nft_unlink_domain_button": {
+      "message": "已連結 {{address}}"
+   },
+   "nft_view_in_explorer": {
+      "message": "在瀏覽器中查看"
+   },
+   "no_active_pro_on_wallet": {
+      "message": "此 錢包 沒有 活躍 訂閱"
+   },
+   "no_connected_apps": {
+      "message": "沒有已連接的應用程式"
+   },
+   "no_multisig_description": {
+      "message": "僅顯示連結到當前 Ton 錢包的多重簽名"
+   },
+   "no_multisig_heading": {
+      "message": "您的多重簽名錢包將在此顯示"
+   },
+   "no_multisig_learn_more": {
+      "message": "了解更多關於多重簽名"
+   },
+   "no_multisig_orders_description": {
+      "message": "顯示多重簽名錢包所有參與者的所有請求。"
+   },
+   "no_multisig_orders_heading": {
+      "message": "您多重簽名錢包的請求將顯示在此處"
+   },
+   "not_enough_balance_reminder": {
+      "message": "提醒：為了讓您的訂閱能夠在 %{date} 成功自動續訂，您用於購買 Tonkeeper Pro 的錢包必須有足夠的 TON。"
+   },
+   "not_enough_funds": {
+      "message": "資金不足"
+   },
+   "notifications_alert_cancel": {
+      "message": "取消"
+   },
+   "ok": {
+      "message": "確定"
+   },
+   "on": {
+      "message": "開"
+   },
+   "open": {
+      "message": "開啟"
+   },
+   "operation_not_supported": {
+      "message": "此操作不適用於此錢包。請選擇其他錢包並重試。"
+   },
+   "page_header_history": {
+      "message": "歷史活動"
+   },
+   "pairSigner_open_signer": {
+      "message": "在此設備上打開 Signer"
+   },
+   "paste": {
+      "message": "貼上"
+   },
+   "paste_failed": {
+      "message": "無法從剪貼簿貼上！"
+   },
+   "payment_method": {
+      "message": "付款方式"
+   },
+   "per_month": {
+      "message": "每月"
+   },
+   "pinned_jettons": {
+      "message": "已釘選"
+   },
+   "please_try_again_later": {
+      "message": "請稍後再試"
+   },
+   "preferences_aside_dev_menu": {
+      "message": "開發選單"
+   },
+   "preferences_aside_faq": {
+      "message": "常見問題"
+   },
+   "preferences_aside_sign_out": {
+      "message": "登出"
+   },
+   "preferences_aside_sign_out_all": {
+      "message": "登出所有帳戶"
+   },
+   "preferences_aside_theme": {
+      "message": "主題"
+   },
+   "price": {
+      "message": "價格"
+   },
+   "prices": {
+      "message": "價格"
+   },
+   "priority": {
+      "message": "優先順序"
+   },
+   "priority_support": {
+      "message": "優先支援"
+   },
+   "priority_support_description": {
+      "message": "每當你需要幫助時，快速回應"
+   },
+   "pro_banner_buy": {
+      "message": "購買 Pro"
+   },
+   "pro_banner_days_left": {
+      "message": "試用期在 %days% 後結束"
+   },
+   "pro_banner_start_trial": {
+      "message": "免費試用 Pro"
+   },
+   "pro_banner_subtitle": {
+      "message": "使用進階功能和工具來提升您的工作"
+   },
+   "pro_banner_title": {
+      "message": "使用 Tonkeeper Pro 獲得更多"
+   },
+   "pro_continue_in_tonkeeper_mobile": {
+      "message": "在 Tonkeeper 行動裝置中繼續"
+   },
+   "pro_feature_free_trc20_transfer_subtitle": {
+      "message": "每月可享免費 USD₮ TRC20 轉帳。"
+   },
+   "pro_feature_free_trc20_transfer_title": {
+      "message": "免費轉帳"
+   },
+   "pro_feature_multi_accounts_description": {
+      "message": "超過三個由相同助記詞支援的不同錢包。"
+   },
+   "pro_feature_multi_accounts_title": {
+      "message": "多錢包帳戶"
+   },
+   "pro_feature_multi_send_description": {
+      "message": "在單筆交易中將代幣發送至多個地址。"
+   },
+   "pro_feature_multi_send_title": {
+      "message": "多重發送"
+   },
+   "pro_feature_multisend": {
+      "message": "多重發送"
+   },
+   "pro_feature_multisend_description": {
+      "message": "使用多重發送功能，您可以一次將資金發送到多達 255 個地址。Tonkeeper Pro 節省時間並簡化大規模交易的過程。"
+   },
+   "pro_feature_multisig_description": {
+      "message": "創建具備多重簽名控制的共享錢包。"
+   },
+   "pro_feature_multisig_title": {
+      "message": "多重簽名錢包"
+   },
+   "pro_feature_priority_support_description": {
+      "message": "優先且快速回應，隨時協助您解決問題。"
+   },
+   "pro_feature_priority_support_title": {
+      "message": "優先支援"
+   },
+   "pro_features_dashboard": {
+      "message": "Tonkeeper Pro 內部 – 儀表板"
+   },
+   "pro_features_dashboard_description": {
+      "message": "在儀表板中，您將可以訪問錢包分析。此功能將使每天使用 Tonkeeper 處理業務的專業用戶受益。"
+   },
+   "pro_features_description": {
+      "message": "Tonkeeper Pro 訂閱包括高級錢包功能，提供一套用於管理加密貨幣的工具。"
+   },
+   "pro_is_ending": {
+      "message": "您的 Pro 存取權限即將結束"
+   },
+   "pro_mobile_welcome_screen_title": {
+      "message": "您的個人錢包。輕鬆接收、購買和消費加密貨幣。"
+   },
+   "pro_other_features": {
+      "message": "其他很酷的功能即將推出。"
+   },
+   "pro_privacy": {
+      "message": "隱私"
+   },
+   "pro_set_up_boimetry_subtitle": {
+      "message": "使用指紋或臉部辨識，無需輸入密碼即可��快開啟錢包。"
+   },
+   "pro_set_up_boimetry_title": {
+      "message": "透過指紋或臉部快速登入"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_subtitle": {
+      "message": "每個月 可用"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_title": {
+      "message": "免費 USD₮ TRC20 轉帳"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_available": {
+      "message": "%{number} 筆轉帳可用"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_used": {
+      "message": "已用"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_used_next_on": {
+      "message": "下一次在 %{date}"
+   },
+   "pro_settings_partners_section_title": {
+      "message": "您的 好處"
+   },
+   "pro_subscription_get_pro": {
+      "message": "獲取 Pro"
+   },
+   "pro_subscription_load_failed": {
+      "message": "無法載入訂閱產品"
+   },
+   "pro_terms": {
+      "message": "條款"
+   },
+   "pro_terms_privacy_crypto_note": {
+      "message": "訂閱會自動續訂，除非在週期結束前至少24小時取消。可於應用程式中管理。訂閱即表示您同意我們的"
+   },
+   "pro_terms_privacy_restore_note": {
+      "message": "訂閱會自動續訂，除非在週期結束前至少24小時取消。可在 App 或 Apple ID 設定中管理。訂閱即表示您同意我們的"
+   },
+   "pro_terms_privacy_restore_note_crypto": {
+      "message": "訂閱即表示您同意我們的"
+   },
+   "pro_tutorial_screen_title": {
+      "message": "口袋裡的寬屏錢包"
+   },
+   "pro_unlocks_premium_tools": {
+      "message": "Tonkeeper Pro 為進階用戶解鎖高級工具。更聰明、更快速地管理您的加密貨幣。"
+   },
+   "pro_unsupported_continue_in_tonkeeper_mobile": {
+      "message": "不支援的連結。請在 Tonkeeper Mobile 試試看"
+   },
+   "processing": {
+      "message": "處理中"
+   },
+   "promo_code": {
+      "message": "優惠碼"
+   },
+   "promo_subtitle_multi_wallet_accounts": {
+      "message": "使用一組助記詞管理多個錢包。"
+   },
+   "promo_subtitle_multisend": {
+      "message": "在單筆交易中向最多255位收款人匯款。"
+   },
+   "promo_subtitle_multisig_wallets": {
+      "message": "用於安全協作控制的多重簽名錢包。"
+   },
+   "promo_subtitle_subscription": {
+      "message": "共享錢包、多帳戶和批量支付於同一方案中。"
+   },
+   "promo_subtitle_support": {
+      "message": "真正的人類專家會優先引導您完成任務。"
+   },
+   "promo_title_multi_wallet_accounts": {
+      "message": "多錢包帳戶"
+   },
+   "promo_title_multisend": {
+      "message": "多重發送"
+   },
+   "promo_title_multisig_wallets": {
+      "message": "多重簽名錢包"
+   },
+   "promocode_already_used": {
+      "message": "優惠碼已被使用"
+   },
+   "publish_message": {
+      "message": "正在將訊息發佈到互聯網"
+   },
+   "purchase_canceled": {
+      "message": "購買已取消"
+   },
+   "purchase_failed": {
+      "message": "購買失敗"
+   },
+   "purchase_processing": {
+      "message": "Tonkeeper Pro 正在處理"
+   },
+   "purchase_success": {
+      "message": "Tonkeeper Pro 已啟用"
+   },
+   "purchases_screen_title": {
+      "message": "購買"
+   },
+   "purchasing_is_unavailable_on_desktop": {
+      "message": "目前無法在桌面上購買 Pro 訂閱。\n掃描 QR 以安裝行動應用程式並使用 Apple Pay 訂閱。您的方案將適用於所有設備，包括這個。"
+   },
+   "quit_tonkeeper_pro": {
+      "message": "退出 Tonkeeper Pro"
+   },
+   "receiveModal_copy": {
+      "message": "複製"
+   },
+   "receive_ton": {
+      "message": "接收Toncoin"
+   },
+   "receive_ton_description": {
+      "message": "僅將 Toncoin TON 和 TON \n網絡中的代幣發送到此地址，\n否則您可能會損失資金。"
+   },
+   "receive_trc20": {
+      "message": "接收 USDT TRC20"
+   },
+   "receive_trc20_description": {
+      "message": "僅將 USDT TRC20\n發送到此地址，否則您可能\n會損失資金。"
+   },
+   "receive_trx": {
+      "message": "接收Tron TRX"
+   },
+   "receive_trx_description": {
+      "message": "僅向此地址發送Tron TRX，否則您可能會失去資金。"
+   },
+   "recipients": {
+      "message": "接收者"
+   },
+   "recovery_phrase_copy_button": {
+      "message": "複製"
+   },
+   "recovery_wallet_secret_key": {
+      "message": "錢包私鑰"
+   },
+   "recurring_payment": {
+      "message": "定期付款"
+   },
+   "reminder_notifications_caption": {
+      "message": "當您收到 TON、代幣和 NFT 時接收通知。"
+   },
+   "reminder_notifications_enable_button": {
+      "message": "啟用通知"
+   },
+   "reminder_notifications_later_button": {
+      "message": "稍後"
+   },
+   "reminder_notifications_title": {
+      "message": "獲取即時通知"
+   },
+   "remove_extension_subtitle": {
+      "message": "取消後不會再有額外收費。"
+   },
+   "remove_extension_title": {
+      "message": "取消 Tonkeeper Pro 訂閱？"
+   },
+   "renew": {
+      "message": "續訂"
+   },
+   "renew_nft_expiration_date": {
+      "message": "過期 %1%"
+   },
+   "renew_nft_in_progress": {
+      "message": "域名續訂正在進行中.."
+   },
+   "renew_nft_renewed": {
+      "message": "域名已續約1年"
+   },
+   "renews": {
+      "message": "續訂"
+   },
+   "replace": {
+      "message": "替換"
+   },
+   "reset_secutiry_settings": {
+      "message": "重設安全設定"
+   },
+   "restore_mam_tron_wallet_button": {
+      "message": "聯繫支援"
+   },
+   "restore_mam_tron_wallet_description": {
+      "message": "%{address} 有 %{amount} USD₮ TRC20 可用。如需提領資金，請聯繫客服。"
+   },
+   "restore_mam_tron_wallet_title": {
+      "message": "已找到先前使用過的錢包"
+   },
+   "restore_purchases": {
+      "message": "恢復購買"
+   },
+   "restore_subscription": {
+      "message": "已訂閱？恢復"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "scan_qr_title": {
+      "message": "掃描二維碼"
+   },
+   "secret_words_account_title": {
+      "message": "您的帳戶助記詞"
+   },
+   "secret_words_caption": {
+      "message": "寫下以下順序的這24個助記詞，並將它們存放在秘密、安全的地方。"
+   },
+   "secret_words_caption_12": {
+      "message": "寫下以下順序的這12個助記詞，並將它們存放在秘密、安全的地方。"
+   },
+   "secret_words_title": {
+      "message": "您的助記詞"
+   },
+   "secure_wallet_reminder_btn_set": {
+      "message": "設定密碼"
+   },
+   "secure_wallet_reminder_btn_skip": {
+      "message": "稍後提醒"
+   },
+   "secure_wallet_reminder_description": {
+      "message": "請在錢包設定中設置密碼並啟用生物辨識功能，以保護您的錢包。"
+   },
+   "secure_wallet_reminder_title": {
+      "message": "保護您的錢包"
+   },
+   "security_change_passcode": {
+      "message": "更改密碼"
+   },
+   "select_all": {
+      "message": "全選"
+   },
+   "select_fee_payment_method_not_enough_funds": {
+      "message": "資金不足"
+   },
+   "select_fee_payment_method_option_free_pro_subtitle_available": {
+      "message": "已包含在 Pro"
+   },
+   "select_fee_payment_method_option_free_pro_subtitle_used": {
+      "message": "已使用 · 下一次在 %{date}。"
+   },
+   "select_fee_payment_method_option_free_pro_title": {
+      "message": "免費 轉移"
+   },
+   "select_fee_payment_method_refill": {
+      "message": "儲值"
+   },
+   "select_networks_modal_subtitle": {
+      "message": "配置代幣支援以便於更輕鬆管理錢包。"
+   },
+   "select_networks_modal_title": {
+      "message": "錢包代幣設定"
+   },
+   "select_networks_modal_ton_description": {
+      "message": "TON、NOT、DOGS、PX、PUNK及其他 "
+   },
+   "select_networks_modal_ton_title": {
+      "message": "TON資產"
+   },
+   "select_networks_modal_tron_description": {
+      "message": "使用 USD₮ TRC20，無需 TRX。手續費由 Tonkeeper Battery 承擔。"
+   },
+   "select_wallet_for_authorization": {
+      "message": "選擇錢包進行授權"
+   },
+   "selected_wallet": {
+      "message": "已選錢包"
+   },
+   "send_change_fee_payment_method": {
+      "message": "更改付款方式"
+   },
+   "send_confirm_tron_no_enough_balance_for_fee_error": {
+      "message": "沒有足夠的資金支付區塊鏈手續費"
+   },
+   "send_fee_estimation_error": {
+      "message": "計算費用失敗"
+   },
+   "send_publish_tx_error": {
+      "message": "發送交易失敗"
+   },
+   "send_screen_steps_address_delete_alert_text": {
+      "message": "您確定要從收藏夾中刪除「%{name}」嗎？"
+   },
+   "send_screen_steps_address_suggest_actions_add": {
+      "message": "添加到收藏夹"
+   },
+   "send_screen_steps_address_suggest_actions_delete": {
+      "message": "刪除"
+   },
+   "send_screen_steps_address_suggest_actions_hide": {
+      "message": "隱藏"
+   },
+   "send_screen_steps_address_suggests_label": {
+      "message": "收藏夾和最近"
+   },
+   "send_screen_steps_amount_insufficient_balance": {
+      "message": "餘額不足"
+   },
+   "send_screen_steps_amount_max": {
+      "message": "最大"
+   },
+   "send_screen_steps_amount_remaining": {
+      "message": "可用：%{amount}"
+   },
+   "send_screen_steps_comfirm_comment_required_text": {
+      "message": "您必須包含來自交易所的註釋以進行轉帳。否則您的資金將會丟失。"
+   },
+   "send_screen_steps_comfirm_title": {
+      "message": "確認操作"
+   },
+   "send_screen_steps_comfirm_wallet": {
+      "message": "錢包"
+   },
+   "send_screen_steps_done_done_label": {
+      "message": "完成"
+   },
+   "send_screen_steps_done_to": {
+      "message": "至：%{name}"
+   },
+   "send_sending_wrong_time_description": {
+      "message": "在您的設備設置中開啟自動時間和日期。然後重試您的傳輸。"
+   },
+   "set_up_password": {
+      "message": "設定密碼"
+   },
+   "settings_account_enable_tron_description": {
+      "message": "使用 USD₮ TRC20，無需 TRX。手續費由 Tonkeeper Battery 支付。"
+   },
+   "settings_account_enable_tron_title": {
+      "message": "預設將USD₮ TRC20新增至此帳戶的新錢包中"
+   },
+   "settings_backup_account": {
+      "message": "備份帳戶"
+   },
+   "settings_backup_account_mam_description": {
+      "message": "用於恢復對您的多錢包帳戶及所有相關錢包的訪問"
+   },
+   "settings_backup_seed": {
+      "message": "備份"
+   },
+   "settings_backup_wallet": {
+      "message": "備份錢包"
+   },
+   "settings_collectibles_list": {
+      "message": "收藏品"
+   },
+   "settings_connected_apps": {
+      "message": "已連接的應用程式"
+   },
+   "settings_contact_support": {
+      "message": "聯絡我們"
+   },
+   "settings_delete_account": {
+      "message": "刪除帳戶"
+   },
+   "settings_enable_tron_description": {
+      "message": "使用 USDT TRC20，無需 TRX。手續費由 Tonkeeper Battery 承擔。"
+   },
+   "settings_hide_current_wallet": {
+      "message": "隱藏當前錢包"
+   },
+   "settings_hide_multisig": {
+      "message": "隱藏多重簽名錢包"
+   },
+   "settings_intercept_links": {
+      "message": "連結偏好設定"
+   },
+   "settings_intercept_links_help_text": {
+      "message": "控制轉帳連結的開啟方式，以符合您偏好的工作流程。"
+   },
+   "settings_intercept_links_option_ask": {
+      "message": "永遠詢問"
+   },
+   "settings_intercept_links_option_open_browser": {
+      "message": "在瀏覽器中打開"
+   },
+   "settings_intercept_links_option_open_extension": {
+      "message": "在擴充功能中開啟"
+   },
+   "settings_jettons_list": {
+      "message": "代幣"
+   },
+   "settings_ledger_indexes": {
+      "message": "Ledger 子钱包"
+   },
+   "settings_legal_documents": {
+      "message": "法律"
+   },
+   "settings_mam_add_wallet": {
+      "message": "添加新錢包"
+   },
+   "settings_mam_add_wallet_with_pro": {
+      "message": "使用 Pro 訂閱添加更多內容"
+   },
+   "settings_mam_indexes": {
+      "message": "已添加錢包"
+   },
+   "settings_mam_number_wallets": {
+      "message": "%{number} 錢包"
+   },
+   "settings_network_alert_title": {
+      "message": "選擇網絡"
+   },
+   "settings_news": {
+      "message": "Tonkeeper 新聞"
+   },
+   "settings_notifications": {
+      "message": "通知"
+   },
+   "settings_pin_multisig": {
+      "message": "釘選Multisig錢包"
+   },
+   "settings_primary_currency": {
+      "message": "貨幣"
+   },
+   "settings_pro_ios": {
+      "message": "Tonkeeper Pro 適用於 iOS"
+   },
+   "settings_rate": {
+      "message": "評分 Tonkeeper"
+   },
+   "settings_recovery_phrase": {
+      "message": "助記詞"
+   },
+   "settings_reset": {
+      "message": "登出"
+   },
+   "settings_reset_alert_title": {
+      "message": "登出？"
+   },
+   "settings_reset_alert_title_all": {
+      "message": "登出所有錢包？"
+   },
+   "settings_search_engine": {
+      "message": "搜尋"
+   },
+   "settings_security": {
+      "message": "安全"
+   },
+   "settings_support": {
+      "message": "支援"
+   },
+   "settings_title": {
+      "message": "設定"
+   },
+   "settings_version": {
+      "message": "版本"
+   },
+   "settings_wallet_version": {
+      "message": "啟用地址"
+   },
+   "show_all": {
+      "message": "顯示全部"
+   },
+   "signData": {
+      "message": "簽署數據"
+   },
+   "signDataBinaryContent": {
+      "message": "二進位內容"
+   },
+   "signDataBinaryContentDisclaimer": {
+      "message": "您正在盲目簽署。請僅從可信來源簽署。"
+   },
+   "signDataCellDisclaimer": {
+      "message": "這是一個解碼後的代碼。請審閱並在同意後簽名。"
+   },
+   "signDataError": {
+      "message": "無效的簽名資料參數。"
+   },
+   "signDataTextDisclaimer": {
+      "message": "請仔細審查訊息，若同意，請簽署資料。"
+   },
+   "signer_scan_result": {
+      "message": "掃描已簽署的交易"
+   },
+   "signer_scan_tx_description": {
+      "message": "請打開 Signer 並掃描交易二維碼"
+   },
+   "simple_preview_account": {
+      "message": "區塊鏈帳戶"
+   },
+   "sk_input_label": {
+      "message": "私鑰為十六進位格式，不帶 0x 前綴。長度為 64 或 128 個字元。"
+   },
+   "sk_input_label_fireblocks": {
+      "message": "私鑰為十六進位格式，無0x前綴。長度為64個字元。"
+   },
+   "spam_action": {
+      "message": "垃圾訊息"
+   },
+   "staking_deposit": {
+      "message": "質押"
+   },
+   "staking_details_pool_address_label": {
+      "message": "池地址"
+   },
+   "staking_withdraw": {
+      "message": "解除質押"
+   },
+   "start": {
+      "message": "開始"
+   },
+   "start_free_trial": {
+      "message": "開始免費試用"
+   },
+   "start_screen_create_wallet_button": {
+      "message": "創建新錢包"
+   },
+   "start_screen_import_wallet_button": {
+      "message": "導入現有錢包"
+   },
+   "start_trial_notification_description": {
+      "message": "需要連接 Telegram 僅用於驗證您不是機器人。"
+   },
+   "start_trial_notification_heading": {
+      "message": "免費連接 Telegram 到 Pro"
+   },
+   "status": {
+      "message": "狀態"
+   },
+   "stay_with_tonkeeper_pro": {
+      "message": "繼續使用 Tonkeeper Pro — 無縫體驗所有功能。"
+   },
+   "subscribe_on_ios": {
+      "message": "在 iOS 上 訂閱 獲 Tonkeeper Pro"
+   },
+   "subscription_activates_after_confirmation": {
+      "message": "確認後啟用。付款會自動續訂。"
+   },
+   "subscription_cancelled": {
+      "message": "訂閱已取消"
+   },
+   "subscription_created": {
+      "message": "訂閱已建立"
+   },
+   "subscription_is_linked": {
+      "message": "您的訂閱已綁定到此錢包，並可在所有已授權的裝置上使用。"
+   },
+   "subscription_paid": {
+      "message": "訂閱已付費"
+   },
+   "subscription_renews_automatically": {
+      "message": "除非於周期結束前至少24小時取消，否則訂閱會自動續訂。可於 App 內或 Apple ID 設定中管理。"
+   },
+   "subscription_renews_crypto": {
+      "message": "訂閱會自動續期，除非在週期結束前至少24小時取消。在應用程式中管理。"
+   },
+   "subscription_start": {
+      "message": "訂閱開始"
+   },
+   "subscription_will_be_linked_to_wallet": {
+      "message": "您的訂閱將會連結此錢包，並可在任何授權的裝置上使用。"
+   },
+   "success": {
+      "message": "成功！"
+   },
+   "suspiciousNFTDetails_buttons_not_spam": {
+      "message": "不是垃圾訊息"
+   },
+   "suspiciousNFTDetails_buttons_report": {
+      "message": "舉報垃圾訊息"
+   },
+   "suspiciousNFTDetails_paragraphs_p1": {
+      "message": "用於垃圾訊息。用於大規模發送不需要且通常不相關的訊息。"
+   },
+   "suspiciousNFTDetails_paragraphs_p2": {
+      "message": "用於詐騙。NFT 的名稱、描述或圖像可能會導致用戶受騙。"
+   },
+   "suspiciousNFTDetails_paragraphs_p3": {
+      "message": "我們對這個 NFT 的作者和歷史知之甚少。"
+   },
+   "suspiciousNFTDetails_subtitle": {
+      "message": "NFT 可能因以下原因之一而不安全使用。"
+   },
+   "suspiciousNFTDetails_title": {
+      "message": "未驗證的NFT"
+   },
+   "suspicious_buttons_not_spam": {
+      "message": "不是垃圾訊息"
+   },
+   "suspicious_buttons_report": {
+      "message": "舉報垃圾訊息"
+   },
+   "suspicious_label_full": {
+      "message": "未驗證的NFT"
+   },
+   "suspicious_label_short": {
+      "message": "未驗證"
+   },
+   "suspicious_status_update_hidden_collection": {
+      "message": "隐藏收藏"
+   },
+   "suspicious_status_update_hidden_nft": {
+      "message": "隱藏NFT"
+   },
+   "suspicious_status_update_spam_collection": {
+      "message": "已標記為垃圾訊息的收藏"
+   },
+   "suspicious_status_update_spam_nft": {
+      "message": "已標記為垃圾訊息的NFT"
+   },
+   "swap_balance": {
+      "message": "餘額"
+   },
+   "swap_best_price": {
+      "message": "最佳價格"
+   },
+   "swap_blockchain_fee": {
+      "message": "區塊鏈費用"
+   },
+   "swap_blockchain_fee_tooltip": {
+      "message": "區塊鏈處理交易所收取的預估費用。"
+   },
+   "swap_enter_amount": {
+      "message": "輸入數量"
+   },
+   "swap_import": {
+      "message": "匯入"
+   },
+   "swap_import_token_title": {
+      "message": "匯入 %token% 代幣？"
+   },
+   "swap_ledger_not_supported": {
+      "message": "不支援使用 Ledger 錢包進行交換"
+   },
+   "swap_max": {
+      "message": "最大"
+   },
+   "swap_minimum_received": {
+      "message": "最低接收"
+   },
+   "swap_minimum_received_tooltip": {
+      "message": "交易完成後您保證收到的最低金額。"
+   },
+   "swap_not_enough_funds": {
+      "message": "資金不足"
+   },
+   "swap_price_impact": {
+      "message": "價格影響"
+   },
+   "swap_price_impact_too_high": {
+      "message": "價格影響過高"
+   },
+   "swap_price_impact_tooltip": {
+      "message": "交換完成後對代幣市場價格的影響。"
+   },
+   "swap_provider": {
+      "message": "提供者"
+   },
+   "swap_receive": {
+      "message": "接收"
+   },
+   "swap_route": {
+      "message": "路線"
+   },
+   "swap_search": {
+      "message": "搜尋"
+   },
+   "swap_send": {
+      "message": "發送"
+   },
+   "swap_settings": {
+      "message": "兌換設定"
+   },
+   "swap_slippage": {
+      "message": "滑點"
+   },
+   "swap_slippage_description": {
+      "message": "預估價格與實際價格之間允許的最大差異。如果價格差異超過此限額，交易將自動被退回。"
+   },
+   "swap_slippage_tooltip": {
+      "message": "預估價格與實際價格之間允許的最大差異。如果價格差異超過此限額，交換將自動被退回。您可以在交換設置菜單中配置此設定。"
+   },
+   "swap_title": {
+      "message": "兌換"
+   },
+   "swap_tokens": {
+      "message": "代幣"
+   },
+   "swap_tokens_not_found": {
+      "message": "找不到代幣"
+   },
+   "swap_trade_is_not_available": {
+      "message": "交易不可用"
+   },
+   "swap_transaction_sent_close_button": {
+      "message": "確定"
+   },
+   "swap_transaction_sent_description": {
+      "message": "您的交易已送出至網絡，將在幾分鐘內處理。"
+   },
+   "swap_transaction_sent_title": {
+      "message": "交易已發送"
+   },
+   "swap_tx_info": {
+      "message": "交易資訊"
+   },
+   "swap_unknown_price_impact": {
+      "message": "未知價格影響"
+   },
+   "swap_unknown_token_description": {
+      "message": "此代幣未包含在活動代幣列表中。請確保您了解與導入代幣相關的風險。"
+   },
+   "switch": {
+      "message": "切換"
+   },
+   "tab_action_toast_pinned": {
+      "message": "已置頂"
+   },
+   "tab_action_toast_unpinned": {
+      "message": "已取消釘選"
+   },
+   "taking_too_long": {
+      "message": "執行時間過久？"
+   },
+   "tme_linked_with_another_address_warn": {
+      "message": "此名稱未連結到您目前的地址。請小心與此名稱的交易。"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "toggle_developer_tools": {
+      "message": "切換開發者工具"
+   },
+   "toggle_full_screen": {
+      "message": "切換全螢幕"
+   },
+   "tokenDetails_tonviewer_button": {
+      "message": "在 Tonviewer 上查看"
+   },
+   "tokens_hide_statistics_btn": {
+      "message": "隱藏統計"
+   },
+   "tokens_show_statistics_btn": {
+      "message": "顯示統計"
+   },
+   "ton_login_caption": {
+      "message": "%{name} 正在請求訪問您的錢包地址"
+   },
+   "ton_login_connect_button": {
+      "message": "連接錢包"
+   },
+   "ton_login_notice": {
+      "message": "連接錢包前，請務必檢查服務地址。"
+   },
+   "ton_login_success": {
+      "message": "完成"
+   },
+   "ton_login_title_web": {
+      "message": "連接至%{name}？"
+   },
+   "tonkeeper_is_not_available_in_region_delete_btn": {
+      "message": "清除資料並退出"
+   },
+   "tonkeeper_is_not_available_in_region_description": {
+      "message": "保存好你的密鑰，然後下載 Tonkeeper 並無限制地使用。"
+   },
+   "tonkeeper_is_not_available_in_region_description_no_accs": {
+      "message": "下載 Tonkeeper 並無限制地使用。"
+   },
+   "tonkeeper_is_not_available_in_region_install_btn": {
+      "message": "安裝 Tonkeeper"
+   },
+   "tonkeeper_is_not_available_in_region_recovery_btn": {
+      "message": "檢視密鑰"
+   },
+   "tonkeeper_is_not_available_in_region_title": {
+      "message": "Tonkeeper 在您所在區域無法使用"
+   },
+   "tonkeeper_pro": {
+      "message": "Tonkeeper Pro"
+   },
+   "tonkeeper_pro_description": {
+      "message": "Tonkeeper Pro 的訂閱包含擴展錢包功能，提供加密貨幣管理工具組。 "
+   },
+   "tonkeeper_pro_features": {
+      "message": "Tonkeeper Pro 功能"
+   },
+   "tonkeeper_pro_is_active": {
+      "message": "Tonkeeper Pro 已啟用"
+   },
+   "tonkeeper_pro_subscription": {
+      "message": "Tonkeeper Pro 訂閱"
+   },
+   "top_message_error_free_trc20_transfers_used": {
+      "message": "已用完所有免費轉賬"
+   },
+   "topup_trc20_fee_pro_banner_description": {
+      "message": "每月可用於 Tonkeeper Pro 。"
+   },
+   "topup_trc20_fee_pro_banner_description_used": {
+      "message": "本月 的 免費 轉賬 已 使用 。 下一次 可用 時間 是 %{date} 。"
+   },
+   "topup_trc20_fee_pro_banner_title": {
+      "message": "免費 USD₮ TRC20 轉帳"
+   },
+   "topup_tron_fee_battery_description": {
+      "message": "支援 TRC20 轉帳、交換、NFT 和 TON 代幣轉帳"
+   },
+   "topup_tron_fee_charges_per_transfer": {
+      "message": "~ 每次TRC20轉帳收取%{charges}手續費"
+   },
+   "topup_tron_fee_disclaimer": {
+      "message": "費用會根據多種因素即時變動。"
+   },
+   "topup_tron_fee_price_per_transfer": {
+      "message": "~ 每筆 TRC20 轉帳 %{fiat}"
+   },
+   "topup_tron_fee_subtitle": {
+      "message": "您 需要 少量 手續費 來 傳送 代幣 。 可以 使用 Tonkeeper Battery 、 TON 或 TRX 支付 。"
+   },
+   "topup_tron_fee_title": {
+      "message": "區塊鏈 費用 是 每次 交易 的 一部分"
+   },
+   "topup_tron_fee_ton_description": {
+      "message": "支援 TRC20 轉帳及 TON 上的所有操作"
+   },
+   "topup_tron_fee_top_up": {
+      "message": "儲值"
+   },
+   "topup_tron_fee_trx_description": {
+      "message": "涵蓋USDT TRC20轉帳"
+   },
+   "total": {
+      "message": "總計"
+   },
+   "total_balance": {
+      "message": "總餘額"
+   },
+   "touch_id_unlock_wallet": {
+      "message": "解鎖你的錢包"
+   },
+   "transactionDetails_comment": {
+      "message": "Comment"
+   },
+   "transactionDetails_operation": {
+      "message": "操作"
+   },
+   "transactionDetails_recipient": {
+      "message": "接收者"
+   },
+   "transaction_bid_dns": {
+      "message": "名稱"
+   },
+   "transaction_call_date": {
+      "message": "呼叫合約 %{date}"
+   },
+   "transaction_fee": {
+      "message": "費用"
+   },
+   "transaction_hash": {
+      "message": "交易"
+   },
+   "transaction_merchant": {
+      "message": "商家"
+   },
+   "transaction_receive_date": {
+      "message": "已收到於 %{date}"
+   },
+   "transaction_recipient": {
+      "message": "接收者"
+   },
+   "transaction_recipient_address": {
+      "message": "接收者地址"
+   },
+   "transaction_sender": {
+      "message": "發送者"
+   },
+   "transaction_sender_address": {
+      "message": "發送者地址"
+   },
+   "transaction_sent_date": {
+      "message": "發送於 %{date}"
+   },
+   "transaction_type_bid": {
+      "message": "出價"
+   },
+   "transaction_type_contract_deploy": {
+      "message": "部署合約"
+   },
+   "transaction_type_mint": {
+      "message": "鑄造"
+   },
+   "transaction_type_pending": {
+      "message": "待處理"
+   },
+   "transaction_type_purchase": {
+      "message": "購買"
+   },
+   "transaction_type_purchase_description": {
+      "message": "支付發票 %{invoice}"
+   },
+   "transaction_type_receive": {
+      "message": "已接收"
+   },
+   "transaction_type_sent": {
+      "message": "已發送"
+   },
+   "transaction_type_subscription": {
+      "message": "已訂閱"
+   },
+   "transaction_type_unsubscription": {
+      "message": "已取消訂閱"
+   },
+   "transaction_type_wallet_initialized": {
+      "message": "錢包已初始化"
+   },
+   "transactions_burned": {
+      "message": "燒毀"
+   },
+   "transactions_failed": {
+      "message": "失敗"
+   },
+   "transactions_nft_purchase": {
+      "message": "NFT 購買"
+   },
+   "transactions_smartcontract_exec": {
+      "message": "呼叫合約"
+   },
+   "transactions_spam": {
+      "message": "垃圾訊息"
+   },
+   "transactions_swap": {
+      "message": "兌換"
+   },
+   "transactions_unknown": {
+      "message": "未知"
+   },
+   "transactions_unknown_description": {
+      "message": "發生了一些事情，但我們無法識別"
+   },
+   "trial": {
+      "message": "試用期"
+   },
+   "tron_account_export_warning_explanation": {
+      "message": "此助記詞僅適用於TRC20，無法恢復您的TON錢包。請使用您的TON錢包恢復助記詞進行恢復。"
+   },
+   "tron_fee_banner_available_fee_options": {
+      "message": "可用選項"
+   },
+   "tron_fee_banner_available_label": {
+      "message": "可用 ≈ %{transfers} 筆 TRC20 轉帳"
+   },
+   "tron_fee_banner_fee_options": {
+      "message": "費用付款選項"
+   },
+   "tron_fee_start_banner_button": {
+      "message": "充值"
+   },
+   "tron_fee_start_banner_description": {
+      "message": "您可以使用 TON、Tonkeeper Battery 或 TRX 支付手續費，這樣更有彈性，也能在某種貨幣餘額不足時避免延誤。"
+   },
+   "tron_fee_start_banner_title": {
+      "message": "選擇您的費用支付方式"
+   },
+   "tron_fee_table_charges_per_one": {
+      "message": "每一個 %{fiat}"
+   },
+   "tron_fee_table_disclaimer": {
+      "message": "轉帳次數和費用會根據當前情況有所變化。"
+   },
+   "tron_fee_table_free_transfer_no_transfers_left": {
+      "message": "已用"
+   },
+   "tron_fee_table_free_transfer_subtitle_active": {
+      "message": "已包含在 Pro"
+   },
+   "tron_fee_table_free_transfer_subtitle_inactive": {
+      "message": "每個月 可用"
+   },
+   "tron_fee_table_free_transfer_subtitle_used_next_on_date": {
+      "message": "下一次在 %{date}"
+   },
+   "tron_fee_table_free_transfer_title": {
+      "message": "免費 轉移"
+   },
+   "tron_fee_table_free_transfer_transfers_left": {
+      "message": "%{number} 次轉移"
+   },
+   "tron_fee_table_transfers": {
+      "message": "%{transfers} 次轉帳"
+   },
+   "try_again": {
+      "message": "再試一次"
+   },
+   "two_fa_confirm_tg_cannot_access_tg": {
+      "message": "無法存取您的Telegram帳戶？"
+   },
+   "two_fa_confirm_tg_description": {
+      "message": "前往 @tonkeeper 並點擊「確認」以完成交易。"
+   },
+   "two_fa_confirm_tg_title": {
+      "message": "在Telegram中確認交易"
+   },
+   "two_fa_long": {
+      "message": "雙重驗證"
+   },
+   "two_fa_recovery_cancelled_toast": {
+      "message": "恢復已取消。現在請將您的資金轉移到新錢包以確保安全。"
+   },
+   "two_fa_settings_cancel_recovery_button": {
+      "message": "取消恢復"
+   },
+   "two_fa_settings_change_tg_button": {
+      "message": "更改已綁定的 Telegram 帳號"
+   },
+   "two_fa_settings_change_tg_short_button": {
+      "message": "更換帳戶"
+   },
+   "two_fa_settings_disable_button": {
+      "message": "停用二步驗證"
+   },
+   "two_fa_settings_heading_active_description": {
+      "message": "此實驗性功能可讓您啟用雙重驗證（2FA），以提升錢包安全性。您的錢包已受保護。如有需要，您可以停用雙重驗證，但這會降低安全等級。"
+   },
+   "two_fa_settings_heading_active_title": {
+      "message": "已啟用兩步驗證"
+   },
+   "two_fa_settings_heading_description": {
+      "message": "此實驗性功能可讓您啟用雙重驗證（2FA），以增加錢包安全性。它會在交易過程中於 Telegram 要求您確認。安裝步驟："
+   },
+   "two_fa_settings_heading_recovery_description": {
+      "message": "%{date} 將停用二步驗證（2FA）。若您並未啟動復原，請取消並將資金轉移到新錢包以確保安全。"
+   },
+   "two_fa_settings_heading_recovery_title": {
+      "message": "錢包恢復流程已開始"
+   },
+   "two_fa_settings_heading_title": {
+      "message": "雙重驗證"
+   },
+   "two_fa_settings_reconnect_tg_connection_modal_description": {
+      "message": "掃描 QR 碼或打開 Telegram 以連接新帳戶。如果您能存取先前的帳戶，變更將立即生效。若無法存取，則需要 14 天。"
+   },
+   "two_fa_settings_reconnect_tg_connection_modal_heading": {
+      "message": "連接新的 Telegram 帳號"
+   },
+   "two_fa_settings_set_up_deploy_step_button": {
+      "message": "啟用 2FA"
+   },
+   "two_fa_settings_set_up_deploy_step_description": {
+      "message": "確認交易以安裝2FA擴充功能"
+   },
+   "two_fa_settings_set_up_tg_connection_modal_copy_button": {
+      "message": "複製連結"
+   },
+   "two_fa_settings_set_up_tg_connection_modal_heading": {
+      "message": "掃描 QR 碼或打開 Telegram 以連接新帳戶。"
+   },
+   "two_fa_settings_set_up_tg_connection_modal_open_button": {
+      "message": "打開 Telegram"
+   },
+   "two_fa_settings_set_up_tg_step_description": {
+      "message": "在 Telegram 中確認您的連線"
+   },
+   "two_fa_settings_warning_balance_required": {
+      "message": "安裝或卸載 2FA 需要 0.15 TON。"
+   },
+   "two_fa_settings_warning_battery_gasless": {
+      "message": "電池模式與無燃氣交易不支援雙重驗證（2FA）。"
+   },
+   "two_fa_settings_warning_can_not_recover": {
+      "message": "雙重驗證（2FA）無法找回您的秘密短語。"
+   },
+   "two_fa_settings_warning_wallet_will_stop": {
+      "message": "同一個錢包將在你的其他裝置上停止運作。"
+   },
+   "txActions_USDT_transfer": {
+      "message": "USDT 轉移"
+   },
+   "txActions_amount": {
+      "message": "數量"
+   },
+   "txActions_fee": {
+      "message": "費用: %{fee}"
+   },
+   "txActions_refund": {
+      "message": "退款"
+   },
+   "txActions_signRaw_comment": {
+      "message": "Comment"
+   },
+   "txActions_signRaw_recipient": {
+      "message": "接收者"
+   },
+   "txActions_signRaw_title": {
+      "message": "確認交易"
+   },
+   "txActions_signRaw_types_jettonTransfer": {
+      "message": "代幣轉移"
+   },
+   "txActions_signRaw_types_nftItemTransfer": {
+      "message": "NFT 轉移"
+   },
+   "txActions_signRaw_types_tonTransfer": {
+      "message": "TON 轉移"
+   },
+   "txActions_signRaw_types_unknownTransaction": {
+      "message": "未知交易"
+   },
+   "type": {
+      "message": "類型"
+   },
+   "unavailable_on_desktop_in_region": {
+      "message": "無法在桌面版於此區域使用。"
+   },
+   "unknown_operation": {
+      "message": "未知操作"
+   },
+   "unsubscribe_legacy_plugin_banner_subtitle": {
+      "message": "它 可能 會 繼續 向 你 的 賬戶 收費。 禁用 它 以 避免 更多 付款。"
+   },
+   "unsubscribe_legacy_plugin_banner_title": {
+      "message": "你有 %{count} 個過期的訂閱來自 @donate"
+   },
+   "unsubscribe_legacy_plugin_many_banner_subtitle": {
+      "message": "有些可能會持續從你的錢包扣款。"
+   },
+   "unsubscribe_legacy_plugin_success_toast": {
+      "message": "訂閱取消將在幾分鐘內於 blockchain 中確認"
+   },
+   "unsupported_two_fa": {
+      "message": "2FA 錢包暫時不支援。請使用沒有 2FA 的錢包或停用 2FA。\n"
+   },
+   "unused_1_month": {
+      "message": "1 month"
+   },
+   "unused_1_year": {
+      "message": "1 year"
+   },
+   "unused_Edit_jettons": {
+      "message": "編輯"
+   },
+   "unused_Enable_storing_config": {
+      "message": "啟用儲存配置"
+   },
+   "unused_about_risk_modal_description": {
+      "message": "將從您的錢包發送的代幣總價值。退款不包含在總價值中。"
+   },
+   "unused_about_risk_modal_description_with_nft": {
+      "message": "將從您的錢包發送的代幣總價值，不包括 NFT 的成本。退款不包含在總價值中。"
+   },
+   "unused_about_risk_modal_ok_button": {
+      "message": "確定"
+   },
+   "unused_about_ton": {
+      "message": "TON 是由 Telegram 設計的完全去中心化的第一層區塊鏈，由於它擁有超快的交易速度、極低的費用、易於使用的應用程序，而且對環境友好，吸引了數十億用戶。"
+   },
+   "unused_access_confirmation_logout": {
+      "message": "登出"
+   },
+   "unused_access_confirmation_reset": {
+      "message": "重置"
+   },
+   "unused_access_confirmation_title": {
+      "message": "輸入密碼"
+   },
+   "unused_access_confirmation_update_biometry": {
+      "message": "輸入密碼以使用生物辨識身份驗證數據"
+   },
+   "unused_access_denied": {
+      "message": "訪問被禁止"
+   },
+   "unused_account_deleted": {
+      "message": "帳戶已刪除"
+   },
+   "unused_activityActionModal_bid": {
+      "message": "出價"
+   },
+   "unused_activityActionModal_burned": {
+      "message": "燒毀"
+   },
+   "unused_activityActionModal_call_contract": {
+      "message": "呼叫合約"
+   },
+   "unused_activityActionModal_deposit": {
+      "message": "質押"
+   },
+   "unused_activityActionModal_purchase": {
+      "message": "購買"
+   },
+   "unused_activityActionModal_received": {
+      "message": "已收到"
+   },
+   "unused_activityActionModal_sent": {
+      "message": "發送"
+   },
+   "unused_activityActionModal_swapped": {
+      "message": "交換了"
+   },
+   "unused_activityActionModal_time_on": {
+      "message": "於%{time}"
+   },
+   "unused_activityActionModal_withdraw": {
+      "message": "解除質押"
+   },
+   "unused_activity_buy_toncoin_btn": {
+      "message": "購買Toncoin"
+   },
+   "unused_activity_receive_btn": {
+      "message": "接收"
+   },
+   "unused_activity_received": {
+      "message": "已接收"
+   },
+   "unused_activity_sent": {
+      "message": "發送"
+   },
+   "unused_add_other_coins": {
+      "message": "增加其他加密貨幣"
+   },
+   "unused_add_wallet_existing_multisig_description": {
+      "message": "%{number} 個錢包由您的錢包列表管理"
+   },
+   "unused_add_wallet_existing_multisig_title": {
+      "message": "現有多重簽名錢包"
+   },
+   "unused_add_wallet_modal_create_subtitle": {
+      "message": "創建新錢包"
+   },
+   "unused_add_wallet_modal_create_title": {
+      "message": "新錢包"
+   },
+   "unused_add_wallet_modal_import_subtitle": {
+      "message": "從下面的選項中選擇。"
+   },
+   "unused_add_wallet_modal_import_title": {
+      "message": "導入錢包"
+   },
+   "unused_add_wallet_modal_ledger_subtitle": {
+      "message": "更高等級的安全性與硬體錢包"
+   },
+   "unused_add_wallet_modal_ledger_title": {
+      "message": "連結Ledger"
+   },
+   "unused_add_wallet_modal_other_options": {
+      "message": "其他選項"
+   },
+   "unused_add_wallet_modal_signer_subtitle": {
+      "message": "完全離線、氣隙隔離、所有 TON 功能"
+   },
+   "unused_add_wallet_modal_signer_title": {
+      "message": "與Signer配對"
+   },
+   "unused_add_wallet_modal_subtitle": {
+      "message": "創建一個新錢包或添加現有錢包。"
+   },
+   "unused_add_wallet_modal_title": {
+      "message": "添加錢包"
+   },
+   "unused_add_watch_only_subtitle": {
+      "message": "無需助記詞即可監控錢包活動。您將收到有關此錢包的任何交易的通知。"
+   },
+   "unused_add_watch_only_wallet_not_found": {
+      "message": "錢包地址未找到"
+   },
+   "unused_address_update_first_option": {
+      "message": "目標錢包很可能已經被積極使用，您不會注意到任何差異。"
+   },
+   "unused_address_update_learn_more": {
+      "message": "了解更多"
+   },
+   "unused_address_update_new_style": {
+      "message": "新地址"
+   },
+   "unused_address_update_notification_desc_did_change": {
+      "message": "您的錢包位址已更新為 UQ 格式。舊地址也仍然有效。"
+   },
+   "unused_address_update_notification_desc_will_change": {
+      "message": "10月5日，您的錢包地址將更新為更好的UQ格式。舊地址也可以使用，你不需要做任何事。"
+   },
+   "unused_address_update_old_style": {
+      "message": "舊地址"
+   },
+   "unused_address_update_post_dates": {
+      "message": "2023 年 10 月 5 日：Tonkeeper 中的所有地址均切換為 UQ 格式。 2024 年 1 月 1 日：Tonkeeper 停止檢查合約狀態並在地址中使用「bounceable」標誌。發送至具有 EQ 地址的未發布合約的代幣將退還給發送者。"
+   },
+   "unused_address_update_post_published_date": {
+      "message": "發佈於：2023年9月27日"
+   },
+   "unused_address_update_post_rest": {
+      "message": "在 TON 區塊鏈上有兩種地址格式，直到現在，應用程式和錢包只使用其中一種。\n\nEQ 格式最適合處理進款的智能合約。如果智能合約尚未發布——即代碼尚未上鏈——那麼發送到該地址的 TON 將會退回給發送者。這是一種安全功能：如果有任何錯誤，TON 將會退回。\n\nUQ 格式最適合錢包。錢幣永遠不會退回，因為錢包的設計就是簡單地存儲資金。每個錢包開始時都是一個沒有上鏈代碼的普通地址。因此，錢幣退回是沒有意義的。\n\n今年我們將把錢包切換到更合適的 UQ 格式。如果你繼續向某人給你的舊 EQ 地址發送資金，將會有兩種選擇：\n"
+   },
+   "unused_address_update_post_top": {
+      "message": "到今年年底，整個 TON 網絡將以不同的方式顯示錢包地址。新地址將以 UQ 開頭，而不是 EQ。最後四個字母也會改變。舊地址也能使用並指向同一個錢包。這不會影響您錢包中資金的安全性。"
+   },
+   "unused_address_update_second_option": {
+      "message": "錢包從未用於支付的可能性較小。Tonkeeper 明年不會向該地址發送硬幣。您將需要向接收者索取新的 UQ 地址。"
+   },
+   "unused_address_update_title": {
+      "message": "地址更新"
+   },
+   "unused_address_update_why_change": {
+      "message": "為什麼改變？"
+   },
+   "unused_address_update_your_wallet": {
+      "message": "你的錢包"
+   },
+   "unused_all_regions": {
+      "message": "所有地區"
+   },
+   "unused_app_name": {
+      "message": "Tonkeeper"
+   },
+   "unused_appearance_accent_name_andromeda": {
+      "message": "仙女座"
+   },
+   "unused_appearance_accent_name_arctic": {
+      "message": "北極"
+   },
+   "unused_appearance_accent_name_azure": {
+      "message": "湛藍"
+   },
+   "unused_appearance_accent_name_coral": {
+      "message": "珊瑚"
+   },
+   "unused_appearance_accent_name_cosmos": {
+      "message": "宇宙"
+   },
+   "unused_appearance_accent_name_default": {
+      "message": "Tonkeeper"
+   },
+   "unused_appearance_accent_name_flamingo": {
+      "message": "火烈鳥"
+   },
+   "unused_appearance_accent_name_fluid": {
+      "message": "漸變"
+   },
+   "unused_appearance_accent_name_galaxy": {
+      "message": "銀河"
+   },
+   "unused_appearance_accent_name_iris": {
+      "message": "鳶尾"
+   },
+   "unused_appearance_accent_name_marine": {
+      "message": "海洋"
+   },
+   "unused_appearance_accent_name_ocean": {
+      "message": "大海"
+   },
+   "unused_appearance_accent_name_sky": {
+      "message": "天空"
+   },
+   "unused_appearance_confirm": {
+      "message": "設置"
+   },
+   "unused_appearance_description": {
+      "message": "TON Diamonds NFT 將使您的錢包更加豐富多彩和獨特。"
+   },
+   "unused_appearance_title": {
+      "message": "主題"
+   },
+   "unused_approval_accept": {
+      "message": "接受"
+   },
+   "unused_approval_accepted_at_collection": {
+      "message": "在%{date}接受"
+   },
+   "unused_approval_accepted_at_token": {
+      "message": "在%{date}接受"
+   },
+   "unused_approval_accepted_collection": {
+      "message": "接受的收藏"
+   },
+   "unused_approval_accepted_token": {
+      "message": "接受的代幣"
+   },
+   "unused_approval_approve_all": {
+      "message": "接受所有"
+   },
+   "unused_approval_approve_collection_many": {
+      "message": "批准來自“%{collection}\"收藏的代幣"
+   },
+   "unused_approval_approve_collection_one": {
+      "message": "批准來自“%{collection}\"收藏的代幣"
+   },
+   "unused_approval_approve_many": {
+      "message": "批准 %{count} 收到的代幣"
+   },
+   "unused_approval_approve_many_few": {
+      "message": " "
+   },
+   "unused_approval_approve_many_many": {
+      "message": " "
+   },
+   "unused_approval_approve_many_one": {
+      "message": " "
+   },
+   "unused_approval_approve_many_other": {
+      "message": " "
+   },
+   "unused_approval_approve_token": {
+      "message": "批准收到的代幣“%{name}\""
+   },
+   "unused_approval_approve_two_collections": {
+      "message": "批准來自“%{collection1}” “%{collection2}”收藏的代幣"
+   },
+   "unused_approval_approve_two_tokens": {
+      "message": "批准收到的代幣“%{name1}”和“%{name2}”"
+   },
+   "unused_approval_blacklisted_collection": {
+      "message": "黑名單收藏"
+   },
+   "unused_approval_blacklisted_token": {
+      "message": "列入黑名單的代幣"
+   },
+   "unused_approval_decline": {
+      "message": "拒絕"
+   },
+   "unused_approval_declined_at_collection": {
+      "message": "已於 %{date} 拒絕"
+   },
+   "unused_approval_declined_at_token": {
+      "message": "已於 %{date} 拒絕"
+   },
+   "unused_approval_details_collection": {
+      "message": "收藏詳細資料"
+   },
+   "unused_approval_manage_tokens": {
+      "message": "管理代幣"
+   },
+   "unused_approval_move_to_accepted": {
+      "message": "移至接受"
+   },
+   "unused_approval_move_to_accepted_collection": {
+      "message": "在錢包中顯示收藏"
+   },
+   "unused_approval_move_to_accepted_token": {
+      "message": "在錢包中顯示代幣"
+   },
+   "unused_approval_move_to_declined": {
+      "message": "移至已拒絕"
+   },
+   "unused_approval_move_to_declined_collection": {
+      "message": "從錢包中隱藏收藏"
+   },
+   "unused_approval_move_to_declined_token": {
+      "message": "從錢包中隱藏代幣"
+   },
+   "unused_approval_pending": {
+      "message": "待處理"
+   },
+   "unused_approval_show_all": {
+      "message": "顯示全部"
+   },
+   "unused_approval_single_token": {
+      "message": "單一代幣"
+   },
+   "unused_approval_token_copied": {
+      "message": "代幣ID已複製"
+   },
+   "unused_approval_token_count_few": {
+      "message": " "
+   },
+   "unused_approval_token_count_one": {
+      "message": "%{count} 個代幣"
+   },
+   "unused_approval_token_count_other": {
+      "message": "%{count} 個代幣"
+   },
+   "unused_approval_verify_collection": {
+      "message": "驗證收藏"
+   },
+   "unused_approval_verify_description_collection": {
+      "message": "這些代幣來自未知的發行者。要檢測偽造品，請使用發行者的官方來源驗證收藏ID。您可以稍後在設置中更改代幣的可見性。"
+   },
+   "unused_approval_verify_description_token": {
+      "message": "這個代幣來自未知的發行者。要檢測偽造品，請使用發行者的官方來源驗證代幣ID。您可以稍後在設置中更改代幣的可見性。"
+   },
+   "unused_approval_verify_token": {
+      "message": "驗證代幣"
+   },
+   "unused_approval_whitelisted_collection": {
+      "message": "白名單收藏"
+   },
+   "unused_approval_whitelisted_token": {
+      "message": "白名單代幣"
+   },
+   "unused_auth_failed": {
+      "message": "驗證失敗"
+   },
+   "unused_backup_check_caption": {
+      "message": "讓我們看看是否一切正確。輸入單詞 %{one}、%{two} 和 %{three}。"
+   },
+   "unused_backup_check_done_button": {
+      "message": "完成"
+   },
+   "unused_backup_check_title": {
+      "message": "備份檢查"
+   },
+   "unused_backup_screen_backup_warning": {
+      "message": "您的餘額是 %{totalFiat}，而且它僅受您尚未記下的助記詞保護。備份助記詞以避免因設備問題而丟失資金。"
+   },
+   "unused_backup_screen_last_backup_time": {
+      "message": "上次備份 %{time}"
+   },
+   "unused_backup_screen_manual_backup_on": {
+      "message": "手動備份開啟"
+   },
+   "unused_backup_screen_manual_button": {
+      "message": "手動備份"
+   },
+   "unused_backup_screen_manual_caption": {
+      "message": "手動備份您的錢包，請寫下助記詞。"
+   },
+   "unused_backup_screen_manual_title": {
+      "message": "手動"
+   },
+   "unused_backup_screen_show_recovery_phrase": {
+      "message": "顯示助記詞"
+   },
+   "unused_backup_screen_title": {
+      "message": "備份"
+   },
+   "unused_backup_warning_cancel_button": {
+      "message": "取消"
+   },
+   "unused_backup_warning_caption": {
+      "message": "在查看您的助記詞之前，請仔細閱讀以下內容。"
+   },
+   "unused_backup_warning_continue_button": {
+      "message": "繼續"
+   },
+   "unused_backup_warning_p1": {
+      "message": "切勿在 Tonkeeper 以外的任何地方輸入您的助記詞以訪問您的錢包。"
+   },
+   "unused_backup_warning_p2": {
+      "message": "Tonkeeper 支援團隊絕不會要求提供助記詞。"
+   },
+   "unused_backup_warning_p3": {
+      "message": "任何人只要有您的助記詞就可以存取您的錢包。"
+   },
+   "unused_backup_warning_title": {
+      "message": "注意"
+   },
+   "unused_battery_capabilities_description": {
+      "message": "Swap via Tonkeeper, send tokens and unstake TON."
+   },
+   "unused_battery_description_empty": {
+      "message": "兌換、發送代幣和NFT。"
+   },
+   "unused_battery_description_less_10": {
+      "message": "您的電池電量足夠進行少於 10 次交易。"
+   },
+   "unused_battery_description_other": {
+      "message": "您的電池電量足夠進行多於 %{cnt} 次交易。"
+   },
+   "unused_battery_description_other_few": {
+      "message": "您的電池有 %{count} 電量"
+   },
+   "unused_battery_description_other_many": {
+      "message": "您的電池有 %{count} 電量"
+   },
+   "unused_battery_description_other_one": {
+      "message": "您的電池有 %{count} 電量"
+   },
+   "unused_battery_description_other_other": {
+      "message": "您的電池有 %{count} 電量"
+   },
+   "unused_battery_max_input_amount": {
+      "message": "最大輸入數量為%{amount}"
+   },
+   "unused_battery_ok": {
+      "message": "確定"
+   },
+   "unused_battery_other_ways_by_crypto_subtitle": {
+      "message": "使用%{methods}"
+   },
+   "unused_battery_other_ways_promo_subtitle": {
+      "message": "你很幸運"
+   },
+   "unused_battery_other_ways_promo_title": {
+      "message": "輸入優惠碼"
+   },
+   "unused_battery_packages_buy": {
+      "message": "購買"
+   },
+   "unused_battery_packages_ok": {
+      "message": "確定"
+   },
+   "unused_battery_packages_refilled": {
+      "message": "您的電池已充電"
+   },
+   "unused_battery_packages_refund": {
+      "message": "充電歷史"
+   },
+   "unused_battery_packages_restore": {
+      "message": "恢復購買"
+   },
+   "unused_battery_packages_subtitle_few": {
+      "message": "%{count} 次充電"
+   },
+   "unused_battery_packages_subtitle_large": {
+      "message": " "
+   },
+   "unused_battery_packages_subtitle_many": {
+      "message": "%{count} 個充電"
+   },
+   "unused_battery_packages_subtitle_medium": {
+      "message": " "
+   },
+   "unused_battery_packages_subtitle_one": {
+      "message": "%{count} 次充電"
+   },
+   "unused_battery_packages_subtitle_other": {
+      "message": "%{count} 次充電"
+   },
+   "unused_battery_packages_subtitle_small": {
+      "message": " "
+   },
+   "unused_battery_packages_title": {
+      "message": " "
+   },
+   "unused_battery_packages_title_large": {
+      "message": "大的"
+   },
+   "unused_battery_packages_title_medium": {
+      "message": "中等的"
+   },
+   "unused_battery_packages_title_small": {
+      "message": "小的"
+   },
+   "unused_battery_promocode_apply": {
+      "message": "申請"
+   },
+   "unused_battery_promocode_button": {
+      "message": "使用優惠碼充值"
+   },
+   "unused_battery_promocode_placeholder": {
+      "message": "代碼"
+   },
+   "unused_battery_promocode_success": {
+      "message": "您的電池已充電"
+   },
+   "unused_battery_recharge_by_crypto_continue": {
+      "message": "繼續"
+   },
+   "unused_battery_recharge_by_crypto_title_gift": {
+      "message": "禮物"
+   },
+   "unused_battery_recharge_by_crypto_tokens": {
+      "message": "代幣"
+   },
+   "unused_battery_refilled": {
+      "message": "電池已充滿"
+   },
+   "unused_battery_refund_subtitle": {
+      "message": "充電和退款"
+   },
+   "unused_battery_refund_title": {
+      "message": "充電歷史"
+   },
+   "unused_battery_screen_title": {
+      "message": "電池"
+   },
+   "unused_battery_send_widget_battery": {
+      "message": "電池"
+   },
+   "unused_battery_settings": {
+      "message": "電池"
+   },
+   "unused_battery_transactions_charges_per_action_few": {
+      "message": "≈ 每 %{transactionName} %{count} 次充電"
+   },
+   "unused_battery_transactions_charges_per_action_many": {
+      "message": "≈ 每 %{transactionName} %{count} 次充電"
+   },
+   "unused_battery_transactions_charges_per_action_one": {
+      "message": "≈ 每 %{transactionName} %{count} 次充電"
+   },
+   "unused_battery_transactions_charges_per_action_other": {
+      "message": "≈ 每 %{transactionName} %{count} 次充電"
+   },
+   "unused_battery_transactions_supported": {
+      "message": "支持的交易"
+   },
+   "unused_battery_transactions_types_jetton": {
+      "message": "Jetton 轉移"
+   },
+   "unused_battery_transactions_types_swap": {
+      "message": "兌換"
+   },
+   "unused_battery_transactions_types_ton": {
+      "message": "TON 轉移"
+   },
+   "unused_battery_transactions_will_be_paid": {
+      "message": "將支付：%{enabledTransactions}"
+   },
+   "unused_biometry_android_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_android_face_recognition_genitive": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_android_face_recognition_instrumental": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_android_fingerprint": {
+      "message": "指紋"
+   },
+   "unused_biometry_android_fingerprint_genitive": {
+      "message": "指紋"
+   },
+   "unused_biometry_android_fingerprint_instrumental": {
+      "message": "指紋"
+   },
+   "unused_biometry_default_accusative": {
+      "message": "生物識別"
+   },
+   "unused_biometry_default_genitive": {
+      "message": "生物識別"
+   },
+   "unused_biometry_default_instrumental": {
+      "message": "生物識別"
+   },
+   "unused_biometry_ios_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_ios_face_recognition_genitive": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_ios_face_recognition_instrumental": {
+      "message": "人臉辨識"
+   },
+   "unused_biometry_ios_fingerprint_genitive": {
+      "message": "指紋識別"
+   },
+   "unused_biometry_ios_fingerprint_instrumental": {
+      "message": "指紋識別"
+   },
+   "unused_bluetooth_permissions_alert_cancel": {
+      "message": "取消"
+   },
+   "unused_bluetooth_permissions_alert_message": {
+      "message": "請在設定中啟用藍牙權限以使用此功能"
+   },
+   "unused_bluetooth_permissions_alert_open_settings": {
+      "message": "開啟設定"
+   },
+   "unused_bluetooth_permissions_alert_title": {
+      "message": "藍牙權限"
+   },
+   "unused_bluetooth_powered_off_alert_cancel": {
+      "message": "取消"
+   },
+   "unused_bluetooth_powered_off_alert_message": {
+      "message": "請開啟藍牙以使用此功能"
+   },
+   "unused_bluetooth_powered_off_alert_open_settings": {
+      "message": "開啟設定"
+   },
+   "unused_bluetooth_powered_off_alert_title": {
+      "message": "藍牙已關閉"
+   },
+   "unused_browser_about_dapps_caption": {
+      "message": "探索可以使用 Tonkeeper 進行登錄和支付的應用程式和服務。"
+   },
+   "unused_browser_about_dapps_learn_more": {
+      "message": "了解更多"
+   },
+   "unused_browser_about_dapps_title": {
+      "message": "使用 Tonkeeper 與所有 TON 應用程式和服務"
+   },
+   "unused_browser_actions_disconnect": {
+      "message": "斷開連接"
+   },
+   "unused_browser_actions_mute": {
+      "message": "靜音"
+   },
+   "unused_browser_connected_empty_text": {
+      "message": "在 Tonkeeper 瀏覽器中探索應用程式和服務。"
+   },
+   "unused_browser_connected_empty_title": {
+      "message": "已連接的應用程式將顯示在此處"
+   },
+   "unused_browser_connected_title": {
+      "message": "已連接"
+   },
+   "unused_browser_empty_search": {
+      "message": "您的搜尋沒有結果"
+   },
+   "unused_browser_explore": {
+      "message": "探索"
+   },
+   "unused_browser_explore_all": {
+      "message": "探索全部"
+   },
+   "unused_browser_more_description": {
+      "message": "市場、交易所及更多"
+   },
+   "unused_browser_more_title": {
+      "message": "探索全部服務"
+   },
+   "unused_browser_open_link": {
+      "message": "開啟連結"
+   },
+   "unused_browser_popular_title": {
+      "message": "熱門"
+   },
+   "unused_browser_remove_alert_approve_button": {
+      "message": "移除"
+   },
+   "unused_browser_remove_alert_title": {
+      "message": "移除「%{name}」？"
+   },
+   "unused_browser_search_label": {
+      "message": "搜尋或輸入地址"
+   },
+   "unused_browser_start_typing": {
+      "message": "輸入地址或搜尋網頁"
+   },
+   "unused_browser_web_search_title": {
+      "message": "%{searchEngine} 搜尋"
+   },
+   "unused_buy_ton_subtitle": {
+      "message": "立即用銀行卡"
+   },
+   "unused_buy_ton_title": {
+      "message": "購買 TON"
+   },
+   "unused_chart_check_connection": {
+      "message": "請檢查您的連線並重試。"
+   },
+   "unused_chart_no_internet": {
+      "message": "無網路連線"
+   },
+   "unused_chart_periods_1D": {
+      "message": "日"
+   },
+   "unused_chart_periods_1H": {
+      "message": "小時"
+   },
+   "unused_chart_periods_1M": {
+      "message": "月"
+   },
+   "unused_chart_periods_1Y": {
+      "message": "年"
+   },
+   "unused_chart_periods_6M": {
+      "message": "6個月"
+   },
+   "unused_chart_periods_7D": {
+      "message": "週"
+   },
+   "unused_chart_price": {
+      "message": "價格"
+   },
+   "unused_check_for_updates": {
+      "message": "檢查更新"
+   },
+   "unused_choose_country_auto": {
+      "message": "自動"
+   },
+   "unused_choose_country_cancel": {
+      "message": "取消"
+   },
+   "unused_choose_country_empty_placeholder": {
+      "message": "您的搜尋沒有結果"
+   },
+   "unused_choose_country_search": {
+      "message": "搜尋"
+   },
+   "unused_choose_country_title": {
+      "message": "選擇您的國家"
+   },
+   "unused_choose_currency_currencies_AED": {
+      "message": "阿聯酋迪拉姆"
+   },
+   "unused_choose_currency_currencies_BDT": {
+      "message": "孟加拉塔卡"
+   },
+   "unused_choose_currency_currencies_BRL": {
+      "message": "巴西雷亞爾"
+   },
+   "unused_choose_currency_currencies_BYN": {
+      "message": "白俄羅斯盧布"
+   },
+   "unused_choose_currency_currencies_CAD": {
+      "message": "加元"
+   },
+   "unused_choose_currency_currencies_CHF": {
+      "message": "瑞士法郎"
+   },
+   "unused_choose_currency_currencies_CNY": {
+      "message": "中國人民幣"
+   },
+   "unused_choose_currency_currencies_EUR": {
+      "message": "歐元"
+   },
+   "unused_choose_currency_currencies_GBP": {
+      "message": "英鎊"
+   },
+   "unused_choose_currency_currencies_GEL": {
+      "message": "喬治亞拉里"
+   },
+   "unused_choose_currency_currencies_IDR": {
+      "message": "印尼盾"
+   },
+   "unused_choose_currency_currencies_ILS": {
+      "message": "以色列謝克爾"
+   },
+   "unused_choose_currency_currencies_INR": {
+      "message": "印度盧比"
+   },
+   "unused_choose_currency_currencies_IRR": {
+      "message": "伊朗里亞爾"
+   },
+   "unused_choose_currency_currencies_JPY": {
+      "message": "日元"
+   },
+   "unused_choose_currency_currencies_KRW": {
+      "message": "韓元"
+   },
+   "unused_choose_currency_currencies_KZT": {
+      "message": "哈薩克斯坦堅戈"
+   },
+   "unused_choose_currency_currencies_NGN": {
+      "message": "尼日利亞奈拉"
+   },
+   "unused_choose_currency_currencies_RUB": {
+      "message": "俄羅斯盧布"
+   },
+   "unused_choose_currency_currencies_THB": {
+      "message": "泰銖"
+   },
+   "unused_choose_currency_currencies_TON": {
+      "message": "Toncoin"
+   },
+   "unused_choose_currency_currencies_TRY": {
+      "message": "土耳其里拉"
+   },
+   "unused_choose_currency_currencies_UAH": {
+      "message": "烏克蘭格里夫納"
+   },
+   "unused_choose_currency_currencies_USD": {
+      "message": "美元"
+   },
+   "unused_choose_currency_currencies_UZS": {
+      "message": "烏茲別克斯坦蘇姆"
+   },
+   "unused_choose_currency_currencies_VND": {
+      "message": "越南盾"
+   },
+   "unused_choose_currency_header_title": {
+      "message": "主要貨幣"
+   },
+   "unused_choose_plan": {
+      "message": "Choose Plan"
+   },
+   "unused_choose_wallets_already_added": {
+      "message": "已添加"
+   },
+   "unused_choose_wallets_tokens": {
+      "message": "代幣"
+   },
+   "unused_choose_wallets_w5_subtitle": {
+      "message": "更低的區塊鏈費用、Gasless交易和多重轉帳。"
+   },
+   "unused_choose_wallets_w5_subtitle_link": {
+      "message": "了解更多"
+   },
+   "unused_confirm": {
+      "message": "Уже существует в tonkeeper namespace"
+   },
+   "unused_confirmSendModal_network_fee": {
+      "message": "網絡費用"
+   },
+   "unused_confirmSendModal_refund": {
+      "message": "退款"
+   },
+   "unused_confirmSendModal_title": {
+      "message": "確認操作"
+   },
+   "unused_confirmSendModal_title_multiwallets": {
+      "message": "%{walletName} 的操作"
+   },
+   "unused_confirmSendModal_to_your_address": {
+      "message": "到您的地址"
+   },
+   "unused_confirmSendModal_total_risk": {
+      "message": "總計：%{totalAmount}"
+   },
+   "unused_confirmSendModal_transaction_type_burn": {
+      "message": "燒毀"
+   },
+   "unused_confirmSendModal_transaction_type_receive": {
+      "message": "接收"
+   },
+   "unused_confirmSendModal_transaction_type_send": {
+      "message": "發送"
+   },
+   "unused_confirmSendModal_will_be_paid_with_battery": {
+      "message": "將以電池支付"
+   },
+   "unused_confirm_error_insufficient_balance": {
+      "message": "Wallet balance %{balance} is not enough. Minimum balance required: %{required}."
+   },
+   "unused_confirm_renew_all_domains_title": {
+      "message": "確認操作"
+   },
+   "unused_confirm_sending_amount": {
+      "message": "數量"
+   },
+   "unused_confirm_sending_inactive_warn_about": {
+      "message": "您應該做什麼"
+   },
+   "unused_confirm_sending_inactive_warn_description": {
+      "message": "如果你期望區塊鏈發生奇蹟，請不要繼續。因為這是不會發生的。"
+   },
+   "unused_confirm_sending_inactive_warn_title": {
+      "message": "無效合約"
+   },
+   "unused_confirm_sending_liquid_warn_description": {
+      "message": "您將不再從已發送的 Staked TON 中獲得獎勵。"
+   },
+   "unused_confirm_sending_liquid_warn_title": {
+      "message": "注意"
+   },
+   "unused_confirm_sending_message": {
+      "message": "Comment"
+   },
+   "unused_confirm_sending_method_title": {
+      "message": "將您的資金發送給 %{name}？"
+   },
+   "unused_confirm_sending_recipient": {
+      "message": "接收者"
+   },
+   "unused_confirm_sending_recipient_address": {
+      "message": "接收者地址"
+   },
+   "unused_confirm_sending_sent_caption_btc": {
+      "message": "您的交易已發送到網絡，將在一小時內處理。"
+   },
+   "unused_confirm_sending_sent_caption_other": {
+      "message": " "
+   },
+   "unused_confirm_sending_sent_caption_ton": {
+      "message": "您的交易已發送到網絡，將在幾秒鐘內處理。"
+   },
+   "unused_confirm_sending_sent_jetton_title": {
+      "message": " "
+   },
+   "unused_confirm_sending_sent_title": {
+      "message": " "
+   },
+   "unused_copy_error_log": {
+      "message": "複製錯誤日誌"
+   },
+   "unused_create_wallet_continue_button": {
+      "message": "繼續"
+   },
+   "unused_customize_modal_save": {
+      "message": "儲存"
+   },
+   "unused_customize_modal_wallet_name": {
+      "message": "錢包名稱"
+   },
+   "unused_decryption_error": {
+      "message": "解密錯誤"
+   },
+   "unused_delete_wallet": {
+      "message": "Delete Wallet"
+   },
+   "unused_deleting_disable_pro_access": {
+      "message": "Deleting this wallet will disable Pro access"
+   },
+   "unused_deleting_disable_pro_access_description": {
+      "message": "Your Tonkeeper Pro subscription is linked to this wallet. If you delete it, Pro features will be unavailable until you add the wallet again."
+   },
+   "unused_deploy_contract_button": {
+      "message": "確認並部署"
+   },
+   "unused_deploy_contract_title": {
+      "message": "部署合約"
+   },
+   "unused_disable_nft_marketplace_banner_description": {
+      "message": "收藏與交換"
+   },
+   "unused_dns_addresses_few": {
+      "message": "%{count} 個地址"
+   },
+   "unused_dns_addresses_many": {
+      "message": "%{count} 個地址"
+   },
+   "unused_dns_addresses_one": {
+      "message": "%{count} 個地址"
+   },
+   "unused_dns_addresses_other": {
+      "message": "%{count} 個地址"
+   },
+   "unused_dns_alert_expiring_many_few": {
+      "message": "您有 %{count} 個即將到期的域名。請在 %{untilDate} 之前全部續訂。"
+   },
+   "unused_dns_alert_expiring_many_many": {
+      "message": "您有 %{count} 個即將到期的域名。請在 %{untilDate} 之前全部續訂。"
+   },
+   "unused_dns_alert_expiring_many_one": {
+      "message": "您有 %{count} 個即將到期的域名。請在 %{untilDate} 之前全部續訂。"
+   },
+   "unused_dns_alert_expiring_many_other": {
+      "message": "您有 %{count} 個即將到期的域名。請在 %{untilDate} 之前全部續訂。"
+   },
+   "unused_dns_alert_expiring_one": {
+      "message": "%{domain} 將在 %{count} 天後到期。請在 %{untilDate} 之前續訂。"
+   },
+   "unused_dns_alert_expiring_one_few": {
+      "message": " "
+   },
+   "unused_dns_alert_expiring_one_many": {
+      "message": " "
+   },
+   "unused_dns_alert_expiring_one_one": {
+      "message": " "
+   },
+   "unused_dns_alert_expiring_one_other": {
+      "message": " "
+   },
+   "unused_dns_link_title": {
+      "message": "確認交易"
+   },
+   "unused_dns_on_sale_text": {
+      "message": "域名現在在市場上出售。要轉移，您應該先將其從銷售中移除。"
+   },
+   "unused_dns_renew_all_until_btn": {
+      "message": "全部續訂至 %{untilDate}"
+   },
+   "unused_dns_renew_in_progress_btn": {
+      "message": "域名續訂正在進行中..."
+   },
+   "unused_dns_renew_valid_caption_few": {
+      "message": " "
+   },
+   "unused_dns_renew_valid_caption_many": {
+      "message": " "
+   },
+   "unused_dns_renew_valid_caption_one": {
+      "message": "將於 %{count} 天後到期"
+   },
+   "unused_dns_renew_valid_caption_other": {
+      "message": "將於 %{count} 天後到期"
+   },
+   "unused_dns_replace_button": {
+      "message": "替換"
+   },
+   "unused_dns_replace_description": {
+      "message": "新增錢包地址，域名 {{domain}} 將連結到該地址。"
+   },
+   "unused_dns_replace_save": {
+      "message": "儲存"
+   },
+   "unused_dns_unlink_title": {
+      "message": "確認取消連結"
+   },
+   "unused_dns_wallet_address": {
+      "message": "錢包地址"
+   },
+   "unused_domains_renewed": {
+      "message": "域名已續訂"
+   },
+   "unused_edit_coins_add": {
+      "message": "添加"
+   },
+   "unused_edit_coins_added": {
+      "message": "已添加"
+   },
+   "unused_edit_coins_added_toast": {
+      "message": "已添加"
+   },
+   "unused_edit_coins_hide": {
+      "message": "隱藏"
+   },
+   "unused_edit_coins_title": {
+      "message": "添加加密貨幣"
+   },
+   "unused_encryptedComments_encryptedComment": {
+      "message": "加密comment"
+   },
+   "unused_encryptedComments_encryptedCommentModal_button": {
+      "message": "解密comment"
+   },
+   "unused_encryptedComments_encryptedCommentModal_checkboxLabel": {
+      "message": "不再顯示"
+   },
+   "unused_encryptedComments_encryptedCommentModal_description": {
+      "message": "此comment已由發送者加密，僅能由您解密。請小心處理內容，並提防詐騙。"
+   },
+   "unused_encryptedComments_encryptedCommentModal_title": {
+      "message": "加密comment"
+   },
+   "unused_encryptedComments_show": {
+      "message": "顯示"
+   },
+   "unused_error_network": {
+      "message": "網絡錯誤"
+   },
+   "unused_exchange_modal_buy": {
+      "message": "購買"
+   },
+   "unused_exchange_modal_buy_title": {
+      "message": " "
+   },
+   "unused_exchange_modal_hide": {
+      "message": "隱藏"
+   },
+   "unused_exchange_modal_other_ways_to_sell": {
+      "message": " "
+   },
+   "unused_exchange_modal_sell": {
+      "message": "出售"
+   },
+   "unused_exchange_modal_sell_title": {
+      "message": " "
+   },
+   "unused_exchange_modal_show_all": {
+      "message": "顯示全部"
+   },
+   "unused_exchange_modal_title": {
+      "message": "購買或出售"
+   },
+   "unused_exchange_not_exists": {
+      "message": "無效的交易ID"
+   },
+   "unused_exchange_telegram_bot": {
+      "message": "Telegram機器人"
+   },
+   "unused_expiring_domains": {
+      "message": "即將到期的域名"
+   },
+   "unused_failed_to_manage": {
+      "message": "Failed to manage subscription"
+   },
+   "unused_finish_setup_backup": {
+      "message": "備份錢包助記詞"
+   },
+   "unused_finish_setup_done_buttom": {
+      "message": " "
+   },
+   "unused_finish_setup_done_button": {
+      "message": "完成"
+   },
+   "unused_finish_setup_enable_notifications": {
+      "message": "啟用交易通知"
+   },
+   "unused_finish_setup_header_title": {
+      "message": "完成設定"
+   },
+   "unused_finish_setup_join_tg": {
+      "message": "加入 Tonkeeper 頻道"
+   },
+   "unused_finish_setup_use_biometry": {
+      "message": "使用%{name}來批准交易"
+   },
+   "unused_form_optional_indicator": {
+      "message": "可選"
+   },
+   "unused_free_pro_access_activated_toast": {
+      "message": "Free Pro Access Trial Activated"
+   },
+   "unused_free_pro_access_page_button_activated": {
+      "message": "Pro Access Granted"
+   },
+   "unused_free_pro_access_page_button_continue": {
+      "message": "Continue With Pro"
+   },
+   "unused_free_pro_access_page_card_acs_until": {
+      "message": "Pro Access: Until %{date}"
+   },
+   "unused_free_pro_access_page_card_promo_code": {
+      "message": "Promo Code"
+   },
+   "unused_free_pro_access_page_description": {
+      "message": "Tonkeeper Pro includes extended wallet features for crypto management — active only on this device. The subscription ends automatically. No charges apply."
+   },
+   "unused_free_pro_access_page_title": {
+      "message": "Free Pro Access: Until %{date}"
+   },
+   "unused_gasless_switch_label": {
+      "message": "點擊以%{currency}支付"
+   },
+   "unused_ge_header_history": {
+      "message": " "
+   },
+   "unused_import_wallet_reset_caption": {
+      "message": "請恢復錢包的訪問權限\n通過輸入您在創建錢包時寫下的24個助記詞。"
+   },
+   "unused_indexer_latency_error": {
+      "message": "發送錯誤，請稍後再試"
+   },
+   "unused_info_about_inactive_desc1": {
+      "message": "Tonkeeper 無法確定此地址是錢包還是智能合約。"
+   },
+   "unused_info_about_inactive_desc2": {
+      "message": "如果您只想將錢存入錢包 — 您可以繼續。"
+   },
+   "unused_info_about_inactive_desc3_1": {
+      "message": "如果您期望智能合約自動執行某個動作，"
+   },
+   "unused_info_about_inactive_desc3_2": {
+      "message": "— 您的轉帳可能會卡在該地址上。"
+   },
+   "unused_info_about_inactive_desc3_bold": {
+      "message": "請勿繼續"
+   },
+   "unused_info_about_inactive_title": {
+      "message": "無效合約"
+   },
+   "unused_intro_item3_caption": {
+      "message": "-"
+   },
+   "unused_intro_item3_title": {
+      "message": "-"
+   },
+   "unused_it_expires_on": {
+      "message": "有效期："
+   },
+   "unused_jetton_buy_tether": {
+      "message": "購買 USD₮"
+   },
+   "unused_jetton_id_copied": {
+      "message": "代幣ID已複製"
+   },
+   "unused_jetton_locked_till": {
+      "message": "鎖定至 %{date}"
+   },
+   "unused_jetton_migrate_tether": {
+      "message": "將 jUSDT 兌換為 USD₮"
+   },
+   "unused_jetton_name": {
+      "message": "%{name} 代幣"
+   },
+   "unused_jetton_open_explorer": {
+      "message": "查看詳情"
+   },
+   "unused_jetton_price": {
+      "message": "價格:"
+   },
+   "unused_jetton_token": {
+      "message": "代幣"
+   },
+   "unused_jettons_manage_tokens": {
+      "message": "管理代幣"
+   },
+   "unused_jettons_show_jettons": {
+      "message": "在錢包中顯示代幣"
+   },
+   "unused_language_language_alert_cancel": {
+      "message": "取消"
+   },
+   "unused_language_language_alert_open": {
+      "message": "設定"
+   },
+   "unused_language_language_alert_title": {
+      "message": "要更改應用程式的語言，請前往裝置設定"
+   },
+   "unused_language_languagesList_bn_BD": {
+      "message": " "
+   },
+   "unused_language_languagesList_en": {
+      "message": "英文"
+   },
+   "unused_language_languagesList_es": {
+      "message": "西班牙語"
+   },
+   "unused_language_languagesList_id": {
+      "message": "印尼語"
+   },
+   "unused_language_languagesList_ru": {
+      "message": "俄羅斯語"
+   },
+   "unused_language_languagesList_system": {
+      "message": "系統"
+   },
+   "unused_language_languagesList_tr": {
+      "message": "土耳其語"
+   },
+   "unused_language_languagesList_uk": {
+      "message": "烏克蘭語"
+   },
+   "unused_language_languagesList_uz": {
+      "message": "烏茲別克語"
+   },
+   "unused_language_languagesList_zh_Hans": {
+      "message": "中文"
+   },
+   "unused_language_list_item_title": {
+      "message": "語言"
+   },
+   "unused_language_list_item_value": {
+      "message": "英文"
+   },
+   "unused_language_title": {
+      "message": "語言"
+   },
+   "unused_ledger_confirm_title": {
+      "message": "確認操作"
+   },
+   "unused_ledger_confirm_tx": {
+      "message": "在 Ledger 上確認您的交易"
+   },
+   "unused_ledger_connect": {
+      "message": "通過藍牙將 Ledger 連接到您的設備"
+   },
+   "unused_ledger_connect_title": {
+      "message": "連接 Ledger"
+   },
+   "unused_ledger_install_ton_app": {
+      "message": "安裝 TON 應用程式"
+   },
+   "unused_ledger_min_required_version_button": {
+      "message": " "
+   },
+   "unused_ledger_min_required_version_subtitle": {
+      "message": " "
+   },
+   "unused_ledger_open_ton_app": {
+      "message": "解鎖並打開 TON 應用程式"
+   },
+   "unused_link_copied": {
+      "message": "連結已複製"
+   },
+   "unused_logout_modal_agreement": {
+      "message": "我有一份助記詞的備份"
+   },
+   "unused_logout_modal_backup_button": {
+      "message": "備份"
+   },
+   "unused_logout_modal_caption": {
+      "message": "錢包密鑰將從此設備中刪除。"
+   },
+   "unused_logout_modal_delete_button": {
+      "message": "刪除錢包數據"
+   },
+   "unused_logout_modal_delete_caption": {
+      "message": "錢包密鑰和所有個人數據將從此設備中刪除。"
+   },
+   "unused_logout_modal_delete_title": {
+      "message": "刪除錢包數據"
+   },
+   "unused_logout_modal_logout_button": {
+      "message": "登出"
+   },
+   "unused_logout_modal_title": {
+      "message": "登出"
+   },
+   "unused_manage_other_coins": {
+      "message": "管理我的加密貨幣"
+   },
+   "unused_migration_cancel_btn": {
+      "message": "稍後升級"
+   },
+   "unused_migration_caption": {
+      "message": "Tonkeeper 引入了支持訂閱付款的新錢包格式。您的餘額將轉移到新地址。您的助記詞將保持不變。"
+   },
+   "unused_migration_failed": {
+      "message": "遷移失敗。無法轉移您的餘額。"
+   },
+   "unused_migration_fee_info": {
+      "message": "網絡費用 ≈%{tonFee} TON (%{fiatFee})"
+   },
+   "unused_migration_in_progress": {
+      "message": "正在遷移到錢包 v4"
+   },
+   "unused_migration_migrate_btn": {
+      "message": "升級錢包"
+   },
+   "unused_migration_new_wallet": {
+      "message": "新地址"
+   },
+   "unused_migration_old_wallet": {
+      "message": "舊地址"
+   },
+   "unused_migration_subtitle": {
+      "message": "解鎖錢包以繼續。"
+   },
+   "unused_migration_title": {
+      "message": "升級你的錢包"
+   },
+   "unused_migration_with_biometry": {
+      "message": "繼續使用 %{type}"
+   },
+   "unused_monthly_pro_package": {
+      "message": "1 month"
+   },
+   "unused_multisig_edit_submit_hint": {
+      "message": "更改將需要來自其他 %{number} 位參與者的簽名。"
+   },
+   "unused_multisig_edit_suggest_changes": {
+      "message": "建議修改"
+   },
+   "unused_multisig_order_details": {
+      "message": "請求詳情"
+   },
+   "unused_multisig_update_config_confirm_title": {
+      "message": "確認更新多重簽名參數"
+   },
+   "unused_nft_about_dns": {
+      "message": "TON DNS 是一項服務，允許用戶將加密錢包、智能合約和網站分配一個易於辨識的名稱。\n\n使用 TON DNS，訪問去中心化服務就像訪問互聯網上的網站一樣。"
+   },
+   "unused_nft_actions_hide_collection": {
+      "message": "隱藏收藏"
+   },
+   "unused_nft_browse_markets": {
+      "message": "瀏覽市場"
+   },
+   "unused_nft_chain": {
+      "message": "鏈"
+   },
+   "unused_nft_change_owner_title": {
+      "message": "更改收藏擁有者"
+   },
+   "unused_nft_change_theme": {
+      "message": "更改主題"
+   },
+   "unused_nft_collection_name": {
+      "message": "收藏名稱"
+   },
+   "unused_nft_confirm_operation": {
+      "message": "確認"
+   },
+   "unused_nft_diamonds_description": {
+      "message": "TON Diamonds具有更改您的 Tonkeeper 錢包主題並使其與您的 NFT 顏色匹配的功能。"
+   },
+   "unused_nft_empty_header": {
+      "message": "您的購買紀錄將顯次在此處"
+   },
+   "unused_nft_features": {
+      "message": "功能"
+   },
+   "unused_nft_fee": {
+      "message": "費用"
+   },
+   "unused_nft_fee_and_royalties": {
+      "message": "費用和版稅"
+   },
+   "unused_nft_hide_details": {
+      "message": "隱藏詳情"
+   },
+   "unused_nft_item_deploy_title": {
+      "message": "鑄造 NFT"
+   },
+   "unused_nft_item_name": {
+      "message": "NFT 名稱"
+   },
+   "unused_nft_link_domain_caption": {
+      "message": "連結域名後，您將能夠轉移它並用作您的地址別名。"
+   },
+   "unused_nft_link_domain_mismatch_warn": {
+      "message": "此域名未連結到您目前的地址。請小心與此域名的交易。"
+   },
+   "unused_nft_link_username_caption": {
+      "message": "連結名稱後，您將能夠轉移它並用作您的地址別名。"
+   },
+   "unused_nft_link_username_mismatch_warn": {
+      "message": "此名稱未連結到您目前的地址。請小心與此名稱的交易。"
+   },
+   "unused_nft_marketplace_address": {
+      "message": "市場"
+   },
+   "unused_nft_marketplace_banner_description": {
+      "message": "購買、出售、收藏與交換"
+   },
+   "unused_nft_marketplace_banner_title": {
+      "message": "您的 NFT 代幣將儲存在這裡"
+   },
+   "unused_nft_marketplaces": {
+      "message": "探索"
+   },
+   "unused_nft_marketplaces_title": {
+      "message": "NFT 市場"
+   },
+   "unused_nft_metadata": {
+      "message": "元數據"
+   },
+   "unused_nft_new_owner_address": {
+      "message": "新擁有者地址"
+   },
+   "unused_nft_operation_slide_to_confirm": {
+      "message": "滑動以確認"
+   },
+   "unused_nft_operation_success": {
+      "message": "完成"
+   },
+   "unused_nft_operations_expired": {
+      "message": "請求超時，請再試一次"
+   },
+   "unused_nft_price": {
+      "message": "價格"
+   },
+   "unused_nft_proceeds": {
+      "message": "您的收益"
+   },
+   "unused_nft_properties": {
+      "message": "屬性"
+   },
+   "unused_nft_royalty": {
+      "message": "版稅"
+   },
+   "unused_nft_royalty_address": {
+      "message": "版稅地址"
+   },
+   "unused_nft_sale_cancel_title": {
+      "message": "取消銷售"
+   },
+   "unused_nft_sale_place_title": {
+      "message": "出售 NFT"
+   },
+   "unused_nft_show_details": {
+      "message": "顯示詳情"
+   },
+   "unused_nft_standard": {
+      "message": "代幣標準"
+   },
+   "unused_nft_title": {
+      "message": "NFTs"
+   },
+   "unused_nft_token_id": {
+      "message": "代幣ID"
+   },
+   "unused_nft_transaction_head_placeholder": {
+      "message": "NFT"
+   },
+   "unused_nft_transfer_comment": {
+      "message": "Comment"
+   },
+   "unused_nft_transfer_confirm_fee_label": {
+      "message": "費用"
+   },
+   "unused_nft_transfer_confirm_fee_refund_label": {
+      "message": "退款"
+   },
+   "unused_nft_transfer_confirm_fee_value": {
+      "message": "≈ %{value} TON"
+   },
+   "unused_nft_transfer_description": {
+      "message": "NFT 將被發送到此地址。將 NFT 發送給其他用戶時請小心。"
+   },
+   "unused_nft_transfer_dns": {
+      "message": "轉移"
+   },
+   "unused_nft_transfer_recipient": {
+      "message": "接收者"
+   },
+   "unused_nft_unnamed_collection": {
+      "message": "未命名收藏"
+   },
+   "unused_nokyc": {
+      "message": "無需KYC"
+   },
+   "unused_notcoin_all": {
+      "message": "在 Tonkeeper Pro 中兌換全部"
+   },
+   "unused_notcoin_burn_not_available_hours": {
+      "message": "兌換將在 %{count} 小時後可用"
+   },
+   "unused_notcoin_burn_not_available_hours_few": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_hours_many": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_hours_one": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_hours_other": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_minutes": {
+      "message": "兌換將在 %{count} 分鐘後可用"
+   },
+   "unused_notcoin_burn_not_available_minutes_few": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_minutes_many": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_minutes_one": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_minutes_other": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_seconds": {
+      "message": "兌換將在 %{count} 秒後可用"
+   },
+   "unused_notcoin_burn_not_available_seconds_few": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_seconds_many": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_seconds_one": {
+      "message": " "
+   },
+   "unused_notcoin_burn_not_available_seconds_other": {
+      "message": " "
+   },
+   "unused_notcoin_count": {
+      "message": "兌換券數量"
+   },
+   "unused_notcoin_count_max": {
+      "message": "每次兌換最多 4 個"
+   },
+   "unused_notcoin_exchange": {
+      "message": "兌換\n兌換券為NOT"
+   },
+   "unused_notcoin_exchange_all": {
+      "message": "在Tonkeeper Pro 中\n兌換全部"
+   },
+   "unused_notcoin_exchange_subtitle": {
+      "message": "NOT 將在兌換後不久出現在您的餘額中。"
+   },
+   "unused_notcoin_exchange_title": {
+      "message": "兌換你的兌換券為NOT"
+   },
+   "unused_notcoin_exchange_to_not": {
+      "message": "兌換為NOT"
+   },
+   "unused_notcoin_name": {
+      "message": "Notcoin"
+   },
+   "unused_notcoin_not_vouchers": {
+      "message": "NOT兌換券"
+   },
+   "unused_notcoin_open": {
+      "message": "開啟"
+   },
+   "unused_notcoin_open_bot": {
+      "message": "開啟 Notcoin 機器人"
+   },
+   "unused_notcoin_slogan": {
+      "message": "可能什麼都沒有"
+   },
+   "unused_notcoin_total_amount": {
+      "message": "總量"
+   },
+   "unused_notcoin_verify_subtitle": {
+      "message": "驗證可能需要幾個小時。"
+   },
+   "unused_notcoin_verify_title": {
+      "message": "連接錢包到 Notcoin Bot 以驗證銷毀"
+   },
+   "unused_notification_switch_description": {
+      "message": "當您收到 TON、代幣和 NFT 時接收通知。來自已連接應用程式的通知。"
+   },
+   "unused_notifications_alert_description": {
+      "message": "通知中的連結地址與應用程式地址不符。"
+   },
+   "unused_notifications_alert_open": {
+      "message": "仍然開啟"
+   },
+   "unused_notifications_alert_title": {
+      "message": "您確定要開啟外部連結嗎？"
+   },
+   "unused_notifications_allow_notifications": {
+      "message": "啟用通知"
+   },
+   "unused_notifications_apps": {
+      "message": "應用程式"
+   },
+   "unused_notifications_apps_description": {
+      "message": "來自連接應用程式的活動通知"
+   },
+   "unused_notifications_disabled_action": {
+      "message": "開啟設定"
+   },
+   "unused_notifications_disabled_description": {
+      "message": "您已在手機的設定中關閉通知。要啟用通知，請前往此裝置的設定。"
+   },
+   "unused_notifications_disabled_title": {
+      "message": "通知已停用"
+   },
+   "unused_notifications_disconnect_app": {
+      "message": "斷開連接 %{app_name}"
+   },
+   "unused_notifications_disconnected_app": {
+      "message": "已斷開連接的應用程式"
+   },
+   "unused_notifications_earlier": {
+      "message": "早些時候"
+   },
+   "unused_notifications_from_connected": {
+      "message": "從連接的應用程式"
+   },
+   "unused_notifications_mute_notifications": {
+      "message": "將通知靜音"
+   },
+   "unused_notifications_muted": {
+      "message": "通知已靜音"
+   },
+   "unused_notifications_not_supported": {
+      "message": "您的裝置不支援通知"
+   },
+   "unused_notifications_notifications": {
+      "message": "通知"
+   },
+   "unused_notifications_placeholder_description": {
+      "message": "在 Tonkeeper 瀏覽器中探索應用程式和服務。"
+   },
+   "unused_notifications_placeholder_title": {
+      "message": "通知將在此處顯示"
+   },
+   "unused_notifications_report": {
+      "message": "報告"
+   },
+   "unused_notifications_switch_title": {
+      "message": "推送通知"
+   },
+   "unused_notifications_title": {
+      "message": "通知"
+   },
+   "unused_notify_connection_err_caption": {
+      "message": "%{host} 沒有回應。請稍後再試。"
+   },
+   "unused_notify_connection_err_caption_few": {
+      "message": "%{hosts} 和 %{lastHost} 沒有回應。請稍後再試。"
+   },
+   "unused_notify_connection_err_title": {
+      "message": "無法連接到伺服器"
+   },
+   "unused_notify_incorrect_time_err_caption": {
+      "message": "在設備設定中，啟用自動時間和日期。當時間未自動設置時，可能會影響資金轉移。"
+   },
+   "unused_notify_incorrect_time_err_title": {
+      "message": "時間和日期不正確"
+   },
+   "unused_notify_no_signal_caption": {
+      "message": "請檢查您的網路連線。"
+   },
+   "unused_notify_no_signal_title": {
+      "message": "無信號"
+   },
+   "unused_old_wallet_error": {
+      "message": "使用 v4R2 版本的錢包"
+   },
+   "unused_order_send_token": {
+      "message": "發送代幣"
+   },
+   "unused_order_send_token_and_ton": {
+      "message": "發送TON和代幣"
+   },
+   "unused_order_send_ton": {
+      "message": "發送TON"
+   },
+   "unused_page_header_purchases": {
+      "message": "購買"
+   },
+   "unused_pairSigner_about": {
+      "message": "關於 Signer"
+   },
+   "unused_pairSigner_subtitle": {
+      "message": "打開Signer » 選擇所需的金鑰 » 掃描二維碼"
+   },
+   "unused_pairSigner_title": {
+      "message": "掃描二維碼"
+   },
+   "unused_passcode_changed": {
+      "message": "密碼已更改"
+   },
+   "unused_pin_enter_faceid_err": {
+      "message": "生物識別檢查失敗"
+   },
+   "unused_pin_enter_skip_faceid_err": {
+      "message": "需要生物識別"
+   },
+   "unused_platform_android_capitalized_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_android_capitalized_fingerprint": {
+      "message": "指紋"
+   },
+   "unused_platform_android_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_android_face_recognition_genitive": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_android_fingerprint": {
+      "message": "指紋"
+   },
+   "unused_platform_android_fingerprint_genitive": {
+      "message": "指紋"
+   },
+   "unused_platform_ios_capitalized_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_ios_capitalized_fingerprint": {
+      "message": "指紋識別"
+   },
+   "unused_platform_ios_face_recognition": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_ios_face_recognition_genitive": {
+      "message": "人臉辨識"
+   },
+   "unused_platform_ios_fingerprint": {
+      "message": "指紋識別"
+   },
+   "unused_platform_ios_fingerprint_genitive": {
+      "message": "指紋識別"
+   },
+   "unused_pro_active_subscription_check_helper": {
+      "message": "We’ll check if there’s an active subscription or help you start one. Subscription will be linked to this wallet and will work on any device where it’s authorized."
+   },
+   "unused_pro_download_mobile_banner_description": {
+      "message": "Scan the QR code, start your 3-month free trial, and manage your wallet, tokens, and accounts—all in your pocket."
+   },
+   "unused_pro_download_mobile_banner_description_link": {
+      "message": "More Details"
+   },
+   "unused_pro_download_mobile_banner_title": {
+      "message": "Tonkeeper Pro — now on iPhone"
+   },
+   "unused_pro_feature_2fa_description": {
+      "message": "Extra layer of security."
+   },
+   "unused_pro_feature_2fa_title": {
+      "message": "On-Chain 2FA"
+   },
+   "unused_pro_feature_folders_description": {
+      "message": "Group wallets for easier navigation."
+   },
+   "unused_pro_feature_folders_title": {
+      "message": "Wallet Folders"
+   },
+   "unused_pro_feature_tron_description": {
+      "message": "Send USDT on Tron without holding TRX."
+   },
+   "unused_pro_feature_tron_title": {
+      "message": "TRC20 Support"
+   },
+   "unused_pro_mobile_footer_left_tab_button": {
+      "message": "Wallets"
+   },
+   "unused_pro_mobile_footer_right_tab_button": {
+      "message": "Actions"
+   },
+   "unused_pro_subscription_is_active": {
+      "message": "Pro 訂閱已啟用。"
+   },
+   "unused_pro_trial_is_active": {
+      "message": "Pro試用已啟用。"
+   },
+   "unused_programmable_nfts_alert_cancel": {
+      "message": "取消"
+   },
+   "unused_programmable_nfts_alert_description": {
+      "message": "僅在您信任該收藏的作者時訪問此外部連結。\n\n{{uri}} "
+   },
+   "unused_programmable_nfts_alert_open": {
+      "message": "仍然開啟"
+   },
+   "unused_programmable_nfts_alert_title": {
+      "message": "您確定要開啟外部連結嗎？"
+   },
+   "unused_receiveModal_receive": {
+      "message": "接收"
+   },
+   "unused_receiveModal_receive_description": {
+      "message": "僅將 %{tokenName} 和 TON 網絡中的代幣發送到此地址，否則您可能會損失資金。"
+   },
+   "unused_receiveModal_receive_title": {
+      "message": "接收 %{tokenName}"
+   },
+   "unused_receiveModal_receive_ton": {
+      "message": "僅將 Toncoin TON 和 TON 網絡中的代幣發送到此地址，否則您可能會損失資金。"
+   },
+   "unused_receive_address_title": {
+      "message": "或使用錢包地址"
+   },
+   "unused_receive_copy": {
+      "message": "複製"
+   },
+   "unused_receive_qr_title": {
+      "message": "顯示 QR 碼以接收"
+   },
+   "unused_receive_received_title": {
+      "message": "您已收到\n%{amount} %{currency}"
+   },
+   "unused_receive_share": {
+      "message": "分享"
+   },
+   "unused_receive_title": {
+      "message": "接收 %{currency}"
+   },
+   "unused_receive_ton_and_jettons": {
+      "message": "接收 TON 和其他代幣"
+   },
+   "unused_recovery_phrase_caption": {
+      "message": "寫下這些單詞及其編號，並將它們存放在安全的地方。"
+   },
+   "unused_recovery_phrase_check_button": {
+      "message": "檢查備份"
+   },
+   "unused_recovery_phrase_title": {
+      "message": "助記詞"
+   },
+   "unused_refresh_app": {
+      "message": "重新啟動"
+   },
+   "unused_region_nokyc": {
+      "message": "中立水域"
+   },
+   "unused_renew_in_progress": {
+      "message": "正在續訂..."
+   },
+   "unused_renew_progress_of": {
+      "message": "%{current} 的 %{count}"
+   },
+   "unused_require_create_wallet_modal_caption": {
+      "message": "您需要一個連接的錢包才能使用\nTonkeeper 。創建新錢包或導入現有錢包。"
+   },
+   "unused_require_create_wallet_modal_create_new": {
+      "message": "創建新錢包"
+   },
+   "unused_require_create_wallet_modal_import": {
+      "message": "導入現有錢包"
+   },
+   "unused_require_create_wallet_modal_title": {
+      "message": "讓我們設定你的錢包"
+   },
+   "unused_reset_password": {
+      "message": "Reset Password"
+   },
+   "unused_reset_tron_cache": {
+      "message": "重置 Tron 缓存"
+   },
+   "unused_restake_banner_stake_into_step": {
+      "message": "質押可用的TON到Tonstakers。"
+   },
+   "unused_restake_banner_stake_into_tonstakers_action": {
+      "message": "質押到Tonstakers"
+   },
+   "unused_restake_banner_title": {
+      "message": "通過 Tonstakers 流動質押賺取更多 TON，收益率為 %apy"
+   },
+   "unused_restake_banner_unstake_action_all": {
+      "message": "解除質押 %{amount}"
+   },
+   "unused_restake_banner_unstake_action_manual": {
+      "message": "手動輸入"
+   },
+   "unused_restake_banner_unstake_step": {
+      "message": "從您目前的質押提供者解除質押 TON。"
+   },
+   "unused_restake_banner_wait_step": {
+      "message": "等待您的 TON 可用。"
+   },
+   "unused_restake_banner_wait_step_collect": {
+      "message": "收藏"
+   },
+   "unused_restake_banner_wait_step_cooldown": {
+      "message": "您的 TON 即將可用。您很快就能收集它們。"
+   },
+   "unused_restake_banner_wait_step_pending": {
+      "message": "您的 TON 將在 %{0, number}uration 後可用。之後您可以收集它們。"
+   },
+   "unused_restake_banner_wait_step_withdraw": {
+      "message": "從您之前的質押提供者那裡收集可用的TON。"
+   },
+   "unused_scan_qr_open_settings": {
+      "message": "開啟設定"
+   },
+   "unused_scan_qr_permission_error": {
+      "message": "允許相機訪問以掃描二維碼"
+   },
+   "unused_security_lock_screen_switch": {
+      "message": "鎖定螢幕"
+   },
+   "unused_security_lock_screen_tip": {
+      "message": "需要密碼才能查看錢包內容。"
+   },
+   "unused_security_migration_caption": {
+      "message": "現在您的餘額和任何操作都由密碼保護。您還可以通過生物識別檢查加快速度。"
+   },
+   "unused_security_migration_skip_button": {
+      "message": "現在不更新"
+   },
+   "unused_security_migration_submit_button": {
+      "message": "更新安全設定"
+   },
+   "unused_security_migration_title": {
+      "message": "更新錢包安全"
+   },
+   "unused_security_reset_passcode": {
+      "message": "重設密碼"
+   },
+   "unused_security_title": {
+      "message": "安全"
+   },
+   "unused_security_use_biometry_switch": {
+      "message": "使用%{biometryType}"
+   },
+   "unused_security_use_biometry_tip": {
+      "message": "您可以隨時使用密碼解鎖您的錢包。"
+   },
+   "unused_send_address_placeholder": {
+      "message": "地址或名稱"
+   },
+   "unused_send_all_warning_title": {
+      "message": "您確定要發送您所有的餘額嗎？"
+   },
+   "unused_send_build_tx_error": {
+      "message": "您的交易失敗了"
+   },
+   "unused_send_comment_label": {
+      "message": "新增Comment"
+   },
+   "unused_send_get_wallet_info_error": {
+      "message": "無法獲取錢包資訊"
+   },
+   "unused_send_insufficient_funds": {
+      "message": "資金不足"
+   },
+   "unused_send_invalid_recipient_caption": {
+      "message": "該域名不存在或錢包地址未連結到該域名"
+   },
+   "unused_send_invalid_recipient_title": {
+      "message": "無效的接收者"
+   },
+   "unused_send_liquid_jetton_warning_title": {
+      "message": " "
+   },
+   "unused_send_lockup_warning_caption": {
+      "message": "請檢查您是否正在發送到允許的地址。\n\n即使交易失敗，也會扣除費用。"
+   },
+   "unused_send_lockup_warning_submit_button": {
+      "message": "發送"
+   },
+   "unused_send_lockup_warning_title": {
+      "message": "數量超過可用餘額"
+   },
+   "unused_send_screen_steps_address_placeholder": {
+      "message": "錢包地址或域名"
+   },
+   "unused_send_screen_steps_address_recent_label": {
+      "message": "最近"
+   },
+   "unused_send_screen_steps_address_suggest_actions_edit": {
+      "message": "编辑收藏夹"
+   },
+   "unused_send_screen_steps_address_title": {
+      "message": "接收者"
+   },
+   "unused_send_screen_steps_amount_less_than_min": {
+      "message": "最低 %{minAmount} TON"
+   },
+   "unused_send_screen_steps_amount_less_than_min_with_symbol": {
+      "message": "最低 %{minAmount} %{symbol}"
+   },
+   "unused_send_screen_steps_amount_liquid_jetton_note": {
+      "message": "正在發送 tsTON 流動性代幣"
+   },
+   "unused_send_screen_steps_amount_recipient_label": {
+      "message": "至:"
+   },
+   "unused_send_screen_steps_amount_title": {
+      "message": "數量"
+   },
+   "unused_send_screen_steps_choose_coin_subtitle": {
+      "message": " "
+   },
+   "unused_send_screen_steps_choose_coin_title": {
+      "message": " "
+   },
+   "unused_send_screen_steps_comfirm_action": {
+      "message": "%{coin} 轉移"
+   },
+   "unused_send_screen_steps_comfirm_comment_ascii_text": {
+      "message": "僅使用 ASCII 字元：數字、拉丁字母和標點符號。"
+   },
+   "unused_send_screen_steps_comfirm_comment_characters_exceeded": {
+      "message": " "
+   },
+   "unused_send_screen_steps_comfirm_comment_characters_left": {
+      "message": " "
+   },
+   "unused_send_screen_steps_comfirm_comment_decrypt": {
+      "message": "解密"
+   },
+   "unused_send_screen_steps_comfirm_comment_description": {
+      "message": "所有人都可以看到。"
+   },
+   "unused_send_screen_steps_comfirm_comment_description_encrypted": {
+      "message": "只有收件人和您才能看到。"
+   },
+   "unused_send_screen_steps_comfirm_comment_encrypt": {
+      "message": "加密comment"
+   },
+   "unused_send_screen_steps_comfirm_comment_label": {
+      "message": "Comment"
+   },
+   "unused_send_screen_steps_comfirm_comment_label_encrypted": {
+      "message": "加密comment"
+   },
+   "unused_send_screen_steps_comfirm_comment_label_required": {
+      "message": "需要comment"
+   },
+   "unused_send_screen_steps_comfirm_comment_placeholder": {
+      "message": " "
+   },
+   "unused_send_screen_steps_comfirm_comment_placeholder_required": {
+      "message": "  "
+   },
+   "unused_send_screen_steps_comfirm_details_label": {
+      "message": "詳情"
+   },
+   "unused_send_screen_steps_comfirm_details_max_balance_label": {
+      "message": "發送最大餘額 %{currency}"
+   },
+   "unused_send_screen_steps_comfirm_will_be_paid_with_battery": {
+      "message": "將以電池支付"
+   },
+   "unused_send_screen_steps_done_add_favorite": {
+      "message": "將地址保存到收藏夾"
+   },
+   "unused_send_screen_steps_done_address": {
+      "message": "地址: %{address}"
+   },
+   "unused_send_screen_steps_done_comment": {
+      "message": "Comment: %{comment}"
+   },
+   "unused_send_screen_steps_done_description": {
+      "message": "您的交易已發送到網絡，將在幾秒鐘內處理。"
+   },
+   "unused_send_screen_steps_done_favorite_saved": {
+      "message": "已保存到收藏夾"
+   },
+   "unused_send_screen_steps_done_fee": {
+      "message": "費用: %{fee}"
+   },
+   "unused_send_screen_steps_done_title": {
+      "message": "%{currency} 已發送！"
+   },
+   "unused_send_sending_failed": {
+      "message": "發送失敗"
+   },
+   "unused_send_sending_wrong_time_title": {
+      "message": "發生錯誤"
+   },
+   "unused_send_title": {
+      "message": "發送 %{currency}"
+   },
+   "unused_settings_appearance": {
+      "message": "主題"
+   },
+   "unused_settings_bank_card": {
+      "message": "銀行卡"
+   },
+   "unused_settings_delete_alert_button": {
+      "message": "刪除帳戶和數據"
+   },
+   "unused_settings_delete_alert_caption": {
+      "message": "此操作將刪除您的帳戶和此應用程式中的所有數據。"
+   },
+   "unused_settings_delete_alert_title": {
+      "message": "您確定要刪除您的帳戶嗎？"
+   },
+   "unused_settings_delete_signer_account": {
+      "message": "刪除帳戶？"
+   },
+   "unused_settings_delete_watch_account": {
+      "message": "刪除觀察帳戶？"
+   },
+   "unused_settings_delete_watch_account_button": {
+      "message": "刪除"
+   },
+   "unused_settings_faq": {
+      "message": "常見問題"
+   },
+   "unused_settings_multisig_settings": {
+      "message": "多重簽名設定"
+   },
+   "unused_settings_news_url": {
+      "message": " "
+   },
+   "unused_settings_reset_alert_button": {
+      "message": "登出"
+   },
+   "unused_settings_reset_alert_caption": {
+      "message": "這將會刪除您的錢包金鑰。請確保您已備份您的助記詞。"
+   },
+   "unused_settings_reset_alert_caption_all": {
+      "message": "這將會刪除您的錢包金鑰。請確保您已備份您的助記詞。"
+   },
+   "unused_settings_subscriptions": {
+      "message": "訂閱"
+   },
+   "unused_settings_theme": {
+      "message": "主題"
+   },
+   "unused_settings_theme_names_blue": {
+      "message": "深藍"
+   },
+   "unused_settings_theme_names_dark": {
+      "message": "深色"
+   },
+   "unused_settings_theme_names_light": {
+      "message": "淺色"
+   },
+   "unused_settings_theme_names_system": {
+      "message": "系統"
+   },
+   "unused_settings_to_mainnet": {
+      "message": "切換到主網"
+   },
+   "unused_settings_to_testnet": {
+      "message": "切換到測試網"
+   },
+   "unused_setup_biometry_caption": {
+      "message": "%{biometryType} 讓你可以更快打開錢包，無需輸入密碼。"
+   },
+   "unused_setup_biometry_enable_button": {
+      "message": "啟用%{biometryType}"
+   },
+   "unused_setup_biometry_title": {
+      "message": "使用%{biometryType}快速登入"
+   },
+   "unused_setup_notifications_caption": {
+      "message": "當您收到\nTON、代幣和 NFT 時接收通知"
+   },
+   "unused_setup_notifications_enable_button": {
+      "message": "啟用通知"
+   },
+   "unused_setup_notifications_title": {
+      "message": "獲取即時\n通知"
+   },
+   "unused_show": {
+      "message": "顯示"
+   },
+   "unused_signerConfirm_confirm": {
+      "message": "在 Signer 中確認您的交易"
+   },
+   "unused_signerConfirm_scan_qr": {
+      "message": "使用 Signer 掃描二維碼"
+   },
+   "unused_signerConfirm_scan_signed_qr": {
+      "message": "從Signer掃描已簽署的交易 QR 碼"
+   },
+   "unused_signerConfirm_step": {
+      "message": "步驟 %{value}"
+   },
+   "unused_signerConfirm_title": {
+      "message": "確認操作"
+   },
+   "unused_skip": {
+      "message": "跳過"
+   },
+   "unused_soon": {
+      "message": "soon"
+   },
+   "unused_staking_active": {
+      "message": "啟用"
+   },
+   "unused_staking_confirm_address_label": {
+      "message": "接收者地址"
+   },
+   "unused_staking_confirm_amount_label": {
+      "message": "數量"
+   },
+   "unused_staking_confirm_amount_value": {
+      "message": "%{value} TON"
+   },
+   "unused_staking_confirm_deposit": {
+      "message": "確認並質押"
+   },
+   "unused_staking_confirm_fee_label": {
+      "message": "費用"
+   },
+   "unused_staking_confirm_fee_value": {
+      "message": "≈ %{value} TON"
+   },
+   "unused_staking_confirm_recipient_label": {
+      "message": "接收者"
+   },
+   "unused_staking_confirm_unstake": {
+      "message": "確認並解除質押"
+   },
+   "unused_staking_confirm_withdraw_amount_label": {
+      "message": "解除質押數量"
+   },
+   "unused_staking_confirm_withdraw_amount_value": {
+      "message": "  "
+   },
+   "unused_staking_desc_large": {
+      "message": "加入質押並獲得獎勵。質押有助於維護TON網絡。"
+   },
+   "unused_staking_details_about_pool": {
+      "message": "詳情"
+   },
+   "unused_staking_details_apy_highest_tag": {
+      "message": "最大"
+   },
+   "unused_staking_details_apy_label": {
+      "message": "年利率"
+   },
+   "unused_staking_details_apy_value": {
+      "message": "≈ %{value}%"
+   },
+   "unused_staking_details_balance": {
+      "message": "質押餘額"
+   },
+   "unused_staking_details_cooldown_active": {
+      "message": "啟用"
+   },
+   "unused_staking_details_cooldown_desc": {
+      "message": "在每個質押週期開始時應用的兩小時期間，以改進週期之間的提取和存款過程"
+   },
+   "unused_staking_details_cooldown_title": {
+      "message": "冷卻期"
+   },
+   "unused_staking_details_frequency_label": {
+      "message": "獎勵頻率"
+   },
+   "unused_staking_details_frequency_value": {
+      "message": "每 %{count} 小時"
+   },
+   "unused_staking_details_frequency_value_few": {
+      "message": " "
+   },
+   "unused_staking_details_frequency_value_many": {
+      "message": " "
+   },
+   "unused_staking_details_frequency_value_one": {
+      "message": " "
+   },
+   "unused_staking_details_frequency_value_zero": {
+      "message": " "
+   },
+   "unused_staking_details_links_title": {
+      "message": " "
+   },
+   "unused_staking_details_liquidity_token_label": {
+      "message": "%{token} 流動性代幣"
+   },
+   "unused_staking_details_liquidity_token_value": {
+      "message": "了解更多"
+   },
+   "unused_staking_details_min_deposit_label": {
+      "message": "最低存款金額"
+   },
+   "unused_staking_details_min_deposit_value": {
+      "message": "%{value} TON"
+   },
+   "unused_staking_details_next_cycle_desc": {
+      "message": "所有交易在周期結束後生效。"
+   },
+   "unused_staking_details_next_cycle_desc_liquid": {
+      "message": "解除質押請求在周期結束後完成。"
+   },
+   "unused_staking_details_next_cycle_in": {
+      "message": "在"
+   },
+   "unused_staking_details_next_cycle_message": {
+      "message": "解除質押請求將在驗證週期結束後處理，時間為 %{value}"
+   },
+   "unused_staking_details_next_cycle_reward_title": {
+      "message": "下一次獎勵"
+   },
+   "unused_staking_details_next_cycle_time": {
+      "message": " "
+   },
+   "unused_staking_details_next_cycle_title": {
+      "message": "下一個週期"
+   },
+   "unused_staking_details_note": {
+      "message": "質押是基於第三方的智能合約。Tonkeeper 不對質押體驗負責。"
+   },
+   "unused_staking_details_pendingDeposit": {
+      "message": "待處理質押"
+   },
+   "unused_staking_details_pendingWithdraw": {
+      "message": "待處理解除質押"
+   },
+   "unused_staking_details_pendingWithdrawDesc": {
+      "message": "在週期結束後"
+   },
+   "unused_staking_details_readyWithdraw": {
+      "message": "解除質押已準備"
+   },
+   "unused_staking_details_show_details": {
+      "message": " "
+   },
+   "unused_staking_details_socials_telegram": {
+      "message": "社群"
+   },
+   "unused_staking_details_socials_twitter": {
+      "message": "推特"
+   },
+   "unused_staking_details_tap_to_collect": {
+      "message": "點擊收藏"
+   },
+   "unused_staking_estimated_profit": {
+      "message": "%{amount} TON – 年利潤\n如果你今天質押 TON"
+   },
+   "unused_staking_estimated_profit_compare": {
+      "message": "比您目前的質押每年多賺 %{amount} TON"
+   },
+   "unused_staking_get_withdrawal": {
+      "message": "提取"
+   },
+   "unused_staking_highest_apy": {
+      "message": "最大年利率"
+   },
+   "unused_staking_jetton_note": {
+      "message": "當您在 %{poolName} 池中質押 TON 時，您會收到一個名為 %{token} 的代幣，該代幣代表您在池中的份額。隨著池中累積利潤，您的 %{token} 代表的 TON 數量會增加。"
+   },
+   "unused_staking_learn_more": {
+      "message": "了解更多"
+   },
+   "unused_staking_message_pendingDeposit": {
+      "message": "已質押 %{amount} TON\n"
+   },
+   "unused_staking_message_pendingDeposit_few": {
+      "message": " "
+   },
+   "unused_staking_message_pendingDeposit_many": {
+      "message": " "
+   },
+   "unused_staking_message_pendingDeposit_one": {
+      "message": " "
+   },
+   "unused_staking_message_pendingDeposit_other": {
+      "message": " "
+   },
+   "unused_staking_message_pendingDeposit_zero": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw": {
+      "message": "已提取 %{amount} TON\n"
+   },
+   "unused_staking_message_pendingWithdrawLiquid": {
+      "message": "%{amount} TON 在週期結束後解除質押"
+   },
+   "unused_staking_message_pendingWithdrawLiquid_few": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdrawLiquid_many": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdrawLiquid_one": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdrawLiquid_other": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdrawLiquid_zero": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw_few": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw_many": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw_one": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw_other": {
+      "message": " "
+   },
+   "unused_staking_message_pendingWithdraw_zero": {
+      "message": " "
+   },
+   "unused_staking_message_readyWithdraw": {
+      "message": "%{amount} TON 已準備好。\n點擊以收集"
+   },
+   "unused_staking_message_readyWithdraw_few": {
+      "message": " "
+   },
+   "unused_staking_message_readyWithdraw_many": {
+      "message": " "
+   },
+   "unused_staking_message_readyWithdraw_one": {
+      "message": " "
+   },
+   "unused_staking_message_readyWithdraw_zero": {
+      "message": " "
+   },
+   "unused_staking_no_funds": {
+      "message": "沒有可解除質押的資金"
+   },
+   "unused_staking_not_exists": {
+      "message": "無效的池地址"
+   },
+   "unused_staking_other": {
+      "message": "其他"
+   },
+   "unused_staking_recommended": {
+      "message": " "
+   },
+   "unused_staking_rewards_after_top_up": {
+      "message": "質押後"
+   },
+   "unused_staking_rewards_current": {
+      "message": "當前"
+   },
+   "unused_staking_rewards_title": {
+      "message": "您的年利率"
+   },
+   "unused_staking_rewards_value": {
+      "message": "≈ %{value} TON"
+   },
+   "unused_staking_send_staked_ton": {
+      "message": "已質押 TON"
+   },
+   "unused_staking_staked": {
+      "message": "已質押"
+   },
+   "unused_staking_staked_ton": {
+      "message": "已質押 TON"
+   },
+   "unused_staking_staking_desc": {
+      "message": "最低存款 %{minStake} TON。\n賺取高達 %{maxApy}% 的收益。"
+   },
+   "unused_staking_staking_pool_desc": {
+      "message": "年利率 ≈ %{apy}%"
+   },
+   "unused_staking_title": {
+      "message": "質押"
+   },
+   "unused_staking_title_large": {
+      "message": "TON 質押"
+   },
+   "unused_staking_top_up": {
+      "message": "質押"
+   },
+   "unused_staking_transaction": {
+      "message": "確認操作"
+   },
+   "unused_staking_warning_about": {
+      "message": "關於 %{name}"
+   },
+   "unused_staking_warning_beta_desc": {
+      "message": "我們不對穩定性和質押體驗負責。使用風險自負。"
+   },
+   "unused_staking_warning_desc": {
+      "message": "基於第三方智慧合約的權益質押。我們不對他們的工作負責。"
+   },
+   "unused_staking_warning_title": {
+      "message": "警告"
+   },
+   "unused_staking_widget_desc": {
+      "message": "年利率高達 %{apy}%"
+   },
+   "unused_staking_widget_staking_options": {
+      "message": "質押選項"
+   },
+   "unused_staking_widget_title": {
+      "message": "質押 TON"
+   },
+   "unused_staking_withdrawal_fee_warning_continue": {
+      "message": "仍然繼續"
+   },
+   "unused_staking_withdrawal_fee_warning_message": {
+      "message": "請在餘額中至少保留 {{amount}} TON。"
+   },
+   "unused_staking_withdrawal_fee_warning_title": {
+      "message": "您的資金不足以提取"
+   },
+   "unused_staking_withdrawal_request": {
+      "message": "解除質押"
+   },
+   "unused_start_screen_caption": {
+      "message": "建立一個新錢包或添加\n現有錢包"
+   },
+   "unused_stop_watch": {
+      "message": "刪除觀察帳戶"
+   },
+   "unused_subscription_back_to_merchant_button": {
+      "message": "返回"
+   },
+   "unused_subscription_back_to_merchant_caption": {
+      "message": "交易正在處理中。您的訂閱將很快生效。"
+   },
+   "unused_subscription_back_to_merchant_name": {
+      "message": "返回 %{merchantName}"
+   },
+   "unused_subscription_back_to_merchant_title": {
+      "message": "返回頻道？"
+   },
+   "unused_subscription_cancel": {
+      "message": "取消訂閱"
+   },
+   "unused_subscription_cancel_alert_cancel_btn": {
+      "message": "不是現在"
+   },
+   "unused_subscription_cancel_alert_caption": {
+      "message": "如果您現在取消，您仍然可以訪問您的訂閱直到 %{nextBill}"
+   },
+   "unused_subscription_cancel_alert_submit_btn": {
+      "message": "是，取消"
+   },
+   "unused_subscription_cancel_alert_title": {
+      "message": "取消訂閱？"
+   },
+   "unused_subscription_expiring": {
+      "message": "即將到期"
+   },
+   "unused_subscription_fee": {
+      "message": "費用"
+   },
+   "unused_subscription_next_bill": {
+      "message": "下一張帳單"
+   },
+   "unused_subscription_open_merchant": {
+      "message": "在 Telegram 中開啟"
+   },
+   "unused_subscription_period": {
+      "message": "間隔"
+   },
+   "unused_subscription_period_custom": {
+      "message": "每 %{period}"
+   },
+   "unused_subscription_period_day": {
+      "message": "每日"
+   },
+   "unused_subscription_period_half_year": {
+      "message": "每半年"
+   },
+   "unused_subscription_period_hour": {
+      "message": "每小時"
+   },
+   "unused_subscription_period_month": {
+      "message": "每月"
+   },
+   "unused_subscription_period_quarter": {
+      "message": "每季"
+   },
+   "unused_subscription_period_week": {
+      "message": "每週"
+   },
+   "unused_subscription_period_weeks": {
+      "message": "每 %{count} 週"
+   },
+   "unused_subscription_period_year": {
+      "message": "每年"
+   },
+   "unused_subscription_price": {
+      "message": "價格"
+   },
+   "unused_subscription_sent": {
+      "message": "交易已發送"
+   },
+   "unused_subscription_started": {
+      "message": "訂閱已開始"
+   },
+   "unused_subscription_subscribe": {
+      "message": "訂閱"
+   },
+   "unused_subscription_title": {
+      "message": "訂閱"
+   },
+   "unused_subscription_unsubscribe": {
+      "message": "取消訂閱"
+   },
+   "unused_subscriptions_item_caption": {
+      "message": "%{price} TON，下一次帳單日期：%{nextBill}"
+   },
+   "unused_subscriptions_item_caption_expired": {
+      "message": "已過期 %{date}"
+   },
+   "unused_subscriptions_item_caption_expiring": {
+      "message": "%{price} TON，有效期至 %{date}"
+   },
+   "unused_subscriptions_section_active": {
+      "message": "啟用"
+   },
+   "unused_subscriptions_section_expired": {
+      "message": "已過期"
+   },
+   "unused_subscriptions_title": {
+      "message": "訂閱"
+   },
+   "unused_tab_browser": {
+      "message": "瀏覽器"
+   },
+   "unused_tab_collectibles": {
+      "message": "收藏品"
+   },
+   "unused_tab_nft": {
+      "message": "NFTs"
+   },
+   "unused_tab_settings": {
+      "message": "設定"
+   },
+   "unused_tab_swap": {
+      "message": "兌換"
+   },
+   "unused_tab_wallet": {
+      "message": "錢包"
+   },
+   "unused_tokenDetails_name": {
+      "message": "名稱"
+   },
+   "unused_tokenDetails_title": {
+      "message": "代幣詳情"
+   },
+   "unused_tokenDetails_token_id": {
+      "message": "代幣ID"
+   },
+   "unused_ton_login_back_to_button": {
+      "message": "返回至%{name}"
+   },
+   "unused_ton_login_title": {
+      "message": "連接到 %{0, number}域？"
+   },
+   "unused_tonconnect_error_bad_request": {
+      "message": "錯誤的請求"
+   },
+   "unused_tonconnect_error_wrong_from": {
+      "message": " 'from' 參數錯誤"
+   },
+   "unused_tonconnect_error_wrong_network": {
+      "message": "網路錯誤"
+   },
+   "unused_tonkeeper_pro_authorization": {
+      "message": "To access the Pro features, server authorization is required via Ton Proof. Please ensure you import a wallet that supports this technology. This step is crucial for enabling the full range of Pro functionalities securely and effectively."
+   },
+   "unused_tonkeeper_pro_monthly": {
+      "message": "1 month"
+   },
+   "unused_tonkeeper_pro_yearly": {
+      "message": "1 year"
+   },
+   "unused_transactionDetails_address": {
+      "message": "地址"
+   },
+   "unused_transactionDetails_bid_collection_name": {
+      "message": "發行人"
+   },
+   "unused_transactionDetails_bid_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_bid_name": {
+      "message": "名稱"
+   },
+   "unused_transactionDetails_call_contract_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_description": {
+      "message": "描述"
+   },
+   "unused_transactionDetails_payload": {
+      "message": "有效負載"
+   },
+   "unused_transactionDetails_purchase_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_received_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_recipient_address": {
+      "message": "接收者地址"
+   },
+   "unused_transactionDetails_sender": {
+      "message": "發送者"
+   },
+   "unused_transactionDetails_sender_address": {
+      "message": "發送者地址"
+   },
+   "unused_transactionDetails_sent_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_spam": {
+      "message": "垃圾訊息"
+   },
+   "unused_transactionDetails_subscription_merchant_label": {
+      "message": "商家"
+   },
+   "unused_transactionDetails_subscription_product_label": {
+      "message": "訂閱"
+   },
+   "unused_transactionDetails_swapped_date": {
+      "message": " "
+   },
+   "unused_transactionDetails_transaction": {
+      "message": "交易"
+   },
+   "unused_transactionDetails_unsubscription_title": {
+      "message": "已取消訂閱"
+   },
+   "unused_transactionDetails_withdraw_amount": {
+      "message": "解除質押數量"
+   },
+   "unused_transaction_bid_collection_name": {
+      "message": "發行人"
+   },
+   "unused_transaction_bid_date": {
+      "message": "出價 %{date}"
+   },
+   "unused_transaction_buy_date": {
+      "message": "購買日期於%{date}"
+   },
+   "unused_transaction_buy_status_failed": {
+      "message": "失敗"
+   },
+   "unused_transaction_buy_status_pending": {
+      "message": "待處理"
+   },
+   "unused_transaction_buy_status_success": {
+      "message": "成功"
+   },
+   "unused_transaction_confirm_bid": {
+      "message": "確認出價"
+   },
+   "unused_transaction_confirmations": {
+      "message": "確認"
+   },
+   "unused_transaction_contract_deploy_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_copy_caution": {
+      "message": "小心外部連結。切勿將您的助記詞提供給第三方資源——您可能會失去所有資金。\n\n- - -\n\n"
+   },
+   "unused_transaction_exchange_from_currency": {
+      "message": "從"
+   },
+   "unused_transaction_message": {
+      "message": "訊息"
+   },
+   "unused_transaction_purchase_id": {
+      "message": "購買 ID"
+   },
+   "unused_transaction_refund": {
+      "message": "退款"
+   },
+   "unused_transaction_send_more_button": {
+      "message": "發送更多給此接收者"
+   },
+   "unused_transaction_show_subscription_button": {
+      "message": "查看訂閱"
+   },
+   "unused_transaction_status": {
+      "message": "狀態"
+   },
+   "unused_transaction_subscription": {
+      "message": "訂閱"
+   },
+   "unused_transaction_subscription_date": {
+      "message": "已收費於%{date}"
+   },
+   "unused_transaction_transfer_name": {
+      "message": "轉移名稱"
+   },
+   "unused_transaction_type_bounced": {
+      "message": "退回"
+   },
+   "unused_transaction_type_buy": {
+      "message": "已購買"
+   },
+   "unused_transaction_type_from": {
+      "message": "從"
+   },
+   "unused_transaction_type_new_subscriber": {
+      "message": "新訂閱者"
+   },
+   "unused_transaction_type_subscriber_lost": {
+      "message": "失去訂閱者"
+   },
+   "unused_transaction_type_to": {
+      "message": "至"
+   },
+   "unused_transaction_unsubscription": {
+      "message": "取消訂閱"
+   },
+   "unused_transaction_unsubscription_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_view_in_explorer": {
+      "message": "在瀏覽器中查看"
+   },
+   "unused_transaction_wallet_initialized_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_your_bid": {
+      "message": "您的出價"
+   },
+   "unused_transactions_bid": {
+      "message": "出價"
+   },
+   "unused_transactions_contract_deploy": {
+      "message": "部署合約"
+   },
+   "unused_transactions_deposit": {
+      "message": "質押"
+   },
+   "unused_transactions_failed_with_reason_swap_refund_no_liq": {
+      "message": "失敗。增加交換設置中的滑點容差以避免此錯誤。"
+   },
+   "unused_transactions_subscription": {
+      "message": "已訂閱"
+   },
+   "unused_transactions_unsubscription": {
+      "message": "已取消訂閱"
+   },
+   "unused_transactions_wallet_initialized": {
+      "message": "錢包已初始化"
+   },
+   "unused_transactions_withdraw": {
+      "message": "解除質押"
+   },
+   "unused_transactions_withdrawal_request": {
+      "message": "請求解除質押"
+   },
+   "unused_transfer_battery_required_button": {
+      "message": "Charge Battery"
+   },
+   "unused_transfer_battery_required_description": {
+      "message": "Use Tonkeeper Battery to send USD₮ TRC20."
+   },
+   "unused_transfer_battery_required_title": {
+      "message": "Tonkeeper Battery required for USD₮ TRC20"
+   },
+   "unused_transfer_deeplink_address_error": {
+      "message": "接收者地址不正確"
+   },
+   "unused_transfer_deeplink_amount_error": {
+      "message": "數量請求不正確"
+   },
+   "unused_transfer_deeplink_expired_error": {
+      "message": "連結已過期"
+   },
+   "unused_transfer_deeplink_nft_address_error": {
+      "message": "NFT 地址不正確"
+   },
+   "unused_transfer_deeplink_unknown_jetton_error": {
+      "message": "未知代幣"
+   },
+   "unused_transfer_deeplink_unknown_token": {
+      "message": "未知代幣"
+   },
+   "unused_transfer_deeplink_wrong_params": {
+      "message": "參數錯誤"
+   },
+   "unused_transfer_from_old_wallet_btn": {
+      "message": "轉移"
+   },
+   "unused_transfer_from_old_wallet_caption": {
+      "message": "Tonkeeper 將把所有幣從您的舊地址轉移到您目前的地址。"
+   },
+   "unused_transfer_from_old_wallet_in_progress": {
+      "message": "轉移進行中"
+   },
+   "unused_transfer_from_old_wallet_title": {
+      "message": "轉移到目前的地址"
+   },
+   "unused_transfer_pending_by_battery_error": {
+      "message": "另一個交易正在由電池處理"
+   },
+   "unused_tron_battery_required_banner_button": {
+      "message": "Charge Battery"
+   },
+   "unused_tron_battery_required_banner_description": {
+      "message": "Battery charges are used to cover transaction fees, making transfers simpler and more cost-effective."
+   },
+   "unused_tron_battery_required_banner_title": {
+      "message": "Tonkeeper Battery required for USD₮ TRC20"
+   },
+   "unused_tron_top_up_trx_button": {
+      "message": "Top Up TRX"
+   },
+   "unused_tron_top_up_trx_description": {
+      "message": "You need TRX to pay transaction fees. Balance: %{balance}"
+   },
+   "unused_tron_top_up_trx_title": {
+      "message": "TRX is required for USD₮ TRC20"
+   },
+   "unused_two_fa_send_continue_with_tg": {
+      "message": "Continue with Telegram"
+   },
+   "unused_two_fa_settings_tg_recovery_button": {
+      "message": "Link new account"
+   },
+   "unused_two_fa_settings_tg_recovery_text": {
+      "message": "Can’t access your Telegram account? Linking a new account will take 14 days."
+   },
+   "unused_two_fa_short": {
+      "message": "2FA"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_close": {
+      "message": "取消"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_description": {
+      "message": "切換錢包以確認操作。"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_switch": {
+      "message": "切換並繼續"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_title": {
+      "message": "錢包操作 %{value}"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_close": {
+      "message": "取消"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_description": {
+      "message": "切換您的活動地址至%{version}以確認操作。"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_switch": {
+      "message": "切換並繼續"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_title": {
+      "message": "另一個錢包地址的操作"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_close": {
+      "message": "確定"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_description": {
+      "message": "登入另一個錢包 %{address} 並重試。"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_title": {
+      "message": "另一個錢包的操作"
+   },
+   "unused_txActions_signRaw_insufficientFunds_rechargeBattery": {
+      "message": "充電"
+   },
+   "unused_txActions_signRaw_insufficientFunds_rechargeWallet": {
+      "message": "購買 %{currency}"
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingDeposit": {
+      "message": "參與的最低餘額：\n%{amount} %{currency}\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee": {
+      "message": "交易需要 %{count} TON。預計手續費 %{fee} TON 將被扣除，其餘將被退還。"
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee_few": {
+      "message": " "
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee_many": {
+      "message": " "
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee_one": {
+      "message": " "
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee_other": {
+      "message": " "
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee_zero": {
+      "message": " "
+   },
+   "unused_txActions_signRaw_insufficientFunds_title": {
+      "message": "資金不足"
+   },
+   "unused_txActions_signRaw_insufficientFunds_title_multiwallet": {
+      "message": "錢包資金不足"
+   },
+   "unused_txActions_signRaw_insufficientFunds_toBePaid": {
+      "message": "待支付：%{amount} %{currency}\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_withFees": {
+      "message": "+ 區塊鏈費用。\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_yourBalance": {
+      "message": "您的餘額：%{balance} %{currency}."
+   },
+   "unused_txActions_signRaw_totalFee": {
+      "message": "總費用"
+   },
+   "unused_txActions_signRaw_totalRefund": {
+      "message": "總退款"
+   },
+   "unused_txActions_signRaw_types_contractDeploy": {
+      "message": "部署合約"
+   },
+   "unused_txActions_signRaw_types_subscribe": {
+      "message": "訂閱"
+   },
+   "unused_txActions_signRaw_types_unSubscribe": {
+      "message": "取消訂閱"
+   },
+   "unused_txActions_signRaw_warning_caption": {
+      "message": "Tonkeeper 無法完全驗證此交易的結果。請確保您信任接收者。"
+   },
+   "unused_txActions_signRaw_warning_title": {
+      "message": "警告"
+   },
+   "unused_txActions_signRaw_wrongTime_button": {
+      "message": "開啟設定"
+   },
+   "unused_txActions_signRaw_wrongTime_description": {
+      "message": "看起來您的設備時鐘與網絡不同步。請打開設備設置並啟用自動時間和日期。"
+   },
+   "unused_txActions_signRaw_wrongTime_title": {
+      "message": "時鐘未同步"
+   },
+   "unused_unverifiedTokenDetails_button": {
+      "message": "確定"
+   },
+   "unused_unverifiedTokenDetails_description": {
+      "message": "此代幣因一個或多個原因看起來可疑。"
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p1": {
+      "message": "流動性低。代幣可能有一些價值，但非常低。"
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p2": {
+      "message": "代幣未在交易平台上列出，需求有限。"
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p3": {
+      "message": "用於垃圾訊息。用於大規模發送不需要且通常不相關的訊息。"
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p4": {
+      "message": "用於詐騙。Token 的名稱或圖像可能會導致用戶受騙。"
+   },
+   "unused_unverifiedTokenDetails_title": {
+      "message": "未驗證的代幣"
+   },
+   "unused_update_description": {
+      "message": "Tonkeeper 的新版本已經推出。您現在可以下載。"
+   },
+   "unused_update_download": {
+      "message": "下載"
+   },
+   "unused_update_downloading": {
+      "message": "下載中… {{progress}}%"
+   },
+   "unused_update_mb": {
+      "message": "{{size}} MB"
+   },
+   "unused_update_remindLater": {
+      "message": "稍後提醒我"
+   },
+   "unused_update_retry": {
+      "message": "下載錯誤。點擊重試。"
+   },
+   "unused_update_tap": {
+      "message": "點擊以更新"
+   },
+   "unused_update_title": {
+      "message": "更新 Tonkeeper"
+   },
+   "unused_update_version": {
+      "message": "版本 {{version}} "
+   },
+   "unused_upgrade_to_w5_about_button": {
+      "message": "關於 W5 錢包"
+   },
+   "unused_upgrade_to_w5_description": {
+      "message": "嘗試全新的 W5 錢包標準，支持無需燃料費的 USDT 付款和其他酷炫功能。"
+   },
+   "unused_upgrade_to_w5_downgrade": {
+      "message": " "
+   },
+   "unused_upgrade_to_w5_hide_button": {
+      "message": "隱藏"
+   },
+   "unused_upgrade_to_w5_settings": {
+      "message": "W5錢包"
+   },
+   "unused_upgrade_to_w5_title": {
+      "message": "Gasless轉移"
+   },
+   "unused_upgrade_to_w5_try_button": {
+      "message": "嘗試W5錢包"
+   },
+   "unused_username_issued_by_telegram": {
+      "message": "由 Telegram 發行。"
+   },
+   "unused_username_manage_name_button": {
+      "message": "管理名稱"
+   },
+   "unused_w5_stories_0_description": {
+      "message": "W5 採用更高效的交易處理方法，這意味著最多可降低 25% 的 gas 成本。"
+   },
+   "unused_w5_stories_0_title": {
+      "message": "降低區塊鏈費用"
+   },
+   "unused_w5_stories_1_description": {
+      "message": "W5 將同時操作的數量從 4 增加到 255，這可以節省費用成本。"
+   },
+   "unused_w5_stories_1_title": {
+      "message": "一筆交易最多可包含 255 個操作"
+   },
+   "unused_w5_stories_2_description": {
+      "message": "無需擁有TON即可發送USDT——交易費用將自動由幾美分的USDT支付。"
+   },
+   "unused_w5_stories_2_title": {
+      "message": "Gasless USDT轉移"
+   },
+   "unused_w5_stories_3_description": {
+      "message": "舊帳戶和 W5 使用相同的助記詞——在新設備上恢復帳戶時，舊帳戶和新帳戶都會自動顯示。"
+   },
+   "unused_w5_stories_3_title": {
+      "message": "助記詞不會改變"
+   },
+   "unused_w5_stories_4_button": {
+      "message": "添加 W5 錢包"
+   },
+   "unused_w5_stories_4_description": {
+      "message": "W5 標準尚未定案。Gasless交易作為實驗性功能提供，以測試其運作方式。在最終版本發布之前，請勿將所有資產轉移到 W5 錢包。 "
+   },
+   "unused_w5_stories_4_title": {
+      "message": "W5 是測試版"
+   },
+   "unused_wallet_about": {
+      "message": "關於"
+   },
+   "unused_wallet_aside_home": {
+      "message": "Home"
+   },
+   "unused_wallet_aside_purchases": {
+      "message": "購買"
+   },
+   "unused_wallet_buy_btn": {
+      "message": "購買與出售"
+   },
+   "unused_wallet_chat": {
+      "message": "聊天"
+   },
+   "unused_wallet_community": {
+      "message": "社群"
+   },
+   "unused_wallet_edit_tokens_btn": {
+      "message": "編輯"
+   },
+   "unused_wallet_hours_symbol": {
+      "message": "小時"
+   },
+   "unused_wallet_inscriptions_tab_label": {
+      "message": "銘文"
+   },
+   "unused_wallet_nft_tab_lable": {
+      "message": "收藏品"
+   },
+   "unused_wallet_old_balance": {
+      "message": "舊錢包:"
+   },
+   "unused_wallet_old_wallet_title": {
+      "message": "舊錢包"
+   },
+   "unused_wallet_old_wallets_title": {
+      "message": "舊錢包"
+   },
+   "unused_wallet_receive_btn": {
+      "message": "接收"
+   },
+   "unused_wallet_screen_title": {
+      "message": "錢包"
+   },
+   "unused_wallet_sell_btn": {
+      "message": " "
+   },
+   "unused_wallet_send_btn": {
+      "message": "發送"
+   },
+   "unused_wallet_source_code": {
+      "message": "源代碼"
+   },
+   "unused_wallet_stake_btn": {
+      "message": "質押"
+   },
+   "unused_wallet_swap_btn": {
+      "message": "兌換"
+   },
+   "unused_wallet_toncommunity_chat_link": {
+      "message": " "
+   },
+   "unused_wallet_toncommunity_link": {
+      "message": " "
+   },
+   "unused_wallet_tonkens_tab_lable": {
+      "message": "代幣"
+   },
+   "unused_wallet_updated_at": {
+      "message": "更新於 %{value}"
+   },
+   "unused_watch_only": {
+      "message": "僅限觀看"
+   },
+   "unused_yearly_pro_package": {
+      "message": "1 year"
+   },
+   "update": {
+      "message": "更新"
+   },
+   "update_click_to_install": {
+      "message": "點擊 安裝 最新 版本"
+   },
+   "update_ledger_error": {
+      "message": "請確保您的 Ledger 軟體已更新"
+   },
+   "update_subscription": {
+      "message": "更新訂閱"
+   },
+   "upload_file": {
+      "message": "上傳檔案"
+   },
+   "view_on_tonviewer": {
+      "message": "在 Tonviewer 上查看"
+   },
+   "view_transaction": {
+      "message": "查看 交易"
+   },
+   "wallet": {
+      "message": "錢包"
+   },
+   "wallet_2fa_recovery_started": {
+      "message": "已啟動恢復程序"
+   },
+   "wallet_address": {
+      "message": "錢包地址"
+   },
+   "wallet_aside_collectibles": {
+      "message": "收藏品"
+   },
+   "wallet_aside_domains": {
+      "message": "域名"
+   },
+   "wallet_aside_history": {
+      "message": "歷史活動"
+   },
+   "wallet_aside_menu_tabs_active": {
+      "message": "活動分頁"
+   },
+   "wallet_aside_menu_tabs_close_all_btn": {
+      "message": "關閉全部"
+   },
+   "wallet_aside_menu_tabs_edit_btn_done": {
+      "message": "完成"
+   },
+   "wallet_aside_menu_tabs_edit_btn_edit": {
+      "message": "編輯"
+   },
+   "wallet_aside_menu_tabs_pinned": {
+      "message": "已置頂"
+   },
+   "wallet_aside_multisig_wallets": {
+      "message": "多重簽名錢包"
+   },
+   "wallet_aside_orders": {
+      "message": "請求"
+   },
+   "wallet_aside_settings": {
+      "message": "設定"
+   },
+   "wallet_aside_tokens": {
+      "message": "代幣"
+   },
+   "wallet_buy": {
+      "message": "購買"
+   },
+   "wallet_collectibles_tab_lable": {
+      "message": "收藏品"
+   },
+   "wallet_multi_send": {
+      "message": "多重發送"
+   },
+   "wallet_receive": {
+      "message": "接收"
+   },
+   "wallet_scan_btn": {
+      "message": "掃描"
+   },
+   "wallet_sell": {
+      "message": "出售"
+   },
+   "wallet_send": {
+      "message": "發送"
+   },
+   "wallet_swap": {
+      "message": "兌換"
+   },
+   "wallet_title": {
+      "message": "錢包"
+   },
+   "wallet_version_and_tokens": {
+      "message": ", 代幣"
+   },
+   "wallets": {
+      "message": "錢包"
+   },
+   "web_no_connection": {
+      "message": "沒有網路連線"
+   },
+   "what_is_included": {
+      "message": "包含哪些內容"
+   },
+   "will_be_active_until": {
+      "message": "將一直啟用至"
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "your_plan": {
+      "message": "您的計劃"
+   }
+}

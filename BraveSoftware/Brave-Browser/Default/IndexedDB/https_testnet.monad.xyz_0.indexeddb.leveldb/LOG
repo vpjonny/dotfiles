@@ -1,0 +1,15 @@
+2025/10/14-16:51:07.480 5e4 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_testnet.monad.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-16:51:07.480 5e4 Recovering log #7
+2025/10/14-16:51:07.481 5e4 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_testnet.monad.xyz_0.indexeddb.leveldb/000007.log 
+2025/10/14-16:51:24.697 5e5 Level-0 table #12: started
+2025/10/14-16:51:24.700 5e5 Level-0 table #12: 190 bytes OK
+2025/10/14-16:51:24.703 5e5 Delete type=0 #7
+2025/10/14-16:51:24.704 5e5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/14-16:51:24.704 5e5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 70 : 1
+2025/10/14-16:51:24.704 5e5 Compacting 1@1 + 1@2 files
+2025/10/14-16:51:24.707 5e5 Generated table #13@1: 22 keys, 806 bytes
+2025/10/14-16:51:24.707 5e5 Compacted 1@1 + 1@2 files => 806 bytes
+2025/10/14-16:51:24.710 5e5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/14-16:51:24.710 5e5 Delete type=2 #12
+2025/10/14-16:51:24.710 5e5 Delete type=2 #9
+2025/10/14-16:51:24.711 5e5 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 70 : 1 .. (end); will stop at (end)

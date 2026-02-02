@@ -1,0 +1,2 @@
+import{a as m}from"./chunk-L5AZICLM.js";import{c as s}from"./chunk-WLEQHCLB.js";import{Q as u,R as i}from"./chunk-DRCTWZQB.js";import{c as o}from"./chunk-EAE2NUFS.js";import{f as c,o as n,q as r}from"./chunk-UWURTNRY.js";n();r();var p=c(m());function f(t){return e=>{p.default.debug("background.setFirstTimeFlowType"),o().setFirstTimeFlowType(t).catch(T=>{e(s(T.message))}),e({type:u,value:t})}}function a(t){return{type:i,value:t}}function k(){return async t=>{let e=await o().getRequestAccountTabIds();t(a(e))}}export{f as a,k as b};
+//# sourceMappingURL=chunk-6SGNZGRT.js.map

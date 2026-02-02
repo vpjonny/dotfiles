@@ -1,0 +1,6 @@
+2026/01/13-14:27:00.306 852 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sandmonkey.testnet.nfts2.me_0.indexeddb.leveldb since it was missing.
+2026/01/13-14:27:00.315 852 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sandmonkey.testnet.nfts2.me_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-14:33:58.017 843 Level-0 table #5: started
+2026/01/13-14:33:58.020 843 Level-0 table #5: 1160 bytes OK
+2026/01/13-14:33:58.022 843 Delete type=0 #3
+2026/01/13-14:33:58.023 843 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

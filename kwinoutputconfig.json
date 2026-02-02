@@ -1,0 +1,57 @@
+[
+    {
+        "data": [
+            {
+                "allowDdcCi": true,
+                "allowSdrSoftwareBrightness": false,
+                "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorPowerTradeoff": "PreferEfficiency",
+                "colorProfileSource": "sRGB",
+                "connectorName": "LVDS-1",
+                "detectedDdcCi": false,
+                "edidHash": "2dee63839e69fd3edf5be04e5b814d99",
+                "edidIdentifier": "CMO 5920 0 2 2011 0",
+                "edrPolicy": "always",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "maxBitsPerColor": 0,
+                "mode": {
+                    "height": 1080,
+                    "refreshRate": 60010,
+                    "width": 1920
+                },
+                "overscan": 0,
+                "rgbRange": "Automatic",
+                "scale": 1,
+                "sdrBrightness": 200,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "uuid": "ffc3a6c8-d7ae-42eb-b86c-05c55847586a",
+                "vrrPolicy": "Never",
+                "wideColorGamut": false
+            }
+        ],
+        "name": "outputs"
+    },
+    {
+        "data": [
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 0,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0,
+                        "replicationSource": ""
+                    }
+                ]
+            }
+        ],
+        "name": "setups"
+    }
+]

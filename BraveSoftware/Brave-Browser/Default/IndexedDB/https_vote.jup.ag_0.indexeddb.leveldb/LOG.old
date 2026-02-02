@@ -1,0 +1,6 @@
+2025/09/07-20:07:41.962 599 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vote.jup.ag_0.indexeddb.leveldb since it was missing.
+2025/09/07-20:07:41.969 599 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vote.jup.ag_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/07-20:09:05.298 59a Level-0 table #5: started
+2025/09/07-20:09:05.347 59a Level-0 table #5: 1438 bytes OK
+2025/09/07-20:09:05.425 59a Delete type=0 #3
+2025/09/07-20:09:05.425 59a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+import{d as a,j as e,b3 as o,b4 as r,b5 as l,s as d,b6 as x,b7 as m,f as p,b8 as u,b9 as w,ba as A,H as j,bb as S,O as b,aG as h}from"./main.D-W_HyrW.js";import{u as f,a as v}from"./useSwapMobileNotification.B1rUZ3HN.js";const E=({asset:s,chain:n})=>{const t=a();return e.jsx(o,{icon:e.jsx(r,{}),title:"wallet_send",action:()=>t.uiEvents.emit("transfer",{method:"transfer",id:Date.now(),params:{jetton:s,chain:n,from:s==="TON"?"wallet":"token"}})})},T=({chain:s,jetton:n})=>{const t=a();return e.jsx(o,{icon:e.jsx(l,{}),title:"wallet_receive",action:()=>t.uiEvents.emit("receive",{method:"receive",params:{chain:s,jetton:n}})})},k=d(x)`
+    height: 24px;
+    width: 24px;
+    color: ${s=>s.theme.iconPrimary};
+`,R=({fromAsset:s})=>{const[n,t]=f(),[_,i]=v(),c=()=>{s&&i(s),t(!0)};return e.jsx(o,{icon:e.jsx(k,{}),title:"swap_title",action:c})},N=()=>{const s=m(),t=p()===u.TESTNET;return e.jsxs(w,{children:[!t&&e.jsx(A,{}),!s&&e.jsx(E,{}),e.jsx(T,{}),e.jsx(j,{children:e.jsx(S,{feature:b.SWAPS,children:!t&&!s&&e.jsx(R,{fromAsset:h})})})]})};export{N as H,T as R,E as S,R as a};

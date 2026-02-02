@@ -1,0 +1,2 @@
+import{b as i,j as c,l as p}from"./chunk-NPJCEXXH.js";import{o as a,q as b}from"./chunk-LHDKEQAM.js";a();b();var y=Symbol(),f=Object.prototype,O=(n,s,l)=>{if(c(n))throw new Error("Target must not be observable");let e=n[y];if(e){let t={};for(let o in n)e[o]&&(t[o]=e[o]);e=t}else{e={};let t=n;for(;t&&t!==f;)Reflect.ownKeys(t).forEach(r=>{r===i||r==="constructor"||(e[r]=s&&r in s?s[r]:!0)}),t=Object.getPrototypeOf(t);let o=Object.getPrototypeOf(n);o&&o!==f&&Object.defineProperty(o,y,{value:e})}return p(n,e,l)},j=O;export{j as a};
+//# sourceMappingURL=chunk-LUU4SMIP.js.map

@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-123387c7-03ba-4601-b046-644230611f9b]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:net.lutris.Lutris.desktop,applications:org.qbittorrent.qBittorrent.desktop,applications:rustdesk.desktop,applications:firefox.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:net.lutris.Lutris.desktop,applications:org.qbittorrent.qBittorrent.desktop,applications:rustdesk.desktop,applications:firefox.desktop

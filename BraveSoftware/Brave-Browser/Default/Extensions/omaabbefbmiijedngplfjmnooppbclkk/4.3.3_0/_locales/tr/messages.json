@@ -1,0 +1,6083 @@
+{
+   "App_version_copied": {
+      "message": "Uygulama sürümü kopyalandı"
+   },
+   "Back_up_now": {
+      "message": "Şimdi yedekle"
+   },
+   "Change": {
+      "message": "Değiştir"
+   },
+   "Change_password": {
+      "message": "Şifreyi değiştirin"
+   },
+   "ConfirmPassword": {
+      "message": "Şifreyi tekrar girin"
+   },
+   "Copy": {
+      "message": "Kopyala"
+   },
+   "Copy_address": {
+      "message": "Adresi kopyala"
+   },
+   "Create_password": {
+      "message": "Şifre oluştur"
+   },
+   "Cut": {
+      "message": "Kes"
+   },
+   "Delete_all_accounts_and_logout": {
+      "message": "Tüm hesapları sil ve çıkış yap"
+   },
+   "Delete_keystone_wallet_data_description": {
+      "message": "Cüzdan verileri ve tüm kişisel veriler bu cihazdan silinecektir."
+   },
+   "Delete_wallet_data": {
+      "message": "Cüzdan verilerini sil"
+   },
+   "Delete_wallet_data_description": {
+      "message": "Cüzdan anahtarları ve tüm kişisel veriler bu cihazdan silinecektir."
+   },
+   "Edit": {
+      "message": "Düzenle"
+   },
+   "I_have_a_backup_copy_of_recovery_phrase": {
+      "message": "Kurtarma cümlesinin yedeğine sahibim"
+   },
+   "IncorrectCurrentPassword": {
+      "message": "Geçerli şifre hatalı."
+   },
+   "Localization": {
+      "message": "Dil"
+   },
+   "Lock_screen": {
+      "message": "Ekran kilidi"
+   },
+   "Manage": {
+      "message": "Yönet"
+   },
+   "Manage_wallets": {
+      "message": "Cüzdanları yönet"
+   },
+   "MinPassword": {
+      "message": "En az 6 karakter olmalıdır."
+   },
+   "Minimize": {
+      "message": "Simge durumuna küçült"
+   },
+   "NFT_collection_id": {
+      "message": "NFT Koleksiyonu Kimliği"
+   },
+   "NFT_creation": {
+      "message": "NFT oluşturma"
+   },
+   "NFT_item_id": {
+      "message": "NFT öğe kimliği"
+   },
+   "Name_your_wallet": {
+      "message": "Cüzdanınıza isim verin"
+   },
+   "Name_your_wallet_description": {
+      "message": "Tonkeeper'ı kullanırken kolayca tanımlayabileceğiniz bir cüzdan ismi belirleyin. Bu isimler cihazınızda depolanır ve bunları sadece siz görebilirsiniz."
+   },
+   "Old_password": {
+      "message": "Güncel şifre"
+   },
+   "Password": {
+      "message": "Şifre"
+   },
+   "PasswordChanged": {
+      "message": "Şifre değiştirildi"
+   },
+   "PasswordDoNotMatch": {
+      "message": "Şifreler eşleşmiyor."
+   },
+   "Redo": {
+      "message": "Yinele"
+   },
+   "Reload": {
+      "message": "Yeniden yükle"
+   },
+   "Rename": {
+      "message": "Yeniden adlandır"
+   },
+   "Ton_page_description": {
+      "message": "TON, Telegram tarafından milyarlarca kullanıcıyı bünyesine katmak için tasarlanmış tamamen merkeziyetsiz bir layer-1 blokzinciridir. TON, ultra hızlı işlem hızına, düşük ücretlere, kullanımı kolay uygulamalara sahiptir ve çevre dostudur."
+   },
+   "Toncoin": {
+      "message": "Toncoin"
+   },
+   "Undo": {
+      "message": "Geri Al"
+   },
+   "Unexpected_QR_Code": {
+      "message": "Beklenmeyen QR Kodu"
+   },
+   "Unlock": {
+      "message": "Kilidi Aç"
+   },
+   "View": {
+      "message": "Görünüm"
+   },
+   "Wallet_name": {
+      "message": "Cüzdan adı"
+   },
+   "Window": {
+      "message": "Pencere"
+   },
+   "about_tonkeeper_pro": {
+      "message": "Tonkeeper Pro hakkında"
+   },
+   "account_is_already_added_action": {
+      "message": "Cüzdanı aç"
+   },
+   "account_is_already_added_label": {
+      "message": "Bu cüzdan zaten şu olarak eklendi:"
+   },
+   "accounts_delete_folder": {
+      "message": "Klasörün grubunu kaldır"
+   },
+   "accounts_manage_folder": {
+      "message": "Klasörü Düzenle"
+   },
+   "accounts_manage_folder_move_from_other": {
+      "message": "Diğer klasörlerden taşı"
+   },
+   "accounts_manage_folder_name": {
+      "message": "Klasör Adı"
+   },
+   "accounts_new_folder": {
+      "message": "Yeni Klasör"
+   },
+   "actionTitle": {
+      "message": "Cüzdanı aç"
+   },
+   "action_fee_details_free_pro_transfer": {
+      "message": "Pro Abonelere Ücretsiz Transfer"
+   },
+   "activate": {
+      "message": "Etkinleştir"
+   },
+   "active": {
+      "message": "Aktif"
+   },
+   "activityActionModal_withdrawal_request": {
+      "message": "Çekme talebi"
+   },
+   "activity_empty_reset_filters_button": {
+      "message": "Filtreleri Sıfırla"
+   },
+   "activity_empty_reset_filters_description": {
+      "message": "Uygulanan filtreler nedeniyle bazı geçmiş öğeleri görüntülenmeyebilir"
+   },
+   "activity_empty_reset_filters_title": {
+      "message": "Geçmiş öğesi bulunamadı"
+   },
+   "activity_empty_transaction_caption": {
+      "message": "İlk işleminizi gerçekleştirin!"
+   },
+   "activity_empty_transaction_title": {
+      "message": "İşleminiz burada gösterilecektir"
+   },
+   "activity_failed_transaction": {
+      "message": "İşlem başarısız oldu"
+   },
+   "activity_screen_title": {
+      "message": "Etkinlik"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "add_by_sk_fireblocks_title": {
+      "message": "Fireblocks özel anahtarı ile hesap"
+   },
+   "add_by_sk_title": {
+      "message": "Özel anahtarla hesap"
+   },
+   "add_dns_address": {
+      "message": "%1% alan adının bağlanacağı cüzdan adresini ekleyin."
+   },
+   "add_edit_favorite_add_title": {
+      "message": "Yeni favori"
+   },
+   "add_edit_favorite_address_label": {
+      "message": "Adres"
+   },
+   "add_edit_favorite_delete": {
+      "message": "Sil"
+   },
+   "add_edit_favorite_edit_title": {
+      "message": "Favoriyi düzenle"
+   },
+   "add_edit_favorite_name_placeholder": {
+      "message": "İsim"
+   },
+   "add_edit_favorite_save": {
+      "message": "Kaydet"
+   },
+   "add_wallet": {
+      "message": "Cüzdan Ekle"
+   },
+   "add_wallet_group_hardware_title": {
+      "message": "Donanım Cüzdanları"
+   },
+   "add_wallet_group_other_options": {
+      "message": "Diğer seçenekler"
+   },
+   "add_wallet_modal_fireblocks_description": {
+      "message": "Cüzdanınıza erişmek için Fireblocks'tan mevcut bir anahtarı içe aktarın"
+   },
+   "add_wallet_modal_fireblocks_title": {
+      "message": "Fireblocks'tan İçe Aktar"
+   },
+   "add_wallet_modal_mam_subtitle": {
+      "message": "Tek bir gizli kurtarma ifadesiyle birden fazla cüzdanı yönetin"
+   },
+   "add_wallet_modal_mam_title": {
+      "message": "Yeni Çoklu Cüzdan Hesabı"
+   },
+   "add_wallet_modal_testnet_subtitle": {
+      "message": "24 gizli kurtarma kelimesi içeren cüzdanı Testnet'e aktarın"
+   },
+   "add_wallet_modal_testnet_title": {
+      "message": "Testnet Hesabı"
+   },
+   "add_wallet_modal_watch_only_subtitle": {
+      "message": "Kurtarma ifadesi olmadan cüzdan etkinliğini izlemek için"
+   },
+   "add_wallet_modal_watch_only_title": {
+      "message": "Hesabı İzle"
+   },
+   "add_wallet_new_multisig_description": {
+      "message": "Kripto para fonlarının ortak yönetimi ve korunması için"
+   },
+   "add_wallet_new_multisig_title": {
+      "message": "Yeni Multisig Cüzdanı"
+   },
+   "add_watch_only_title": {
+      "message": "Hesabı İzle"
+   },
+   "address_copied": {
+      "message": "Adres kopyalandı"
+   },
+   "all_assets_jettons": {
+      "message": "Tüm varlıklar"
+   },
+   "already_have_subscription": {
+      "message": "Cüzdanlarınızdan birinde zaten aktif bir Apple uygulama içi aboneliğiniz var (ID: %{transactionId}). Pro'ya erişmek için lütfen o cüzdanla giriş yapın."
+   },
+   "and": {
+      "message": "ve"
+   },
+   "appExtensionDescription": {
+      "message": "The Open Network üzerinde uzantı cüzdanınız"
+   },
+   "appName": {
+      "message": "Tonkeeper"
+   },
+   "appTitle": {
+      "message": "Tonkeeper — TON için Cüzdan"
+   },
+   "app_store": {
+      "message": "App Store"
+   },
+   "approval_accepted": {
+      "message": "Onaylandı"
+   },
+   "approval_declined": {
+      "message": "Reddedildi"
+   },
+   "approval_details_token": {
+      "message": "Token detayları"
+   },
+   "approval_id_collection": {
+      "message": "Koleksiyon Kimliği"
+   },
+   "approval_id_token": {
+      "message": "Token Kimliği"
+   },
+   "approval_name": {
+      "message": "İsim"
+   },
+   "approval_not_spam": {
+      "message": "Spam Değil"
+   },
+   "approval_spam": {
+      "message": "Spam"
+   },
+   "approval_unverified_token": {
+      "message": "Doğrulanmamış Token"
+   },
+   "aside_add_wallet": {
+      "message": "Cüzdan ekle"
+   },
+   "aside_dashboard": {
+      "message": "Kontrol paneli"
+   },
+   "aside_discover": {
+      "message": "Keşfet"
+   },
+   "aside_expires_on": {
+      "message": "Sona erme tarihi: %date%"
+   },
+   "aside_header_number_wallets": {
+      "message": "%{number} cüzdan"
+   },
+   "aside_pro_subscription_is_active": {
+      "message": "Pro üyelik aktif."
+   },
+   "aside_pro_trial_is_active": {
+      "message": "Pro deneme aktif."
+   },
+   "aside_settings": {
+      "message": "Tercihler"
+   },
+   "auto": {
+      "message": "Otomatik"
+   },
+   "auto_renew": {
+      "message": "Otomatik yenileme"
+   },
+   "balances_setup_wallet": {
+      "message": "Cüzdanı ayarlayın"
+   },
+   "battery_buy_error_min": {
+      "message": "En az: %{amount}"
+   },
+   "battery_buy_error_not_enough_balance": {
+      "message": "Yetersiz bakiye"
+   },
+   "battery_buy_remaining": {
+      "message": "Kalan: %{value}"
+   },
+   "battery_capabilities_description_web": {
+      "message": "USDT TRC20 transferi, Tonkeeper ile takas, NFT ve token transferi."
+   },
+   "battery_capabilities_supported_transactions_label": {
+      "message": "Desteklenen İşlemler"
+   },
+   "battery_charges": {
+      "message": "%{charges} şarj"
+   },
+   "battery_info_will_be_paid": {
+      "message": "Ödenecek: %{items}"
+   },
+   "battery_n_battery_charges": {
+      "message": "%{charges} pil şarjı"
+   },
+   "battery_other_ways_by_crypto_title": {
+      "message": "%{symbol} ile doldur"
+   },
+   "battery_other_ways_gift_subtitle": {
+      "message": "Arkadaşlarınızla paylaşın"
+   },
+   "battery_other_ways_gift_title": {
+      "message": "Pil Hediyesi"
+   },
+   "battery_out_of_num_available": {
+      "message": "%{number} mevcut arasından"
+   },
+   "battery_packages_disclaimer": {
+      "message": "Bu yaklaşık işlem sayısıdır. Bazı işlemlerinizin maliyeti daha yüksek olabilir."
+   },
+   "battery_please_wait": {
+      "message": "Batarya birkaç dakika içinde şarj olacak"
+   },
+   "battery_promocode_title": {
+      "message": "Promosyon Kodu"
+   },
+   "battery_recharge_by_crypto_other_subtitle": {
+      "message": "Miktarı manuel olarak girin"
+   },
+   "battery_recharge_by_crypto_other_title": {
+      "message": "Diğer"
+   },
+   "battery_recharge_by_crypto_title": {
+      "message": "Şarj etme"
+   },
+   "battery_refunds_link": {
+      "message": "Yükleme ve İade Geçmişi"
+   },
+   "battery_settings_nft_price": {
+      "message": "≈ Transfer başına %{charges} şarj"
+   },
+   "battery_settings_nft_title": {
+      "message": "NFT transferleri"
+   },
+   "battery_settings_swap_price": {
+      "message": "≈ Takas başına %{charges} şarj"
+   },
+   "battery_settings_swap_title": {
+      "message": "Tonkeeper üzerinden takaslar"
+   },
+   "battery_settings_token_transfer_price": {
+      "message": "≈ Transfer başına %{charges} ücret"
+   },
+   "battery_settings_token_transfer_title": {
+      "message": "Token transferi"
+   },
+   "battery_settings_trc20_transfer_disclamer": {
+      "message": "USDT TRC20 işlemleri için, batarya şarj değerleri çeşitli piyasa faktörlerinden dolayı önemli ölçüde dalgalanabilir."
+   },
+   "battery_settings_trc20_transfer_title": {
+      "message": "USDT TRC20 Transfer Ücreti"
+   },
+   "battery_title": {
+      "message": "Tonkeeper Pili"
+   },
+   "battery_transactions_description": {
+      "message": "Seçilen işlemler Tonkeeper pili tarafından ödenecektir."
+   },
+   "battery_transactions_settings": {
+      "message": "Pil Ayarları"
+   },
+   "battery_transactions_title": {
+      "message": "İşlemler"
+   },
+   "battery_transactions_type_swap": {
+      "message": "swap"
+   },
+   "battery_transactions_type_transfer": {
+      "message": "transfer"
+   },
+   "battery_transactions_type_usdt_trc20_transfer": {
+      "message": "USDT TRC20 Transferleri"
+   },
+   "battery_transactions_types_nft": {
+      "message": "NFT transferleri"
+   },
+   "biometry_default": {
+      "message": "Biyometrik"
+   },
+   "biometry_ios_fingerprint": {
+      "message": "Touch ID"
+   },
+   "bring_all_to_front": {
+      "message": "Tümünü Öne Getir"
+   },
+   "browser_actions_copy_link": {
+      "message": "Bağlantıyı kopyalayın"
+   },
+   "browser_actions_pin": {
+      "message": "Sabitlen"
+   },
+   "browser_actions_refresh": {
+      "message": "Yenileyin"
+   },
+   "browser_actions_share": {
+      "message": "Paylaşın"
+   },
+   "browser_actions_unpin": {
+      "message": "Sabitlemeyi Kaldır"
+   },
+   "browser_apps_all": {
+      "message": "Tümü"
+   },
+   "browser_connected": {
+      "message": "Bağlı"
+   },
+   "browser_new_tab": {
+      "message": "Yeni Sekme"
+   },
+   "browser_search": {
+      "message": "Ara"
+   },
+   "browser_title": {
+      "message": "Tarayıcı"
+   },
+   "browser_using_wallet": {
+      "message": "kullanıyor"
+   },
+   "cancel": {
+      "message": "İptal et"
+   },
+   "cancel_failed": {
+      "message": "Abonelik iptal edilemedi!"
+   },
+   "cancel_subscription": {
+      "message": "Aboneliği iptal et"
+   },
+   "canceled": {
+      "message": "İptal Edildi"
+   },
+   "cancelling": {
+      "message": "İptal ediliyor"
+   },
+   "chains_title": {
+      "message": "Blokzincirler"
+   },
+   "check_words_caption": {
+      "message": "Kurtarma ifadenizi doğru yazıp yazmadığınızı kontrol etmek için lütfen %1%, %2% ve %3% numaralı kelimeleri girin."
+   },
+   "check_words_success": {
+      "message": "Tebrikler! Cüzdan kurulumunuzu tamamladınız"
+   },
+   "check_words_title": {
+      "message": "Haydi şimdi kontrol edelim"
+   },
+   "choose_another_wallet": {
+      "message": "Başka bir cüzdan seçin"
+   },
+   "choose_billing_description": {
+      "message": "Aylık veya yıllık faturalandırmayı seçin. Her ikisi de tüm profesyonel özellikleri içerir."
+   },
+   "choose_wallet_for_pro": {
+      "message": "Pro için cüzdan seçin"
+   },
+   "choose_wallets_subtitle": {
+      "message": "Eklemek istediğiniz cüzdanları seçin."
+   },
+   "choose_wallets_title": {
+      "message": "Cüzdanları Seçin"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "collectibles_empty_header": {
+      "message": "Koleksiyon varlıklarınız burada görüntülenecek"
+   },
+   "confirm": {
+      "message": "Onaylayın"
+   },
+   "confirmSendModal_wallet": {
+      "message": "Cüzdan:"
+   },
+   "confirm_action": {
+      "message": "İşlemi onaylayın"
+   },
+   "confirm_disable_two_fa_description": {
+      "message": "2FA’nın devre dışı bırakılması cüzdan güvenliğini azaltır. Kurtarma ifadenizi bilen herkes cüzdanınız üzerinde tam kontrol sahibi olabilir."
+   },
+   "confirm_disable_two_fa_ok_button": {
+      "message": "2FA devre dışı bırakma talebini Telegram'ınıza gönderin"
+   },
+   "confirm_disable_two_fa_title": {
+      "message": "2FA’yı devre dışı bırakmak mı istiyorsunuz?"
+   },
+   "confirm_discard_btn_continue_editing": {
+      "message": "Düzenlemeye devam et"
+   },
+   "confirm_discard_btn_discard": {
+      "message": "Değişiklikleri iptal et"
+   },
+   "confirm_discard_description": {
+      "message": "Kaydedilmemiş değişiklikleriniz var. Bu pencereyi kapatırsanız, ilerlemeniz kaybolacak. Devam etmek istiyor musunuz?"
+   },
+   "confirm_discard_title": {
+      "message": "Çıkmak istediğinizden emin misiniz?"
+   },
+   "confirm_error_insufficient_balance_light": {
+      "message": "Yetersiz bakiye"
+   },
+   "confirm_error_insufficient_battery_balance": {
+      "message": "Yetersiz Tonkeeper Battery bakiyesi"
+   },
+   "confirm_error_insufficient_host_wallet_balance": {
+      "message": "Multisig imzalayıcı cüzdanı %{wallet} bakiyesi, blokzincir ücretini karşılamak için yeterli değil. Gerekli minimum bakiye: 0,5 TON."
+   },
+   "confirm_modal_transfer": {
+      "message": "Transfer"
+   },
+   "confirm_sending_fee": {
+      "message": "Ücret"
+   },
+   "confirm_sending_sign": {
+      "message": "İmzala"
+   },
+   "confirm_sending_submit": {
+      "message": "Onaylayın ve Gönderin"
+   },
+   "confirm_sending_title": {
+      "message": "Göndermeyi onaylayın"
+   },
+   "confirm_unlink": {
+      "message": "Bağlantıyı kaldırmayı onaylayın"
+   },
+   "confirm_view_fee_row_free_pro_subtitle": {
+      "message": "Pro abonelere"
+   },
+   "connect_telegram": {
+      "message": "Telegram bağla"
+   },
+   "connect_wallet": {
+      "message": "Cüzdanı Bağla"
+   },
+   "connected_apps_short": {
+      "message": "Bağlı uygulamalar"
+   },
+   "contact_support": {
+      "message": "Destek ile iletişime geç"
+   },
+   "continue": {
+      "message": "Devam et"
+   },
+   "continue_for": {
+      "message": "Devam et"
+   },
+   "continue_from": {
+      "message": "Nereden Devam Edin"
+   },
+   "continue_with_tonkeeper_pro": {
+      "message": "Tonkeeper Pro ile devam et"
+   },
+   "copied": {
+      "message": "Kopyalandı"
+   },
+   "country": {
+      "message": "Ülke"
+   },
+   "create": {
+      "message": "Oluştur"
+   },
+   "create_encryption_key": {
+      "message": "Şifreleme Anahtarı Oluştur"
+   },
+   "create_encryption_key_description": {
+      "message": "Aboneliğinizi başlatmak için bir şifreleme anahtarı oluşturun. Parolanız veya biyometrik verilerinizle onaylayın."
+   },
+   "create_multisig_add_participant": {
+      "message": "Katılımcı Ekle"
+   },
+   "create_multisig_await_deployment_description": {
+      "message": "Bu birkaç dakika sürebilir."
+   },
+   "create_multisig_await_deployment_help_explorer_button": {
+      "message": "Explorer’da sözleşmeyi görüntüle"
+   },
+   "create_multisig_await_deployment_help_support_button": {
+      "message": "Yardım alın"
+   },
+   "create_multisig_await_deployment_help_title": {
+      "message": "Hiçbir şey mi olmadı?"
+   },
+   "create_multisig_await_deployment_title": {
+      "message": "Cüzdanınızın dağıtımı bekleniyor"
+   },
+   "create_multisig_can_change_hint": {
+      "message": "Katılımcı sayısını, onların rollerini ve başarılı bir işlem için gereken imza sayısını her zaman değiştirebilirsiniz."
+   },
+   "create_multisig_create_wallet": {
+      "message": "Cüzdan Oluştur"
+   },
+   "create_multisig_duplicated_address_error": {
+      "message": "Adres zaten eklendi"
+   },
+   "create_multisig_error_already_deployed": {
+      "message": "Böyle bir çoklu imza sözleşmesi zaten mevcut. Çoklu imza sözleşmesini dağıtmak için başka bir cüzdan kullanmayı deneyin."
+   },
+   "create_multisig_invalid_address_error": {
+      "message": "Geçersiz adres"
+   },
+   "create_multisig_participants": {
+      "message": "Katılımcılar"
+   },
+   "create_multisig_quorum": {
+      "message": "Yeter sayı"
+   },
+   "create_multisig_quorum_invalid_number_participants_error": {
+      "message": "Geçersiz katılımcı sayısı"
+   },
+   "create_multisig_quorum_participants": {
+      "message": "katılımcılar"
+   },
+   "create_multisig_quorum_zero_participants_error": {
+      "message": "En az bir katılımcı gereklidir"
+   },
+   "create_multisig_what_are_signers": {
+      "message": "Tüm katılımcılar işlemleri onaylayabilir ve katılımcı eklemek veya çıkarmak gibi değişiklikler önerebilir."
+   },
+   "create_pin_current_title": {
+      "message": "Mevcut şifreyi girin"
+   },
+   "create_pin_new_title": {
+      "message": "Yeni şifre oluşturun"
+   },
+   "create_pin_repeat_title": {
+      "message": "Şifreyi tekrar girin"
+   },
+   "create_pin_title": {
+      "message": "Şifre Oluştur"
+   },
+   "create_wallet_caption": {
+      "message": "Cihazınızı kaybetmeniz durumunda cüzdanınıza erişmenin ve hesabınızı kurtarmanın tek yolu olduğu için kurtarma ifadesini bir yere yazmanızı şiddetle tavsiye ederiz. Kurtarma ifadenizi kendinize e-posta yoluyla göndermeyin veya ekran görüntüsü almayın. Bu ifadeyi çevrimdışı şekilde saklamak daha güvenlidir."
+   },
+   "create_wallet_generated": {
+      "message": "Cüzdanınız oluşturuldu!"
+   },
+   "create_wallet_generating": {
+      "message": "Cüzdan oluşturuluyor..."
+   },
+   "create_wallet_title": {
+      "message": "Bir kalem ve bir kağıt alın"
+   },
+   "crypto": {
+      "message": "Kripto"
+   },
+   "crypto_payment": {
+      "message": "Kripto ödeme"
+   },
+   "customize": {
+      "message": "Özelleştir"
+   },
+   "customize_modal_subtitle": {
+      "message": "Cüzdan adı ve simgesi cihazınızda yerel olarak saklanır."
+   },
+   "customize_modal_title": {
+      "message": "Cüzdanınızı özelleştirin"
+   },
+   "dapp_bowser_wallet_connected_toast": {
+      "message": "Cüzdan bağlandı"
+   },
+   "dashboard_column_name": {
+      "message": "İsim"
+   },
+   "dashboard_manage_modal_title": {
+      "message": "Kontrol paneli"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "deleting_wallet_warning": {
+      "message": "Cüzdan silindikten sonra PRO özellikler kullanılamaz hale gelecektir. Aktif aboneliği olan bir cüzdanla giriş yaptıktan sonra bu özellikler geri yüklenecektir."
+   },
+   "deleting_wallets_warning": {
+      "message": "Tüm cüzdanlar silindikten sonra, PRO özellikler kullanılamaz hale gelir. Aktif aboneliği olan bir cüzdanla giriş yaptıktan sonra tekrar kullanılabilir olacaklardır."
+   },
+   "desktop_only": {
+      "message": "Yalnızca masaüstü"
+   },
+   "disable": {
+      "message": "Devre Dışı Bırak"
+   },
+   "disabled": {
+      "message": "Devre Dışı"
+   },
+   "disconnect": {
+      "message": "Bağlantıyı kesin"
+   },
+   "disconnect_all_apps": {
+      "message": "Tüm uygulamaların bağlantısını kesin"
+   },
+   "disconnect_all_apps_confirm": {
+      "message": "Tüm uygulamaların bağlantısı kesilsin mi?"
+   },
+   "dns_address_linked": {
+      "message": "Adres bağlandı"
+   },
+   "dns_address_unlinked": {
+      "message": "Adresin bağlantısı kaldırıldı"
+   },
+   "dns_current_address": {
+      "message": "Mevcut adresiniz"
+   },
+   "dns_expiration_date": {
+      "message": "Son geçerlilik tarihi"
+   },
+   "dns_linked_with_another_address_warn": {
+      "message": "Alan adı mevcut adresinizle bağlantılı değil. Bu alan adını içeren işlemlerde dikkatli olun."
+   },
+   "dns_renew_title": {
+      "message": "Alan adını yenile"
+   },
+   "dns_renew_toast_success": {
+      "message": "Alan adı 1 yıllığına yenilendi"
+   },
+   "dns_renew_until_btn": {
+      "message": "%{untilDate} tarihine kadar yenileyin"
+   },
+   "domains_empty_header": {
+      "message": "Alan adlarınız burada görüntülenecek"
+   },
+   "edit_wallet": {
+      "message": "Düzenle"
+   },
+   "enabled": {
+      "message": "Etkin"
+   },
+   "ends": {
+      "message": "Biter"
+   },
+   "enter_password": {
+      "message": "Şifre girin"
+   },
+   "enter_promo_code": {
+      "message": "Promosyon Kodunu Gir"
+   },
+   "error_current_wallet_doesnot_support_connection_to_service": {
+      "message": "Mevcut cüzdan, servise bağlantıyı desteklemiyor"
+   },
+   "error_invalid_domain": {
+      "message": "Geçersiz Alan Adı"
+   },
+   "error_keystone_doesnot_support_sign_data": {
+      "message": "Keystone veri imzalamayı desteklemiyor."
+   },
+   "error_multisig_doesnot_support_connection": {
+      "message": "Multisig cüzdan, dApps'e bağlantıyı desteklemez."
+   },
+   "error_multisig_doesnot_support_sign_data": {
+      "message": "Çoklu imzalı cüzdan veri imzalamayı desteklemez."
+   },
+   "error_not_less_ton": {
+      "message": "Abonelik tutarı 0.1 TON'dan az olamaz!"
+   },
+   "error_occurred": {
+      "message": "Bir hata oluştu"
+   },
+   "error_signer_doesnot_support_connect": {
+      "message": "QR ile bağlı imzalayıcı, bu dApp’e bağlantıyı desteklemiyor."
+   },
+   "error_signer_doesnot_support_sign_data": {
+      "message": "QR ile bağlı imzalayıcı, veri imzalamayı desteklemez."
+   },
+   "error_unsupported_wallet": {
+      "message": "Desteklenmeyen cüzdan sürümü!"
+   },
+   "error_watch_only_doesnot_support_connection": {
+      "message": "Watch Only cüzdanı dApp'lere bağlantıyı desteklemez."
+   },
+   "error_watch_only_doesnot_support_sign_data": {
+      "message": "Yalnızca izleme cüzdanı veri imzalamayı desteklemez."
+   },
+   "every_day_few": {
+      "message": "Her %{count} günde bir"
+   },
+   "every_day_many": {
+      "message": "Her %{count} günde bir"
+   },
+   "every_day_one": {
+      "message": "Her gün"
+   },
+   "every_day_other": {
+      "message": "Her %{count} günde bir"
+   },
+   "every_hour_few": {
+      "message": "Her %{count} saatte bir"
+   },
+   "every_hour_many": {
+      "message": "Her %{count} saatte bir"
+   },
+   "every_hour_one": {
+      "message": "Her saat"
+   },
+   "every_hour_other": {
+      "message": "Her %{count} saatte bir"
+   },
+   "every_minute_few": {
+      "message": "Her %{count} dakikada"
+   },
+   "every_minute_many": {
+      "message": "Her %{count} dakikada"
+   },
+   "every_minute_one": {
+      "message": "Her dakika"
+   },
+   "every_minute_other": {
+      "message": "Her %{count} dakikada"
+   },
+   "every_month_few": {
+      "message": "Her %{count} ayda bir"
+   },
+   "every_month_many": {
+      "message": "Her %{count} ayda bir"
+   },
+   "every_month_one": {
+      "message": "Her ay"
+   },
+   "every_month_other": {
+      "message": "Her %{count} ayda bir"
+   },
+   "every_second_few": {
+      "message": "Her %{count} saniyede"
+   },
+   "every_second_many": {
+      "message": "Her %{count} saniyede"
+   },
+   "every_second_one": {
+      "message": "Her saniye"
+   },
+   "every_second_other": {
+      "message": "Her %{count} saniyede"
+   },
+   "every_week_few": {
+      "message": "Her %{count} hafta"
+   },
+   "every_week_many": {
+      "message": "Her %{count} haftada bir"
+   },
+   "every_week_one": {
+      "message": "Her hafta"
+   },
+   "every_week_other": {
+      "message": "Her %{count} haftada bir"
+   },
+   "every_year_few": {
+      "message": "Her %{count} yılda bir"
+   },
+   "every_year_many": {
+      "message": "Her %{count} yılda bir"
+   },
+   "every_year_one": {
+      "message": "Her yıl"
+   },
+   "every_year_other": {
+      "message": "Her %{count} yılda bir"
+   },
+   "exchange_method_dont_show_again": {
+      "message": "Tekrar gösterme"
+   },
+   "exchange_method_open_warning": {
+      "message": "Tonkeeper tarafından işletilmeyen harici bir uygulamayı açıyorsunuz."
+   },
+   "exchange_modal_other_ways_to_buy": {
+      "message": "Diğer satın alma seçenekleri"
+   },
+   "exchange_other_ways": {
+      "message": "TON satın almak veya satmak için diğer seçenekler"
+   },
+   "exchange_title": {
+      "message": "TON satın alın"
+   },
+   "expiration_date": {
+      "message": "Son kullanma tarihi"
+   },
+   "expired": {
+      "message": "Süresi Doldu"
+   },
+   "export_dot_csv": {
+      "message": "CSV'yi dışa aktar"
+   },
+   "export_trc_20_wallet": {
+      "message": "TRC20 Cüzdanı Dışa Aktar"
+   },
+   "extension_cancellation_success": {
+      "message": "Otomatik yenileme başarıyla iptal edildi! Aboneliğiniz şu tarihe kadar aktif kalacaktır:"
+   },
+   "failed_connect_telegram": {
+      "message": "Telegram bağlantısı başarısız oldu!"
+   },
+   "failed_subscriptions_loading": {
+      "message": "Abonelikler yüklenemedi"
+   },
+   "force_reload": {
+      "message": "Zorla Yeniden Yükle"
+   },
+   "free": {
+      "message": "Ücretsiz"
+   },
+   "future_charges_stopped": {
+      "message": "Gelecek ücretler durduruldu"
+   },
+   "get_tonkeeper_pro": {
+      "message": "Tonkeeper Pro'yu Al"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "hide": {
+      "message": "Gizle"
+   },
+   "hide_others": {
+      "message": "Diğerlerini gizle"
+   },
+   "hide_tonkeeper_pro": {
+      "message": "Tonkeeper Pro'yu gizle"
+   },
+   "history_filters_all_assets": {
+      "message": "Tüm Token'lar"
+   },
+   "history_filters_hide_spam": {
+      "message": "Spam'ı gizle"
+   },
+   "history_filters_hide_spam_description": {
+      "message": "Filtre yeniden başlatıldığında sıfırlanmıyor"
+   },
+   "history_filters_initiator": {
+      "message": "Başlatan"
+   },
+   "history_no_transactions_yet": {
+      "message": "Henüz işlem yok"
+   },
+   "history_spam_nft": {
+      "message": "Spam NFT"
+   },
+   "import_add_wallet": {
+      "message": "Cüzdan Ekle"
+   },
+   "import_add_wallet_description": {
+      "message": "Yeni bir cüzdan oluşturun veya mevcut bir cüzdan ekleyin."
+   },
+   "import_chose_mnemonic_option_bip39": {
+      "message": "Bip39 Anımsatıcı"
+   },
+   "import_chose_mnemonic_option_tonKeychain": {
+      "message": "Ton Anahtarlık"
+   },
+   "import_chose_mnemonic_option_tonMnemonic": {
+      "message": "Standart Ton Anımsatıcı"
+   },
+   "import_chose_mnemonic_type_description": {
+      "message": "Bu gizli anahtar, farklı cüzdan türleri için kullanılabilir. Aşağıdaki listeden ihtiyacınız olanı seçin."
+   },
+   "import_chose_mnemonic_type_title": {
+      "message": "Gizli Anahtar Türünü Seçin"
+   },
+   "import_csv": {
+      "message": "CSV'yi içe aktar"
+   },
+   "import_csv_description": {
+      "message": "Dosyayı sürükleyip bırakın veya yüklemek için aşağıdaki düğmeye tıklayın. Hatalı işlem yapmamak için lütfen aşağıdaki örnek tablo yapısını inceleyin."
+   },
+   "import_dot_csv": {
+      "message": "CSV'yi içe aktar"
+   },
+   "import_existing_wallet": {
+      "message": "Mevcut Cüzdan"
+   },
+   "import_existing_wallet_description": {
+      "message": "24 gizli kurtarma kelimesiyle cüzdanı içe aktarın"
+   },
+   "import_existing_wallet_description_extended": {
+      "message": "Cüzdanı 24 veya 12 gizli kurtarma kelimesiyle içe aktar"
+   },
+   "import_multisend_dnd_error": {
+      "message": "Bırakılan dosya çözümlenemiyor"
+   },
+   "import_multisend_drop_file": {
+      "message": "Dosyayı bırakın"
+   },
+   "import_multisend_error_column": {
+      "message": "sütun"
+   },
+   "import_multisend_error_invalid_amount": {
+      "message": "Geçersiz transfer tutarı"
+   },
+   "import_multisend_error_invalid_asset": {
+      "message": "Geçersiz transfer varlığı"
+   },
+   "import_multisend_error_invalid_csv": {
+      "message": "Geçersiz CSV dosya formatı"
+   },
+   "import_multisend_error_invalid_receiver": {
+      "message": "Geçersiz transfer alıcı formatı"
+   },
+   "import_multisend_error_invalid_row_length": {
+      "message": "Geçersiz CSV satır uzunluğu"
+   },
+   "import_multisend_error_line": {
+      "message": "satır"
+   },
+   "import_multisend_error_list_empty": {
+      "message": "CSV tablosu boştur"
+   },
+   "import_multisend_error_too_many_crypto_assets": {
+      "message": "Listede aktarılamayacak kadar çok farklı kripto varlığı var. Bir kripto varlığının belirtildiği tüm satırların aynı kripto varlığını kullandığından emin olun."
+   },
+   "import_multisend_error_too_many_fiat_assets": {
+      "message": "Listede transfer edilecek çok fazla farklı itibari varlık var. Bir itibari varlığın belirtildiği tüm satırlarda aynı itibari varlığın kullanıldığından emin olun."
+   },
+   "import_multisend_error_unknown": {
+      "message": "Bilinmeyen ayrıştırma hatası"
+   },
+   "import_multisend_fiat_warn_description": {
+      "message": "Devam etmek için para birimini değiştirin veya yenisiyle değiştirin."
+   },
+   "import_multisend_fiat_warn_switch_button": {
+      "message": "Cüzdan para birimini değiştir"
+   },
+   "import_multisend_fiat_warn_title": {
+      "message": "Cüzdandaki para birimi ile dosyadaki para birimi uyuşmuyor."
+   },
+   "import_multisend_table_comment": {
+      "message": "Yorum"
+   },
+   "import_multisend_table_example": {
+      "message": "Tablo Örneği"
+   },
+   "import_multisend_table_heading_address": {
+      "message": "EQ veya UQ adresi / hex adresi / .ton alan adı"
+   },
+   "import_multisend_table_heading_amount": {
+      "message": "Tutar"
+   },
+   "import_multisend_table_heading_asset": {
+      "message": "Fiat kodu / TON / hex, EQ veya UQ token-master adresi"
+   },
+   "import_multisend_table_heading_comment": {
+      "message": "Opsiyonel yorum"
+   },
+   "import_new_wallet": {
+      "message": "Yeni Cüzdan"
+   },
+   "import_new_wallet_description": {
+      "message": "Yeni cüzdan oluşturun"
+   },
+   "import_signer": {
+      "message": "İmza Sahiplerini Eşleştir"
+   },
+   "import_signer_description": {
+      "message": "Daha yüksek bir kontrol ve güvenlik seviyesi"
+   },
+   "import_wallet_12_words": {
+      "message": "12 kelime"
+   },
+   "import_wallet_24_words": {
+      "message": "24 kelime"
+   },
+   "import_wallet_caption": {
+      "message": "Cüzdanınıza erişimi geri kazanmak için, cüzdanınızı oluşturduğunuz sırada size verilen 24 harften oluşan gizli kurtarma ifadesini girin."
+   },
+   "import_wallet_caption_12": {
+      "message": "Cüzdanınıza erişimi geri yüklemek için, cüzdanınızı oluşturduğunuzda size verilen 12 gizli kurtarma kelimesini girin."
+   },
+   "import_wallet_title": {
+      "message": "Gizli kurtarma ifadenizi girin"
+   },
+   "import_wallet_title_web": {
+      "message": "Gizli kurtarma ifadenizi girin"
+   },
+   "import_wallet_wrong_words_err": {
+      "message": "Gizli kurtarma ifadesi hatalı"
+   },
+   "in_app_purchase": {
+      "message": "Uygulama İçi Satın Alma"
+   },
+   "incorrect_wallet_type": {
+      "message": "Yanlış cüzdan tipi"
+   },
+   "info_about_inactive_back": {
+      "message": "Geri"
+   },
+   "interval": {
+      "message": "Aralık"
+   },
+   "intro_continue_btn": {
+      "message": "Başlayın"
+   },
+   "intro_item1_caption": {
+      "message": "The Open Network'ün benzersiz mimarisi sayesinde, TON'daki işlemler saniyeler içinde gerçekleştirilir."
+   },
+   "intro_item1_title": {
+      "message": "Birinci sınıf hız"
+   },
+   "intro_item2_caption": {
+      "message": "Tonkeeper, şifreleme anahtarlarınızı cihazınızda saklar. Tüm işlemler merkeziyetsiz protokoller aracılığıyla gerçekleştirildiğinden kripto paralarınız hiçbir zaman merkezi borsaların eline geçmez."
+   },
+   "intro_item2_title": {
+      "message": "Uçtan uca güvenlik"
+   },
+   "intro_title": {
+      "message": "XXXX'e hoş geldiniz"
+   },
+   "jetton_id": {
+      "message": "Token kimliği: %{jettonAddress}"
+   },
+   "jettons_list_title": {
+      "message": "Token'lar"
+   },
+   "keychain_read_error": {
+      "message": "Keychain'den veri alınamadı"
+   },
+   "keystone_pair_subtitle": {
+      "message": "AIR-GAP donanım cüzdanı ile daha yüksek seviyede güvenlik"
+   },
+   "keystone_pair_title": {
+      "message": "Keystone ile eşleştir"
+   },
+   "keystone_sign_subtitle": {
+      "message": "Lütfen Keystone'u açın ve işlemin QR kodunu tarayın"
+   },
+   "keystone_sign_title": {
+      "message": "Keystone'u bağla"
+   },
+   "later": {
+      "message": "Daha sonra"
+   },
+   "learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "ledger_blind_sign_error": {
+      "message": "Blind signing, Ledger cihazı ayarlarında etkinleştirilmelidir"
+   },
+   "ledger_choose_wallets": {
+      "message": "Cüzdanları Seç"
+   },
+   "ledger_connect_header": {
+      "message": "Ledger'ı Bağla"
+   },
+   "ledger_continue_with_ledger": {
+      "message": "Ledger ile devam et"
+   },
+   "ledger_operation_not_supported": {
+      "message": "Bu işlem Ledger cüzdanları için geçerli değildir. Başka bir cüzdan seçin ve tekrar deneyin."
+   },
+   "ledger_pair_subtitle": {
+      "message": "Donanım modülü, Bluetooth veya USB-C, sınırlı TON özellikleri"
+   },
+   "ledger_pair_title": {
+      "message": "Ledger ile eşleştir"
+   },
+   "ledger_steps_confirm_num_tx": {
+      "message": "Ledger'da #%{number} numaralı işlemi onaylayın"
+   },
+   "ledger_steps_confirm_proof": {
+      "message": "Ledger'da işlemi onaylayın"
+   },
+   "ledger_steps_confirm_tx": {
+      "message": "İşleminizi Ledger üzerinden onaylayın"
+   },
+   "ledger_steps_connect": {
+      "message": "Ledger'ı cihazınıza bağlayın"
+   },
+   "ledger_steps_connect_tab_back": {
+      "message": "Bağlandıktan sonra devam etmek için bu pencereye geri dönün"
+   },
+   "ledger_steps_connect_tab_switch": {
+      "message": "Ledger'ı bağlamak için yeni açılan sekmeye geçin"
+   },
+   "ledger_steps_install_ton": {
+      "message": "TON Uygulamasını Yükle"
+   },
+   "ledger_steps_open_ton": {
+      "message": "Kilidini açın ve TON uygulamasını açın"
+   },
+   "legal_font_license": {
+      "message": "Montserrat yazı tipi"
+   },
+   "legal_header_title": {
+      "message": "Hukuki açıklama"
+   },
+   "legal_licenses_title": {
+      "message": "Lisanslar"
+   },
+   "legal_powered_by": {
+      "message": "Tarafından desteklenmektedir"
+   },
+   "legal_privacy": {
+      "message": "Gizlilik politikası"
+   },
+   "legal_terms": {
+      "message": "Kullanım şartları"
+   },
+   "links_interceptor_modal_browser_button": {
+      "message": "Tarayıcıda aç"
+   },
+   "links_interceptor_modal_checkbox_label": {
+      "message": "Seçimimi hatırla"
+   },
+   "links_interceptor_modal_continue_button": {
+      "message": "Uzantıda Devam Et"
+   },
+   "links_interceptor_modal_description": {
+      "message": "Bağlantıyı burada, uzantıda veya tarayıcınızda açarak masaüstünde devam edebilirsiniz."
+   },
+   "links_interceptor_modal_title": {
+      "message": "Bu bağlantı nerede açılmalı?"
+   },
+   "loading": {
+      "message": "Yükleniyor"
+   },
+   "lockscreen_subtitle": {
+      "message": "Cüzdanınızın kilidini açmak için şifre girin"
+   },
+   "logout_failed": {
+      "message": "Çıkış yapılamadı"
+   },
+   "logout_on_unlock_many": {
+      "message": "Bu işlem, tüm cüzdan anahtarlarını siler. Gizli kurtarma ifadelerinizi yedeklediğinizden emin olun."
+   },
+   "logout_on_unlock_one": {
+      "message": "Bu işlem, cüzdan anahtarlarını siler. Gizli kurtarma ifadesini yedeklediğinizden emin olun."
+   },
+   "mam_account_explanation": {
+      "message": "Hesap kurtarma ifadesi, onunla oluşturulan tüm cüzdanlara erişim sağlar ve yalnızca Tonkeeper Pro'da desteklenir. Belirli bir cüzdanı dışa aktarmak istiyorsanız, bunun yerine cüzdan kurtarma ifadesi yedeğini kullanın."
+   },
+   "manage_unavailable": {
+      "message": "Abonelik yönetimi geçici olarak kullanılamıyor"
+   },
+   "manifest_mismatch_error": {
+      "message": "Kimlik avına karşı sizi korumak için bağlantı engellendi. Gerçek alan adı %{actual} olan dApp, %{declared} olarak yetkilendirmeye çalışıyor. dApp URL’sini tekrar kontrol edin."
+   },
+   "meta_encrypt_key_creation_failed": {
+      "message": "Şifreleme anahtarı oluşturulamadı!"
+   },
+   "migration_with_passcode": {
+      "message": "Şifreyi girin"
+   },
+   "month": {
+      "message": "ay"
+   },
+   "multi_send_about_w5": {
+      "message": "W5 Hakkında"
+   },
+   "multi_send_add_more": {
+      "message": "Daha fazla ekle"
+   },
+   "multi_send_continue_with_pro": {
+      "message": "Pro ile devam et"
+   },
+   "multi_send_delete_description": {
+      "message": "Bu işlem geri alınamaz ve tüm veriler kaybolacaktır."
+   },
+   "multi_send_delete_list": {
+      "message": "Listeyi Sil"
+   },
+   "multi_send_discard_and_close": {
+      "message": "Vazgeç ve Kapat"
+   },
+   "multi_send_edit": {
+      "message": "Düzenle"
+   },
+   "multi_send_edit_list_name": {
+      "message": "Liste Adını Düzenle"
+   },
+   "multi_send_enter_a_name": {
+      "message": "Listeniz için yeni bir ad girin:"
+   },
+   "multi_send_header": {
+      "message": "Yeni Çoklu Gönderim"
+   },
+   "multi_send_insufficient_balance": {
+      "message": "Yetersiz bakiye"
+   },
+   "multi_send_list": {
+      "message": "Liste"
+   },
+   "multi_send_maximum_255_reached": {
+      "message": "En fazla 255 alan dolduruldu"
+   },
+   "multi_send_maximum_2fa_reached": {
+      "message": "Mevcut cüzdan, aktif iki faktörlü kimlik doğrulama nedeniyle %{number} adetten fazla mesaj göndermeyi desteklemiyor."
+   },
+   "multi_send_maximum_for_2fa_reached": {
+      "message": "2FA'lı cüzdan için maksimuma ulaşıldı"
+   },
+   "multi_send_maximum_reached": {
+      "message": "Maksimuma ulaşıldı. W5 cüzdan sürümüyle en fazla 255 alan"
+   },
+   "multi_send_new_list": {
+      "message": "Yeni liste"
+   },
+   "multi_send_remaining": {
+      "message": "Kalan"
+   },
+   "multi_send_save_as_new": {
+      "message": "Yeni olarak kaydet"
+   },
+   "multi_send_save_description": {
+      "message": "Listenizi adresler, tutarlar ve yorumlarla birlikte ileride kullanmak üzere kaydedin."
+   },
+   "multi_send_save_list": {
+      "message": "Listeyi kaydet"
+   },
+   "multi_send_save_title": {
+      "message": "Bu liste kaydedilsin mi?"
+   },
+   "multi_send_show_all": {
+      "message": "Tümünü göster"
+   },
+   "multi_send_switch_to_w5": {
+      "message": "W5'e geç"
+   },
+   "multi_send_update_description": {
+      "message": "Mevcut listedeki bilgileri güncelleyin."
+   },
+   "multi_send_wallets": {
+      "message": "cüzdanlar"
+   },
+   "multi_send_will_be_sent": {
+      "message": "Gönderilecek"
+   },
+   "multichain": {
+      "message": "Çoklu zincir"
+   },
+   "multisend_confirm_error_insufficient_ton_for_fee": {
+      "message": "Cüzdan bakiyesi %balance%, blokzincir ücretlerini karşılamak için yeterli değil. Gerekli minimum bakiye: %required%. Kullanılmayan TON, işlemden sonra cüzdanınıza iade edilecektir."
+   },
+   "multisig_add_description": {
+      "message": "Bu cüzdanı yönetebilecek katılımcıları belirtin."
+   },
+   "multisig_add_title": {
+      "message": "Cüzdanınızı kurun"
+   },
+   "multisig_config_diff_add_participant": {
+      "message": "Katılımcı Ekle"
+   },
+   "multisig_config_diff_quorum_updates": {
+      "message": "Nisap Güncellemesi"
+   },
+   "multisig_config_diff_remove_participant": {
+      "message": "Katılımcıyı Kaldır"
+   },
+   "multisig_create_order_title": {
+      "message": "Yeni Çoklu İmza Talebi"
+   },
+   "multisig_deploy": {
+      "message": "Multisig cüzdanı dağıt"
+   },
+   "multisig_lifetime_1440_minutes": {
+      "message": "24 saat"
+   },
+   "multisig_lifetime_30_minutes": {
+      "message": "30 dakika"
+   },
+   "multisig_lifetime_360_minutes": {
+      "message": "6 saat"
+   },
+   "multisig_lifetime_60_minutes": {
+      "message": "1 saat"
+   },
+   "multisig_lifetime_720_minutes": {
+      "message": "12 saat"
+   },
+   "multisig_order_details_explore": {
+      "message": "Talep detayları"
+   },
+   "multisig_order_details_pending_signatures": {
+      "message": "Bekleyen İmzalar"
+   },
+   "multisig_order_details_signed_wallets": {
+      "message": "İmzalı Cüzdanlar"
+   },
+   "multisig_order_notification_title": {
+      "message": "Çoklu İmza Talebi"
+   },
+   "multisig_order_select_time_description": {
+      "message": "İşleminizin imzalanması için kvorum zamanını seçin."
+   },
+   "multisig_order_view": {
+      "message": "Görüntüle"
+   },
+   "multisig_orders_th_created": {
+      "message": "Oluşturuldu"
+   },
+   "multisig_orders_th_send": {
+      "message": "Gönder"
+   },
+   "multisig_orders_th_signatures": {
+      "message": "İmzalar"
+   },
+   "multisig_orders_th_status": {
+      "message": "Durum"
+   },
+   "multisig_participant_you": {
+      "message": "Sen:"
+   },
+   "multisig_signed_label": {
+      "message": "İmzalayanlar"
+   },
+   "multisig_signed_value": {
+      "message": "%{total} imzacıdan %{signed} kişi"
+   },
+   "multisig_signed_value_short": {
+      "message": "%{total} üzerinden %{signed}"
+   },
+   "multisig_status_completed": {
+      "message": "Tamamlandı"
+   },
+   "multisig_status_expired": {
+      "message": "Süresi doldu"
+   },
+   "multisig_status_label": {
+      "message": "Durum"
+   },
+   "multisig_status_progress": {
+      "message": "Devam ediyor"
+   },
+   "multisig_time_left": {
+      "message": "Kalan Süre"
+   },
+   "multisig_time_to_sign_transaction": {
+      "message": "Bir işlemi imzalama zamanı"
+   },
+   "multisig_you_have_signed_the_request": {
+      "message": "Bu isteği imzaladınız"
+   },
+   "new_transfer_order_button": {
+      "message": "Yeni Transfer Talebi"
+   },
+   "nft_about_collection": {
+      "message": "Koleksiyon hakkında"
+   },
+   "nft_actions_hide_and_report": {
+      "message": "Gizle ve Şikayet Et"
+   },
+   "nft_actions_hide_nft": {
+      "message": "NFT'yi gizle"
+   },
+   "nft_actions_view_on_explorer": {
+      "message": "Tonviewer'da görüntüle"
+   },
+   "nft_collection": {
+      "message": "Koleksiyon"
+   },
+   "nft_contract_address": {
+      "message": "Sözleşme adresi"
+   },
+   "nft_deploy_collection_title": {
+      "message": "NFT Koleksiyonu Oluşturun"
+   },
+   "nft_details": {
+      "message": "Detaylar"
+   },
+   "nft_empty_description": {
+      "message": "Satın alın, satın, takas edin ve koleksiyon yapın."
+   },
+   "nft_empty_go_discover_button": {
+      "message": "Discover'da uygulama ve hizmetleri keşfedin"
+   },
+   "nft_link_domain_button": {
+      "message": "Alan adını bağlayın"
+   },
+   "nft_link_username_button": {
+      "message": "İsmi bağlayın"
+   },
+   "nft_more": {
+      "message": "Genişlet"
+   },
+   "nft_on_sale": {
+      "message": "Satışta"
+   },
+   "nft_on_sale_text": {
+      "message": "NFT şu anda pazar yerinde satışta. Transfer için önce satıştan kaldırmalısınız."
+   },
+   "nft_open_in_marketplace": {
+      "message": "NFT Marketi'nde görüntüleyin"
+   },
+   "nft_owner_address": {
+      "message": "Sahibi"
+   },
+   "nft_single_nft": {
+      "message": "Tek NFT"
+   },
+   "nft_transfer_nft": {
+      "message": "Transfer edin"
+   },
+   "nft_transfer_title": {
+      "message": "NFT'i transfer edin"
+   },
+   "nft_unlink_domain_button": {
+      "message": "{{address}} ile bağlantılı"
+   },
+   "nft_view_in_explorer": {
+      "message": "Explorer'da görüntüleyin"
+   },
+   "no_active_pro_on_wallet": {
+      "message": "Bu cüzdanda etkin bir abonelik yok"
+   },
+   "no_connected_apps": {
+      "message": "Bağlı uygulama yok"
+   },
+   "no_multisig_description": {
+      "message": "Yalnızca mevcut Ton cüzdanına bağlı multisig’ler görüntülenir"
+   },
+   "no_multisig_heading": {
+      "message": "Çok imzalı cüzdanlarınız burada gösterilecektir"
+   },
+   "no_multisig_learn_more": {
+      "message": "Multisig hakkında daha fazla bilgi edinin"
+   },
+   "no_multisig_orders_description": {
+      "message": "Çoklu imzalı cüzdanın tüm katılımcılarından gelen tüm istekler görüntülenir."
+   },
+   "no_multisig_orders_heading": {
+      "message": "Çok imzalı cüzdanınızın talepleri burada gösterilecektir"
+   },
+   "not_enough_balance_reminder": {
+      "message": "Hatırlatma: %{date} tarihinde aboneliğinizin otomatik olarak başarıyla yenilenebilmesi için, Tonkeeper Pro satın alımında kullandığınız cüzdanınızda yeterli miktarda TON bulunmalıdır."
+   },
+   "not_enough_funds": {
+      "message": "Yeterli bakiye yok"
+   },
+   "notifications_alert_cancel": {
+      "message": "İptal"
+   },
+   "ok": {
+      "message": "Tamam"
+   },
+   "on": {
+      "message": "Açık"
+   },
+   "open": {
+      "message": "Aç"
+   },
+   "operation_not_supported": {
+      "message": "Bu cüzdanlar için işlem mevcut değil. Başka bir cüzdan seçin ve tekrar deneyin."
+   },
+   "page_header_history": {
+      "message": "Geçmiş"
+   },
+   "pairSigner_open_signer": {
+      "message": "Bu cihazda imzacı aç"
+   },
+   "paste": {
+      "message": "Yapıştır"
+   },
+   "paste_failed": {
+      "message": "Panodan yapıştırılamadı!"
+   },
+   "payment_method": {
+      "message": "Ödeme Yöntemi"
+   },
+   "per_month": {
+      "message": "aylık"
+   },
+   "pinned_jettons": {
+      "message": "Sabitlendi"
+   },
+   "please_try_again_later": {
+      "message": "Lütfen daha sonra tekrar deneyin"
+   },
+   "preferences_aside_dev_menu": {
+      "message": "Geliştirici Menüsü"
+   },
+   "preferences_aside_faq": {
+      "message": "SSS"
+   },
+   "preferences_aside_sign_out": {
+      "message": "Oturumu Kapat"
+   },
+   "preferences_aside_sign_out_all": {
+      "message": "Tüm hesaplardan çıkış yap"
+   },
+   "preferences_aside_theme": {
+      "message": "Tema"
+   },
+   "price": {
+      "message": "Fiyat"
+   },
+   "prices": {
+      "message": "Fiyatlar"
+   },
+   "priority": {
+      "message": "öncelik"
+   },
+   "priority_support": {
+      "message": "Öncelikli Destek"
+   },
+   "priority_support_description": {
+      "message": "Yardıma ihtiyacınız olduğunda hızlı cevaplar"
+   },
+   "pro_banner_buy": {
+      "message": "Pro Satın Al"
+   },
+   "pro_banner_days_left": {
+      "message": "Deneme %days% gün içinde sona eriyor"
+   },
+   "pro_banner_start_trial": {
+      "message": "Pro'yu ücretsiz deneyin"
+   },
+   "pro_banner_subtitle": {
+      "message": "Çalışmanızı geliştirmek için gelişmiş özelliklere ve araçlara erişin"
+   },
+   "pro_banner_title": {
+      "message": "Tonkeeper Pro ile daha fazlasını edinin"
+   },
+   "pro_continue_in_tonkeeper_mobile": {
+      "message": "Tonkeeper Mobil'de Devam Et"
+   },
+   "pro_feature_free_trc20_transfer_subtitle": {
+      "message": "Ücretsiz bir USD₮ TRC20 transferi her ay mevcuttur."
+   },
+   "pro_feature_free_trc20_transfer_title": {
+      "message": "Ücretsiz transfer yap"
+   },
+   "pro_feature_multi_accounts_description": {
+      "message": "Aynı anımsatıcı ile desteklenen üçten fazla farklı cüzdan."
+   },
+   "pro_feature_multi_accounts_title": {
+      "message": "Çoklu Cüzdan Hesapları"
+   },
+   "pro_feature_multi_send_description": {
+      "message": "Tek bir işlemde birden fazla adrese token gönderin."
+   },
+   "pro_feature_multi_send_title": {
+      "message": "Çoklu gönderim"
+   },
+   "pro_feature_multisend": {
+      "message": "Çoklu Gönderim"
+   },
+   "pro_feature_multisend_description": {
+      "message": "Çoklu gönderim özelliği ile aynı anda 255 adrese kadar para gönderebilirsiniz. Tonkeeper Pro zamandan tasarruf sağlar ve toplu işlemleri kolaylaştırır."
+   },
+   "pro_feature_multisig_description": {
+      "message": "Çoklu imza kontrolüyle paylaşılan cüzdanlar oluşturun."
+   },
+   "pro_feature_multisig_title": {
+      "message": "Çoklu imza cüzdanları"
+   },
+   "pro_feature_priority_support_description": {
+      "message": "Yardıma ihtiyacınız olduğunda öncelikli ve hızlı yanıtlar."
+   },
+   "pro_feature_priority_support_title": {
+      "message": "Öncelikli Destek"
+   },
+   "pro_features_dashboard": {
+      "message": "Tonkeeper Pro İçinde – Kontrol Paneli"
+   },
+   "pro_features_dashboard_description": {
+      "message": "Kontrol Panelinde cüzdan analizine erişiminiz olacak. Bu özellik, Tonkeeper’ı günlük işlerinde kullanan profesyonel kullanıcıların faydasına olacaktır."
+   },
+   "pro_features_description": {
+      "message": "Tonkeeper Pro aboneliği, kripto paranızı yönetmek için bir dizi araç sunan gelişmiş cüzdan işlevselliği içerir."
+   },
+   "pro_is_ending": {
+      "message": "Pro erişiminiz sona eriyor"
+   },
+   "pro_mobile_welcome_screen_title": {
+      "message": "Kişisel cüzdanınız. Kriptoyu kolayca alın, satın ve harcayın."
+   },
+   "pro_other_features": {
+      "message": "Ve başka harika özellikler de yolda."
+   },
+   "pro_privacy": {
+      "message": "Gizlilik"
+   },
+   "pro_set_up_boimetry_subtitle": {
+      "message": "Cüzdanınızı daha hızlı açmak için parmak izinizi veya yüz tanımayı kullanın; şifre girmenize gerek yok."
+   },
+   "pro_set_up_boimetry_title": {
+      "message": "Parmak izi veya yüz ile hızlı giriş"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_subtitle": {
+      "message": "Her ay kullanılabilir"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_title": {
+      "message": "Ücretsiz USD₮ TRC20 transferi"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_available": {
+      "message": "%{number} transfer mevcut"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_used": {
+      "message": "Kullanıldı"
+   },
+   "pro_settings_partners_section_partner_pro_free_trc20_transfers_used_next_on": {
+      "message": "Sonraki %{date}"
+   },
+   "pro_settings_partners_section_title": {
+      "message": "Faydalarınız"
+   },
+   "pro_subscription_get_pro": {
+      "message": "Pro'yu Al"
+   },
+   "pro_subscription_load_failed": {
+      "message": "Abonelik ürünleri yüklenemedi"
+   },
+   "pro_terms": {
+      "message": "Şartlar"
+   },
+   "pro_terms_privacy_crypto_note": {
+      "message": "Abonelik, dönem sona ermeden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. Uygulamada yönetin. Abone olarak, şunları kabul etmiş oluyorsunuz:"
+   },
+   "pro_terms_privacy_restore_note": {
+      "message": "Abonelik, dönem bitiminden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. Uygulamada veya Apple Kimliği ayarlarında yönetin. Abone olarak, şu koşulları kabul etmiş oluyorsunuz:"
+   },
+   "pro_terms_privacy_restore_note_crypto": {
+      "message": "Abone olarak, bizim koşullarımızı kabul etmiş olursunuz"
+   },
+   "pro_tutorial_screen_title": {
+      "message": "Cebinizde geniş ekran bir cüzdan"
+   },
+   "pro_unlocks_premium_tools": {
+      "message": "Tonkeeper Pro, güç kullanıcıları için premium araçların kilidini açar. Kriptonuzu daha akıllı ve hızlı yönetin."
+   },
+   "pro_unsupported_continue_in_tonkeeper_mobile": {
+      "message": "Desteklenmeyen bağlantı. Tonkeeper Mobile'da deneyin"
+   },
+   "processing": {
+      "message": "İşleniyor"
+   },
+   "promo_code": {
+      "message": "Promosyon Kodu"
+   },
+   "promo_subtitle_multi_wallet_accounts": {
+      "message": "Birden fazla cüzdanı tek bir anımsatıcı ifadeyle yönetin."
+   },
+   "promo_subtitle_multisend": {
+      "message": "Tek bir işlemde en fazla 255 alıcıya para gönderin."
+   },
+   "promo_subtitle_multisig_wallets": {
+      "message": "Güvenli ortak kontrol için çoklu imza cüzdanları."
+   },
+   "promo_subtitle_subscription": {
+      "message": "Paylaşımlı cüzdanlar, çoklu hesaplar ve toplu ödemeler tek bir planda."
+   },
+   "promo_subtitle_support": {
+      "message": "Gerçek insan uzmanlar, görevinizde öncelikli olarak size rehberlik eder."
+   },
+   "promo_title_multi_wallet_accounts": {
+      "message": "Çoklu Cüzdan Hesapları"
+   },
+   "promo_title_multisend": {
+      "message": "Çoklu Gönderim"
+   },
+   "promo_title_multisig_wallets": {
+      "message": "Çoklu İmzalı Cüzdanlar"
+   },
+   "promocode_already_used": {
+      "message": "Promosyon kodu zaten kullanılmış"
+   },
+   "publish_message": {
+      "message": "Mesajı internete yayınlama"
+   },
+   "purchase_canceled": {
+      "message": "Satın alma iptal edildi"
+   },
+   "purchase_failed": {
+      "message": "Satın alma başarısız"
+   },
+   "purchase_processing": {
+      "message": "Tonkeeper Pro İşleniyor"
+   },
+   "purchase_success": {
+      "message": "Tonkeeper Pro etkinleştirildi"
+   },
+   "purchases_screen_title": {
+      "message": "Satın alma işlemleri"
+   },
+   "purchasing_is_unavailable_on_desktop": {
+      "message": "Pro abonelik satın alma şu anda masaüstünde mevcut değildir.\nMobil uygulamayı yüklemek ve Apple Pay ile abone olmak için QR kodu tarayın. Planınız, bu cihaz dahil tüm cihazlarınızda çalışacaktır."
+   },
+   "quit_tonkeeper_pro": {
+      "message": "Tonkeeper Pro'dan çık"
+   },
+   "receiveModal_copy": {
+      "message": "Kopyala"
+   },
+   "receive_ton": {
+      "message": "Toncoin alın"
+   },
+   "receive_ton_description": {
+      "message": "Bu adrese yalnızca TON ağındaki TON ve token'ları gönderin, öteki türlü kripto varlıklarınızı kaybedebilirsiniz."
+   },
+   "receive_trc20": {
+      "message": "USDT TRC20 alın"
+   },
+   "receive_trc20_description": {
+      "message": "Bu adrese yalnızca USDT TRC20 gönderin, öteki türlü kripto varlıklarınızı kaybedebilirsiniz."
+   },
+   "receive_trx": {
+      "message": "Tron TRX Al"
+   },
+   "receive_trx_description": {
+      "message": "Yalnızca Tron TRX’i bu adrese gönderin, aksi takdirde fonlarınızı kaybedebilirsiniz."
+   },
+   "recipients": {
+      "message": "Alıcılar"
+   },
+   "recovery_phrase_copy_button": {
+      "message": "Kopyala"
+   },
+   "recovery_wallet_secret_key": {
+      "message": "Cüzdanın özel anahtarı"
+   },
+   "recurring_payment": {
+      "message": "Yinelenen ödeme"
+   },
+   "reminder_notifications_caption": {
+      "message": "Cüzdanınıza TON, token ve NFT geldiğinde bildirimler alın."
+   },
+   "reminder_notifications_enable_button": {
+      "message": "Bildirimleri etkinleştirin"
+   },
+   "reminder_notifications_later_button": {
+      "message": "Daha sonra"
+   },
+   "reminder_notifications_title": {
+      "message": "Anlık bildirimler alın"
+   },
+   "remove_extension_subtitle": {
+      "message": "İptalden sonra ek bir ücret alınmaz."
+   },
+   "remove_extension_title": {
+      "message": "Tonkeeper Pro Aboneliğini İptal Etmek İster misiniz?"
+   },
+   "renew": {
+      "message": "Yenile"
+   },
+   "renew_nft_expiration_date": {
+      "message": "%1% tarihine kadar geçerli"
+   },
+   "renew_nft_in_progress": {
+      "message": "Alan adı yenileme işlemi devam ediyor... "
+   },
+   "renew_nft_renewed": {
+      "message": "Alan adı 1 yıllığına yenilendi"
+   },
+   "renews": {
+      "message": "Yenilenir"
+   },
+   "replace": {
+      "message": "Değiştirin"
+   },
+   "reset_secutiry_settings": {
+      "message": "Güvenlik Ayarlarını Sıfırla"
+   },
+   "restore_mam_tron_wallet_button": {
+      "message": "Destek ile iletişime geçin"
+   },
+   "restore_mam_tron_wallet_description": {
+      "message": "%{address} adresinde %{amount} USD₮ TRC20 mevcut. Fonları çekmek için lütfen destek ile iletişime geçin."
+   },
+   "restore_mam_tron_wallet_title": {
+      "message": "Daha önce kullanılmış cüzdan bulundu"
+   },
+   "restore_purchases": {
+      "message": "Satın Alımları Geri Yükle"
+   },
+   "restore_subscription": {
+      "message": "Zaten abone misiniz? Geri yükle"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "scan_qr_title": {
+      "message": "QR kodunu tarayın"
+   },
+   "secret_words_account_title": {
+      "message": "Hesap Kurtarma İfadeniz"
+   },
+   "secret_words_caption": {
+      "message": "Bu 24 kelimeyi aşağıda verilen sırayla not edin ve gizli, güvenli bir yerde saklayın."
+   },
+   "secret_words_caption_12": {
+      "message": "Bu 12 kelimeyi aşağıda verilen sırayla yazın ve gizli, güvenli bir yerde saklayın."
+   },
+   "secret_words_title": {
+      "message": "Gizli kurtarma ifadeniz"
+   },
+   "secure_wallet_reminder_btn_set": {
+      "message": "Parola Belirle"
+   },
+   "secure_wallet_reminder_btn_skip": {
+      "message": "Daha sonra hatırlat"
+   },
+   "secure_wallet_reminder_description": {
+      "message": "Cüzdan ayarlarında bir parola belirleyip biyometrik doğrulamayı etkinleştirerek cüzdanınızı koruyun."
+   },
+   "secure_wallet_reminder_title": {
+      "message": "Cüzdanınızı güvenceye alın"
+   },
+   "security_change_passcode": {
+      "message": "Şifreyi değiştirin"
+   },
+   "select_all": {
+      "message": "Tümünü seç"
+   },
+   "select_fee_payment_method_not_enough_funds": {
+      "message": "Yeterli bakiye yok"
+   },
+   "select_fee_payment_method_option_free_pro_subtitle_available": {
+      "message": "Pro'ya Dahil"
+   },
+   "select_fee_payment_method_option_free_pro_subtitle_used": {
+      "message": "Kullanıldı · Sonraki %{date}."
+   },
+   "select_fee_payment_method_option_free_pro_title": {
+      "message": "Ücretsiz Transfer"
+   },
+   "select_fee_payment_method_refill": {
+      "message": "Yeniden Doldur"
+   },
+   "select_networks_modal_subtitle": {
+      "message": "Cüzdan yönetimini kolaylaştırmak için token desteğini yapılandırın."
+   },
+   "select_networks_modal_title": {
+      "message": "Cüzdan Tokenları Kurulumu"
+   },
+   "select_networks_modal_ton_description": {
+      "message": "TON, NOT, DOGS, PX, PUNK ve diğerleri "
+   },
+   "select_networks_modal_ton_title": {
+      "message": "TON varlıkları"
+   },
+   "select_networks_modal_tron_description": {
+      "message": "TRX olmadan USD₮ TRC20 kullanın. Ücretler Tonkeeper Battery tarafından karşılanır."
+   },
+   "select_wallet_for_authorization": {
+      "message": "Onay için Cüzdan seçin"
+   },
+   "selected_wallet": {
+      "message": "Seçilen Cüzdan"
+   },
+   "send_change_fee_payment_method": {
+      "message": "Ödeme Yöntemini Değiştir"
+   },
+   "send_confirm_tron_no_enough_balance_for_fee_error": {
+      "message": "Blokzincir ücretini karşılamak için yeterli bakiye yok"
+   },
+   "send_fee_estimation_error": {
+      "message": "Ücret hesaplanamadı"
+   },
+   "send_publish_tx_error": {
+      "message": "İşlem gönderimi başarısız oldu"
+   },
+   "send_screen_steps_address_delete_alert_text": {
+      "message": "Favorilerinizden «%{name}» kullanıcısını kaldırmak istediğinize emin misiniz?"
+   },
+   "send_screen_steps_address_suggest_actions_add": {
+      "message": "Favorilere ekleyin"
+   },
+   "send_screen_steps_address_suggest_actions_delete": {
+      "message": "Sil"
+   },
+   "send_screen_steps_address_suggest_actions_hide": {
+      "message": "Gizle"
+   },
+   "send_screen_steps_address_suggests_label": {
+      "message": "Favoriler ve en son erişilenler"
+   },
+   "send_screen_steps_amount_insufficient_balance": {
+      "message": "Yetersiz bakiye"
+   },
+   "send_screen_steps_amount_max": {
+      "message": "MAX"
+   },
+   "send_screen_steps_amount_remaining": {
+      "message": "Mevcut: %{amount}"
+   },
+   "send_screen_steps_comfirm_comment_required_text": {
+      "message": "Transfer için borsanın notunu eklemelisiniz. Aksi takdirde gönderdiğiniz tutarlar kaybolacaktır."
+   },
+   "send_screen_steps_comfirm_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "send_screen_steps_comfirm_wallet": {
+      "message": "Cüzdan"
+   },
+   "send_screen_steps_done_done_label": {
+      "message": "Tamamlandı"
+   },
+   "send_screen_steps_done_to": {
+      "message": "Alıcı: %{name}"
+   },
+   "send_sending_wrong_time_description": {
+      "message": "Cihaz ayarlarında otomatik saat ve tarih ayarını açın. Ardından transfer işleminizi yeniden deneyin."
+   },
+   "set_up_password": {
+      "message": "Şifre Oluştur"
+   },
+   "settings_account_enable_tron_description": {
+      "message": "USD₮ TRC20'yi TRX olmadan kullanın. Ücretler Tonkeeper Battery tarafından karşılanır."
+   },
+   "settings_account_enable_tron_title": {
+      "message": "Bu hesaptaki yeni cüzdanlara varsayılan olarak USD₮ TRC20 ekle"
+   },
+   "settings_backup_account": {
+      "message": "Hesap Yedekle"
+   },
+   "settings_backup_account_mam_description": {
+      "message": "Çoklu cüzdan hesabınıza ve tüm bağlantılı cüzdanlara erişimi geri yüklemek için kullanılır"
+   },
+   "settings_backup_seed": {
+      "message": "Gizli kurtarma ifadesini göster"
+   },
+   "settings_backup_wallet": {
+      "message": "Cüzdanı yedekle"
+   },
+   "settings_collectibles_list": {
+      "message": "Koleksiyon Ürünleri"
+   },
+   "settings_connected_apps": {
+      "message": "Bağlı Uygulamalar"
+   },
+   "settings_contact_support": {
+      "message": "Bize Ulaşın"
+   },
+   "settings_delete_account": {
+      "message": "Hesabı sil"
+   },
+   "settings_enable_tron_description": {
+      "message": "TRX olmadan USDT TRC20 kullanın. Ücretler Tonkeeper Battery tarafından karşılanır."
+   },
+   "settings_hide_current_wallet": {
+      "message": "Mevcut cüzdanı gizle"
+   },
+   "settings_hide_multisig": {
+      "message": "Multisig cüzdanı gizle"
+   },
+   "settings_intercept_links": {
+      "message": "Bağlantı Tercihleri"
+   },
+   "settings_intercept_links_help_text": {
+      "message": "Transfer bağlantılarının tercih ettiğiniz iş akışına uygun olarak nasıl açılacağını kontrol edin."
+   },
+   "settings_intercept_links_option_ask": {
+      "message": "Her zaman sor"
+   },
+   "settings_intercept_links_option_open_browser": {
+      "message": "Tarayıcıda aç"
+   },
+   "settings_intercept_links_option_open_extension": {
+      "message": "Uzantıda Aç"
+   },
+   "settings_jettons_list": {
+      "message": "Token'lar"
+   },
+   "settings_ledger_indexes": {
+      "message": "Ledger alt cüzdanlar"
+   },
+   "settings_legal_documents": {
+      "message": "Hukuki açıklama"
+   },
+   "settings_mam_add_wallet": {
+      "message": "Yeni Cüzdan Ekle"
+   },
+   "settings_mam_add_wallet_with_pro": {
+      "message": "Pro aboneliğiyle daha fazlasını ekleyin"
+   },
+   "settings_mam_indexes": {
+      "message": "Eklenen Cüzdanlar"
+   },
+   "settings_mam_number_wallets": {
+      "message": "%{number} cüzdan"
+   },
+   "settings_network_alert_title": {
+      "message": "Ağ seçin"
+   },
+   "settings_news": {
+      "message": "Tonkeeper Haberleri"
+   },
+   "settings_notifications": {
+      "message": "Bildirimler"
+   },
+   "settings_pin_multisig": {
+      "message": "Multisig Cüzdanı Sabitle"
+   },
+   "settings_primary_currency": {
+      "message": "Para birimi"
+   },
+   "settings_pro_ios": {
+      "message": "iOS için Tonkeeper Pro"
+   },
+   "settings_rate": {
+      "message": "Tonkeeper'i değerlendirin"
+   },
+   "settings_recovery_phrase": {
+      "message": "Gizli kurtarma ifadesi"
+   },
+   "settings_reset": {
+      "message": "Oturumu kapat"
+   },
+   "settings_reset_alert_title": {
+      "message": "Oturum kapatılsın mı?"
+   },
+   "settings_reset_alert_title_all": {
+      "message": "Tüm Cüzdanlardan Çıkış Yapılsın mı?"
+   },
+   "settings_search_engine": {
+      "message": "Arama"
+   },
+   "settings_security": {
+      "message": "Güvenlik"
+   },
+   "settings_support": {
+      "message": "Destek"
+   },
+   "settings_title": {
+      "message": "Ayarlar"
+   },
+   "settings_version": {
+      "message": "Sürüm"
+   },
+   "settings_wallet_version": {
+      "message": "Aktif adres"
+   },
+   "show_all": {
+      "message": "Tümünü göster"
+   },
+   "signData": {
+      "message": "Veriyi İmzala"
+   },
+   "signDataBinaryContent": {
+      "message": "İkili içerik"
+   },
+   "signDataBinaryContentDisclaimer": {
+      "message": "Körlemesine imza atıyorsunuz. Yalnızca güvenilir kaynaklardan imza atın."
+   },
+   "signDataCellDisclaimer": {
+      "message": "Bu, kodu çözülmüş bir koddur. Gözden geçirin ve kabul ediyorsanız imzalayın."
+   },
+   "signDataError": {
+      "message": "Geçersiz imza veri parametreleri."
+   },
+   "signDataTextDisclaimer": {
+      "message": "Mesajı dikkatlice gözden geçirin ve kabul ediyorsanız verileri imzalayın."
+   },
+   "signer_scan_result": {
+      "message": "İmzalı işlemi tarayın"
+   },
+   "signer_scan_tx_description": {
+      "message": "Lütfen Signer'ı açın ve işlemi QR koduyla tarayın"
+   },
+   "simple_preview_account": {
+      "message": "Blokzincir Hesabı"
+   },
+   "sk_input_label": {
+      "message": "0x öneki olmadan hex formatında özel anahtar. Uzunluğu 64 veya 128 karakterdir."
+   },
+   "sk_input_label_fireblocks": {
+      "message": "0x başlangıcı olmadan hex biçiminde özel anahtar. Uzunluğu 64 karakterdir."
+   },
+   "spam_action": {
+      "message": "İstenmeyen mesaj"
+   },
+   "staking_deposit": {
+      "message": "Yatırma"
+   },
+   "staking_details_pool_address_label": {
+      "message": "Havuz adresi"
+   },
+   "staking_withdraw": {
+      "message": "Çekme"
+   },
+   "start": {
+      "message": "Başlat"
+   },
+   "start_free_trial": {
+      "message": "Ücretsiz Deneme Başlat"
+   },
+   "start_screen_create_wallet_button": {
+      "message": "Yeni cüzdan oluşturun"
+   },
+   "start_screen_import_wallet_button": {
+      "message": "Mevcut cüzdanı içe aktarın"
+   },
+   "start_trial_notification_description": {
+      "message": "Telegram bağlantısı yalnızca bot olmadığınızın doğrulanması amacıyla gereklidir."
+   },
+   "start_trial_notification_heading": {
+      "message": "Telegram'ı Pro'ya ücretsiz bağlayın"
+   },
+   "status": {
+      "message": "Durum"
+   },
+   "stay_with_tonkeeper_pro": {
+      "message": "Tonkeeper Pro ile kalın — tüm özellikleri kesinti olmadan kullanmaya devam edin."
+   },
+   "subscribe_on_ios": {
+      "message": "Tonkeeper Pro'yu almak için iOS'ta abone olun"
+   },
+   "subscription_activates_after_confirmation": {
+      "message": "Onaylandıktan sonra etkinleşir. Ödemeler otomatik olarak yenilenir."
+   },
+   "subscription_cancelled": {
+      "message": "Abonelik İptal Edildi"
+   },
+   "subscription_created": {
+      "message": "Üyelik Yaratıldı"
+   },
+   "subscription_is_linked": {
+      "message": "Aboneliğiniz bu cüzdana bağlıdır ve yetkilendirildiği tüm cihazlarda çalışır."
+   },
+   "subscription_paid": {
+      "message": "Üyelik Ödendi"
+   },
+   "subscription_renews_automatically": {
+      "message": "Abonelik, dönem bitiminden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. Aboneliği uygulamada veya Apple ID ayarlarında yönetin."
+   },
+   "subscription_renews_crypto": {
+      "message": "Abonelik, süre bitiminden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. Uygulamadan yönetebilirsiniz."
+   },
+   "subscription_start": {
+      "message": "Üyelik başlangıcı"
+   },
+   "subscription_will_be_linked_to_wallet": {
+      "message": "Aboneliğiniz bu cüzdana bağlanacak ve yetkilendirildiği herhangi bir cihazda kullanılabilir olacak."
+   },
+   "success": {
+      "message": "Başarılı!"
+   },
+   "suspiciousNFTDetails_buttons_not_spam": {
+      "message": "Spam Değil"
+   },
+   "suspiciousNFTDetails_buttons_report": {
+      "message": "Spam Bildir"
+   },
+   "suspiciousNFTDetails_paragraphs_p1": {
+      "message": "Spam için kullanılır. Büyük çapta istenmeyen ve genellikle ilgisiz mesajlar göndermek için kullanılır."
+   },
+   "suspiciousNFTDetails_paragraphs_p2": {
+      "message": "Dolandırıcılık için kullanılır. NFT'nin adı, açıklaması veya resmi kullanıcıları yanıltabilir."
+   },
+   "suspiciousNFTDetails_paragraphs_p3": {
+      "message": "Bu NFT'nin yazarı ve geçmişi hakkında çok az şey biliyoruz."
+   },
+   "suspiciousNFTDetails_subtitle": {
+      "message": "NFT aşağıdaki nedenlerden biri nedeniyle güvenli olmayabilir."
+   },
+   "suspiciousNFTDetails_title": {
+      "message": "Doğrulanmamış NFT"
+   },
+   "suspicious_buttons_not_spam": {
+      "message": "Bu Spam Değil"
+   },
+   "suspicious_buttons_report": {
+      "message": "Şikayet Et"
+   },
+   "suspicious_label_full": {
+      "message": "Doğrulanmamış NFT"
+   },
+   "suspicious_label_short": {
+      "message": "Doğrulanmamış"
+   },
+   "suspicious_status_update_hidden_collection": {
+      "message": "Koleksiyon gizlendi"
+   },
+   "suspicious_status_update_hidden_nft": {
+      "message": "NFT gizli"
+   },
+   "suspicious_status_update_spam_collection": {
+      "message": "Koleksiyon spam olarak işaretlendi"
+   },
+   "suspicious_status_update_spam_nft": {
+      "message": "NFT spam olarak işaretlendi"
+   },
+   "swap_balance": {
+      "message": "Bakiye"
+   },
+   "swap_best_price": {
+      "message": "En iyi fiyat"
+   },
+   "swap_blockchain_fee": {
+      "message": "Blokzincir ücreti"
+   },
+   "swap_blockchain_fee_tooltip": {
+      "message": "İşlemin işlenmesi için blokzincir tarafından tahsil edilen tahmini ücret."
+   },
+   "swap_enter_amount": {
+      "message": "Bir tutar girin"
+   },
+   "swap_import": {
+      "message": "İçe Aktar"
+   },
+   "swap_import_token_title": {
+      "message": "%token% tokeni içe aktarılacak mı?"
+   },
+   "swap_ledger_not_supported": {
+      "message": "Ledger cüzdanlarıyla takaslar desteklenmiyor"
+   },
+   "swap_max": {
+      "message": "MAKS"
+   },
+   "swap_minimum_received": {
+      "message": "Minimum alınan"
+   },
+   "swap_minimum_received_tooltip": {
+      "message": "İşlem tamamlandıktan sonra almanız garanti edilen minimum tutar."
+   },
+   "swap_not_enough_funds": {
+      "message": "Yetersiz bakiye"
+   },
+   "swap_price_impact": {
+      "message": "Fiyat Etkisi"
+   },
+   "swap_price_impact_too_high": {
+      "message": "Fiyat etkisi çok yüksek"
+   },
+   "swap_price_impact_tooltip": {
+      "message": "Takas işlemi tamamlandığında, tokenin piyasa fiyatı üzerinde takasın yaratacağı etki."
+   },
+   "swap_provider": {
+      "message": "Sağlayıcı"
+   },
+   "swap_receive": {
+      "message": "Al"
+   },
+   "swap_route": {
+      "message": "Rota"
+   },
+   "swap_search": {
+      "message": "Arama"
+   },
+   "swap_send": {
+      "message": "Gönder"
+   },
+   "swap_settings": {
+      "message": "Takas Ayarları"
+   },
+   "swap_slippage": {
+      "message": "Kayma"
+   },
+   "swap_slippage_description": {
+      "message": "Tahmini fiyat ile gerçek fiyat arasındaki maksimum izin verilen fark. Fiyat farkı bu sınırı aşarsa, takas işlemi otomatik olarak geri alınır."
+   },
+   "swap_slippage_tooltip": {
+      "message": "Tahmini fiyat ile gerçek fiyat arasındaki en fazla izin verilen fark. Fiyat farkı bu limiti aşarsa, takas işlemi otomatik olarak geri alınır. Bu ayarı takas ayarları menüsünden yapılandırabilirsiniz."
+   },
+   "swap_title": {
+      "message": "Takas"
+   },
+   "swap_tokens": {
+      "message": "Tokenlar"
+   },
+   "swap_tokens_not_found": {
+      "message": "Token bulunamadı"
+   },
+   "swap_trade_is_not_available": {
+      "message": "Ticaret mevcut değil"
+   },
+   "swap_transaction_sent_close_button": {
+      "message": "Tamam"
+   },
+   "swap_transaction_sent_description": {
+      "message": "İşleminiz ağa gönderildi ve birkaç dakika içinde işlenecek."
+   },
+   "swap_transaction_sent_title": {
+      "message": "İşlem gönderildi"
+   },
+   "swap_tx_info": {
+      "message": "İşlem Bilgileri"
+   },
+   "swap_unknown_price_impact": {
+      "message": "Bilinmeyen fiyat etkisi"
+   },
+   "swap_unknown_token_description": {
+      "message": "Bu token, aktif token listesinde yer almıyor. İthal edilen tokenlarla ilgili risklerin farkında olduğunuzdan emin olun."
+   },
+   "switch": {
+      "message": "Değiştir"
+   },
+   "tab_action_toast_pinned": {
+      "message": "Sabitlendi"
+   },
+   "tab_action_toast_unpinned": {
+      "message": "Sabitlenmedi"
+   },
+   "taking_too_long": {
+      "message": "Çok mu uzun sürüyor?"
+   },
+   "tme_linked_with_another_address_warn": {
+      "message": "İsim mevcut adresinizle bağlantılı değil. Bu ismi içeren işlemlerde dikkatli olun."
+   },
+   "today": {
+      "message": "Bugün"
+   },
+   "toggle_developer_tools": {
+      "message": "Geliştirici Araçlarını Aç/Kapat"
+   },
+   "toggle_full_screen": {
+      "message": "Tam ekranı aç/kapat"
+   },
+   "tokenDetails_tonviewer_button": {
+      "message": "Tonviewer'da Görüntüleyin"
+   },
+   "tokens_hide_statistics_btn": {
+      "message": "İstatistikleri gizle"
+   },
+   "tokens_show_statistics_btn": {
+      "message": "İstatistikleri Göster"
+   },
+   "ton_login_caption": {
+      "message": "%{name}, cüzdan adresinize erişim istiyor"
+   },
+   "ton_login_connect_button": {
+      "message": "Cüzdanı bağlayın"
+   },
+   "ton_login_notice": {
+      "message": "Cüzdanı bağlamadan önce servis adresini kontrol ettiğinizden emin olun."
+   },
+   "ton_login_success": {
+      "message": "Tamamlandı"
+   },
+   "ton_login_title_web": {
+      "message": "%{name} ile bağlantı kurulsun mu?"
+   },
+   "tonkeeper_is_not_available_in_region_delete_btn": {
+      "message": "Verileri Temizle ve Çık"
+   },
+   "tonkeeper_is_not_available_in_region_description": {
+      "message": "Anahtarlarınızı kaydedin, ardından Tonkeeper’ı indirin ve herhangi bir kısıtlama olmadan kullanın."
+   },
+   "tonkeeper_is_not_available_in_region_description_no_accs": {
+      "message": "Tonkeeper'ı indirin ve kısıtlama olmadan kullanın."
+   },
+   "tonkeeper_is_not_available_in_region_install_btn": {
+      "message": "Tonkeeper'ı Yükle"
+   },
+   "tonkeeper_is_not_available_in_region_recovery_btn": {
+      "message": "Gizli Anahtarı Görüntüle"
+   },
+   "tonkeeper_is_not_available_in_region_title": {
+      "message": "Tonkeeper bölgenizde mevcut değil"
+   },
+   "tonkeeper_pro": {
+      "message": "Tonkeeper Pro"
+   },
+   "tonkeeper_pro_description": {
+      "message": "Tonkeeper Pro'nun aboneliği, kripto yönetimi için bir araç seti sunan genişletilmiş bir cüzdan özelliği ile birlikte gelir"
+   },
+   "tonkeeper_pro_features": {
+      "message": "Tonkeeper Pro Özellikleri"
+   },
+   "tonkeeper_pro_is_active": {
+      "message": "Tonkeeper Pro Aktif"
+   },
+   "tonkeeper_pro_subscription": {
+      "message": "Tonkeeper Pro Aboneliği"
+   },
+   "top_message_error_free_trc20_transfers_used": {
+      "message": "Tüm kullanılabilir ücretsiz transferler zaten kullanıldı"
+   },
+   "topup_trc20_fee_pro_banner_description": {
+      "message": "Tonkeeper Pro ile aylık olarak kullanılabilir."
+   },
+   "topup_trc20_fee_pro_banner_description_used": {
+      "message": "Bu ayın ücretsiz aktarımı kullanıldı. Sonraki %{date} tarihinden itibaren kullanılabilir."
+   },
+   "topup_trc20_fee_pro_banner_title": {
+      "message": "Ücretsiz USD₮ TRC20 transferi"
+   },
+   "topup_tron_fee_battery_description": {
+      "message": "TRC20 transferlerini, takasları, NFT’leri ve TON token transferlerini destekler"
+   },
+   "topup_tron_fee_charges_per_transfer": {
+      "message": "~ Her TRC20 transferi için %{charges} ücret"
+   },
+   "topup_tron_fee_disclaimer": {
+      "message": "Ücretler, çeşitli faktörlere bağlı olarak gerçek zamanlı olarak değişir."
+   },
+   "topup_tron_fee_price_per_transfer": {
+      "message": "~ %{fiat} TRC20 transferi başına"
+   },
+   "topup_tron_fee_subtitle": {
+      "message": "Token göndermek için küçük bir ücret gerekir. Tonkeeper Battery, TON veya TRX ile karşılayın."
+   },
+   "topup_tron_fee_title": {
+      "message": "Her işlemde blok zincir ücretleri vardır"
+   },
+   "topup_tron_fee_ton_description": {
+      "message": "TRC20 transferlerini ve TON üzerindeki tüm işlemleri destekler"
+   },
+   "topup_tron_fee_top_up": {
+      "message": "Bakiye Yükle"
+   },
+   "topup_tron_fee_trx_description": {
+      "message": "USDT TRC20 transferlerini kapsar"
+   },
+   "total": {
+      "message": "Toplam"
+   },
+   "total_balance": {
+      "message": "Toplam bakiye"
+   },
+   "touch_id_unlock_wallet": {
+      "message": "cüzdanınızı açın"
+   },
+   "transactionDetails_comment": {
+      "message": "Yorum"
+   },
+   "transactionDetails_operation": {
+      "message": "İşlem"
+   },
+   "transactionDetails_recipient": {
+      "message": "Alıcı"
+   },
+   "transaction_bid_dns": {
+      "message": "İsim"
+   },
+   "transaction_call_date": {
+      "message": "Sözleşme Çağrısı %{date}"
+   },
+   "transaction_fee": {
+      "message": "Ücret"
+   },
+   "transaction_hash": {
+      "message": "İşlem"
+   },
+   "transaction_merchant": {
+      "message": "Satıcı"
+   },
+   "transaction_receive_date": {
+      "message": "%{date} tarihinde alındı"
+   },
+   "transaction_recipient": {
+      "message": "Alıcı"
+   },
+   "transaction_recipient_address": {
+      "message": "Alıcı adresi"
+   },
+   "transaction_sender": {
+      "message": "Gönderen"
+   },
+   "transaction_sender_address": {
+      "message": "Gönderen adresi"
+   },
+   "transaction_sent_date": {
+      "message": "%{date} tarihinde gönderildi"
+   },
+   "transaction_type_bid": {
+      "message": "Teklif verme"
+   },
+   "transaction_type_contract_deploy": {
+      "message": "Sözleşme Dağıtımı"
+   },
+   "transaction_type_mint": {
+      "message": "Mint'le"
+   },
+   "transaction_type_pending": {
+      "message": "Beklemede"
+   },
+   "transaction_type_purchase": {
+      "message": "Satın Al"
+   },
+   "transaction_type_purchase_description": {
+      "message": "Fatura %{invoice} için ödeme"
+   },
+   "transaction_type_receive": {
+      "message": "Alındı"
+   },
+   "transaction_type_sent": {
+      "message": "Gönderildi"
+   },
+   "transaction_type_subscription": {
+      "message": "Üye olundu"
+   },
+   "transaction_type_unsubscription": {
+      "message": "Üyelikten çıkıldı"
+   },
+   "transaction_type_wallet_initialized": {
+      "message": "Cüzdan başlatıldı"
+   },
+   "transactions_burned": {
+      "message": "Yakıldı"
+   },
+   "transactions_failed": {
+      "message": "Başarısız"
+   },
+   "transactions_nft_purchase": {
+      "message": "NFT Satın Alma"
+   },
+   "transactions_smartcontract_exec": {
+      "message": "Sözleşme çağrısı yap"
+   },
+   "transactions_spam": {
+      "message": "İstenmeyen mesaj"
+   },
+   "transactions_swap": {
+      "message": "Takas"
+   },
+   "transactions_unknown": {
+      "message": "Bilinmeyen"
+   },
+   "transactions_unknown_description": {
+      "message": "Bir şeyler oldu ancak anlayamadık"
+   },
+   "trial": {
+      "message": "Deneme süresi"
+   },
+   "tron_account_export_warning_explanation": {
+      "message": "Bu ifade sadece TRC20 içindir. TON cüzdanınızı geri yükleyemez. TON cüzdanınızı geri yüklemek için TON kurtarma ifadenizi kullanın."
+   },
+   "tron_fee_banner_available_fee_options": {
+      "message": "Mevcut Seçenekler"
+   },
+   "tron_fee_banner_available_label": {
+      "message": "Mevcut ≈ %{transfers} TRC20 transferi"
+   },
+   "tron_fee_banner_fee_options": {
+      "message": "Ücret Ödeme Seçenekleri"
+   },
+   "tron_fee_start_banner_button": {
+      "message": "Yeniden Doldur"
+   },
+   "tron_fee_start_banner_description": {
+      "message": "Ücretleri TON, Tonkeeper Battery veya TRX ile ödeyebilirsiniz; bu, daha fazla esneklik sunar ve bir para biriminin bakiyesi azaldığında gecikmeleri önler."
+   },
+   "tron_fee_start_banner_title": {
+      "message": "Ücret ödeme yöntemini seçin"
+   },
+   "tron_fee_table_charges_per_one": {
+      "message": "Her biri için %{fiat}"
+   },
+   "tron_fee_table_disclaimer": {
+      "message": "Transfer sayısı ve ücretler mevcut koşullara göre değişiklik gösterir."
+   },
+   "tron_fee_table_free_transfer_no_transfers_left": {
+      "message": "Kullanıldı"
+   },
+   "tron_fee_table_free_transfer_subtitle_active": {
+      "message": "Pro'ya Dahil"
+   },
+   "tron_fee_table_free_transfer_subtitle_inactive": {
+      "message": "Her ay mevcut"
+   },
+   "tron_fee_table_free_transfer_subtitle_used_next_on_date": {
+      "message": "Sonraki %{date}"
+   },
+   "tron_fee_table_free_transfer_title": {
+      "message": "Ücretsiz Transfer"
+   },
+   "tron_fee_table_free_transfer_transfers_left": {
+      "message": "%{number} transfer"
+   },
+   "tron_fee_table_transfers": {
+      "message": "%{transfers} transfer"
+   },
+   "try_again": {
+      "message": "Tekrar Dene"
+   },
+   "two_fa_confirm_tg_cannot_access_tg": {
+      "message": "Telegram hesabınıza erişemiyor musunuz?"
+   },
+   "two_fa_confirm_tg_description": {
+      "message": "@tonkeeper'a gidin ve işlemi tamamlamak için «Onayla»ya dokunun."
+   },
+   "two_fa_confirm_tg_title": {
+      "message": "Telegram'da işlemi onaylayın"
+   },
+   "two_fa_long": {
+      "message": "İki Faktörlü Kimlik Doğrulama"
+   },
+   "two_fa_recovery_cancelled_toast": {
+      "message": "Kurtarma iptal edildi. Şimdi güvenlik için varlıklarınızı yeni bir cüzdana aktarın."
+   },
+   "two_fa_settings_cancel_recovery_button": {
+      "message": "Kurtarmayı İptal Et"
+   },
+   "two_fa_settings_change_tg_button": {
+      "message": "Bağlı Telegram Hesabını Değiştir"
+   },
+   "two_fa_settings_change_tg_short_button": {
+      "message": "Hesabı Değiştir"
+   },
+   "two_fa_settings_disable_button": {
+      "message": "2FA’yı devre dışı bırak"
+   },
+   "two_fa_settings_heading_active_description": {
+      "message": "Bu deneysel özellik, cüzdan güvenliğini artırmak için iki faktörlü kimlik doğrulamayı (2FA) etkinleştirmenizi sağlar. Cüzdanınız korunmaktadır. Gerekirse iki faktörlü kimlik doğrulamayı devre dışı bırakabilirsiniz, ancak bu güvenlik seviyesinin düşmesine neden olur."
+   },
+   "two_fa_settings_heading_active_title": {
+      "message": "İki Faktörlü Kimlik Doğrulama Etkinleştirildi"
+   },
+   "two_fa_settings_heading_description": {
+      "message": "Bu deneysel özellik, cüzdan güvenliğini artırmak için iki faktörlü kimlik doğrulamayı (2FA) etkinleştirmenizi sağlar. İşlemler sırasında Telegram'da onay isteyecektir. Kurulum adımları:"
+   },
+   "two_fa_settings_heading_recovery_description": {
+      "message": "2FA, %{date} tarihinde devre dışı bırakılacak. Kurtarma işlemini siz başlatmadıysanız, iptal edin ve güvenlik için fonlarınızı yeni bir cüzdana aktarın."
+   },
+   "two_fa_settings_heading_recovery_title": {
+      "message": "Cüzdan kurtarma işlemi başlatıldı"
+   },
+   "two_fa_settings_heading_title": {
+      "message": "İki Faktörlü Kimlik Doğrulama"
+   },
+   "two_fa_settings_reconnect_tg_connection_modal_description": {
+      "message": "QR kodunu tarayın veya Telegram'ı açarak yeni bir hesap bağlayın. Önceki hesabınıza erişiminiz varsa, değişiklik anında gerçekleşir. Erişiminiz yoksa, bu işlem 14 gün sürer."
+   },
+   "two_fa_settings_reconnect_tg_connection_modal_heading": {
+      "message": "Yeni bir Telegram hesabı bağla"
+   },
+   "two_fa_settings_set_up_deploy_step_button": {
+      "message": "2FA’yı etkinleştir"
+   },
+   "two_fa_settings_set_up_deploy_step_description": {
+      "message": "2FA uzantısını yüklemek için işlemi onaylayın"
+   },
+   "two_fa_settings_set_up_tg_connection_modal_copy_button": {
+      "message": "Bağlantıyı kopyala"
+   },
+   "two_fa_settings_set_up_tg_connection_modal_heading": {
+      "message": "Yeni bir hesap bağlamak için QR kodunu tarayın veya Telegram'ı açın."
+   },
+   "two_fa_settings_set_up_tg_connection_modal_open_button": {
+      "message": "Telegram'ı aç"
+   },
+   "two_fa_settings_set_up_tg_step_description": {
+      "message": "Bağlantınızı Telegram'da onaylayın"
+   },
+   "two_fa_settings_warning_balance_required": {
+      "message": "2FA'yı yüklemek veya kaldırmak için 0.15 TON gereklidir."
+   },
+   "two_fa_settings_warning_battery_gasless": {
+      "message": "Pil modu ve gazsız işlemler, iki faktörlü kimlik doğrulama (2FA) ile uyumlu değildir."
+   },
+   "two_fa_settings_warning_can_not_recover": {
+      "message": "2FA, gizli ifadenizi kurtaramaz."
+   },
+   "two_fa_settings_warning_wallet_will_stop": {
+      "message": "Aynı cüzdan diğer cihazlarınızda çalışmayı durduracak."
+   },
+   "txActions_USDT_transfer": {
+      "message": "USDT Transferi"
+   },
+   "txActions_amount": {
+      "message": "Tutar"
+   },
+   "txActions_fee": {
+      "message": "Ücret"
+   },
+   "txActions_refund": {
+      "message": "İade"
+   },
+   "txActions_signRaw_comment": {
+      "message": "Yorum"
+   },
+   "txActions_signRaw_recipient": {
+      "message": "Alıcı"
+   },
+   "txActions_signRaw_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "txActions_signRaw_types_jettonTransfer": {
+      "message": "Token Transferi"
+   },
+   "txActions_signRaw_types_nftItemTransfer": {
+      "message": "NFT Transferi"
+   },
+   "txActions_signRaw_types_tonTransfer": {
+      "message": "TON Transferi"
+   },
+   "txActions_signRaw_types_unknownTransaction": {
+      "message": "Bilinmeyen işlem"
+   },
+   "type": {
+      "message": "Tür"
+   },
+   "unavailable_on_desktop_in_region": {
+      "message": "Bu bölgede Masaüstünde kullanılamıyor."
+   },
+   "unknown_operation": {
+      "message": "Bilinmeyen işlem"
+   },
+   "unsubscribe_legacy_plugin_banner_subtitle": {
+      "message": "Cüzdanınızdan ücret almaya devam edebilir. Daha fazla ödeme yapılmasını önlemek için devre dışı bırakın."
+   },
+   "unsubscribe_legacy_plugin_banner_title": {
+      "message": "%{count} adet süresi dolmuş aboneliğiniz var @donate"
+   },
+   "unsubscribe_legacy_plugin_many_banner_subtitle": {
+      "message": "Bazıları cüzdanınızı ücretlendirmeye devam edebilir."
+   },
+   "unsubscribe_legacy_plugin_success_toast": {
+      "message": "Aboneliğin iptali birkaç dakika içerisinde blok zincirde onaylanacaktır"
+   },
+   "unsupported_two_fa": {
+      "message": "2FA cüzdanlar geçici olarak desteklenmiyor. 2FA olmayan bir cüzdan kullanın veya devre dışı bırakın."
+   },
+   "unused_1_month": {
+      "message": "1 month"
+   },
+   "unused_1_year": {
+      "message": "1 year"
+   },
+   "unused_Edit_jettons": {
+      "message": "Düzenle"
+   },
+   "unused_Enable_storing_config": {
+      "message": "Yapılandırmayı kaydetmeyi etkinleştir"
+   },
+   "unused_about_risk_modal_description": {
+      "message": "Cüzdanınızdan gönderilecek olan tokenlerin toplam değeri. Geri ödemeler toplam değere dahil edilmez."
+   },
+   "unused_about_risk_modal_description_with_nft": {
+      "message": "Cüzdanınızdan gönderilecek NFT'lerin maliyeti hariç, tokenların toplam değeri. İadeler toplam değere dahil değildir."
+   },
+   "unused_about_risk_modal_ok_button": {
+      "message": "Tamam"
+   },
+   "unused_about_ton": {
+      "message": "TON, Telegram tarafından milyarlarca kullanıcıyı bünyesine katmak için tasarlanmış tamamen merkeziyetsiz bir layer-1 blokzinciridir. TON, ultra hızlı işlem hızına, düşük ücretlere, kullanımı kolay uygulamalara sahiptir ve çevre dostudur."
+   },
+   "unused_access_confirmation_logout": {
+      "message": "Oturumu kapat"
+   },
+   "unused_access_confirmation_reset": {
+      "message": "Sıfırla"
+   },
+   "unused_access_confirmation_title": {
+      "message": "Şifreyi girin"
+   },
+   "unused_access_confirmation_update_biometry": {
+      "message": "Biyometrik kimlik doğrulama verilerini kullanmak için şifreyi girin"
+   },
+   "unused_access_denied": {
+      "message": "Erişim reddedildi"
+   },
+   "unused_account_deleted": {
+      "message": "Hesap silindi"
+   },
+   "unused_activityActionModal_bid": {
+      "message": "Teklif ver"
+   },
+   "unused_activityActionModal_burned": {
+      "message": "Yakıldı"
+   },
+   "unused_activityActionModal_call_contract": {
+      "message": "Sözleşme çağrısı yap"
+   },
+   "unused_activityActionModal_deposit": {
+      "message": "Yatırma"
+   },
+   "unused_activityActionModal_purchase": {
+      "message": "Satın Al"
+   },
+   "unused_activityActionModal_received": {
+      "message": "Alındı"
+   },
+   "unused_activityActionModal_sent": {
+      "message": "Gönderildi"
+   },
+   "unused_activityActionModal_swapped": {
+      "message": "Takas edildi"
+   },
+   "unused_activityActionModal_time_on": {
+      "message": "İşlem zamanı: %{time}"
+   },
+   "unused_activityActionModal_withdraw": {
+      "message": "Çekme"
+   },
+   "unused_activity_buy_toncoin_btn": {
+      "message": "TONcoin satın alın"
+   },
+   "unused_activity_receive_btn": {
+      "message": "Al"
+   },
+   "unused_activity_received": {
+      "message": "Alındı"
+   },
+   "unused_activity_sent": {
+      "message": "Gönderildi"
+   },
+   "unused_add_other_coins": {
+      "message": "Diğer kriptoları ekleyin"
+   },
+   "unused_add_wallet_existing_multisig_description": {
+      "message": "%{number} wallets managed by your wallet list"
+   },
+   "unused_add_wallet_existing_multisig_title": {
+      "message": "Existing Multisig Wallet"
+   },
+   "unused_add_wallet_modal_create_subtitle": {
+      "message": "Yeni cüzdan oluşturun"
+   },
+   "unused_add_wallet_modal_create_title": {
+      "message": "Yeni Cüzdan"
+   },
+   "unused_add_wallet_modal_import_subtitle": {
+      "message": "Aşağıdaki seçeneklerden birini seçin."
+   },
+   "unused_add_wallet_modal_import_title": {
+      "message": "Cüzdanı İçe Aktar"
+   },
+   "unused_add_wallet_modal_ledger_subtitle": {
+      "message": "Donanım cüzdanı ile daha yüksek seviyede güvenlik"
+   },
+   "unused_add_wallet_modal_ledger_title": {
+      "message": "Ledger'ı bağla"
+   },
+   "unused_add_wallet_modal_other_options": {
+      "message": "Diğer seçenekler"
+   },
+   "unused_add_wallet_modal_signer_subtitle": {
+      "message": "Daha yüksek düzeyde kontrol ve güvenlik"
+   },
+   "unused_add_wallet_modal_signer_title": {
+      "message": "Signer ile Eşleştir"
+   },
+   "unused_add_wallet_modal_subtitle": {
+      "message": "Yeni bir cüzdan oluşturun veya mevcut bir cüzdan ekleyin."
+   },
+   "unused_add_wallet_modal_title": {
+      "message": "Cüzdan Ekle"
+   },
+   "unused_add_watch_only_subtitle": {
+      "message": "Kurtarma ifadesi olmadan cüzdan etkinliğini izleyin. Bu cüzdandan yapılan tüm işlemler size bildirilecektir."
+   },
+   "unused_add_watch_only_wallet_not_found": {
+      "message": "Cüzdan adresi bulunamadı"
+   },
+   "unused_address_update_first_option": {
+      "message": "Muhtemelen hedef cüzdan zaten aktif olarak kullanılıyor olduğundan herhangi bir fark fark etmeyeceksiniz."
+   },
+   "unused_address_update_learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "unused_address_update_new_style": {
+      "message": "Yeni adres"
+   },
+   "unused_address_update_notification_desc_did_change": {
+      "message": "5 Ekim'de cüzdan adresiniz daha iyi bir format olan UQ formatına güncellendi. Eski adresiniz de kullanılmaya devam edeceğinden hiçbir şey yapmanıza gerek bulunmamaktadır."
+   },
+   "unused_address_update_notification_desc_will_change": {
+      "message": "5 Ekim'de cüzdan adresiniz daha iyi bir format olan UQ formatına güncellenecektir. Eski adresiniz de kullanılmaya devam edeceğinden hiçbir şey yapmanıza gerek bulunmamaktadır."
+   },
+   "unused_address_update_old_style": {
+      "message": "Eski adres"
+   },
+   "unused_address_update_post_dates": {
+      "message": "\n5 Ekim 2023: Tonkeeper'da tüm adresler UQ formatına geçiş yapacak. 1 Ocak 2024: Tonkeeper, sözleşme durumunu kontrol etmeyi bırakacak ve adresin doğruluğunu kontrol etmek için 'bounceable' bayrağını kullanacak. Bu sayede, EQ adresi ile başlamayan, henüz yayınlanmamış sözleşmelere gönderilen tutarlar göndericiye geri gönderilecektir."
+   },
+   "unused_address_update_post_published_date": {
+      "message": "Yayınlanma Tarihi: 27 Eylül 2023"
+   },
+   "unused_address_update_post_rest": {
+      "message": "TON blockchain'de iki adres stili bulunmaktadır ve şimdiye kadar uygulamalar ve cüzdanlar için yalnızca biri kullanılmaktadır. EQ formatı, gelen fonları işleyen akıllı sözleşmeler için en iyi formattır. Bir akıllı sözleşme henüz yayınlanmadıysa - yani kod blokzincirine yüklenmediyse - o adrese gönderilen TON'lar gönderene geri dönecektir. Bu bir güvenlik özelliği olup, herhangi bir hata olduğu taktirde, TON coinlerin geri göndericinin hesabına geri dönmesini sağlar. UQ formatı, cüzdanlar için en iyi formattır. Cüzdanlar sadece fonları saklamak için tasarlandığından, böyle bir durumda gönderilen kripto tutarları asla cüzdana geri dönmez. Her cüzdan, blok zincirinde kod yüklenmiş olmaksızın yalın bir adres olarak kullanılmaya başlandığından, meblağların geri dönmesi anlamsız olur. Bu yıl cüzdan adreslerinde daha uygun format olan UQ formatının kullanımına geçiş yapıyoruz. Eğer size verilen eski bir EQ adresine fon göndermeye devam ederseniz, şu iki seçeneğe sahip olacaksınız;"
+   },
+   "unused_address_update_post_top": {
+      "message": "Bu yılın sonuna kadar TON ağındaki tüm cüzdan adresleri farklı formatlarıyla görüntülenmeye başlanacaktır. Yeni adres UQ ile başlayacak ve son dört harfi değişecektir. Eski adres de kullanılmaya devam edecek olup aynı cüzdana yönlendirecektir. Bu durum cüzdanınızda saklanan kriptoların güvenliğini herhangi bir şekilde etkilemeyecektir."
+   },
+   "unused_address_update_second_option": {
+      "message": "Cüzdanın herhangi bir ödeme için kullanılmamış olması ihtimali daha azdır. Ve Tonkeeper gelecek yıldan itibaren o adrese coin göndermeyecektir. Alıcından yeni bir UQ adresi istemeniz gerekecektir."
+   },
+   "unused_address_update_title": {
+      "message": "Adres güncelleme"
+   },
+   "unused_address_update_why_change": {
+      "message": "Bu değişiklik neden yapıldı?"
+   },
+   "unused_address_update_your_wallet": {
+      "message": "Cüzdanınız"
+   },
+   "unused_all_regions": {
+      "message": "Tüm bölgeler"
+   },
+   "unused_app_name": {
+      "message": "Tonkeeper"
+   },
+   "unused_appearance_accent_name_andromeda": {
+      "message": "Andromeda"
+   },
+   "unused_appearance_accent_name_arctic": {
+      "message": "Arctic"
+   },
+   "unused_appearance_accent_name_azure": {
+      "message": "Azure"
+   },
+   "unused_appearance_accent_name_coral": {
+      "message": "Coral"
+   },
+   "unused_appearance_accent_name_cosmos": {
+      "message": "Cosmos"
+   },
+   "unused_appearance_accent_name_default": {
+      "message": "Tonkeeper"
+   },
+   "unused_appearance_accent_name_flamingo": {
+      "message": "Flamingo"
+   },
+   "unused_appearance_accent_name_fluid": {
+      "message": "Fluid"
+   },
+   "unused_appearance_accent_name_galaxy": {
+      "message": "Galaxy"
+   },
+   "unused_appearance_accent_name_iris": {
+      "message": "Iris"
+   },
+   "unused_appearance_accent_name_marine": {
+      "message": "Marine"
+   },
+   "unused_appearance_accent_name_ocean": {
+      "message": "Ocean"
+   },
+   "unused_appearance_accent_name_sky": {
+      "message": "Sky"
+   },
+   "unused_appearance_confirm": {
+      "message": "Ayarla"
+   },
+   "unused_appearance_description": {
+      "message": "TON Diamonds NFT, cüzdanınızı daha renkli ve benzersiz hale getirecektir."
+   },
+   "unused_appearance_title": {
+      "message": "Tema"
+   },
+   "unused_approval_accept": {
+      "message": "Onaylayın"
+   },
+   "unused_approval_accepted_at_collection": {
+      "message": "%{date} tarihinde onaylandı"
+   },
+   "unused_approval_accepted_at_token": {
+      "message": "%{date} tarihinde onaylandı"
+   },
+   "unused_approval_accepted_collection": {
+      "message": "Kabul edilen koleksiyon"
+   },
+   "unused_approval_accepted_token": {
+      "message": "Kabul edilen token"
+   },
+   "unused_approval_approve_all": {
+      "message": "Tümünü onayla"
+   },
+   "unused_approval_approve_collection_many": {
+      "message": "\"%{collection}\" koleksiyonundan gelen token'ları onaylayın"
+   },
+   "unused_approval_approve_collection_one": {
+      "message": "\"%{collection}\" koleksiyonundan gelen token'ı onaylayın"
+   },
+   "unused_approval_approve_many": {
+      "message": "Gelen %{count} token'ı onaylayın"
+   },
+   "unused_approval_approve_many_few": {
+      "message": "%{count} gelen tokeni onayla"
+   },
+   "unused_approval_approve_many_many": {
+      "message": "%{count} gelen token'ı onaylayın"
+   },
+   "unused_approval_approve_many_one": {
+      "message": "%{count} gelen tokeni onayla"
+   },
+   "unused_approval_approve_many_other": {
+      "message": "Birden çok %{count} girdi tokenini onayla"
+   },
+   "unused_approval_approve_token": {
+      "message": "Gelen \"%{name}\" token'ını onaylayın"
+   },
+   "unused_approval_approve_two_collections": {
+      "message": "\"%{collection1}\" \"%{collection2}\" koleksiyonlarından gelen token'ları onaylayın"
+   },
+   "unused_approval_approve_two_tokens": {
+      "message": "Gelen \"%{name1}\" ve \"%{name2}\" token'larını onaylayın"
+   },
+   "unused_approval_blacklisted_collection": {
+      "message": "Kara listeye alınmış koleksiyon"
+   },
+   "unused_approval_blacklisted_token": {
+      "message": "Kara listeye alınmış token"
+   },
+   "unused_approval_decline": {
+      "message": "Reddet"
+   },
+   "unused_approval_declined_at_collection": {
+      "message": "%{date} tarihinde reddedildi"
+   },
+   "unused_approval_declined_at_token": {
+      "message": "%{date} tarihinde reddedildi"
+   },
+   "unused_approval_details_collection": {
+      "message": "Koleksiyon detayları"
+   },
+   "unused_approval_manage_tokens": {
+      "message": "Token'ları yönetin"
+   },
+   "unused_approval_move_to_accepted": {
+      "message": "Onaylananlar'a taşıyın"
+   },
+   "unused_approval_move_to_accepted_collection": {
+      "message": "Koleksiyonu cüzdanda göster"
+   },
+   "unused_approval_move_to_accepted_token": {
+      "message": "Cüzdandaki token'ları göster"
+   },
+   "unused_approval_move_to_declined": {
+      "message": "Reddedilenler'e taşıyın"
+   },
+   "unused_approval_move_to_declined_collection": {
+      "message": "Koleksiyonu cüzdanda gizle"
+   },
+   "unused_approval_move_to_declined_token": {
+      "message": "Token'ı cüzdanda gizle"
+   },
+   "unused_approval_pending": {
+      "message": "Beklemede"
+   },
+   "unused_approval_show_all": {
+      "message": "Tümünü göster"
+   },
+   "unused_approval_single_token": {
+      "message": "Tek token"
+   },
+   "unused_approval_token_copied": {
+      "message": "Token kimliği kopyalandı"
+   },
+   "unused_approval_token_count_few": {
+      "message": "%{count} belirteç"
+   },
+   "unused_approval_token_count_many": {
+      "message": "%{count} jeton"
+   },
+   "unused_approval_token_count_one": {
+      "message": "%{count} token"
+   },
+   "unused_approval_token_count_other": {
+      "message": "%{count} token"
+   },
+   "unused_approval_verify_collection": {
+      "message": "Koleksiyonu doğrulayın"
+   },
+   "unused_approval_verify_description_collection": {
+      "message": "Bu token'lar bilinmeyen bir token yayıncısı tarafından basılmış. Token'ların sahtelerini tespit etmek için, token yayıncının resmi kaynağıyla karşılaştırarak koleksiyon kimliğini doğrulayın. Token görünürlüğünü daha sonra ayarlar içerisinden değiştirebilirsiniz."
+   },
+   "unused_approval_verify_description_token": {
+      "message": "Bu token bilinmeyen bir token yayıncısı tarafından basılmış. Token'ların sahtelerini tespit etmek için, token yayıncının resmi kaynağıyla karşılaştırarak token kimliğini doğrulayın. Token görünürlüğünü daha sonra ayarlar içerisinden değiştirebilirsiniz."
+   },
+   "unused_approval_verify_token": {
+      "message": "Token'i doğrulayın"
+   },
+   "unused_approval_whitelisted_collection": {
+      "message": "Beyaz listeye alınmış koleksiyon"
+   },
+   "unused_approval_whitelisted_token": {
+      "message": "Beyaz listeye alınmış token"
+   },
+   "unused_auth_failed": {
+      "message": "Kimlik doğrulama başarısız oldu"
+   },
+   "unused_backup_check_caption": {
+      "message": "Her şeyi doğru yapıp yapmadığınızı görelim. %{one}, %{two} ve %{three} numaralı kelimeleri girin."
+   },
+   "unused_backup_check_done_button": {
+      "message": "Tamamlandı"
+   },
+   "unused_backup_check_title": {
+      "message": "Yedekleme Kontrolü"
+   },
+   "unused_backup_screen_backup_warning": {
+      "message": "Bakiyeniz %{totalFiat}, ve yalnızca henüz yazmadığınız bir kurtarma ifadesi ile korunuyor. Cihaz sorunlarından dolayı fon kaybını önlemek için ifadeyi yedekleyin."
+   },
+   "unused_backup_screen_last_backup_time": {
+      "message": "Son yedekleme %{time}"
+   },
+   "unused_backup_screen_manual_backup_on": {
+      "message": "Manuel Yedekleme Açık"
+   },
+   "unused_backup_screen_manual_button": {
+      "message": "Manuel Olarak Yedekleyin"
+   },
+   "unused_backup_screen_manual_caption": {
+      "message": "Kurtarma ifadesini yazarak cüzdanınızı manuel olarak yedekleyin."
+   },
+   "unused_backup_screen_manual_title": {
+      "message": "Manuel"
+   },
+   "unused_backup_screen_show_recovery_phrase": {
+      "message": "Kurtarma İfadesini Göster"
+   },
+   "unused_backup_screen_title": {
+      "message": "Yedekle"
+   },
+   "unused_backup_warning_cancel_button": {
+      "message": "İptal"
+   },
+   "unused_backup_warning_caption": {
+      "message": "Kurtarma ifadenizi görüntülemeden önce lütfen aşağıdakileri dikkatlice okuyun."
+   },
+   "unused_backup_warning_continue_button": {
+      "message": "Devam et"
+   },
+   "unused_backup_warning_p1": {
+      "message": "Cüzdanınıza erişmek için kurtarma cümlenizi asla Tonkeeper'dan başka bir yere girmeyin."
+   },
+   "unused_backup_warning_p2": {
+      "message": "Tonkeeper Destek hiçbir zaman size kurtarma ifadesini sormaz."
+   },
+   "unused_backup_warning_p3": {
+      "message": "Kurtarma ifadenizi bilen herkes cüzdanınıza erişebilir."
+   },
+   "unused_backup_warning_title": {
+      "message": "Dikkat"
+   },
+   "unused_battery_capabilities_description": {
+      "message": "Swap via Tonkeeper, send tokens and unstake TON."
+   },
+   "unused_battery_description_empty": {
+      "message": "Ana bakiyeniz boş olsa bile token ve NFT gönderin, staking işlemleri gerçekleştirin."
+   },
+   "unused_battery_description_less_10": {
+      "message": "10'dan az işlem için bataryanızda yeterli şarj seviyesi mevcut."
+   },
+   "unused_battery_description_other": {
+      "message": "%{cnt} işlem için bataryanızda yeterli şarj seviyesi mevcut."
+   },
+   "unused_battery_description_other_few": {
+      "message": "%{count} charges"
+   },
+   "unused_battery_description_other_many": {
+      "message": "%{count} charges"
+   },
+   "unused_battery_description_other_one": {
+      "message": "%{count} charge"
+   },
+   "unused_battery_description_other_other": {
+      "message": "%{count} charges"
+   },
+   "unused_battery_max_input_amount": {
+      "message": "Maksimum giriş miktarı %{amount}"
+   },
+   "unused_battery_ok": {
+      "message": "TAMAM"
+   },
+   "unused_battery_other_ways_by_crypto_subtitle": {
+      "message": "%{methods} kullanarak"
+   },
+   "unused_battery_other_ways_promo_subtitle": {
+      "message": "Şanslısınız"
+   },
+   "unused_battery_other_ways_promo_title": {
+      "message": "Promosyon Kodunu Girin"
+   },
+   "unused_battery_packages_buy": {
+      "message": "Satın al"
+   },
+   "unused_battery_packages_ok": {
+      "message": "TAMAM"
+   },
+   "unused_battery_packages_refilled": {
+      "message": "Bataryanız şarj oldu"
+   },
+   "unused_battery_packages_refund": {
+      "message": "Şarj geçmişi"
+   },
+   "unused_battery_packages_restore": {
+      "message": "Satın Almaları Geri Yükle"
+   },
+   "unused_battery_packages_subtitle_few": {
+      "message": "%{count} şarj"
+   },
+   "unused_battery_packages_subtitle_large": {
+      "message": "Büyük paket"
+   },
+   "unused_battery_packages_subtitle_many": {
+      "message": "%{count} şarj"
+   },
+   "unused_battery_packages_subtitle_medium": {
+      "message": "Orta paket"
+   },
+   "unused_battery_packages_subtitle_one": {
+      "message": "%{count} şarj"
+   },
+   "unused_battery_packages_subtitle_other": {
+      "message": "%{count} şarj"
+   },
+   "unused_battery_packages_subtitle_small": {
+      "message": "Küçük paket"
+   },
+   "unused_battery_packages_title": {
+      "message": "{{cnt}} işlem için {{price}}"
+   },
+   "unused_battery_packages_title_large": {
+      "message": "Büyük"
+   },
+   "unused_battery_packages_title_medium": {
+      "message": "Orta"
+   },
+   "unused_battery_packages_title_small": {
+      "message": "Küçük"
+   },
+   "unused_battery_promocode_apply": {
+      "message": "Uygula"
+   },
+   "unused_battery_promocode_button": {
+      "message": "Promosyon Kodu ile yükleme yapın"
+   },
+   "unused_battery_promocode_placeholder": {
+      "message": "Kod"
+   },
+   "unused_battery_promocode_success": {
+      "message": "Bataryanız şarj oldu"
+   },
+   "unused_battery_recharge_by_crypto_continue": {
+      "message": "Devam Et"
+   },
+   "unused_battery_recharge_by_crypto_title_gift": {
+      "message": "Hediye"
+   },
+   "unused_battery_recharge_by_crypto_tokens": {
+      "message": "Tokenlar"
+   },
+   "unused_battery_refilled": {
+      "message": "Batarya yeniden dolduruldu"
+   },
+   "unused_battery_refund_subtitle": {
+      "message": "Yüklemeler ve Geri Ödemeler"
+   },
+   "unused_battery_refund_title": {
+      "message": "Ücret Geçmişi"
+   },
+   "unused_battery_screen_title": {
+      "message": "Batarya"
+   },
+   "unused_battery_send_widget_battery": {
+      "message": "Pil"
+   },
+   "unused_battery_settings": {
+      "message": "Batarya"
+   },
+   "unused_battery_transactions_charges_per_action_few": {
+      "message": "≈ %{count} şarj başına %{transactionName}"
+   },
+   "unused_battery_transactions_charges_per_action_many": {
+      "message": "≈ %{count} şarj per %{transactionName}"
+   },
+   "unused_battery_transactions_charges_per_action_one": {
+      "message": "≈ %{count} şarj başına %{transactionName}"
+   },
+   "unused_battery_transactions_charges_per_action_other": {
+      "message": "≈ %{count} şarj per %{transactionName}"
+   },
+   "unused_battery_transactions_supported": {
+      "message": "Desteklenen işlemler"
+   },
+   "unused_battery_transactions_types_jetton": {
+      "message": "jeton transferleri"
+   },
+   "unused_battery_transactions_types_swap": {
+      "message": "Tonkeeper aracılığıyla takas"
+   },
+   "unused_battery_transactions_types_ton": {
+      "message": "TON transferleri"
+   },
+   "unused_battery_transactions_will_be_paid": {
+      "message": "Ödenecek: %{enabledTransactions}"
+   },
+   "unused_biometry_android_face_recognition": {
+      "message": "yüz tanıma"
+   },
+   "unused_biometry_android_face_recognition_genitive": {
+      "message": "yüz tanıma"
+   },
+   "unused_biometry_android_face_recognition_instrumental": {
+      "message": "yüz tanıma"
+   },
+   "unused_biometry_android_fingerprint": {
+      "message": "Parmak izi"
+   },
+   "unused_biometry_android_fingerprint_genitive": {
+      "message": "Parmak izi"
+   },
+   "unused_biometry_android_fingerprint_instrumental": {
+      "message": "Parmak izi"
+   },
+   "unused_biometry_default_accusative": {
+      "message": "Biyometrik"
+   },
+   "unused_biometry_default_genitive": {
+      "message": "Biyometrik"
+   },
+   "unused_biometry_default_instrumental": {
+      "message": "Biyometrik"
+   },
+   "unused_biometry_ios_face_recognition": {
+      "message": "Yüz kimliği"
+   },
+   "unused_biometry_ios_face_recognition_genitive": {
+      "message": "Yüz kimliği"
+   },
+   "unused_biometry_ios_face_recognition_instrumental": {
+      "message": "Face ID"
+   },
+   "unused_biometry_ios_fingerprint_genitive": {
+      "message": "Touch ID"
+   },
+   "unused_biometry_ios_fingerprint_instrumental": {
+      "message": "Touch ID"
+   },
+   "unused_bluetooth_permissions_alert_cancel": {
+      "message": "İptal"
+   },
+   "unused_bluetooth_permissions_alert_message": {
+      "message": "Lütfen bu özelliği kullanmak için ayarlarınızda Bluetooth izinlerini etkinleştirin"
+   },
+   "unused_bluetooth_permissions_alert_open_settings": {
+      "message": "Ayarları Aç"
+   },
+   "unused_bluetooth_permissions_alert_title": {
+      "message": "Bluetooth İzinleri"
+   },
+   "unused_bluetooth_powered_off_alert_cancel": {
+      "message": "İptal"
+   },
+   "unused_bluetooth_powered_off_alert_message": {
+      "message": "Lütfen bu özelliği kullanmak için Bluetooth'u açın"
+   },
+   "unused_bluetooth_powered_off_alert_open_settings": {
+      "message": "Ayarları Aç"
+   },
+   "unused_bluetooth_powered_off_alert_title": {
+      "message": "Bluetooth kapalı"
+   },
+   "unused_browser_about_dapps_caption": {
+      "message": "Oturum açma ve ödemeler için Tonkeeper'ı kullanabileceğiniz uygulamaları ve hizmetleri keşfedin."
+   },
+   "unused_browser_about_dapps_learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "unused_browser_about_dapps_title": {
+      "message": "Tüm TON uygulamaları ve hizmetleriyle Tonkeeper'ı kullanın"
+   },
+   "unused_browser_actions_disconnect": {
+      "message": "Bağlantıyı kesin"
+   },
+   "unused_browser_actions_mute": {
+      "message": "Sessize alın"
+   },
+   "unused_browser_connected_empty_text": {
+      "message": "Uygulamaları ve hizmetleri Tonkeeper tarayıcısında keşfedin."
+   },
+   "unused_browser_connected_empty_title": {
+      "message": "Bağlı uygulamalar burada gösterilecektir"
+   },
+   "unused_browser_connected_title": {
+      "message": "Bağlandı"
+   },
+   "unused_browser_empty_search": {
+      "message": "Aramanız hiçbir sonuç vermedi"
+   },
+   "unused_browser_explore": {
+      "message": "Keşfet"
+   },
+   "unused_browser_explore_all": {
+      "message": "Tümünü keşfedin"
+   },
+   "unused_browser_more_description": {
+      "message": "Marketler, borsalar ve daha fazlası"
+   },
+   "unused_browser_more_title": {
+      "message": "Tüm hizmetleri keşfedin"
+   },
+   "unused_browser_open_link": {
+      "message": "Bağlantıyı açın"
+   },
+   "unused_browser_popular_title": {
+      "message": "Popüler"
+   },
+   "unused_browser_remove_alert_approve_button": {
+      "message": "Kaldırın"
+   },
+   "unused_browser_remove_alert_title": {
+      "message": "“%{name}” kaldırılsın mı?"
+   },
+   "unused_browser_search_label": {
+      "message": "Adresi arayın ya da girin"
+   },
+   "unused_browser_start_typing": {
+      "message": "Bir adres girin veya web'de arama yapın"
+   },
+   "unused_browser_web_search_title": {
+      "message": "%{searchEngine} Arama"
+   },
+   "unused_buy_ton_subtitle": {
+      "message": "Anında banka kartı ile"
+   },
+   "unused_buy_ton_title": {
+      "message": "TON Satın Al"
+   },
+   "unused_chart_check_connection": {
+      "message": "Lütfen bağlantınızı kontrol edin ve tekrar deneyin."
+   },
+   "unused_chart_no_internet": {
+      "message": "İnternet bağlantısı yok"
+   },
+   "unused_chart_periods_1D": {
+      "message": "G"
+   },
+   "unused_chart_periods_1H": {
+      "message": "H"
+   },
+   "unused_chart_periods_1M": {
+      "message": "A"
+   },
+   "unused_chart_periods_1Y": {
+      "message": "Y"
+   },
+   "unused_chart_periods_6M": {
+      "message": "6 Ay"
+   },
+   "unused_chart_periods_7D": {
+      "message": "H"
+   },
+   "unused_chart_price": {
+      "message": "Fiyat"
+   },
+   "unused_check_for_updates": {
+      "message": "Check for Updates"
+   },
+   "unused_choose_country_auto": {
+      "message": "Otomatik"
+   },
+   "unused_choose_country_cancel": {
+      "message": "İptal"
+   },
+   "unused_choose_country_empty_placeholder": {
+      "message": "Aramanız hiçbir sonuç vermedi"
+   },
+   "unused_choose_country_search": {
+      "message": "Arama"
+   },
+   "unused_choose_country_title": {
+      "message": "Ülkenizi seçin"
+   },
+   "unused_choose_currency_currencies_AED": {
+      "message": "Birleşik Arap Emirlikleri dirhemi"
+   },
+   "unused_choose_currency_currencies_BDT": {
+      "message": "Bangladeş takası"
+   },
+   "unused_choose_currency_currencies_BRL": {
+      "message": "Brezilya reali"
+   },
+   "unused_choose_currency_currencies_BYN": {
+      "message": "Belarus rublesi"
+   },
+   "unused_choose_currency_currencies_CAD": {
+      "message": "Kanada doları"
+   },
+   "unused_choose_currency_currencies_CHF": {
+      "message": "İsviçre frangı"
+   },
+   "unused_choose_currency_currencies_CNY": {
+      "message": "Çin yuanı"
+   },
+   "unused_choose_currency_currencies_EUR": {
+      "message": "Euro"
+   },
+   "unused_choose_currency_currencies_GBP": {
+      "message": "İngiliz sterlini"
+   },
+   "unused_choose_currency_currencies_GEL": {
+      "message": "Gürcistan larisi"
+   },
+   "unused_choose_currency_currencies_IDR": {
+      "message": "Endonezya rupisi"
+   },
+   "unused_choose_currency_currencies_ILS": {
+      "message": "İsrail şekeli"
+   },
+   "unused_choose_currency_currencies_INR": {
+      "message": "Hint rupisi"
+   },
+   "unused_choose_currency_currencies_IRR": {
+      "message": "İran riyali"
+   },
+   "unused_choose_currency_currencies_JPY": {
+      "message": "Japon yeni"
+   },
+   "unused_choose_currency_currencies_KRW": {
+      "message": "Güney Kore wonu"
+   },
+   "unused_choose_currency_currencies_KZT": {
+      "message": "Kazakistan tengesi"
+   },
+   "unused_choose_currency_currencies_NGN": {
+      "message": "Nijerya nairası"
+   },
+   "unused_choose_currency_currencies_RUB": {
+      "message": "Rus rublesi"
+   },
+   "unused_choose_currency_currencies_THB": {
+      "message": "Tayland bahtı"
+   },
+   "unused_choose_currency_currencies_TON": {
+      "message": "Toncoin"
+   },
+   "unused_choose_currency_currencies_TRY": {
+      "message": "Türk lirası"
+   },
+   "unused_choose_currency_currencies_UAH": {
+      "message": "Ukrayna hryvnyası"
+   },
+   "unused_choose_currency_currencies_USD": {
+      "message": "Amerikan doları"
+   },
+   "unused_choose_currency_currencies_UZS": {
+      "message": "Özbekistan somu"
+   },
+   "unused_choose_currency_currencies_VND": {
+      "message": "Vietnam dongu"
+   },
+   "unused_choose_currency_header_title": {
+      "message": "Birincil para birimi"
+   },
+   "unused_choose_plan": {
+      "message": "Choose Plan"
+   },
+   "unused_choose_wallets_already_added": {
+      "message": "Zaten eklendi"
+   },
+   "unused_choose_wallets_tokens": {
+      "message": "Token'lar"
+   },
+   "unused_choose_wallets_w5_subtitle": {
+      "message": "Daha düşük blok zinciri ücretleri, gazsız işlemler ve çoklu transferler."
+   },
+   "unused_choose_wallets_w5_subtitle_link": {
+      "message": "Daha fazla öğren"
+   },
+   "unused_confirm": {
+      "message": "Уже существует в tonkeeper namespace"
+   },
+   "unused_confirmSendModal_network_fee": {
+      "message": "Ağ ücreti"
+   },
+   "unused_confirmSendModal_refund": {
+      "message": "İade"
+   },
+   "unused_confirmSendModal_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "unused_confirmSendModal_title_multiwallets": {
+      "message": "%{walletName} için eylem"
+   },
+   "unused_confirmSendModal_to_your_address": {
+      "message": "Adresinize"
+   },
+   "unused_confirmSendModal_total_risk": {
+      "message": "Toplam: %{totalAmount}"
+   },
+   "unused_confirmSendModal_transaction_type_burn": {
+      "message": "Yak"
+   },
+   "unused_confirmSendModal_transaction_type_receive": {
+      "message": "Al"
+   },
+   "unused_confirmSendModal_transaction_type_send": {
+      "message": "Gönder"
+   },
+   "unused_confirmSendModal_will_be_paid_with_battery": {
+      "message": "Batarya ile ödenecek"
+   },
+   "unused_confirm_error_insufficient_balance": {
+      "message": "Wallet balance %{balance} is not enough. Minimum balance required: %{required}."
+   },
+   "unused_confirm_renew_all_domains_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "unused_confirm_sending_amount": {
+      "message": "Tutar"
+   },
+   "unused_confirm_sending_inactive_warn_about": {
+      "message": "Ne yapmalısınız?"
+   },
+   "unused_confirm_sending_inactive_warn_description": {
+      "message": "Eğer blok zincirinin sihir gerçekleştirmesini bekliyorsanız devam etmeyin. Çünkü böyle bir şey olmayacak."
+   },
+   "unused_confirm_sending_inactive_warn_title": {
+      "message": "Etkin olmayan sözleşme"
+   },
+   "unused_confirm_sending_liquid_warn_description": {
+      "message": "Artık gönderilen stake edilmiş TON coin'lerden ödül almayacaksınız. Bu coin'lerin yeni sahibi ödülleri almaya başlayacak."
+   },
+   "unused_confirm_sending_liquid_warn_title": {
+      "message": "Not"
+   },
+   "unused_confirm_sending_message": {
+      "message": "Yorum"
+   },
+   "unused_confirm_sending_method_title": {
+      "message": "Kriptolarınızı %{name}'e göndermek istiyor musunuz?"
+   },
+   "unused_confirm_sending_recipient": {
+      "message": "Alıcı"
+   },
+   "unused_confirm_sending_recipient_address": {
+      "message": "Alıcı adresi"
+   },
+   "unused_confirm_sending_sent_caption_btc": {
+      "message": "İşleminiz ağa gönderildi ve bir saat içinde işleme alınacak."
+   },
+   "unused_confirm_sending_sent_caption_other": {
+      "message": "İşleminiz ağa gönderildi ve bir dakika içinde işlenecek."
+   },
+   "unused_confirm_sending_sent_caption_ton": {
+      "message": "İşleminiz ağa gönderildi ve bir kaç saniye içinde işleme alınacak."
+   },
+   "unused_confirm_sending_sent_jetton_title": {
+      "message": "Jeton gönderildi"
+   },
+   "unused_confirm_sending_sent_title": {
+      "message": "Para birimi gönderildi"
+   },
+   "unused_copy_error_log": {
+      "message": "Hata kaydını kopyalayın"
+   },
+   "unused_create_wallet_continue_button": {
+      "message": "Devam et"
+   },
+   "unused_customize_modal_save": {
+      "message": "Kaydet"
+   },
+   "unused_customize_modal_wallet_name": {
+      "message": "Cüzdan adı"
+   },
+   "unused_decryption_error": {
+      "message": "Şifre çözme hatası"
+   },
+   "unused_delete_wallet": {
+      "message": "Delete Wallet"
+   },
+   "unused_deleting_disable_pro_access": {
+      "message": "Deleting this wallet will disable Pro access"
+   },
+   "unused_deleting_disable_pro_access_description": {
+      "message": "Your Tonkeeper Pro subscription is linked to this wallet. If you delete it, Pro features will be unavailable until you add the wallet again."
+   },
+   "unused_deploy_contract_button": {
+      "message": "Onaylayın ve dağıtımını gerçekleştirin"
+   },
+   "unused_deploy_contract_title": {
+      "message": "Sözleşmenin dağıtımını gerçekleştirin"
+   },
+   "unused_disable_nft_marketplace_banner_description": {
+      "message": "Toplayın ve takas edin."
+   },
+   "unused_dns_addresses_few": {
+      "message": "%{count} adres"
+   },
+   "unused_dns_addresses_many": {
+      "message": "%{count} adres"
+   },
+   "unused_dns_addresses_one": {
+      "message": "%{count} adres"
+   },
+   "unused_dns_addresses_other": {
+      "message": "%{count} adres"
+   },
+   "unused_dns_alert_expiring_many_few": {
+      "message": "%{count} adet süresi dolmak üzere olan alan adınız mevcuttur. Tümünü %{untilDate} tarihine kadar yenilemeniz gerekmektedir."
+   },
+   "unused_dns_alert_expiring_many_many": {
+      "message": "%{count} adet süresi dolmak üzere olan alan adınız mevcuttur. Tümünü %{untilDate} tarihine kadar yenilemeniz gerekmektedir."
+   },
+   "unused_dns_alert_expiring_many_one": {
+      "message": "%{count} adet süresi dolmak üzere olan alan adınız mevcuttur. Tümünü %{untilDate} tarihine kadar yenilemeniz gerekmektedir."
+   },
+   "unused_dns_alert_expiring_many_other": {
+      "message": "%{count} adet süresi dolmak üzere olan alan adınız mevcuttur. Tümünü %{untilDate} tarihine kadar yenilemeniz gerekmektedir."
+   },
+   "unused_dns_alert_expiring_one": {
+      "message": "%{domain} alan adının süresi %{count} gün içinde dolacaktır. %{untilDate} tarihine kadar yenilemeniz gerekmektedir."
+   },
+   "unused_dns_link_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "unused_dns_on_sale_text": {
+      "message": "Alan adı şu anda pazar yerinde satışta. Transfer için önce satıştan kaldırmalısınız."
+   },
+   "unused_dns_renew_all_until_btn": {
+      "message": "Tümünü %{untilDate} tarihine kadar yenileyin"
+   },
+   "unused_dns_renew_in_progress_btn": {
+      "message": "Alan adı yenileme işlemi devam ediyor... "
+   },
+   "unused_dns_renew_valid_caption_few": {
+      "message": "%{count} gün içinde sona erecek"
+   },
+   "unused_dns_renew_valid_caption_many": {
+      "message": "%{count} gün içinde sona erecek"
+   },
+   "unused_dns_renew_valid_caption_one": {
+      "message": "%{count} gün içinde sona eriyor"
+   },
+   "unused_dns_renew_valid_caption_other": {
+      "message": "%{count} gün içinde sona eriyor"
+   },
+   "unused_dns_replace_button": {
+      "message": "Değiştirin"
+   },
+   "unused_dns_replace_description": {
+      "message": "{{domain}} alan adının bağlanacağı cüzdan adresini ekleyin."
+   },
+   "unused_dns_replace_save": {
+      "message": "Kaydet"
+   },
+   "unused_dns_unlink_title": {
+      "message": "Bağlantıyı kaldırmayı onaylayın"
+   },
+   "unused_dns_wallet_address": {
+      "message": "Cüzdan adresi"
+   },
+   "unused_domains_renewed": {
+      "message": "Yenilenen alan adları"
+   },
+   "unused_edit_coins_add": {
+      "message": "Ekle"
+   },
+   "unused_edit_coins_added": {
+      "message": "Eklendi"
+   },
+   "unused_edit_coins_added_toast": {
+      "message": "Eklendi"
+   },
+   "unused_edit_coins_hide": {
+      "message": "Gizle"
+   },
+   "unused_edit_coins_title": {
+      "message": "Kripto ekleyin"
+   },
+   "unused_encryptedComments_encryptedComment": {
+      "message": "Şifrelenmiş yorum"
+   },
+   "unused_encryptedComments_encryptedCommentModal_button": {
+      "message": "Yorumun şifresini çöz"
+   },
+   "unused_encryptedComments_encryptedCommentModal_checkboxLabel": {
+      "message": "Tekrar gösterme"
+   },
+   "unused_encryptedComments_encryptedCommentModal_description": {
+      "message": "Yorum, gönderen tarafından şifrelenir ve şifresi yalnızca sizin tarafınızdan çözülebilir. Lütfen içeriğe dikkat edin ve dolandırıcılıklara karşı dikkatli olun."
+   },
+   "unused_encryptedComments_encryptedCommentModal_title": {
+      "message": "Şifrelenmiş yorum"
+   },
+   "unused_encryptedComments_show": {
+      "message": "Göster"
+   },
+   "unused_error_network": {
+      "message": "Ağ hatası"
+   },
+   "unused_exchange_modal_buy": {
+      "message": "Satın al"
+   },
+   "unused_exchange_modal_buy_title": {
+      "message": "Toncoin satın al"
+   },
+   "unused_exchange_modal_hide": {
+      "message": "Gizle"
+   },
+   "unused_exchange_modal_other_ways_to_sell": {
+      "message": "Diğer satış yöntemleri"
+   },
+   "unused_exchange_modal_sell": {
+      "message": "Sat"
+   },
+   "unused_exchange_modal_sell_title": {
+      "message": "Toncoin sat"
+   },
+   "unused_exchange_modal_show_all": {
+      "message": "Tümünü göster"
+   },
+   "unused_exchange_modal_title": {
+      "message": "Satın Al veya Sat"
+   },
+   "unused_exchange_not_exists": {
+      "message": "Geçersiz takas kimliği"
+   },
+   "unused_exchange_telegram_bot": {
+      "message": "TELEGRAM BOTU"
+   },
+   "unused_expiring_domains": {
+      "message": "Süresi dolan alan adları"
+   },
+   "unused_failed_to_manage": {
+      "message": "Failed to manage subscription"
+   },
+   "unused_finish_setup_backup": {
+      "message": "Cüzdan kurtarma ifadesini yedekleyin"
+   },
+   "unused_finish_setup_done_button": {
+      "message": "Tamamlandı"
+   },
+   "unused_finish_setup_enable_notifications": {
+      "message": "İşlem bildirimlerini etkinleştirin"
+   },
+   "unused_finish_setup_header_title": {
+      "message": "Kurulumu tamamla"
+   },
+   "unused_finish_setup_join_tg": {
+      "message": "Tonkeeper kanalına katılın"
+   },
+   "unused_finish_setup_use_biometry": {
+      "message": "İşlemi onaylamak için %{name} kullanın"
+   },
+   "unused_form_optional_indicator": {
+      "message": "İsteğe bağlı"
+   },
+   "unused_free_pro_access_activated_toast": {
+      "message": "Free Pro Access Trial Activated"
+   },
+   "unused_free_pro_access_page_button_activated": {
+      "message": "Pro Access Granted"
+   },
+   "unused_free_pro_access_page_button_continue": {
+      "message": "Continue With Pro"
+   },
+   "unused_free_pro_access_page_card_acs_until": {
+      "message": "Pro Access: Until %{date}"
+   },
+   "unused_free_pro_access_page_card_promo_code": {
+      "message": "Promo Code"
+   },
+   "unused_free_pro_access_page_description": {
+      "message": "Tonkeeper Pro includes extended wallet features for crypto management — active only on this device. The subscription ends automatically. No charges apply."
+   },
+   "unused_free_pro_access_page_title": {
+      "message": "Free Pro Access: Until %{date}"
+   },
+   "unused_gasless_switch_label": {
+      "message": "Ödemek için %{currency} tıklayın"
+   },
+   "unused_import_wallet_reset_caption": {
+      "message": "Cüzdanınızı oluşturduğunuz sırada size verilen 24 harften oluşan gizli kurtarma ifadesini girerek cüzdanınıza erişimi geri kazanın."
+   },
+   "unused_indexer_latency_error": {
+      "message": "Gönderme hatası, daha sonra tekrar deneyin"
+   },
+   "unused_info_about_inactive_desc1": {
+      "message": "Tonkeeper bu adresin bir cüzdan adresi mi yoksa akıllı bir sözleşme adresi mi olduğunu bilmiyor."
+   },
+   "unused_info_about_inactive_desc2": {
+      "message": "Amacınız sadece cüzdana para yatırmak ise, devam edebilirsiniz."
+   },
+   "unused_info_about_inactive_desc3_1": {
+      "message": "Eğer bir akıllı sözleşmeden otomatik bir işlem gerçekleştirmesini bekliyorsanız,"
+   },
+   "unused_info_about_inactive_desc3_2": {
+      "message": "- transfer işleminiz söz konusu adreste takılı kalabilir."
+   },
+   "unused_info_about_inactive_desc3_bold": {
+      "message": "DEVAM ETMEYİN"
+   },
+   "unused_info_about_inactive_title": {
+      "message": "Etkin olmayan sözleşme"
+   },
+   "unused_intro_item3_caption": {
+      "message": "-"
+   },
+   "unused_intro_item3_title": {
+      "message": "-"
+   },
+   "unused_it_expires_on": {
+      "message": "Sona erme tarihi: "
+   },
+   "unused_jetton_buy_tether": {
+      "message": "USD₮ Satın Al"
+   },
+   "unused_jetton_id_copied": {
+      "message": "Token kimliği kopyalandı"
+   },
+   "unused_jetton_locked_till": {
+      "message": "%{date} tarihine kadar kilitli"
+   },
+   "unused_jetton_migrate_tether": {
+      "message": "jUSDT'yi USD₮'ye takas et"
+   },
+   "unused_jetton_name": {
+      "message": "%{name} Token"
+   },
+   "unused_jetton_open_explorer": {
+      "message": "Detayları görüntüleyin"
+   },
+   "unused_jetton_price": {
+      "message": "Fiyat:"
+   },
+   "unused_jetton_token": {
+      "message": "Token"
+   },
+   "unused_jettons_manage_tokens": {
+      "message": "Token'ları yönetin"
+   },
+   "unused_jettons_show_jettons": {
+      "message": "Cüzdandaki token'ları göster"
+   },
+   "unused_language_language_alert_cancel": {
+      "message": "İptal"
+   },
+   "unused_language_language_alert_open": {
+      "message": "Ayarlar"
+   },
+   "unused_language_language_alert_title": {
+      "message": "Uygulamanın dilini değiştirmek için cihaz Ayarları'na gidin"
+   },
+   "unused_language_languagesList_en": {
+      "message": "İngilizce"
+   },
+   "unused_language_languagesList_es": {
+      "message": "İspanyolca"
+   },
+   "unused_language_languagesList_id": {
+      "message": "Endonezce"
+   },
+   "unused_language_languagesList_ru": {
+      "message": "Rusça"
+   },
+   "unused_language_languagesList_system": {
+      "message": "Sistem"
+   },
+   "unused_language_languagesList_tr": {
+      "message": "Türkçe"
+   },
+   "unused_language_languagesList_uk": {
+      "message": "Ukraynaca"
+   },
+   "unused_language_languagesList_uz": {
+      "message": "Özbekçe"
+   },
+   "unused_language_languagesList_zh_Hans": {
+      "message": "Çince"
+   },
+   "unused_language_list_item_title": {
+      "message": "Dil"
+   },
+   "unused_language_list_item_value": {
+      "message": "Türkçe"
+   },
+   "unused_language_title": {
+      "message": "Dil"
+   },
+   "unused_ledger_confirm_title": {
+      "message": "İşlemi onaylayın"
+   },
+   "unused_ledger_confirm_tx": {
+      "message": "Ledger'daki işleminizi onaylayın"
+   },
+   "unused_ledger_connect": {
+      "message": "Bluetooth ile Ledger'i cihazınıza bağlayın"
+   },
+   "unused_ledger_connect_title": {
+      "message": "Ledger'i Bağla"
+   },
+   "unused_ledger_install_ton_app": {
+      "message": "TON Uygulamasını Yükle"
+   },
+   "unused_ledger_open_ton_app": {
+      "message": "Kilidini aç ve TON Uygulamasını aç"
+   },
+   "unused_link_copied": {
+      "message": "Bağlantı kopyalandı"
+   },
+   "unused_logout_modal_agreement": {
+      "message": "Bende kurtarma cümlesinin yedek kopyası var"
+   },
+   "unused_logout_modal_backup_button": {
+      "message": "Yedekle"
+   },
+   "unused_logout_modal_caption": {
+      "message": "Cüzdan anahtarları bu cihazdan silinecek."
+   },
+   "unused_logout_modal_delete_button": {
+      "message": "Cüzdan Verilerini Sil"
+   },
+   "unused_logout_modal_delete_caption": {
+      "message": "Cüzdan anahtarları ve tüm kişisel veriler bu cihazdan silinecek."
+   },
+   "unused_logout_modal_delete_title": {
+      "message": "Cüzdan Verilerini Sil"
+   },
+   "unused_logout_modal_logout_button": {
+      "message": "Çıkış Yap"
+   },
+   "unused_logout_modal_title": {
+      "message": "Çıkış Yap"
+   },
+   "unused_manage_other_coins": {
+      "message": "Kripto paralarımı yönet"
+   },
+   "unused_migration_cancel_btn": {
+      "message": "Daha sonra yükselt"
+   },
+   "unused_migration_caption": {
+      "message": "Tonkeeper, üyelik ödemelerini destekleyen yeni bir cüzdan formatı sunuyor. Bakiyeniz yeni bir adrese transfer edilecektir. Gizli kurtarma ifadeniz aynı kalacaktır."
+   },
+   "unused_migration_failed": {
+      "message": "Geçiş işlemi başarısız oldu. Bakiyeniz transfer edilemiyor."
+   },
+   "unused_migration_fee_info": {
+      "message": "Ağ ücreti ≈%{tonFee} TON (%{fiatFee})"
+   },
+   "unused_migration_in_progress": {
+      "message": "Cüzdan v4'e geçiş devam ediyor"
+   },
+   "unused_migration_migrate_btn": {
+      "message": "Cüzdanı yükseltin"
+   },
+   "unused_migration_new_wallet": {
+      "message": "Yeni adres"
+   },
+   "unused_migration_old_wallet": {
+      "message": "Eski adres"
+   },
+   "unused_migration_subtitle": {
+      "message": "Devam etmek için cüzdanın kilidini açın."
+   },
+   "unused_migration_title": {
+      "message": "Cüzdanınızı yükseltin"
+   },
+   "unused_migration_with_biometry": {
+      "message": "%{type} ile devam edin"
+   },
+   "unused_monthly_pro_package": {
+      "message": "1 month"
+   },
+   "unused_multisig_edit_submit_hint": {
+      "message": "Changes will require signatures from %{number} other participants."
+   },
+   "unused_multisig_edit_suggest_changes": {
+      "message": "Suggest Changes"
+   },
+   "unused_multisig_order_details": {
+      "message": "Request details"
+   },
+   "unused_multisig_update_config_confirm_title": {
+      "message": "Confirm update multisig parameters"
+   },
+   "unused_nft_about_dns": {
+      "message": "TON DNS, kullanıcıların kripto cüzdanlarına, akıllı sözleşmelere ve web sitelerine insan tarafından okunabilir bir isim atamasına olanak tanıyan bir hizmettir. TON DNS ile merkeziyetsiz hizmetlere erişim, İnternetteki web sitelerine erişime benzer."
+   },
+   "unused_nft_actions_hide_collection": {
+      "message": "Koleksiyonu Gizle"
+   },
+   "unused_nft_browse_markets": {
+      "message": "Piyasalara göz atın"
+   },
+   "unused_nft_chain": {
+      "message": "Zincir"
+   },
+   "unused_nft_change_owner_title": {
+      "message": "Koleksiyon sahibini değiştir"
+   },
+   "unused_nft_change_theme": {
+      "message": "Temayı değiştir"
+   },
+   "unused_nft_collection_name": {
+      "message": "Koleksiyon adı"
+   },
+   "unused_nft_confirm_operation": {
+      "message": "Onaylayın"
+   },
+   "unused_nft_diamonds_description": {
+      "message": "TON Diamonds, Tonkeeper cüzdanınızdaki temayı değiştirme gücüne sahiptir ve temanızın rengini NFT'nizin rengiyle eşleştirir."
+   },
+   "unused_nft_empty_header": {
+      "message": "Your purchases will be shown here"
+   },
+   "unused_nft_features": {
+      "message": "Özellikler"
+   },
+   "unused_nft_fee": {
+      "message": "Ücret"
+   },
+   "unused_nft_fee_and_royalties": {
+      "message": "Ücretler ve telif hakları"
+   },
+   "unused_nft_hide_details": {
+      "message": "Detayları gizle"
+   },
+   "unused_nft_item_deploy_title": {
+      "message": "NFT'i Mint'leyin"
+   },
+   "unused_nft_item_name": {
+      "message": "NFT ismi"
+   },
+   "unused_nft_link_domain_caption": {
+      "message": "Alan adını bağladıktan sonra, onu transfer edebilir ve adresiniz için bir takma ad olarak kullanabilirsiniz."
+   },
+   "unused_nft_link_domain_mismatch_warn": {
+      "message": "Alan adı mevcut adresinizle bağlantılı değil. Bu alan adını içeren işlemlerde dikkatli olun."
+   },
+   "unused_nft_link_username_caption": {
+      "message": "İsmi bağladıktan sonra, onu transfer edebilir ve adresiniz için bir takma ad olarak kullanabilirsiniz."
+   },
+   "unused_nft_link_username_mismatch_warn": {
+      "message": "İsim mevcut adresinizle bağlantılı değil. Bu ismi içeren işlemlerde dikkatli olun."
+   },
+   "unused_nft_marketplace_address": {
+      "message": "Pazar yeri"
+   },
+   "unused_nft_marketplace_banner_description": {
+      "message": "Satın alın, satın, toplayın ve takas edin."
+   },
+   "unused_nft_marketplace_banner_title": {
+      "message": "NFT tokenleriniz burada saklanacaktır"
+   },
+   "unused_nft_marketplaces": {
+      "message": "Keşfedin"
+   },
+   "unused_nft_marketplaces_title": {
+      "message": "NFT Marketleri"
+   },
+   "unused_nft_metadata": {
+      "message": "Metadata"
+   },
+   "unused_nft_new_owner_address": {
+      "message": "Yeni sahibin adresi"
+   },
+   "unused_nft_operation_slide_to_confirm": {
+      "message": "Onaylamak için Kaydırın"
+   },
+   "unused_nft_operation_success": {
+      "message": "Tamamlandı"
+   },
+   "unused_nft_operations_expired": {
+      "message": "İstek zaman aşımına uğradı, lütfen tekrar deneyin"
+   },
+   "unused_nft_price": {
+      "message": "Fiyat"
+   },
+   "unused_nft_proceeds": {
+      "message": "Kazancınız"
+   },
+   "unused_nft_properties": {
+      "message": "Özellikler"
+   },
+   "unused_nft_royalty": {
+      "message": "Telif Hakkı"
+   },
+   "unused_nft_royalty_address": {
+      "message": "Telif hakkı adresi"
+   },
+   "unused_nft_sale_cancel_title": {
+      "message": "Satıştan kaldırın"
+   },
+   "unused_nft_sale_place_title": {
+      "message": "NFT'yi satın"
+   },
+   "unused_nft_show_details": {
+      "message": "Detayları göster"
+   },
+   "unused_nft_standard": {
+      "message": "Token Standardı"
+   },
+   "unused_nft_title": {
+      "message": "NFT'ler"
+   },
+   "unused_nft_token_id": {
+      "message": "Token Kimliği"
+   },
+   "unused_nft_transaction_head_placeholder": {
+      "message": "NFT"
+   },
+   "unused_nft_transfer_comment": {
+      "message": "Yorum"
+   },
+   "unused_nft_transfer_confirm_fee_label": {
+      "message": "Ücret"
+   },
+   "unused_nft_transfer_confirm_fee_refund_label": {
+      "message": "İade"
+   },
+   "unused_nft_transfer_confirm_fee_value": {
+      "message": "%{value} TON"
+   },
+   "unused_nft_transfer_description": {
+      "message": "NFT bu adrese gönderilecek. Başka bir kullanıcıya NFT gönderirken dikkatli olun."
+   },
+   "unused_nft_transfer_dns": {
+      "message": "Transfer edin"
+   },
+   "unused_nft_transfer_recipient": {
+      "message": "Alıcı"
+   },
+   "unused_nft_unnamed_collection": {
+      "message": "İsimsiz koleksiyon"
+   },
+   "unused_nokyc": {
+      "message": "KYC gerekli değildir"
+   },
+   "unused_notcoin_all": {
+      "message": "Tonkeeper Pro'da hepsini değiştir"
+   },
+   "unused_notcoin_burn_not_available_hours": {
+      "message": "Değişim %{count} saat içinde kullanılabilir olacak"
+   },
+   "unused_notcoin_burn_not_available_minutes": {
+      "message": "Takas %{count} dakika sonra kullanılabilir olacak"
+   },
+   "unused_notcoin_burn_not_available_seconds": {
+      "message": "Exchange %{count} saniye içinde kullanılabilir olacak"
+   },
+   "unused_notcoin_count": {
+      "message": "Kupon sayısı"
+   },
+   "unused_notcoin_count_max": {
+      "message": "Maksimum 4 özdeğişim başına"
+   },
+   "unused_notcoin_exchange": {
+      "message": "Hediye çeklerini\\nNOT'a dönüştür"
+   },
+   "unused_notcoin_exchange_all": {
+      "message": "Hepsini değiştir\\nTonkeeper Pro'da"
+   },
+   "unused_notcoin_exchange_subtitle": {
+      "message": "NOT takas işleminden kısa bir süre sonra bakiyenizde mevcut olacak."
+   },
+   "unused_notcoin_exchange_title": {
+      "message": "Kuponlarınızı NOT ile değiştirin"
+   },
+   "unused_notcoin_exchange_to_not": {
+      "message": "NOT\" ile değiştir"
+   },
+   "unused_notcoin_name": {
+      "message": "Notcoin"
+   },
+   "unused_notcoin_not_vouchers": {
+      "message": "NOT kuponlar"
+   },
+   "unused_notcoin_open": {
+      "message": "Açık"
+   },
+   "unused_notcoin_open_bot": {
+      "message": "Notcoin Botunu Aç"
+   },
+   "unused_notcoin_slogan": {
+      "message": "Muhtemelen hiçbir şey değildir"
+   },
+   "unused_notcoin_total_amount": {
+      "message": "Toplam tutar"
+   },
+   "unused_notcoin_verify_subtitle": {
+      "message": "Doğrulama birkaç saat sürebilir."
+   },
+   "unused_notcoin_verify_title": {
+      "message": "Notcoin Bot'a cüzdanı bağlayın ve yakmayı doğrulayın"
+   },
+   "unused_notification_switch_description": {
+      "message": "Bağlı uygulamalardan  cüzdanınıza TON, token ve NFT geldiğinde bildirim alın."
+   },
+   "unused_notifications_alert_description": {
+      "message": "Bildirimdeki bağlantı adresi uygulama adresiyle eşleşmiyor."
+   },
+   "unused_notifications_alert_open": {
+      "message": "Yine de aç"
+   },
+   "unused_notifications_alert_title": {
+      "message": "Harici bir bağlantıyı açmak istediğinizden emin misiniz?"
+   },
+   "unused_notifications_allow_notifications": {
+      "message": "Bildirimleri etkinleştirin"
+   },
+   "unused_notifications_apps": {
+      "message": "Uygulamalar"
+   },
+   "unused_notifications_apps_description": {
+      "message": "Etkinlik sekmenizdeki bağlı uygulamalardan gelen bildirimler"
+   },
+   "unused_notifications_disabled_action": {
+      "message": "Ayarları Aç"
+   },
+   "unused_notifications_disabled_description": {
+      "message": "Telefonunuzun ayarlarında bildirimleri kapattınız. Bildirimleri etkinleştirmek için cihazınızdaki Ayarlar'a gidin."
+   },
+   "unused_notifications_disabled_title": {
+      "message": "Bildirimler devre dışı bırakıldı"
+   },
+   "unused_notifications_disconnect_app": {
+      "message": "%{app_name} uygulamasının bağlantısını kesin"
+   },
+   "unused_notifications_disconnected_app": {
+      "message": "Uygulama bağlantısı kesildi"
+   },
+   "unused_notifications_earlier": {
+      "message": "Daha önce"
+   },
+   "unused_notifications_from_connected": {
+      "message": "Bağlı uygulamalardan"
+   },
+   "unused_notifications_mute_notifications": {
+      "message": "Bildirimleri sessize al"
+   },
+   "unused_notifications_muted": {
+      "message": "Bildirimler sessize alındı"
+   },
+   "unused_notifications_not_supported": {
+      "message": "Cihazınızda bildirimler desteklenmiyor"
+   },
+   "unused_notifications_notifications": {
+      "message": "Bildirimler"
+   },
+   "unused_notifications_placeholder_description": {
+      "message": "Uygulamaları ve hizmetleri Tonkeeper tarayıcısında keşfedin."
+   },
+   "unused_notifications_placeholder_title": {
+      "message": "Bildirimler burada gösterilecektir"
+   },
+   "unused_notifications_report": {
+      "message": "Rapor edin"
+   },
+   "unused_notifications_switch_title": {
+      "message": "Anlık bildirimler"
+   },
+   "unused_notifications_title": {
+      "message": "Bildirimler"
+   },
+   "unused_notify_connection_err_caption": {
+      "message": "%{host} yanıt vermiyor. Lütfen daha sonra tekrar deneyin."
+   },
+   "unused_notify_connection_err_caption_few": {
+      "message": "%{hosts} ve %{lastHost} yanıt vermiyor. Lütfen daha sonra tekrar deneyin."
+   },
+   "unused_notify_connection_err_title": {
+      "message": "Sunucuya bağlanılamadı"
+   },
+   "unused_notify_incorrect_time_err_caption": {
+      "message": "Cihaz ayarlarında otomatik saat ve tarih ayarını etkinleştirin. Saatin otomatik olarak ayarlanmaması, kripto transferlerini etkileyebilir."
+   },
+   "unused_notify_incorrect_time_err_title": {
+      "message": "Saat ve tarih yanlış"
+   },
+   "unused_notify_no_signal_caption": {
+      "message": "Lütfen internet bağlantınızı kontrol edin."
+   },
+   "unused_notify_no_signal_title": {
+      "message": "Sinyal yok"
+   },
+   "unused_old_wallet_error": {
+      "message": "v4R2 sürümlü cüzdanı kullanın"
+   },
+   "unused_order_send_token": {
+      "message": "Send Token"
+   },
+   "unused_order_send_token_and_ton": {
+      "message": "Send TON and Token"
+   },
+   "unused_order_send_ton": {
+      "message": "Send TON"
+   },
+   "unused_page_header_purchases": {
+      "message": "Purchases"
+   },
+   "unused_pairSigner_about": {
+      "message": "Signer hakkında"
+   },
+   "unused_pairSigner_subtitle": {
+      "message": "Signer’i açın » Gerekli anahtarı seçin » QR kodu tarayın"
+   },
+   "unused_pairSigner_title": {
+      "message": "QR kodunu tara"
+   },
+   "unused_passcode_changed": {
+      "message": "Şifre değiştirildi"
+   },
+   "unused_pin_enter_faceid_err": {
+      "message": "Biyometrik doğrulama başarısız oldu"
+   },
+   "unused_pin_enter_skip_faceid_err": {
+      "message": "Biyometrik kimlik doğrulama gereklidir"
+   },
+   "unused_platform_android_capitalized_face_recognition": {
+      "message": "Yüz tanıma"
+   },
+   "unused_platform_android_capitalized_fingerprint": {
+      "message": "Parmak izi"
+   },
+   "unused_platform_android_face_recognition": {
+      "message": "yüz tanıma"
+   },
+   "unused_platform_android_face_recognition_genitive": {
+      "message": "yüz tanıma"
+   },
+   "unused_platform_android_fingerprint": {
+      "message": "Parmak izi"
+   },
+   "unused_platform_android_fingerprint_genitive": {
+      "message": "Parmak izi"
+   },
+   "unused_platform_ios_capitalized_face_recognition": {
+      "message": "Yüz kimliği"
+   },
+   "unused_platform_ios_capitalized_fingerprint": {
+      "message": "Touch ID"
+   },
+   "unused_platform_ios_face_recognition": {
+      "message": "Yüz kimliği"
+   },
+   "unused_platform_ios_face_recognition_genitive": {
+      "message": "Yüz kimliği"
+   },
+   "unused_platform_ios_fingerprint": {
+      "message": "Touch ID"
+   },
+   "unused_platform_ios_fingerprint_genitive": {
+      "message": "Touch ID"
+   },
+   "unused_pro_active_subscription_check_helper": {
+      "message": "We’ll check if there’s an active subscription or help you start one. Subscription will be linked to this wallet and will work on any device where it’s authorized."
+   },
+   "unused_pro_download_mobile_banner_description": {
+      "message": "Scan the QR code, start your 3-month free trial, and manage your wallet, tokens, and accounts—all in your pocket."
+   },
+   "unused_pro_download_mobile_banner_description_link": {
+      "message": "More Details"
+   },
+   "unused_pro_download_mobile_banner_title": {
+      "message": "Tonkeeper Pro — now on iPhone"
+   },
+   "unused_pro_feature_2fa_description": {
+      "message": "Extra layer of security."
+   },
+   "unused_pro_feature_2fa_title": {
+      "message": "On-Chain 2FA"
+   },
+   "unused_pro_feature_folders_description": {
+      "message": "Group wallets for easier navigation."
+   },
+   "unused_pro_feature_folders_title": {
+      "message": "Wallet Folders"
+   },
+   "unused_pro_feature_tron_description": {
+      "message": "Send USDT on Tron without holding TRX."
+   },
+   "unused_pro_feature_tron_title": {
+      "message": "TRC20 Support"
+   },
+   "unused_pro_mobile_footer_left_tab_button": {
+      "message": "Wallets"
+   },
+   "unused_pro_mobile_footer_right_tab_button": {
+      "message": "Actions"
+   },
+   "unused_pro_subscription_is_active": {
+      "message": "Pro üyelik aktif."
+   },
+   "unused_pro_trial_is_active": {
+      "message": "Pro deneme aktif."
+   },
+   "unused_programmable_nfts_alert_cancel": {
+      "message": "İptal"
+   },
+   "unused_programmable_nfts_alert_description": {
+      "message": "Bu harici bağlantıyı yalnızca koleksiyonu çıkartana güveniyorsanız ziyaret edin. {{uri}}"
+   },
+   "unused_programmable_nfts_alert_open": {
+      "message": "Yine de aç"
+   },
+   "unused_programmable_nfts_alert_title": {
+      "message": "Harici bir bağlantıyı açmak istediğinizden emin misiniz?"
+   },
+   "unused_receiveModal_receive": {
+      "message": "Al"
+   },
+   "unused_receiveModal_receive_description": {
+      "message": "Bu adrese yalnızca %{tokenName} ve TON ağındaki token'ları gönderin, öteki türlü kripto varlıklarınızı kaybedebilirsiniz."
+   },
+   "unused_receiveModal_receive_title": {
+      "message": "%{tokenName} Al"
+   },
+   "unused_receiveModal_receive_ton": {
+      "message": "Bu adrese yalnızca TON ağındaki TON ve token'ları gönderin, öteki türlü kripto varlıklarınızı kaybedebilirsiniz."
+   },
+   "unused_receive_address_title": {
+      "message": "ya da cüzdan adresini kullanın"
+   },
+   "unused_receive_copy": {
+      "message": "Kopyala"
+   },
+   "unused_receive_qr_title": {
+      "message": "Almak için QR kodunu gösterin"
+   },
+   "unused_receive_received_title": {
+      "message": "%{amount} %{currency} aldınız"
+   },
+   "unused_receive_share": {
+      "message": "Paylaş"
+   },
+   "unused_receive_title": {
+      "message": "%{currency} al"
+   },
+   "unused_receive_ton_and_jettons": {
+      "message": "TON ve diğer token'ları cüzdana alın"
+   },
+   "unused_recovery_phrase_caption": {
+      "message": "Bu kelimeleri numaralarıyla birlikte not edin ve güvenli bir yerde saklayın."
+   },
+   "unused_recovery_phrase_check_button": {
+      "message": "Yedekleme Kontrolü"
+   },
+   "unused_recovery_phrase_title": {
+      "message": "Gizli kurtarma ifadesi"
+   },
+   "unused_refresh_app": {
+      "message": "Yeniden Başlat"
+   },
+   "unused_region_nokyc": {
+      "message": "Tarafsız bölge"
+   },
+   "unused_renew_in_progress": {
+      "message": "Yenileme işlemi devam ediyor..."
+   },
+   "unused_renew_progress_of": {
+      "message": "%{current} / %{count}"
+   },
+   "unused_require_create_wallet_modal_caption": {
+      "message": "Tonkeeper'ı kullanmak için bağlı bir cüzdana ihtiyacınız var. Bunun için ya yeni bir cüzdan oluşturun ya da mevcut bir cüzdanı içe aktarın."
+   },
+   "unused_require_create_wallet_modal_create_new": {
+      "message": "Yeni cüzdan oluşturun"
+   },
+   "unused_require_create_wallet_modal_import": {
+      "message": "Mevcut cüzdanı içe aktarın"
+   },
+   "unused_require_create_wallet_modal_title": {
+      "message": "Haydi şimdi cüzdanınızı ayarlayalım"
+   },
+   "unused_reset_password": {
+      "message": "Reset Password"
+   },
+   "unused_reset_tron_cache": {
+      "message": "Tron önbelleğini sıfırla"
+   },
+   "unused_restake_banner_stake_into_step": {
+      "message": "Mevcut TON'u Tonstakers'a yatır."
+   },
+   "unused_restake_banner_stake_into_tonstakers_action": {
+      "message": "Tonstakers'a yatırın"
+   },
+   "unused_restake_banner_title": {
+      "message": "Tonstakers likit stakinginde %apy ile daha fazla TON kazanın"
+   },
+   "unused_restake_banner_unstake_action_all": {
+      "message": "Çıkar %{amount}"
+   },
+   "unused_restake_banner_unstake_action_manual": {
+      "message": "Manuel girin"
+   },
+   "unused_restake_banner_unstake_step": {
+      "message": "Geçerli staking sağlayıcınızdan TON'u çıkarın."
+   },
+   "unused_restake_banner_wait_step": {
+      "message": "TON'unuz kullanılabilir olana kadar bekleyin."
+   },
+   "unused_restake_banner_wait_step_collect": {
+      "message": "Topla"
+   },
+   "unused_restake_banner_wait_step_cooldown": {
+      "message": "TON'unuz yakında kullanılabilir olacak. Onları kısa süre içinde toplayabileceksiniz."
+   },
+   "unused_restake_banner_wait_step_pending": {
+      "message": "TON'unuz %{0, number}uration içinde kullanılabilir olacaktır. Bu süreden sonra onları toplayabilirsiniz."
+   },
+   "unused_restake_banner_wait_step_withdraw": {
+      "message": "Önceki staking sağlayıcınızdan mevcut TON'u alın."
+   },
+   "unused_scan_qr_open_settings": {
+      "message": "Ayarları Aç"
+   },
+   "unused_scan_qr_permission_error": {
+      "message": "QR kodlarını tarayabilmek için kameraya erişime izin verin"
+   },
+   "unused_security_lock_screen_switch": {
+      "message": "Kilit Ekranı"
+   },
+   "unused_security_lock_screen_tip": {
+      "message": "Cüzdan içeriğini görmek için parola gerekli."
+   },
+   "unused_security_migration_caption": {
+      "message": "Artık bakiyeniz ve tüm işlemleriniz bir şifre ile güvence altına alınmıştır. Biyometrik kontrol ile de işlemlerinizi hızlandırabilirsiniz."
+   },
+   "unused_security_migration_skip_button": {
+      "message": "Şimdi güncelleme yapmayın"
+   },
+   "unused_security_migration_submit_button": {
+      "message": "Güvenlik ayarlarını güncelleyin"
+   },
+   "unused_security_migration_title": {
+      "message": "Cüzdan güvenliğini güncelleyin"
+   },
+   "unused_security_reset_passcode": {
+      "message": "Şifreyi sıfırlayın"
+   },
+   "unused_security_title": {
+      "message": "Güvenlik"
+   },
+   "unused_security_use_biometry_switch": {
+      "message": "%{biometryType} kullanın"
+   },
+   "unused_security_use_biometry_tip": {
+      "message": "Cüzdanınızı her zaman bir şifre ile açabilirsiniz."
+   },
+   "unused_send_address_placeholder": {
+      "message": "Adres veya isim"
+   },
+   "unused_send_all_warning_title": {
+      "message": "Tüm bakiyenizi göndermek istediğinizden emin misiniz?"
+   },
+   "unused_send_build_tx_error": {
+      "message": "İşleminiz başarısız oldu"
+   },
+   "unused_send_comment_label": {
+      "message": "Yorum ekleyin"
+   },
+   "unused_send_get_wallet_info_error": {
+      "message": "Cüzdan bilgileri alınamadı"
+   },
+   "unused_send_insufficient_funds": {
+      "message": "Yetersiz bakiye"
+   },
+   "unused_send_invalid_recipient_caption": {
+      "message": "Alan adı mevcut değil ya da cüzdan adresi ile bağlantılı değil"
+   },
+   "unused_send_invalid_recipient_title": {
+      "message": "Geçersiz alıcı"
+   },
+   "unused_send_liquid_jetton_warning_title": {
+      "message": "Garantiye ait bakiyenin bir kısmını göndermek istediğinizden emin misiniz?"
+   },
+   "unused_send_lockup_warning_caption": {
+      "message": "Lütfen izin verilen adrese gönderdiğinizden emin olun. İşlem başarısız olsa bile işlem ücreti kesilecektir."
+   },
+   "unused_send_lockup_warning_submit_button": {
+      "message": "Gönder"
+   },
+   "unused_send_lockup_warning_title": {
+      "message": "Tutar likit bakiyeyi aşıyor"
+   },
+   "unused_send_screen_steps_address_placeholder": {
+      "message": "Cüzdan adresi veya alan adı"
+   },
+   "unused_send_screen_steps_address_recent_label": {
+      "message": "En son"
+   },
+   "unused_send_screen_steps_address_suggest_actions_edit": {
+      "message": "Favoriyi düzenleyin"
+   },
+   "unused_send_screen_steps_address_title": {
+      "message": "Alıcı"
+   },
+   "unused_send_screen_steps_amount_less_than_min": {
+      "message": "Minimum %{minAmount} TON"
+   },
+   "unused_send_screen_steps_amount_less_than_min_with_symbol": {
+      "message": "Minimum %{minAmount} %{symbol}"
+   },
+   "unused_send_screen_steps_amount_liquid_jetton_note": {
+      "message": "tsTON likidite tokeni gönderiliyor"
+   },
+   "unused_send_screen_steps_amount_recipient_label": {
+      "message": "Alıcı:"
+   },
+   "unused_send_screen_steps_amount_title": {
+      "message": "Tutar"
+   },
+   "unused_send_screen_steps_choose_coin_subtitle": {
+      "message": "Sonraki adımda, alıcı ve tutarı gireceksiniz."
+   },
+   "unused_send_screen_steps_choose_coin_title": {
+      "message": "Göndermek için bir token seçin"
+   },
+   "unused_send_screen_steps_comfirm_action": {
+      "message": "%{coin} transferi"
+   },
+   "unused_send_screen_steps_comfirm_comment_ascii_text": {
+      "message": "Yalnızca ASCII karakterler kullanın: rakamlar, Latin alfabesi harfleri ve noktalama işaretleri."
+   },
+   "unused_send_screen_steps_comfirm_comment_characters_exceeded": {
+      "message": "Mesaj boyutu %{count} karakteri aştı."
+   },
+   "unused_send_screen_steps_comfirm_comment_characters_left": {
+      "message": "Kalan %{count} karakter."
+   },
+   "unused_send_screen_steps_comfirm_comment_decrypt": {
+      "message": "Şifreyi çöz"
+   },
+   "unused_send_screen_steps_comfirm_comment_description": {
+      "message": "Herkes tarafından görülebilir olacaktır."
+   },
+   "unused_send_screen_steps_comfirm_comment_description_encrypted": {
+      "message": "Sadece alıcı ve siz tarafından görülebilecektir."
+   },
+   "unused_send_screen_steps_comfirm_comment_encrypt": {
+      "message": "Yorumu şifrele"
+   },
+   "unused_send_screen_steps_comfirm_comment_label": {
+      "message": "Yorum"
+   },
+   "unused_send_screen_steps_comfirm_comment_label_encrypted": {
+      "message": "Şifrelenmiş yorum"
+   },
+   "unused_send_screen_steps_comfirm_comment_label_required": {
+      "message": "Gerekli yorum"
+   },
+   "unused_send_screen_steps_comfirm_comment_placeholder": {
+      "message": "Mesaj veya bağlantı (isteğe bağlı)"
+   },
+   "unused_send_screen_steps_comfirm_comment_placeholder_required": {
+      "message": "Not veya etiket"
+   },
+   "unused_send_screen_steps_comfirm_details_label": {
+      "message": "Detaylar"
+   },
+   "unused_send_screen_steps_comfirm_details_max_balance_label": {
+      "message": "Maksimum %{currency} bakiye gönderiliyor"
+   },
+   "unused_send_screen_steps_comfirm_will_be_paid_with_battery": {
+      "message": "Batarya ile ödenecek"
+   },
+   "unused_send_screen_steps_done_add_favorite": {
+      "message": "Adresi favorilere kaydet"
+   },
+   "unused_send_screen_steps_done_address": {
+      "message": "Adres: %{address}"
+   },
+   "unused_send_screen_steps_done_comment": {
+      "message": "Yorum: %{comment}"
+   },
+   "unused_send_screen_steps_done_description": {
+      "message": "İşleminiz ağa gönderildi ve birkaç saniye içinde işleme alınacak."
+   },
+   "unused_send_screen_steps_done_favorite_saved": {
+      "message": "Favorilere kaydedildi"
+   },
+   "unused_send_screen_steps_done_fee": {
+      "message": "Ücret: %{fee}"
+   },
+   "unused_send_screen_steps_done_title": {
+      "message": "%{currency} gönderildi!"
+   },
+   "unused_send_sending_failed": {
+      "message": "Gönderim başarısız oldu"
+   },
+   "unused_send_sending_wrong_time_title": {
+      "message": "Hata oluştu"
+   },
+   "unused_send_title": {
+      "message": "%{currency} gönder"
+   },
+   "unused_settings_appearance": {
+      "message": "Tema"
+   },
+   "unused_settings_bank_card": {
+      "message": "Banka kartı"
+   },
+   "unused_settings_delete_alert_button": {
+      "message": "Hesabı ve verileri sil"
+   },
+   "unused_settings_delete_alert_caption": {
+      "message": "Bu işlem hesabınızı ve bu uygulamadaki tüm verilerinizi silecektir."
+   },
+   "unused_settings_delete_alert_title": {
+      "message": "Hesabınızı silmek istediğinize emin misiniz?"
+   },
+   "unused_settings_delete_signer_account": {
+      "message": "Hesabı Sil?"
+   },
+   "unused_settings_delete_watch_account": {
+      "message": "İzleme Hesabını Sil?"
+   },
+   "unused_settings_delete_watch_account_button": {
+      "message": "Sil"
+   },
+   "unused_settings_faq": {
+      "message": "SSS"
+   },
+   "unused_settings_multisig_settings": {
+      "message": "Multisig Settings"
+   },
+   "unused_settings_news_url": {
+      "message": "https://t.me/tonkeeper"
+   },
+   "unused_settings_reset_alert_button": {
+      "message": "Oturumu kapat"
+   },
+   "unused_settings_reset_alert_caption": {
+      "message": "Bu işlem, cüzdan anahtarlarını siler. Gizli kurtarma ifadesini yedeklediğinizden emin olun."
+   },
+   "unused_settings_reset_alert_caption_all": {
+      "message": "Bu işlem, tüm cüzdan anahtarlarını siler. Kurtarma ifadelerinizi yedeklediğinizden emin olun."
+   },
+   "unused_settings_subscriptions": {
+      "message": "Üyelikler"
+   },
+   "unused_settings_theme": {
+      "message": "Tema"
+   },
+   "unused_settings_theme_names_blue": {
+      "message": "Koyu Mavi"
+   },
+   "unused_settings_theme_names_dark": {
+      "message": "Koyu"
+   },
+   "unused_settings_theme_names_light": {
+      "message": "Açık"
+   },
+   "unused_settings_theme_names_system": {
+      "message": "Sistem"
+   },
+   "unused_settings_to_mainnet": {
+      "message": "Mainnet'e geçiş yapın"
+   },
+   "unused_settings_to_testnet": {
+      "message": "Testnet'e geçiş yapın"
+   },
+   "unused_setup_biometry_caption": {
+      "message": "%{biometryType}, şifrenizi girmeden cüzdanınızı daha hızlı açmanıza olanak tanır."
+   },
+   "unused_setup_biometry_enable_button": {
+      "message": "%{biometryType} özelliğini etkinleştirin"
+   },
+   "unused_setup_biometry_title": {
+      "message": "%{biometryType} ile hızlı oturum açma"
+   },
+   "unused_setup_notifications_caption": {
+      "message": "Cüzdanınıza TON, token ve NFT geldiğinde bildirimler alın."
+   },
+   "unused_setup_notifications_enable_button": {
+      "message": "Bildirimleri etkinleştirin"
+   },
+   "unused_setup_notifications_title": {
+      "message": "Anlık bildirimler alın"
+   },
+   "unused_show": {
+      "message": "Show"
+   },
+   "unused_signerConfirm_confirm": {
+      "message": "İşleminizi Signer'da onaylayın"
+   },
+   "unused_signerConfirm_scan_qr": {
+      "message": "Signer ile QR kodunu tarayın"
+   },
+   "unused_signerConfirm_scan_signed_qr": {
+      "message": "Signer tarafından imzalanan işlem QR kodunu tarayın"
+   },
+   "unused_signerConfirm_step": {
+      "message": "Adım %{value}"
+   },
+   "unused_signerConfirm_title": {
+      "message": "İşlemi Onayla"
+   },
+   "unused_skip": {
+      "message": "Atla"
+   },
+   "unused_soon": {
+      "message": "soon"
+   },
+   "unused_staking_active": {
+      "message": "Aktif"
+   },
+   "unused_staking_confirm_address_label": {
+      "message": "Alıcı adresi"
+   },
+   "unused_staking_confirm_amount_label": {
+      "message": "Tutar"
+   },
+   "unused_staking_confirm_amount_value": {
+      "message": "%{value} TON"
+   },
+   "unused_staking_confirm_deposit": {
+      "message": "Onaylayın ve yatırın"
+   },
+   "unused_staking_confirm_fee_label": {
+      "message": "Ücret"
+   },
+   "unused_staking_confirm_fee_value": {
+      "message": "≈ %{value} TON"
+   },
+   "unused_staking_confirm_recipient_label": {
+      "message": "Alıcı"
+   },
+   "unused_staking_confirm_unstake": {
+      "message": "Onaylayın ve geri çekin"
+   },
+   "unused_staking_confirm_withdraw_amount_label": {
+      "message": "Çekilecek tutar"
+   },
+   "unused_staking_confirm_withdraw_amount_value": {
+      "message": "%{value} TON"
+   },
+   "unused_staking_desc_large": {
+      "message": "TONcoin stake edenler arasına katılın ve ödüller kazanın. Staking, TON ağını korumaya yardımcı olur."
+   },
+   "unused_staking_details_about_pool": {
+      "message": "Detaylar"
+   },
+   "unused_staking_details_apy_highest_tag": {
+      "message": "MAKS"
+   },
+   "unused_staking_details_apy_label": {
+      "message": "APY"
+   },
+   "unused_staking_details_apy_value": {
+      "message": "≈ %{value}%"
+   },
+   "unused_staking_details_balance": {
+      "message": "Staking bakiyesi"
+   },
+   "unused_staking_details_cooldown_active": {
+      "message": "Aktif"
+   },
+   "unused_staking_details_cooldown_desc": {
+      "message": "Her staking döngüsünün başında çekme ve yatırma işlemlerini iyileştirmek için uygulanan iki saatlik bir süre"
+   },
+   "unused_staking_details_cooldown_title": {
+      "message": "Bekleme süresi"
+   },
+   "unused_staking_details_frequency_label": {
+      "message": "Ödül sıklığı"
+   },
+   "unused_staking_details_frequency_value": {
+      "message": "Her %{count} saatte bir"
+   },
+   "unused_staking_details_frequency_value_few": {
+      "message": "Her %{count} saatte bir"
+   },
+   "unused_staking_details_frequency_value_many": {
+      "message": "Her %{count} saatte"
+   },
+   "unused_staking_details_frequency_value_one": {
+      "message": "Her %{count} saatte"
+   },
+   "unused_staking_details_frequency_value_zero": {
+      "message": "Her %{count} saat"
+   },
+   "unused_staking_details_links_title": {
+      "message": "Bağlantılar"
+   },
+   "unused_staking_details_liquidity_token_label": {
+      "message": "%{token} likidite tokeni"
+   },
+   "unused_staking_details_liquidity_token_value": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "unused_staking_details_min_deposit_label": {
+      "message": "Minimum yatırabilecek tutar"
+   },
+   "unused_staking_details_min_deposit_value": {
+      "message": "%{value} TON"
+   },
+   "unused_staking_details_next_cycle_desc": {
+      "message": "Tüm işlemler, döngü sona erdikten sonra geçerli olur."
+   },
+   "unused_staking_details_next_cycle_desc_liquid": {
+      "message": "Tüm çekim talepleri, döngü sona erdiğinde gerçekleştirilir."
+   },
+   "unused_staking_details_next_cycle_in": {
+      "message": ":"
+   },
+   "unused_staking_details_next_cycle_message": {
+      "message": "Unstake talebi, %{value} içindeki doğrulama döngüsünün bitiminden sonra işlenecektir."
+   },
+   "unused_staking_details_next_cycle_reward_title": {
+      "message": "Sonraki ödül"
+   },
+   "unused_staking_details_next_cycle_time": {
+      "message": "%{time} içinde"
+   },
+   "unused_staking_details_next_cycle_title": {
+      "message": "Sonraki döngü"
+   },
+   "unused_staking_details_note": {
+      "message": "Staking, üçüncü taraflar tarafından yazılan akıllı sözleşmelere dayanmaktadır. Tonkeeper, staking deneyiminizden sorumlu değildir."
+   },
+   "unused_staking_details_pendingDeposit": {
+      "message": "Yatırma bekleniyor"
+   },
+   "unused_staking_details_pendingWithdraw": {
+      "message": "Çekme bekleniyor"
+   },
+   "unused_staking_details_pendingWithdrawDesc": {
+      "message": "döngünün sonunda"
+   },
+   "unused_staking_details_readyWithdraw": {
+      "message": "Çekim için hazır"
+   },
+   "unused_staking_details_show_details": {
+      "message": "Ayrıntılar"
+   },
+   "unused_staking_details_socials_telegram": {
+      "message": "Topluluk"
+   },
+   "unused_staking_details_socials_twitter": {
+      "message": "Twitter"
+   },
+   "unused_staking_details_tap_to_collect": {
+      "message": "Çekmek için dokunun"
+   },
+   "unused_staking_estimated_profit": {
+      "message": "%{amount} TON - Eğer bugün TON stake ederseniz kazanacağınız yıllık kâr"
+   },
+   "unused_staking_estimated_profit_compare": {
+      "message": "Mevcut staking'inize göre yılda %{amount} TON daha kârlı"
+   },
+   "unused_staking_get_withdrawal": {
+      "message": "Çekim yapın"
+   },
+   "unused_staking_highest_apy": {
+      "message": "MAKS. APY"
+   },
+   "unused_staking_jetton_note": {
+      "message": "TON'unuzu %{poolName} havuzuna yatırdığınızda, bu tutar karşılığında havuzdaki payınızı temsil eden miktarda %{token} adlı bir token hesabınıza yatacaktır. Havuzda kâr biriktikçe, %{token} token'ınızın temsil ettiği TON miktarı artacaktır."
+   },
+   "unused_staking_learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "unused_staking_message_pendingDeposit": {
+      "message": "%{amount} TON eklenecek"
+   },
+   "unused_staking_message_pendingWithdraw": {
+      "message": "%{amount} TON çekilecek"
+   },
+   "unused_staking_message_pendingWithdrawLiquid": {
+      "message": "%{amount} TON, döngünün bitiminden sonra stake edilecek"
+   },
+   "unused_staking_message_readyWithdraw": {
+      "message": "%{amount} TON çekilmeye hazır.\nÇekmek için dokunun"
+   },
+   "unused_staking_no_funds": {
+      "message": "Stake havuzundan geri alınacak herhangi bir meblağ bulunmuyor"
+   },
+   "unused_staking_not_exists": {
+      "message": "Geçersiz havuz adresi"
+   },
+   "unused_staking_other": {
+      "message": "Diğer"
+   },
+   "unused_staking_recommended": {
+      "message": "Tavsiye edilen"
+   },
+   "unused_staking_rewards_after_top_up": {
+      "message": "Yatırma işleminden sonra"
+   },
+   "unused_staking_rewards_current": {
+      "message": "Güncel"
+   },
+   "unused_staking_rewards_title": {
+      "message": "APY'niz"
+   },
+   "unused_staking_rewards_value": {
+      "message": "≈ %{value} TON"
+   },
+   "unused_staking_send_staked_ton": {
+      "message": "Stake edilmiş TON"
+   },
+   "unused_staking_staked": {
+      "message": "Stake edildi"
+   },
+   "unused_staking_staked_ton": {
+      "message": "Stake edilmiş TON"
+   },
+   "unused_staking_staking_desc": {
+      "message": "Minimum yatırma tutarı %{minStake} TON'dur. Azami %{maxApy}% oranında getiri elde edebilirsiniz."
+   },
+   "unused_staking_staking_pool_desc": {
+      "message": "APY ≈ %{apy}%"
+   },
+   "unused_staking_title": {
+      "message": "Staking"
+   },
+   "unused_staking_title_large": {
+      "message": "TON Staking"
+   },
+   "unused_staking_top_up": {
+      "message": "Yatırma"
+   },
+   "unused_staking_transaction": {
+      "message": "İşlem"
+   },
+   "unused_staking_warning_about": {
+      "message": "%{name} hakkında"
+   },
+   "unused_staking_warning_beta_desc": {
+      "message": "Staking işleminin istikrarından ve işlem sırasındaki deneyiminizden sorumlu değiliz. Bu hizmeti, tüm riski sadece kendinize ait olduğunu unutmadan kullanınız."
+   },
+   "unused_staking_warning_desc": {
+      "message": "Staking, üçüncü taraflar tarafından yazılan akıllı sözleşmelere dayanmaktadır. Tonkeeper olarak söz konusu üçüncü tarafların çalışmaları bakımından herhangi bir sorumluluğumuz bulunmamaktadır."
+   },
+   "unused_staking_warning_title": {
+      "message": "Uyarı"
+   },
+   "unused_staking_widget_desc": {
+      "message": "%{apy}% kadar APY"
+   },
+   "unused_staking_widget_staking_options": {
+      "message": "Staking seçenekleri"
+   },
+   "unused_staking_widget_title": {
+      "message": "TON kazanın"
+   },
+   "unused_staking_withdrawal_fee_warning_continue": {
+      "message": "Yine de devam et"
+   },
+   "unused_staking_withdrawal_fee_warning_message": {
+      "message": "Lütfen bakiyenizde en az {{amount}} TON bırakın."
+   },
+   "unused_staking_withdrawal_fee_warning_title": {
+      "message": "Çekim yapmak için yeterli bakiyeniz bulunmamaktadır"
+   },
+   "unused_staking_withdrawal_request": {
+      "message": "Çekme talebi"
+   },
+   "unused_start_screen_caption": {
+      "message": "Yeni bir cüzdan oluşturun veya mevcut bir cüzdan ekleyin."
+   },
+   "unused_stop_watch": {
+      "message": "İzleme Hesabını Sil"
+   },
+   "unused_subscription_back_to_merchant_button": {
+      "message": "Geri"
+   },
+   "unused_subscription_back_to_merchant_caption": {
+      "message": "Talebiniz işleniyor. Üyeliğiniz yakında aktif olacaktır."
+   },
+   "unused_subscription_back_to_merchant_name": {
+      "message": "%{merchantName}'e geri dön"
+   },
+   "unused_subscription_back_to_merchant_title": {
+      "message": "Kanala geri dönülsün mü?"
+   },
+   "unused_subscription_cancel": {
+      "message": "Üyeliği iptal et"
+   },
+   "unused_subscription_cancel_alert_cancel_btn": {
+      "message": "Şimdi değil"
+   },
+   "unused_subscription_cancel_alert_caption": {
+      "message": "Şimdi iptal ederseniz, hâlâ üyeliğinize %{nextBill} tarihine kadar erişebilirsiniz"
+   },
+   "unused_subscription_cancel_alert_submit_btn": {
+      "message": "Evet, iptal et"
+   },
+   "unused_subscription_cancel_alert_title": {
+      "message": "Üyeliği iptal etmek istiyor musunuz?"
+   },
+   "unused_subscription_expiring": {
+      "message": "Süresi sona eriyor"
+   },
+   "unused_subscription_fee": {
+      "message": "Ücret"
+   },
+   "unused_subscription_next_bill": {
+      "message": "Sonraki fatura"
+   },
+   "unused_subscription_open_merchant": {
+      "message": "Telegram'da aç"
+   },
+   "unused_subscription_period": {
+      "message": "Aralık"
+   },
+   "unused_subscription_period_custom": {
+      "message": "Her %{period} "
+   },
+   "unused_subscription_period_day": {
+      "message": "Günlük"
+   },
+   "unused_subscription_period_half_year": {
+      "message": "Altı aylık"
+   },
+   "unused_subscription_period_hour": {
+      "message": "Saatlik"
+   },
+   "unused_subscription_period_month": {
+      "message": "Aylık"
+   },
+   "unused_subscription_period_quarter": {
+      "message": "Üç aylık"
+   },
+   "unused_subscription_period_week": {
+      "message": "Haftalık"
+   },
+   "unused_subscription_period_weeks": {
+      "message": "Her %{count} haftada bir"
+   },
+   "unused_subscription_period_year": {
+      "message": "Yıllık"
+   },
+   "unused_subscription_price": {
+      "message": "Fiyat"
+   },
+   "unused_subscription_sent": {
+      "message": "İşlem gönderildi"
+   },
+   "unused_subscription_started": {
+      "message": "Üyelik başlatıldı"
+   },
+   "unused_subscription_subscribe": {
+      "message": "Üye ol"
+   },
+   "unused_subscription_title": {
+      "message": "Üyelik"
+   },
+   "unused_subscription_unsubscribe": {
+      "message": "Üyelikten çık"
+   },
+   "unused_subscriptions_item_caption": {
+      "message": "%{price} TON, sonraki fatura %{nextBill} tarihinde düzenlenecektir"
+   },
+   "unused_subscriptions_item_caption_expired": {
+      "message": "%{date} tarihinde süresi dolmuş"
+   },
+   "unused_subscriptions_item_caption_expiring": {
+      "message": "%{price} TON, %{date} tarihinde süresi doluyor"
+   },
+   "unused_subscriptions_section_active": {
+      "message": "Aktif"
+   },
+   "unused_subscriptions_section_expired": {
+      "message": "Süresi dolmuş"
+   },
+   "unused_subscriptions_title": {
+      "message": "Üyelikler"
+   },
+   "unused_tab_browser": {
+      "message": "Tarayıcı"
+   },
+   "unused_tab_collectibles": {
+      "message": "Koleksiyonlar"
+   },
+   "unused_tab_nft": {
+      "message": "NFT'ler"
+   },
+   "unused_tab_settings": {
+      "message": "Ayarlar"
+   },
+   "unused_tab_swap": {
+      "message": "Takas"
+   },
+   "unused_tab_wallet": {
+      "message": "Cüzdan"
+   },
+   "unused_tokenDetails_name": {
+      "message": "İsim"
+   },
+   "unused_tokenDetails_title": {
+      "message": "Token Detayları"
+   },
+   "unused_tokenDetails_token_id": {
+      "message": "Token Kimliği"
+   },
+   "unused_ton_login_back_to_button": {
+      "message": "%{name}'e geri dön"
+   },
+   "unused_ton_login_title": {
+      "message": "%{0, number}omain'e bağlanılsın mı?"
+   },
+   "unused_tonconnect_error_bad_request": {
+      "message": "Geçersiz istek"
+   },
+   "unused_tonconnect_error_wrong_from": {
+      "message": "Yanlış 'from' parametresi"
+   },
+   "unused_tonconnect_error_wrong_network": {
+      "message": "Yanlış ağ"
+   },
+   "unused_tonkeeper_pro_authorization": {
+      "message": "To access the Pro features, server authorization is required via Ton Proof. Please ensure you import a wallet that supports this technology. This step is crucial for enabling the full range of Pro functionalities securely and effectively."
+   },
+   "unused_tonkeeper_pro_monthly": {
+      "message": "1 month"
+   },
+   "unused_tonkeeper_pro_yearly": {
+      "message": "1 year"
+   },
+   "unused_transactionDetails_address": {
+      "message": "Adres"
+   },
+   "unused_transactionDetails_bid_collection_name": {
+      "message": "Koleksiyon yayıncısı"
+   },
+   "unused_transactionDetails_bid_date": {
+      "message": "Teklif %{time}"
+   },
+   "unused_transactionDetails_bid_name": {
+      "message": "İsim"
+   },
+   "unused_transactionDetails_call_contract_date": {
+      "message": "Sözleşme çağrısı %{time}"
+   },
+   "unused_transactionDetails_description": {
+      "message": "Açıklama"
+   },
+   "unused_transactionDetails_payload": {
+      "message": "Bloğun yararlı yükü"
+   },
+   "unused_transactionDetails_purchase_date": {
+      "message": "Satın alma %{time}"
+   },
+   "unused_transactionDetails_received_date": {
+      "message": "Alındı %{time}"
+   },
+   "unused_transactionDetails_recipient_address": {
+      "message": "Alıcı adresi"
+   },
+   "unused_transactionDetails_sender": {
+      "message": "Gönderen"
+   },
+   "unused_transactionDetails_sender_address": {
+      "message": "Gönderen adresi"
+   },
+   "unused_transactionDetails_sent_date": {
+      "message": "Gönderildi %{time}"
+   },
+   "unused_transactionDetails_spam": {
+      "message": "İstenmeyen mesaj"
+   },
+   "unused_transactionDetails_subscription_merchant_label": {
+      "message": "Satıcı"
+   },
+   "unused_transactionDetails_subscription_product_label": {
+      "message": "Üyelik"
+   },
+   "unused_transactionDetails_swapped_date": {
+      "message": "Takas edilen %{time}"
+   },
+   "unused_transactionDetails_transaction": {
+      "message": "İşlem"
+   },
+   "unused_transactionDetails_unsubscription_title": {
+      "message": "Üyelikten çıkıldı"
+   },
+   "unused_transactionDetails_withdraw_amount": {
+      "message": "Çekilecek tutar"
+   },
+   "unused_transaction_bid_collection_name": {
+      "message": "Koleksiyon yayıncısı"
+   },
+   "unused_transaction_bid_date": {
+      "message": "%{date} tarihli teklif"
+   },
+   "unused_transaction_buy_date": {
+      "message": "%{date} tarihinde satın alındı"
+   },
+   "unused_transaction_buy_status_failed": {
+      "message": "Başarısız"
+   },
+   "unused_transaction_buy_status_pending": {
+      "message": "Beklemede"
+   },
+   "unused_transaction_buy_status_success": {
+      "message": "Başarılı"
+   },
+   "unused_transaction_confirm_bid": {
+      "message": "Teklifi onayla"
+   },
+   "unused_transaction_confirmations": {
+      "message": "Onaylar"
+   },
+   "unused_transaction_contract_deploy_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_copy_caution": {
+      "message": "Harici bağlantılara dikkat edin. Gizli kurtarma ifadenizi üçüncü taraflarla asla paylaşmayın - yoksa tüm bakiyenizi kaybedebilirsiniz.\n\n- - -\n\n"
+   },
+   "unused_transaction_exchange_from_currency": {
+      "message": "Satılan"
+   },
+   "unused_transaction_message": {
+      "message": "Mesaj"
+   },
+   "unused_transaction_purchase_id": {
+      "message": "Satın Alma Kimliği"
+   },
+   "unused_transaction_refund": {
+      "message": "İade"
+   },
+   "unused_transaction_send_more_button": {
+      "message": "Bu alıcıya daha fazla gönderin"
+   },
+   "unused_transaction_show_subscription_button": {
+      "message": "Üyeliği görüntüle"
+   },
+   "unused_transaction_status": {
+      "message": "Durum"
+   },
+   "unused_transaction_subscription": {
+      "message": "Üyelik"
+   },
+   "unused_transaction_subscription_date": {
+      "message": "%{date} tarihinde ücret tahsil edildi"
+   },
+   "unused_transaction_transfer_name": {
+      "message": "Transfer adı"
+   },
+   "unused_transaction_type_bounced": {
+      "message": "Geri iade edildi"
+   },
+   "unused_transaction_type_buy": {
+      "message": "Satın alındı"
+   },
+   "unused_transaction_type_from": {
+      "message": "Alındı:"
+   },
+   "unused_transaction_type_new_subscriber": {
+      "message": "Yeni üye"
+   },
+   "unused_transaction_type_subscriber_lost": {
+      "message": "Üye kaybedildi"
+   },
+   "unused_transaction_type_to": {
+      "message": "Gönderildi:"
+   },
+   "unused_transaction_unsubscription": {
+      "message": "Üyelikten çıkma"
+   },
+   "unused_transaction_unsubscription_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_view_in_explorer": {
+      "message": "Explorer'da görüntüleyin"
+   },
+   "unused_transaction_wallet_initialized_date": {
+      "message": "%{date}"
+   },
+   "unused_transaction_your_bid": {
+      "message": "Teklifiniz"
+   },
+   "unused_transactions_bid": {
+      "message": "Teklif ver"
+   },
+   "unused_transactions_contract_deploy": {
+      "message": "Sözleşme Dağıtımı"
+   },
+   "unused_transactions_deposit": {
+      "message": "Yatırma"
+   },
+   "unused_transactions_failed_with_reason_swap_refund_no_liq": {
+      "message": "Başarısız. Bu hatayı önlemek için takas ayarlarında kayma toleransını artırın."
+   },
+   "unused_transactions_subscription": {
+      "message": "Üye olundu"
+   },
+   "unused_transactions_unsubscription": {
+      "message": "Üyelikten çıkıldı"
+   },
+   "unused_transactions_wallet_initialized": {
+      "message": "Cüzdan başlatıldı"
+   },
+   "unused_transactions_withdraw": {
+      "message": "Çekme"
+   },
+   "unused_transactions_withdrawal_request": {
+      "message": "Çekme talebi"
+   },
+   "unused_transfer_battery_required_button": {
+      "message": "Charge Battery"
+   },
+   "unused_transfer_battery_required_description": {
+      "message": "Use Tonkeeper Battery to send USD₮ TRC20."
+   },
+   "unused_transfer_battery_required_title": {
+      "message": "Tonkeeper Battery required for USD₮ TRC20"
+   },
+   "unused_transfer_deeplink_address_error": {
+      "message": "Hatalı alıcı adresi"
+   },
+   "unused_transfer_deeplink_amount_error": {
+      "message": "Hatalı tutar isteği"
+   },
+   "unused_transfer_deeplink_expired_error": {
+      "message": "Süresi dolmuş bağlantı"
+   },
+   "unused_transfer_deeplink_nft_address_error": {
+      "message": "Hatalı NFT adresi"
+   },
+   "unused_transfer_deeplink_unknown_jetton_error": {
+      "message": "Bilinmeyen token"
+   },
+   "unused_transfer_deeplink_unknown_token": {
+      "message": "Bilinmeyen token"
+   },
+   "unused_transfer_deeplink_wrong_params": {
+      "message": "Yanlış parametreler"
+   },
+   "unused_transfer_from_old_wallet_btn": {
+      "message": "Transfer et"
+   },
+   "unused_transfer_from_old_wallet_caption": {
+      "message": "Tonkeeper, tüm coin'leri eski adresinizden yeni adresinize transfer edecek."
+   },
+   "unused_transfer_from_old_wallet_in_progress": {
+      "message": "Transfer işlemi devam ediyor"
+   },
+   "unused_transfer_from_old_wallet_title": {
+      "message": "Mevcut adrese transfer et"
+   },
+   "unused_transfer_pending_by_battery_error": {
+      "message": "Başka bir işlem pil tarafından işleniyor"
+   },
+   "unused_tron_battery_required_banner_button": {
+      "message": "Charge Battery"
+   },
+   "unused_tron_battery_required_banner_description": {
+      "message": "Battery charges are used to cover transaction fees, making transfers simpler and more cost-effective."
+   },
+   "unused_tron_battery_required_banner_title": {
+      "message": "Tonkeeper Battery required for USD₮ TRC20"
+   },
+   "unused_tron_top_up_trx_button": {
+      "message": "Top Up TRX"
+   },
+   "unused_tron_top_up_trx_description": {
+      "message": "You need TRX to pay transaction fees. Balance: %{balance}"
+   },
+   "unused_tron_top_up_trx_title": {
+      "message": "TRX is required for USD₮ TRC20"
+   },
+   "unused_two_fa_send_continue_with_tg": {
+      "message": "Continue with Telegram"
+   },
+   "unused_two_fa_settings_tg_recovery_button": {
+      "message": "Link new account"
+   },
+   "unused_two_fa_settings_tg_recovery_text": {
+      "message": "Can’t access your Telegram account? Linking a new account will take 14 days."
+   },
+   "unused_two_fa_short": {
+      "message": "2FA"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_close": {
+      "message": "İptal"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_description": {
+      "message": "Cüzdanı değiştirmek ve işlemi onaylamak."
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_switch": {
+      "message": "Geçiş Yap ve Devam Et"
+   },
+   "unused_txActions_signRaw_addressMismatch_switchWallet_title": {
+      "message": "Cüzdanınız için eylem %{value}"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_close": {
+      "message": "İptal"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_description": {
+      "message": "İşlemi onaylamak için etkin adresinizi %{version} olarak değiştirin."
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_switch": {
+      "message": "Değiştir ve devam et"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongVersion_title": {
+      "message": "Cüzdanınızın başka bir adresi için işlem"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_close": {
+      "message": "Tamam"
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_description": {
+      "message": "%{address} numaralı başka bir cüzdan ile giriş yapın ve tekrar deneyin."
+   },
+   "unused_txActions_signRaw_addressMismatch_wrongWallet_title": {
+      "message": "Başka bir cüzdan için işlem"
+   },
+   "unused_txActions_signRaw_insufficientFunds_rechargeBattery": {
+      "message": "Bataryayı şarj edin"
+   },
+   "unused_txActions_signRaw_insufficientFunds_rechargeWallet": {
+      "message": "Cüzdana yeniden bakiye yükleyin"
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingDeposit": {
+      "message": "Katılım için minimum bakiye:\n%{amount} %{currency}\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_stakingFee": {
+      "message": "İşlem için %{amount} TON gerekiyor. Tahminen %{fee} TON ücret kesilecek, geri kalanı iade edilecektir."
+   },
+   "unused_txActions_signRaw_insufficientFunds_title": {
+      "message": "Yetersiz bakiye"
+   },
+   "unused_txActions_signRaw_insufficientFunds_title_multiwallet": {
+      "message": "Cüzdanınızda yeterli bakiye yok"
+   },
+   "unused_txActions_signRaw_insufficientFunds_toBePaid": {
+      "message": "Ödenecek tutar: %{amount} %{currency}\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_withFees": {
+      "message": "+ blokzinciri ücretleri.\n"
+   },
+   "unused_txActions_signRaw_insufficientFunds_yourBalance": {
+      "message": "Bakiyeniz: %{balance} %{currency}."
+   },
+   "unused_txActions_signRaw_totalFee": {
+      "message": "Toplam ücret"
+   },
+   "unused_txActions_signRaw_totalRefund": {
+      "message": "Toplam iade tutarı"
+   },
+   "unused_txActions_signRaw_types_contractDeploy": {
+      "message": "Sözleşme Dağıtımı"
+   },
+   "unused_txActions_signRaw_types_subscribe": {
+      "message": "Üyelik"
+   },
+   "unused_txActions_signRaw_types_unSubscribe": {
+      "message": "Üyelikten çıkma"
+   },
+   "unused_txActions_signRaw_warning_caption": {
+      "message": "Tonkeeper bu işlemin sonucunu tam olarak doğrulayamaz. Alıcının güvenilir olduğundan emin olun."
+   },
+   "unused_txActions_signRaw_warning_title": {
+      "message": "Uyarı"
+   },
+   "unused_txActions_signRaw_wrongTime_button": {
+      "message": "Ayarları Aç"
+   },
+   "unused_txActions_signRaw_wrongTime_description": {
+      "message": "Cihazınızın saati ağ ile senkronize edilmemiş gibi görünüyor. Cihaz ayarlarına gidin ve otomatik saat ve tarih ayarını etkinleştirin."
+   },
+   "unused_txActions_signRaw_wrongTime_title": {
+      "message": "Saatler senkronize değil"
+   },
+   "unused_unverifiedTokenDetails_button": {
+      "message": "Tamam"
+   },
+   "unused_unverifiedTokenDetails_description": {
+      "message": "Bu belirteç bir veya birkaç nedenle şüpheli görünüyor."
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p1": {
+      "message": "Düşük likidite. Tokenin bir değeri olabilir, ancak bu çok düşüktür."
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p2": {
+      "message": "Token ticaret platformlarında listelenmemiştir ve sınırlı talebe sahiptir."
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p3": {
+      "message": "Spam için kullanılır. Büyük ölçekli istenmeyen ve genellikle alakasız mesajlar göndermek için kullanılır."
+   },
+   "unused_unverifiedTokenDetails_paragraphs_p4": {
+      "message": "Dolandırıcılık için kullanılır. Token'in adı veya resmi kullanıcıları aldatabilir."
+   },
+   "unused_unverifiedTokenDetails_title": {
+      "message": "Doğrulanmamış Token"
+   },
+   "unused_update_description": {
+      "message": "Tonkeeper'in yeni bir sürümü mevcut. Şimdi indirebilirsiniz."
+   },
+   "unused_update_download": {
+      "message": "İndir"
+   },
+   "unused_update_downloading": {
+      "message": "İndiriliyor... {{progress}}%"
+   },
+   "unused_update_mb": {
+      "message": "{{size}} MB"
+   },
+   "unused_update_remindLater": {
+      "message": "Daha sonra hatırlat"
+   },
+   "unused_update_retry": {
+      "message": "İndirme hatası. Yeniden denemek için dokunun."
+   },
+   "unused_update_tap": {
+      "message": "Güncellemek için dokunun"
+   },
+   "unused_update_title": {
+      "message": "Tonkeeper'ı güncelleyin"
+   },
+   "unused_update_version": {
+      "message": "Sürüm {{version}}"
+   },
+   "unused_upgrade_to_w5_about_button": {
+      "message": "W5 Cüzdan hakkında"
+   },
+   "unused_upgrade_to_w5_description": {
+      "message": "Gazsız USDT ödemeleri ve diğer harika özelliklerle yeni W5 cüzdan standardını deneyin."
+   },
+   "unused_upgrade_to_w5_hide_button": {
+      "message": "Gizle"
+   },
+   "unused_upgrade_to_w5_settings": {
+      "message": "Cüzdan W5"
+   },
+   "unused_upgrade_to_w5_title": {
+      "message": "Gassız Transferler"
+   },
+   "unused_upgrade_to_w5_try_button": {
+      "message": "W5 Cüzdanı Dene"
+   },
+   "unused_username_issued_by_telegram": {
+      "message": "Telegram tarafından verilmiştir"
+   },
+   "unused_username_manage_name_button": {
+      "message": "İsmi yönet"
+   },
+   "unused_w5_stories_0_description": {
+      "message": "W5, işlem işlemede daha verimli bir yaklaşım benimser ve bu da gaz maliyetlerini %25'e kadar düşürür."
+   },
+   "unused_w5_stories_0_title": {
+      "message": "Azaltılmış Blockchain Ücretleri"
+   },
+   "unused_w5_stories_1_description": {
+      "message": "W5, aynı anda gerçekleştirilen işlem sayısını 4'ten 255'e çıkararak komisyon maliyetlerini azaltabilir."
+   },
+   "unused_w5_stories_1_title": {
+      "message": "Bir işlemde 255'e kadar işlem yapılabilir"
+   },
+   "unused_w5_stories_2_description": {
+      "message": "TON'a sahip olmadan USDT gönderin – işlem ücretleri otomatik olarak birkaç sent USDT ile karşılanacaktır."
+   },
+   "unused_w5_stories_2_title": {
+      "message": "Gazsız USDT Transferleri"
+   },
+   "unused_w5_stories_3_description": {
+      "message": "Eski hesaplar ve W5 aynı kurtarma ifadesini kullanır - yeni bir cihazda hesapları geri yüklerken, hem eski hem de yeni otomatik olarak görünecektir."
+   },
+   "unused_w5_stories_3_title": {
+      "message": "Kurtarma İfadesi Değişmez"
+   },
+   "unused_w5_stories_4_button": {
+      "message": "W5 Cüzdanını Ekle"
+   },
+   "unused_w5_stories_4_description": {
+      "message": "W5 standardı kesin değildir. Gazsız işlemler, nasıl çalıştığını test etmek için deneysel bir özellik olarak sunulmaktadır. Nihai sürüm yayınlanana kadar tüm varlıklarınızı W5 cüzdanına taşımayın."
+   },
+   "unused_w5_stories_4_title": {
+      "message": "W5 Beta"
+   },
+   "unused_wallet_about": {
+      "message": "Hakkında"
+   },
+   "unused_wallet_aside_home": {
+      "message": "Home"
+   },
+   "unused_wallet_aside_purchases": {
+      "message": "Purchases"
+   },
+   "unused_wallet_buy_btn": {
+      "message": "TON satın alın"
+   },
+   "unused_wallet_chat": {
+      "message": "Sohbet"
+   },
+   "unused_wallet_community": {
+      "message": "Topluluk"
+   },
+   "unused_wallet_edit_tokens_btn": {
+      "message": "Düzenle"
+   },
+   "unused_wallet_hours_symbol": {
+      "message": "s"
+   },
+   "unused_wallet_inscriptions_tab_label": {
+      "message": "İnskripsiyonlar"
+   },
+   "unused_wallet_nft_tab_lable": {
+      "message": "Koleksiyon varlıkları"
+   },
+   "unused_wallet_old_balance": {
+      "message": "Eski cüzdan:"
+   },
+   "unused_wallet_old_wallet_title": {
+      "message": "Eski cüzdan"
+   },
+   "unused_wallet_old_wallets_title": {
+      "message": "Eski cüzdanlar"
+   },
+   "unused_wallet_receive_btn": {
+      "message": "Al"
+   },
+   "unused_wallet_screen_title": {
+      "message": "Cüzdan"
+   },
+   "unused_wallet_sell_btn": {
+      "message": "Sat"
+   },
+   "unused_wallet_send_btn": {
+      "message": "Gönder"
+   },
+   "unused_wallet_source_code": {
+      "message": "Kaynak kodu"
+   },
+   "unused_wallet_stake_btn": {
+      "message": "Stake Et"
+   },
+   "unused_wallet_swap_btn": {
+      "message": "Takas"
+   },
+   "unused_wallet_toncommunity_chat_link": {
+      "message": "https://t.me/toncoin_tr_chat"
+   },
+   "unused_wallet_toncommunity_link": {
+      "message": "https://t.me/toncoin"
+   },
+   "unused_wallet_tonkens_tab_lable": {
+      "message": "Tokenlar"
+   },
+   "unused_wallet_updated_at": {
+      "message": "%{value} tarihinde güncellendi"
+   },
+   "unused_watch_only": {
+      "message": "Sadece izle"
+   },
+   "unused_yearly_pro_package": {
+      "message": "1 year"
+   },
+   "update": {
+      "message": "Güncelle"
+   },
+   "update_click_to_install": {
+      "message": "En son sürümü yüklemek için tıklayın"
+   },
+   "update_ledger_error": {
+      "message": "Ledger yazılımınızın güncel olduğundan emin olun"
+   },
+   "update_subscription": {
+      "message": "Aboneliği Güncelle"
+   },
+   "upload_file": {
+      "message": "Dosya yükle"
+   },
+   "view_on_tonviewer": {
+      "message": "Tonviewer'da görüntüle"
+   },
+   "view_transaction": {
+      "message": "İşlemi Gör"
+   },
+   "wallet": {
+      "message": "Cüzdan"
+   },
+   "wallet_2fa_recovery_started": {
+      "message": "Kurtarma işlemi başlatıldı"
+   },
+   "wallet_address": {
+      "message": "Cüzdan adresi"
+   },
+   "wallet_aside_collectibles": {
+      "message": "Koleksiyon Ürünleri"
+   },
+   "wallet_aside_domains": {
+      "message": "Alan Adları"
+   },
+   "wallet_aside_history": {
+      "message": "Geçmiş"
+   },
+   "wallet_aside_menu_tabs_active": {
+      "message": "Etkin Sekmeler"
+   },
+   "wallet_aside_menu_tabs_close_all_btn": {
+      "message": "Hepsini Kapat"
+   },
+   "wallet_aside_menu_tabs_edit_btn_done": {
+      "message": "Tamamlandı"
+   },
+   "wallet_aside_menu_tabs_edit_btn_edit": {
+      "message": "Düzenle"
+   },
+   "wallet_aside_menu_tabs_pinned": {
+      "message": "Sabitlendi"
+   },
+   "wallet_aside_multisig_wallets": {
+      "message": "Çoklu imza cüzdanları"
+   },
+   "wallet_aside_orders": {
+      "message": "Talepler"
+   },
+   "wallet_aside_settings": {
+      "message": "Cüzdan Ayarları"
+   },
+   "wallet_aside_tokens": {
+      "message": "Tokenlar"
+   },
+   "wallet_buy": {
+      "message": "Satın al"
+   },
+   "wallet_collectibles_tab_lable": {
+      "message": "Koleksiyon varlıkları"
+   },
+   "wallet_multi_send": {
+      "message": "Çoklu Gönderim"
+   },
+   "wallet_receive": {
+      "message": "Al"
+   },
+   "wallet_scan_btn": {
+      "message": "Tara"
+   },
+   "wallet_sell": {
+      "message": "Sat"
+   },
+   "wallet_send": {
+      "message": "Gönder"
+   },
+   "wallet_swap": {
+      "message": "Takas"
+   },
+   "wallet_title": {
+      "message": "Cüzdan"
+   },
+   "wallet_version_and_tokens": {
+      "message": ", jeton"
+   },
+   "wallets": {
+      "message": "Cüzdanlar"
+   },
+   "web_no_connection": {
+      "message": "İnternet bağlantısı yok"
+   },
+   "what_is_included": {
+      "message": "Neler dahil"
+   },
+   "will_be_active_until": {
+      "message": "Şu tarihe kadar aktif olacak"
+   },
+   "yesterday": {
+      "message": "Dün"
+   },
+   "your_plan": {
+      "message": "Planınız"
+   }
+}

@@ -1,0 +1,14 @@
+2026/01/14-19:34:22.403 83c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zkcodex.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-19:34:22.403 83c Recovering log #310
+2026/01/14-19:34:22.404 83c Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zkcodex.com_0.indexeddb.leveldb/000310.log 
+2026/01/14-19:34:22.404 83c Delete type=2 #308
+2026/01/14-19:34:23.041 83e Level-0 table #315: started
+2026/01/14-19:34:23.044 83e Level-0 table #315: 4061 bytes OK
+2026/01/14-19:34:23.049 83e Delete type=0 #310
+2026/01/14-19:34:23.049 83e Manual compaction at level-0 from '\x00Q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00R\x00\x00\x00' @ 0 : 0; will stop at '\x00Q\x00\x00\x05' @ 13449 : 1
+2026/01/14-19:34:23.049 83e Compacting 1@0 + 1@1 files
+2026/01/14-19:34:23.052 83e Generated table #316@0: 229 keys, 3474 bytes
+2026/01/14-19:34:23.052 83e Compacted 1@0 + 1@1 files => 3474 bytes
+2026/01/14-19:34:23.054 83e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/14-19:34:23.055 83e Delete type=2 #315
+2026/01/14-19:34:23.055 83e Manual compaction at level-0 from '\x00Q\x00\x00\x05' @ 13449 : 1 .. '\x00R\x00\x00\x00' @ 0 : 0; will stop at (end)

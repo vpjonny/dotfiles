@@ -1,0 +1,25 @@
+2025/11/05-17:12:31.506 5e6 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yallery.web.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/05-17:12:31.509 5e6 Recovering log #92
+2025/11/05-17:12:31.512 5e6 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yallery.web.app_0.indexeddb.leveldb/000092.log 
+2025/11/05-17:12:31.513 5e6 Delete type=2 #91
+2025/11/05-17:12:31.727 5e4 Level-0 table #97: started
+2025/11/05-17:12:31.770 5e4 Level-0 table #97: 2202 bytes OK
+2025/11/05-17:12:31.814 5e4 Delete type=0 #92
+2025/11/05-17:12:31.815 5e4 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 2196 : 1
+2025/11/05-17:12:31.815 5e4 Compacting 1@0 + 1@1 files
+2025/11/05-17:12:31.861 5e4 Generated table #98@0: 141 keys, 3547 bytes
+2025/11/05-17:12:31.861 5e4 Compacted 1@0 + 1@1 files => 3547 bytes
+2025/11/05-17:12:31.924 5e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/05-17:12:31.925 5e4 Delete type=2 #97
+2025/11/05-17:12:31.925 5e4 Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 2196 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-17:13:10.072 5f3 Level-0 table #100: started
+2025/11/05-17:13:10.139 5f3 Level-0 table #100: 5624 bytes OK
+2025/11/05-17:13:10.241 5f3 Delete type=2 #94
+2025/11/05-17:13:10.241 5f3 Delete type=0 #96
+2025/11/05-17:13:10.242 5e4 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 2313 : 1
+2025/11/05-17:13:10.242 5e4 Compacting 1@0 + 1@1 files
+2025/11/05-17:13:10.309 5e4 Generated table #101@0: 145 keys, 3527 bytes
+2025/11/05-17:13:10.309 5e4 Compacted 1@0 + 1@1 files => 3527 bytes
+2025/11/05-17:13:10.419 5e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/05-17:13:10.420 5e4 Delete type=2 #100
+2025/11/05-17:13:10.420 5e4 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 2313 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)

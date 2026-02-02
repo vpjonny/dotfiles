@@ -1,0 +1,36 @@
+2026/02/01-14:32:49.911 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pawtato.app_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-14:32:49.912 662 Recovering log #1633
+2026/02/01-14:32:49.912 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pawtato.app_0.indexeddb.leveldb/001633.log 
+2026/02/01-14:32:49.912 662 Delete type=2 #1632
+2026/02/01-14:32:50.697 662 Level-0 table #1638: started
+2026/02/01-14:32:50.701 662 Level-0 table #1638: 4338 bytes OK
+2026/02/01-14:32:50.703 662 Delete type=0 #1633
+2026/02/01-14:32:50.703 662 Manual compaction at level-0 from ' \xef\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xf0\x01\x00\x00\x00' @ 0 : 0; will stop at ' \xef\x01\x00\x00\x05' @ 17675 : 1
+2026/02/01-14:32:50.703 662 Compacting 1@0 + 1@1 files
+2026/02/01-14:32:50.707 662 Generated table #1639@0: 102 keys, 5690 bytes
+2026/02/01-14:32:50.707 662 Compacted 1@0 + 1@1 files => 5690 bytes
+2026/02/01-14:32:50.709 662 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-14:32:50.709 662 Delete type=2 #1638
+2026/02/01-14:32:50.709 662 Manual compaction at level-0 from ' \xef\x01\x00\x00\x05' @ 17675 : 1 .. ' \xf0\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/01-14:32:50.839 662 Level-0 table #1641: started
+2026/02/01-14:32:50.841 662 Level-0 table #1641: 2348 bytes OK
+2026/02/01-14:32:50.843 662 Delete type=0 #1637
+2026/02/01-14:32:50.844 662 Delete type=2 #1635
+2026/02/01-14:32:50.844 662 Manual compaction at level-0 from ' \xf0\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xf1\x01\x00\x00\x00' @ 0 : 0; will stop at ' \xf0\x01\x00\x00\x05' @ 17697 : 1
+2026/02/01-14:32:50.844 662 Compacting 1@0 + 1@1 files
+2026/02/01-14:32:50.846 662 Generated table #1642@0: 102 keys, 4713 bytes
+2026/02/01-14:32:50.847 662 Compacted 1@0 + 1@1 files => 4713 bytes
+2026/02/01-14:32:50.849 662 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-14:32:50.849 662 Delete type=2 #1641
+2026/02/01-14:32:50.849 662 Manual compaction at level-0 from ' \xf0\x01\x00\x00\x05' @ 17697 : 1 .. ' \xf1\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/01-14:32:51.926 664 Level-0 table #1644: started
+2026/02/01-14:32:51.941 664 Level-0 table #1644: 2662 bytes OK
+2026/02/01-14:32:51.948 664 Delete type=2 #1639
+2026/02/01-14:32:51.948 664 Delete type=0 #1640
+2026/02/01-14:32:51.948 662 Manual compaction at level-0 from ' \xf1\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xf2\x01\x00\x00\x00' @ 0 : 0; will stop at ' \xf1\x01\x00\x00\x05' @ 17737 : 1
+2026/02/01-14:32:51.948 662 Compacting 1@0 + 1@1 files
+2026/02/01-14:32:51.953 662 Generated table #1645@0: 102 keys, 4714 bytes
+2026/02/01-14:32:51.954 662 Compacted 1@0 + 1@1 files => 4714 bytes
+2026/02/01-14:32:51.961 662 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-14:32:51.961 662 Delete type=2 #1644
+2026/02/01-14:32:51.961 662 Manual compaction at level-0 from ' \xf1\x01\x00\x00\x05' @ 17737 : 1 .. ' \xf2\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

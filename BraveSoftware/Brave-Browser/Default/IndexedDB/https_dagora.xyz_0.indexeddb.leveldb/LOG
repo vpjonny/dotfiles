@@ -1,0 +1,13 @@
+2025/10/20-12:33:38.953 5bc Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dagora.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/20-12:33:38.954 5bc Recovering log #7
+2025/10/20-12:33:38.954 5bc Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dagora.xyz_0.indexeddb.leveldb/000007.log 
+2025/10/20-12:33:39.961 5ee Level-0 table #11: started
+2025/10/20-12:33:39.995 5ee Level-0 table #11: 3673 bytes OK
+2025/10/20-12:33:40.078 5ee Delete type=0 #7
+2025/10/20-12:33:40.078 5ba Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 233 : 1
+2025/10/20-12:33:40.078 5ba Compacting 1@0 + 1@1 files
+2025/10/20-12:33:40.158 5ba Generated table #12@0: 78 keys, 2035 bytes
+2025/10/20-12:33:40.159 5ba Compacted 1@0 + 1@1 files => 2035 bytes
+2025/10/20-12:33:40.445 5ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/20-12:33:40.445 5ba Delete type=2 #11
+2025/10/20-12:33:40.446 5ba Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 233 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,25 @@
+2026/01/28-17:06:54.508 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nexus.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-17:06:54.508 8c5 Recovering log #131
+2026/01/28-17:06:54.510 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nexus.xyz_0.indexeddb.leveldb/000131.log 
+2026/01/28-17:06:54.510 8c5 Delete type=2 #129
+2026/01/28-17:06:54.914 8d7 Level-0 table #136: started
+2026/01/28-17:06:54.916 8d7 Level-0 table #136: 2253 bytes OK
+2026/01/28-17:06:54.919 8d7 Delete type=0 #131
+2026/01/28-17:06:54.919 8c7 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at '\x00*\x00\x00\x05' @ 1608 : 1
+2026/01/28-17:06:54.919 8c7 Compacting 1@0 + 1@1 files
+2026/01/28-17:06:54.921 8c7 Generated table #137@0: 67 keys, 1856 bytes
+2026/01/28-17:06:54.922 8c7 Compacted 1@0 + 1@1 files => 1856 bytes
+2026/01/28-17:06:54.924 8c7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/28-17:06:54.924 8c7 Delete type=2 #136
+2026/01/28-17:06:54.924 8c7 Manual compaction at level-0 from '\x00*\x00\x00\x05' @ 1608 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/28-17:06:55.604 8d9 Level-0 table #139: started
+2026/01/28-17:06:55.606 8d9 Level-0 table #139: 655 bytes OK
+2026/01/28-17:06:55.609 8d9 Delete type=2 #133
+2026/01/28-17:06:55.609 8d9 Delete type=0 #135
+2026/01/28-17:06:55.609 8c5 Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at '\x00+\x00\x00\x05' @ 1625 : 1
+2026/01/28-17:06:55.609 8c5 Compacting 1@0 + 1@1 files
+2026/01/28-17:06:55.611 8c5 Generated table #140@0: 67 keys, 1854 bytes
+2026/01/28-17:06:55.611 8c5 Compacted 1@0 + 1@1 files => 1854 bytes
+2026/01/28-17:06:55.613 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/28-17:06:55.613 8c5 Delete type=2 #139
+2026/01/28-17:06:55.614 8c5 Manual compaction at level-0 from '\x00+\x00\x00\x05' @ 1625 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)

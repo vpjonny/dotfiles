@@ -1,0 +1,13 @@
+2026/02/01-16:06:36.326 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitelist1.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-16:06:36.327 662 Recovering log #468
+2026/02/01-16:06:36.327 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitelist1.notion.site_0.indexeddb.leveldb/000468.log 
+2026/02/01-16:06:43.718 662 Level-0 table #472: started
+2026/02/01-16:06:43.723 662 Level-0 table #472: 28898 bytes OK
+2026/02/01-16:06:43.725 662 Delete type=0 #468
+2026/02/01-16:06:43.726 662 Manual compaction at level-0 from '\x00t\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00u\x00\x00\x00' @ 0 : 0; will stop at '\x00t\x00\x00\x05' @ 4421 : 1
+2026/02/01-16:06:43.726 662 Compacting 1@0 + 1@1 files
+2026/02/01-16:06:43.729 662 Generated table #473@0: 47 keys, 1170 bytes
+2026/02/01-16:06:43.729 662 Compacted 1@0 + 1@1 files => 1170 bytes
+2026/02/01-16:06:43.734 662 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-16:06:43.734 662 Delete type=2 #472
+2026/02/01-16:06:43.734 662 Manual compaction at level-0 from '\x00t\x00\x00\x05' @ 4421 : 1 .. '\x00u\x00\x00\x00' @ 0 : 0; will stop at (end)

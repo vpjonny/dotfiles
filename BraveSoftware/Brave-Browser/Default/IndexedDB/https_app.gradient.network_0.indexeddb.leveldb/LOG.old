@@ -1,0 +1,20 @@
+2025/11/03-15:13:09.866 5e4 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gradient.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/03-15:13:09.867 5e4 Recovering log #10
+2025/11/03-15:13:09.867 5e4 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gradient.network_0.indexeddb.leveldb/000010.log 
+2025/11/03-15:13:09.878 5f3 Level-0 table #14: started
+2025/11/03-15:13:09.882 5f3 Level-0 table #14: 1426 bytes OK
+2025/11/03-15:13:09.885 5f3 Delete type=0 #10
+2025/11/03-15:13:09.885 5e4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 179 : 1
+2025/11/03-15:13:09.885 5e4 Compacting 1@0 + 1@1 files
+2025/11/03-15:13:09.887 5e4 Generated table #15@0: 21 keys, 1108 bytes
+2025/11/03-15:13:09.887 5e4 Compacted 1@0 + 1@1 files => 1108 bytes
+2025/11/03-15:13:09.889 5e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/03-15:13:09.890 5e4 Delete type=2 #14
+2025/11/03-15:13:09.890 5e4 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 179 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/03-15:14:53.098 5e6 Compacting 1@1 + 1@2 files
+2025/11/03-15:14:53.104 5e6 Generated table #16@1: 40 keys, 1330 bytes
+2025/11/03-15:14:53.105 5e6 Compacted 1@1 + 1@2 files => 1330 bytes
+2025/11/03-15:14:53.108 5e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/03-15:14:53.108 5e6 Delete type=2 #11
+2025/11/03-15:14:53.109 5e6 Delete type=2 #15
+2025/11/03-15:14:53.109 5e6 Delete type=2 #8

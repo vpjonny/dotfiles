@@ -1,0 +1,18 @@
+2025/12/24-16:44:50.499 82a Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.yaako.io_0.indexeddb.leveldb since it was missing.
+2025/12/24-16:44:50.628 82a Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.yaako.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/24-16:44:50.768 829 Level-0 table #5: started
+2025/12/24-16:44:50.806 829 Level-0 table #5: 1132 bytes OK
+2025/12/24-16:44:50.856 829 Delete type=0 #3
+2025/12/24-16:44:50.856 829 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/24-16:44:52.773 82a Level-0 table #7: started
+2025/12/24-16:44:52.810 82a Level-0 table #7: 230 bytes OK
+2025/12/24-16:44:52.874 82a Delete type=0 #4
+2025/12/24-16:44:52.874 82a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/24-16:44:52.874 82a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 66 : 0
+2025/12/24-16:44:52.874 82a Compacting 1@1 + 1@2 files
+2025/12/24-16:44:52.911 82a Generated table #8@1: 5 keys, 237 bytes
+2025/12/24-16:44:52.911 82a Compacted 1@1 + 1@2 files => 237 bytes
+2025/12/24-16:44:52.974 82a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/24-16:44:52.975 82a Delete type=2 #7
+2025/12/24-16:44:52.975 82a Delete type=2 #5
+2025/12/24-16:44:52.975 82a Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 66 : 0 .. (end); will stop at (end)

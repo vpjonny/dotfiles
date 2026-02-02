@@ -1,0 +1,24 @@
+2025/11/11-21:32:02.719 5bf Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/11-21:32:02.719 5bf Recovering log #6
+2025/11/11-21:32:02.728 5bf Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/000006.log 
+2025/11/11-21:32:55.851 5bf Level-0 table #11: started
+2025/11/11-21:32:55.907 5bf Level-0 table #11: 2078890 bytes OK
+2025/11/11-21:32:55.910 5bf Delete type=0 #6
+2025/11/11-21:33:16.921 5d0 Compacting 1@1 + 1@2 files
+2025/11/11-21:33:16.941 5d0 Generated table #12@1: 1971 keys, 158733 bytes
+2025/11/11-21:33:16.941 5d0 Compacted 1@1 + 1@2 files => 158733 bytes
+2025/11/11-21:33:16.943 5d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/11-21:33:16.943 5d0 Delete type=2 #11
+2025/11/11-21:33:16.943 5d0 Delete type=2 #8
+2025/11/11-21:33:31.941 5d0 Level-0 table #14: started
+2025/11/11-21:33:31.972 5d0 Level-0 table #14: 2178951 bytes OK
+2025/11/11-21:33:31.975 5d0 Delete type=0 #10
+2025/11/11-21:33:31.991 5d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/11-21:33:31.991 5d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01"\x04\x02\x01\x06\x00t\x00r\x00e\x00l\x00l\x00o\x03\x00\xf0b\x88F\xa7yB\x00\x01$\x000\x00c\x00b\x000\x000\x00c\x005\x00e\x00-\x001\x003\x00d\x007\x00-\x004\x00e\x000\x000\x00-\x00b\x005\x000\x00c\x00-\x002\x004\x007\x00b\x00f\x006\x003\x008\x004\x000\x00c\x00c' @ 40000 : 1
+2025/11/11-21:33:31.991 5d3 Compacting 1@1 + 1@2 files
+2025/11/11-21:33:32.009 5d3 Generated table #15@1: 2452 keys, 174033 bytes
+2025/11/11-21:33:32.009 5d3 Compacted 1@1 + 1@2 files => 174033 bytes
+2025/11/11-21:33:32.011 5d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/11-21:33:32.011 5d3 Delete type=2 #14
+2025/11/11-21:33:32.011 5d3 Delete type=2 #12
+2025/11/11-21:33:32.012 5d0 Manual compaction at level-1 from '\x00\x01\x01"\x04\x02\x01\x06\x00t\x00r\x00e\x00l\x00l\x00o\x03\x00\xf0b\x88F\xa7yB\x00\x01$\x000\x00c\x00b\x000\x000\x00c\x005\x00e\x00-\x001\x003\x00d\x007\x00-\x004\x00e\x000\x000\x00-\x00b\x005\x000\x00c\x00-\x002\x004\x007\x00b\x00f\x006\x003\x008\x004\x000\x00c\x00c' @ 40000 : 1 .. (end); will stop at (end)

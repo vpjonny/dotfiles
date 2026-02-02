@@ -1,0 +1,15 @@
+2026/01/30-22:05:32.032 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.hyperliquid.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/30-22:05:32.032 664 Recovering log #4
+2026/01/30-22:05:32.034 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.hyperliquid.xyz_0.indexeddb.leveldb/000004.log 
+2026/01/30-23:54:57.330 676 Level-0 table #8: started
+2026/01/30-23:54:57.333 676 Level-0 table #8: 16673 bytes OK
+2026/01/30-23:54:57.335 676 Delete type=0 #4
+2026/01/30-23:54:57.336 676 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/30-23:54:57.336 676 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x00\x00\xc8\x04\x00k\x00e\x00y\x00s' @ 156 : 1
+2026/01/30-23:54:57.336 676 Compacting 1@1 + 1@2 files
+2026/01/30-23:54:57.341 676 Generated table #9@1: 62 keys, 1312 bytes
+2026/01/30-23:54:57.341 676 Compacted 1@1 + 1@2 files => 1312 bytes
+2026/01/30-23:54:57.343 676 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/30-23:54:57.343 676 Delete type=2 #8
+2026/01/30-23:54:57.344 676 Delete type=2 #5
+2026/01/30-23:54:57.344 664 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x04\x00k\x00e\x00y\x00s' @ 156 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2026/01/10-21:34:02.602 bfb Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_auction.zama.org_0.indexeddb.leveldb since it was missing.
+2026/01/10-21:34:02.608 bfb Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_auction.zama.org_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/10-21:35:51.469 c0c Level-0 table #5: started
+2026/01/10-21:35:51.472 c0c Level-0 table #5: 5328 bytes OK
+2026/01/10-21:35:51.474 c0c Delete type=0 #3
+2026/01/10-21:35:51.475 c0c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

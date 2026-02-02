@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Jupiter Wallet"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_globs": [ "*chrome-extension*" ],
+      "js": [ "content-scripts/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; frame-ancestors 'none';"
+   },
+   "description": "The most powerful trading wallet on Solana.",
+   "host_permissions": [ "*://connect.trezor.io/9/*" ],
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "32": "icon/32.png",
+      "48": "icon/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3cPrR8yzfdoNQ5c6xfh8kEuJMqGgDP8toskfMXSE/+TEv1O+4wm2ioRsiAInPJwEIuIZ7CC+meGb83tz36p40wf9JTWvZ25xYrBVtYfL7NXbpbq91iSCGMBaak6siTg5/MmcV/NJfmpJLG9GhATJNT76IsK19nwg/6KjJ73FbbVT34CkBYQPmYc5kzQhf9mJsQXEwYFoAgoFlcHb0korrzGs25/HEUBgDLYXzcZVoZol4Fin+XDmFwiv6Eb0WHRnfYYnlYP9BYhTAHUwUqhh4nAisIfdNCddqktdV4iIrxeorq/SikpoD7mIPCczKrd0IDrQeqAUk3HXC4GFOJ1mjQIDAQAB",
+   "manifest_version": 3,
+   "name": "Jupiter Wallet",
+   "permissions": [ "storage", "tabs", "windows", "notifications", "scripting", "alarms", "identity", "sidePanel" ],
+   "short_name": "Jupiter",
+   "side_panel": {
+      "default_path": "sidepanel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "injected.js" ]
+   } ]
+}

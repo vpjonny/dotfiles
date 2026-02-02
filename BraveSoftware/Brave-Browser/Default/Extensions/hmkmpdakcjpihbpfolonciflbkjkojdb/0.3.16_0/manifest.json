@@ -1,0 +1,60 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.plasmo.74615566.png",
+         "16": "icon16.plasmo.72e8bd43.png",
+         "32": "icon32.plasmo.328efb7e.png",
+         "48": "icon48.plasmo.1b6c20e9.png",
+         "64": "icon64.plasmo.6c816b7b.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "author": "wallchain.xyz",
+   "background": {
+      "service_worker": "static/background/index.js"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "dapp-referral.64eef6a6.js" ],
+      "matches": [ "https://yield.wallchain.xyz/x-rank", "https://yield.wallchain.xyz/x-rank" ],
+      "run_at": "document_start"
+   }, {
+      "css": [  ],
+      "js": [ "x.4aa740f2.js" ],
+      "matches": [ "https://x.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [  ],
+      "js": [ "XScore.b422fdba.js" ],
+      "matches": [ "https://x.com/*", "https://pro.x.com/*" ]
+   } ],
+   "description": "Quantify influence on X. Identify real crypto thought leaders. Spot fake KOLs.",
+   "icons": {
+      "128": "icon128.plasmo.74615566.png",
+      "16": "icon16.plasmo.72e8bd43.png",
+      "32": "icon32.plasmo.328efb7e.png",
+      "48": "icon48.plasmo.1b6c20e9.png",
+      "64": "icon64.plasmo.6c816b7b.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqLHPJC0JVWyFTzXH5R4b3RnvVCfstkEJtxnPyeXtwYFfGBOjTjwWk1ZtXdA4efs9V1FBFr0RRFwmBZtPBBWH0BU+IfJnfuLOkZmELHkzFm9mBSalDURXCS91ttP4K0Y50lCNHvMI2O+j3DFUOxeJB0fYP7rCNblBXGZ3kONkm6klXSOV5z4U7WUqTjf1kPxr2MTUhlKc/bLtRjrMvTmWkvrQbUtAkbzhK93GEAFSQ9kiSW0l3TZTllUWOiftLqtNUKcmSuX5TUoALhS51AfGEnBeA4B90xiBGiD+VaV2SwIpaQDwwko/Z7RZndqsKKIyYj/ZNU01kJkJpLQOl/d+jQIDAQAB",
+   "manifest_version": 3,
+   "name": "Wallchain X Score",
+   "oauth2": {
+      "client_id": "313872317530-o81cuojohs7hjmh5gnn0dnr6cq9ifp1s.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile" ]
+   },
+   "optional_permissions": [ "identity" ],
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.16",
+   "web_accessible_resources": [ {
+      "matches": [ "https://yield.wallchain.xyz/*", "https://yield.wallchain.xyz/*" ],
+      "resources": [ "content-sentry.9a1b93ed.js", "popup-sentry.7d681381.js" ]
+   }, {
+      "matches": [ "https://x.com/*" ],
+      "resources": [ "content-sentry.9a1b93ed.js", "popup-sentry.7d681381.js" ]
+   }, {
+      "matches": [ "https://x.com/*", "https://pro.x.com/*" ],
+      "resources": [ "content-sentry.9a1b93ed.js", "popup-sentry.7d681381.js" ]
+   } ]
+}

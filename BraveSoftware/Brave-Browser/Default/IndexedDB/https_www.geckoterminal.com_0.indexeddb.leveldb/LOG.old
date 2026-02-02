@@ -1,0 +1,31 @@
+2026/01/13-18:52:40.503 841 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.geckoterminal.com_0.indexeddb.leveldb since it was missing.
+2026/01/13-18:52:40.508 841 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.geckoterminal.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-18:52:41.022 854 Level-0 table #5: started
+2026/01/13-18:52:41.026 854 Level-0 table #5: 1193 bytes OK
+2026/01/13-18:52:41.028 854 Delete type=0 #3
+2026/01/13-18:52:41.029 843 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/13-18:52:42.716 843 Level-0 table #7: started
+2026/01/13-18:52:42.720 843 Level-0 table #7: 916 bytes OK
+2026/01/13-18:52:42.723 843 Delete type=0 #4
+2026/01/13-18:52:42.723 843 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/13-18:52:46.160 841 Level-0 table #9: started
+2026/01/13-18:52:46.163 841 Level-0 table #9: 3102 bytes OK
+2026/01/13-18:52:46.165 841 Delete type=0 #6
+2026/01/13-18:52:46.165 841 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 185 : 1
+2026/01/13-18:52:46.165 841 Compacting 1@0 + 1@1 files
+2026/01/13-18:52:46.167 841 Generated table #10@0: 69 keys, 2156 bytes
+2026/01/13-18:52:46.167 841 Compacted 1@0 + 1@1 files => 2156 bytes
+2026/01/13-18:52:46.169 841 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-18:52:46.169 841 Delete type=2 #9
+2026/01/13-18:52:46.169 841 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 185 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/13-18:54:38.000 854 Level-0 table #12: started
+2026/01/13-18:54:38.002 854 Level-0 table #12: 660 bytes OK
+2026/01/13-18:54:38.004 854 Delete type=2 #7
+2026/01/13-18:54:38.005 854 Delete type=0 #8
+2026/01/13-18:54:38.005 841 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 204 : 1
+2026/01/13-18:54:38.005 841 Compacting 1@0 + 1@1 files
+2026/01/13-18:54:38.008 841 Generated table #13@0: 73 keys, 2195 bytes
+2026/01/13-18:54:38.008 841 Compacted 1@0 + 1@1 files => 2195 bytes
+2026/01/13-18:54:38.011 841 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-18:54:38.012 841 Delete type=2 #12
+2026/01/13-18:54:38.012 841 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 204 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

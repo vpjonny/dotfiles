@@ -1,0 +1,16 @@
+2025/11/21-14:53:35.372 5cd Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_test.pharosname.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/21-14:53:35.372 5cd Recovering log #24
+2025/11/21-14:53:35.552 5cd Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_test.pharosname.com_0.indexeddb.leveldb/000024.log 
+2025/11/21-14:53:35.552 5cd Delete type=2 #19
+2025/11/21-14:53:35.553 5cd Delete type=2 #25
+2025/11/21-14:53:35.553 5cd Delete type=2 #23
+2025/11/21-14:53:35.553 5cd Delete type=2 #21
+2025/11/21-14:53:42.760 5e1 Compacting 1@1 + 1@2 files
+2025/11/21-14:53:42.766 5e1 Generated table #29@1: 39 keys, 81710 bytes
+2025/11/21-14:53:42.766 5e1 Compacted 1@1 + 1@2 files => 81710 bytes
+2025/11/21-14:53:42.768 5e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/21-14:53:42.769 5e1 Delete type=2 #5
+2025/11/21-14:53:42.769 5e1 Delete type=2 #27
+2025/11/21-14:54:03.825 5cf Level-0 table #31: started
+2025/11/21-14:54:03.900 5cf Level-0 table #31: 1807401 bytes OK
+2025/11/21-14:54:03.923 5cf Delete type=0 #24

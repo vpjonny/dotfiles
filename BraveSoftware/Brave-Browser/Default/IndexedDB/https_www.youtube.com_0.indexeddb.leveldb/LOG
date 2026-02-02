@@ -1,0 +1,39 @@
+2026/02/01-22:24:14.820 664 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-22:24:14.820 664 Recovering log #827
+2026/02/01-22:24:14.820 664 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000827.log 
+2026/02/01-22:55:42.779 676 Level-0 table #832: started
+2026/02/01-22:55:42.797 676 Level-0 table #832: 1500765 bytes OK
+2026/02/01-22:55:42.801 676 Delete type=0 #827
+2026/02/01-22:58:08.931 678 Compacting 1@1 + 1@2 files
+2026/02/01-22:58:08.955 678 Generated table #833@1: 5868 keys, 255322 bytes
+2026/02/01-22:58:08.956 678 Compacted 1@1 + 1@2 files => 255322 bytes
+2026/02/01-22:58:08.958 678 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-22:58:08.958 678 Delete type=2 #829
+2026/02/01-22:58:08.958 678 Delete type=2 #832
+2026/02/01-23:04:20.022 664 Level-0 table #835: started
+2026/02/01-23:04:20.039 664 Level-0 table #835: 1287769 bytes OK
+2026/02/01-23:04:20.046 664 Delete type=0 #831
+2026/02/01-23:06:10.911 664 Compacting 1@1 + 1@2 files
+2026/02/01-23:06:10.932 664 Generated table #836@1: 5893 keys, 267913 bytes
+2026/02/01-23:06:10.932 664 Compacted 1@1 + 1@2 files => 267913 bytes
+2026/02/01-23:06:10.935 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-23:06:10.935 664 Delete type=2 #835
+2026/02/01-23:06:10.935 664 Delete type=2 #833
+2026/02/01-23:12:29.204 662 Level-0 table #838: started
+2026/02/01-23:12:29.223 662 Level-0 table #838: 1184260 bytes OK
+2026/02/01-23:12:29.226 662 Delete type=0 #834
+2026/02/01-23:13:03.238 662 Compacting 1@1 + 1@2 files
+2026/02/01-23:13:03.255 662 Generated table #839@1: 5930 keys, 268759 bytes
+2026/02/01-23:13:03.255 662 Compacted 1@1 + 1@2 files => 268759 bytes
+2026/02/01-23:13:03.258 662 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-23:13:03.259 662 Delete type=2 #838
+2026/02/01-23:13:03.259 662 Delete type=2 #836
+2026/02/01-23:21:03.571 664 Level-0 table #841: started
+2026/02/01-23:21:03.600 664 Level-0 table #841: 1223806 bytes OK
+2026/02/01-23:21:03.605 664 Delete type=0 #837
+2026/02/01-23:21:09.731 664 Compacting 1@1 + 1@2 files
+2026/02/01-23:21:09.745 664 Generated table #842@1: 5944 keys, 260478 bytes
+2026/02/01-23:21:09.746 664 Compacted 1@1 + 1@2 files => 260478 bytes
+2026/02/01-23:21:09.748 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-23:21:09.748 664 Delete type=2 #841
+2026/02/01-23:21:09.748 664 Delete type=2 #839

@@ -1,0 +1,7 @@
+2025/12/07-17:57:31.319 851 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cityprotocol.co_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/07-17:57:31.330 851 Recovering log #3
+2025/12/07-17:57:31.332 851 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cityprotocol.co_0.indexeddb.leveldb/000003.log 
+2025/12/07-18:08:45.785 852 Level-0 table #5: started
+2025/12/07-18:08:45.906 852 Level-0 table #5: 1145 bytes OK
+2025/12/07-18:08:46.086 852 Delete type=0 #3
+2025/12/07-18:08:46.086 852 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

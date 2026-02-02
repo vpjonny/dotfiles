@@ -1,0 +1,2 @@
+import{Q as e}from"./chunk-CS663DOD.js";import{n as t,p as i}from"./chunk-N62DF26F.js";t();i();var n=class{getUiConnection(){let o=e();if(!o)throw new Error("[Clipboard Proxy] UI connection not available");return o}async copyText(o){if(o!=null&&typeof o!="string")throw new Error("[Clipboard Proxy] Invalid text parameter");try{await this.getUiConnection().clipboardCopyText(o||"")}catch(r){let a=r instanceof Error?r.message:String(r);throw new Error(`[Clipboard Proxy] Failed to copy text: ${a}`)}}},c=new n,d=c;export{d as a};
+//# sourceMappingURL=chunk-VPMJYCJE.js.map

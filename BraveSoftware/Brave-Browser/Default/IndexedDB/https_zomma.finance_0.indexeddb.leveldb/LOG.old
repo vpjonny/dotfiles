@@ -1,0 +1,7 @@
+2026/01/26-16:58:57.692 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zomma.finance_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/26-16:58:57.692 c77 Recovering log #3
+2026/01/26-16:58:57.692 c77 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zomma.finance_0.indexeddb.leveldb/000003.log 
+2026/01/26-17:01:21.537 c79 Level-0 table #5: started
+2026/01/26-17:01:21.540 c79 Level-0 table #5: 5002 bytes OK
+2026/01/26-17:01:21.542 c79 Delete type=0 #3
+2026/01/26-17:01:21.543 c79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

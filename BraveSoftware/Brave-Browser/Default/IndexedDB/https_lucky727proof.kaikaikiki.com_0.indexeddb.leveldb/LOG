@@ -1,0 +1,7 @@
+2026/01/18-19:22:01.693 83e Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lucky727proof.kaikaikiki.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/18-19:22:01.694 83e Recovering log #3
+2026/01/18-19:22:01.694 83e Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lucky727proof.kaikaikiki.com_0.indexeddb.leveldb/000003.log 
+2026/01/18-19:22:27.763 83e Level-0 table #5: started
+2026/01/18-19:22:27.797 83e Level-0 table #5: 1600 bytes OK
+2026/01/18-19:22:27.854 83e Delete type=0 #3
+2026/01/18-19:22:27.854 83e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

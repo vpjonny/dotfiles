@@ -1,0 +1,15 @@
+2025/12/15-23:16:10.716 833 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ether.fi_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/15-23:16:10.717 833 Recovering log #4
+2025/12/15-23:16:10.717 833 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ether.fi_0.indexeddb.leveldb/000004.log 
+2025/12/15-23:16:12.862 833 Level-0 table #8: started
+2025/12/15-23:16:12.864 833 Level-0 table #8: 2005 bytes OK
+2025/12/15-23:16:12.866 833 Delete type=0 #4
+2025/12/15-23:16:12.867 833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/15-23:16:12.867 833 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 178 : 1
+2025/12/15-23:16:12.867 833 Compacting 1@1 + 1@2 files
+2025/12/15-23:16:12.869 833 Generated table #9@1: 49 keys, 1165 bytes
+2025/12/15-23:16:12.869 833 Compacted 1@1 + 1@2 files => 1165 bytes
+2025/12/15-23:16:12.871 833 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/15-23:16:12.871 833 Delete type=2 #8
+2025/12/15-23:16:12.871 833 Delete type=2 #5
+2025/12/15-23:16:12.871 833 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 178 : 1 .. (end); will stop at (end)

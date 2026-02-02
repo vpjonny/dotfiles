@@ -1,0 +1,2 @@
+import{A as o}from"./chunk-AHLFMVMC.js";import{He as i,Mc as t}from"./chunk-NPJCEXXH.js";import{o as n,q as r}from"./chunk-LHDKEQAM.js";n();r();function _(e){return e?.message&&e?.message?.includes("User denied transaction signature")?!0:[t.USER_DENIED,t.WC2Denied,t.USER_DENIED_WC_RAINBOW,t.WC_QR_DENIED].includes(e?.code)}function f(e,a=""){return _(e)&&o.error({title:a||i("swaptrade_notification_notif_transaction_canceled"),placement:o.DIRECTION.top}),Promise.reject(e)}export{_ as a,f as b};
+//# sourceMappingURL=chunk-CTJA2WQT.js.map

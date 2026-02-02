@@ -1,0 +1,14 @@
+2025/11/24-16:39:33.058 5cd Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hub.talus.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-16:39:33.058 5cd Recovering log #111
+2025/11/24-16:39:33.059 5cd Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hub.talus.network_0.indexeddb.leveldb/000111.log 
+2025/11/24-16:39:33.059 5cd Delete type=2 #109
+2025/11/24-16:39:35.297 5cd Level-0 table #116: started
+2025/11/24-16:39:35.299 5cd Level-0 table #116: 515 bytes OK
+2025/11/24-16:39:35.302 5cd Delete type=0 #111
+2025/11/24-16:39:35.303 5cd Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x00\x00\x05' @ 618 : 1
+2025/11/24-16:39:35.303 5cd Compacting 1@0 + 1@1 files
+2025/11/24-16:39:35.305 5cd Generated table #117@0: 12 keys, 497 bytes
+2025/11/24-16:39:35.305 5cd Compacted 1@0 + 1@1 files => 497 bytes
+2025/11/24-16:39:35.307 5cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/24-16:39:35.307 5cd Delete type=2 #116
+2025/11/24-16:39:35.308 5cd Manual compaction at level-0 from '\x00\x1d\x00\x00\x05' @ 618 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)

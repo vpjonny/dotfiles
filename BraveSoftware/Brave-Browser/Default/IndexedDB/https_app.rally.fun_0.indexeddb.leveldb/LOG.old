@@ -1,0 +1,15 @@
+2026/01/29-15:18:58.555 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.rally.fun_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/29-15:18:58.555 8c5 Recovering log #4
+2026/01/29-15:18:58.557 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.rally.fun_0.indexeddb.leveldb/000004.log 
+2026/01/29-15:39:15.855 8c7 Level-0 table #8: started
+2026/01/29-15:39:15.860 8c7 Level-0 table #8: 120991 bytes OK
+2026/01/29-15:39:15.863 8c7 Delete type=0 #4
+2026/01/29-15:39:15.863 8c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/29-15:39:15.864 8c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01%\x00t\x00a\x00n\x00s\x00t\x00a\x00c\x00k\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00[\x00"\x00t\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00"\x00,\x002\x001\x004\x003\x002\x00]' @ 1699 : 0
+2026/01/29-15:39:15.864 8c7 Compacting 1@1 + 1@2 files
+2026/01/29-15:39:15.869 8c7 Generated table #9@1: 67 keys, 10865 bytes
+2026/01/29-15:39:15.869 8c7 Compacted 1@1 + 1@2 files => 10865 bytes
+2026/01/29-15:39:15.871 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/29-15:39:15.871 8c7 Delete type=2 #8
+2026/01/29-15:39:15.871 8c7 Delete type=2 #5
+2026/01/29-15:39:15.871 8c7 Manual compaction at level-1 from '\x00\x03\x01\x02\x01%\x00t\x00a\x00n\x00s\x00t\x00a\x00c\x00k\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00[\x00"\x00t\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00"\x00,\x002\x001\x004\x003\x002\x00]' @ 1699 : 0 .. (end); will stop at (end)

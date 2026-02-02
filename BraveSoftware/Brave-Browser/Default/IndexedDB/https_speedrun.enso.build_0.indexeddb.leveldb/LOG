@@ -1,0 +1,14 @@
+2025/10/11-07:05:11.340 5e3 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_speedrun.enso.build_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/11-07:05:11.341 5e3 Recovering log #140
+2025/10/11-07:05:11.341 5e3 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_speedrun.enso.build_0.indexeddb.leveldb/000140.log 
+2025/10/11-07:05:11.341 5e3 Delete type=2 #138
+2025/10/11-07:05:11.395 5e5 Level-0 table #145: started
+2025/10/11-07:05:11.397 5e5 Level-0 table #145: 4243 bytes OK
+2025/10/11-07:05:11.399 5e5 Delete type=0 #140
+2025/10/11-07:05:11.399 5e4 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 2606 : 1
+2025/10/11-07:05:11.399 5e4 Compacting 1@0 + 1@1 files
+2025/10/11-07:05:11.402 5e4 Generated table #146@0: 55 keys, 2893 bytes
+2025/10/11-07:05:11.402 5e4 Compacted 1@0 + 1@1 files => 2893 bytes
+2025/10/11-07:05:11.404 5e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/11-07:05:11.404 5e4 Delete type=2 #145
+2025/10/11-07:05:11.405 5f6 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 2606 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)

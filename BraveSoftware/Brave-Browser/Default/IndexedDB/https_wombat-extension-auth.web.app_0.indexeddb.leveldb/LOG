@@ -1,0 +1,14 @@
+2025/12/05-19:53:06.432 83f Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wombat-extension-auth.web.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/05-19:53:06.433 83f Recovering log #148
+2025/12/05-19:53:06.433 83f Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wombat-extension-auth.web.app_0.indexeddb.leveldb/000148.log 
+2025/12/05-19:53:06.433 83f Delete type=2 #146
+2025/12/05-19:53:06.445 83f Level-0 table #153: started
+2025/12/05-19:53:06.447 83f Level-0 table #153: 6946 bytes OK
+2025/12/05-19:53:06.450 83f Delete type=0 #148
+2025/12/05-19:53:06.451 83f Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x00\x00\x05' @ 1827 : 1
+2025/12/05-19:53:06.451 83f Compacting 1@0 + 1@1 files
+2025/12/05-19:53:06.454 83f Generated table #154@0: 52 keys, 3581 bytes
+2025/12/05-19:53:06.454 83f Compacted 1@0 + 1@1 files => 3581 bytes
+2025/12/05-19:53:06.456 83f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/05-19:53:06.456 83f Delete type=2 #153
+2025/12/05-19:53:06.456 83f Manual compaction at level-0 from '\x00(\x00\x00\x05' @ 1827 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)

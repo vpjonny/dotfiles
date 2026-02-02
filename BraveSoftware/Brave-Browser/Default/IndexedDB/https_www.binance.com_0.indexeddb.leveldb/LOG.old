@@ -1,0 +1,24 @@
+2026/01/27-14:20:54.870 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-14:20:54.871 c77 Recovering log #767
+2026/01/27-14:20:54.873 c77 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000767.log 
+2026/01/27-14:21:12.069 c8a Level-0 table #774: started
+2026/01/27-14:21:12.195 c8a Level-0 table #774: 260551 bytes OK
+2026/01/27-14:21:12.405 c8a Delete type=0 #767
+2026/01/27-14:21:12.406 c77 Manual compaction at level-0 from '\x00\xbe\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xbf\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/27-14:21:12.407 c77 Level-0 table #776: started
+2026/01/27-14:21:12.481 c77 Level-0 table #776: 658 bytes OK
+2026/01/27-14:21:12.545 c77 Delete type=0 #773
+2026/01/27-14:21:12.545 c77 Manual compaction at level-0 from '\x00\xbf\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc0\x00\x00\x00' @ 0 : 0; will stop at '\x00\xbf\x00\x00\x05' @ 180624 : 1
+2026/01/27-14:21:12.545 c77 Compacting 1@0 + 1@1 files
+2026/01/27-14:21:12.624 c77 Generated table #777@0: 639 keys, 104328 bytes
+2026/01/27-14:21:12.624 c77 Compacted 1@0 + 1@1 files => 104328 bytes
+2026/01/27-14:21:12.750 c77 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/27-14:21:12.751 c77 Delete type=2 #776
+2026/01/27-14:21:12.751 c77 Manual compaction at level-0 from '\x00\xbf\x00\x00\x05' @ 180624 : 1 .. '\x00\xc0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/27-14:22:02.656 c79 Compacting 1@1 + 1@2 files
+2026/01/27-14:22:02.709 c79 Generated table #778@1: 1224 keys, 999347 bytes
+2026/01/27-14:22:02.710 c79 Compacted 1@1 + 1@2 files => 999347 bytes
+2026/01/27-14:22:02.761 c79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/27-14:22:02.762 c79 Delete type=2 #771
+2026/01/27-14:22:02.762 c79 Delete type=2 #777
+2026/01/27-14:22:02.762 c79 Delete type=2 #774

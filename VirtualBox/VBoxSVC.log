@@ -1,0 +1,86 @@
+00:00:00.003528 main     VirtualBox XPCOM Server 7.2.0 r170228 linux.amd64 (Aug 14 2025 19:02:36) release log
+00:00:00.003533 main     Log opened 2025-09-03T18:53:08.044214000Z
+00:00:00.003535 main     Build Type: release
+00:00:00.003539 main     OS Product: Linux
+00:00:00.003542 main     OS Release: 6.12.43-1-lts
+00:00:00.003544 main     OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 20 Aug 2025 17:50:11 +0000
+00:00:00.003605 main     DMI Product Name: Aspire V3-771
+00:00:00.003627 main     DMI Product Version: V2.23
+00:00:00.003639 main     Firmware type: UEFI
+00:00:00.003896 main     Secure Boot: Disabled
+00:00:00.004014 main     Host RAM: 15811MB (15.4GB) total, 8412MB (8.2GB) available
+00:00:00.004023 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.004024 main     Process ID: 10331
+00:00:00.004026 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.026890 main     IPC socket path: /tmp/.vbox-slova-ipc/ipcd
+00:00:00.066957 DCon01   VirtualBox: object creation starts
+00:00:00.071510 DCon01   Home directory: '/home/slova/.config/VirtualBox'
+00:00:00.072938 DCon01   Loading settings file "/home/slova/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.090533 DCon01   USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3006)
+00:00:00.090659 DCon01   USB: Unknown USB device detected (idVendor: 0x30fa, idProduct: 0x0400)
+00:00:00.090945 DCon01   Successfully initialised host USB using sysfs
+00:00:00.118895 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.123150 DCon01   HostDnsMonitor: initializing
+00:00:00.123636 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.123667 DCon01   NAT: resolv.conf: nameserver 192.168.68.1
+00:00:00.123711 DCon01   HostDnsMonitor: updating information
+00:00:00.123743 DCon01   HostDnsMonitor: old information
+00:00:00.123750 DCon01     no server entries
+00:00:00.123757 DCon01     no domain set
+00:00:00.123763 DCon01     no search string entries
+00:00:00.123769 DCon01   HostDnsMonitor: new information
+00:00:00.123774 DCon01     server 1: 192.168.0.1
+00:00:00.123781 DCon01     server 2: 192.168.68.1
+00:00:00.123788 DCon01     no domain set
+00:00:00.123793 DCon01     no search string entries
+00:00:00.135610 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.138035 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.145556 DCon01   Platform architecture set to 'x86'
+00:00:00.148443 DCon01   Loading settings file "/home/slova/VirtualBox VMs/windows/windows.vbox" with version "1.19-linux"
+00:00:00.149031 DCon01   Platform architecture set to 'x86'
+00:00:00.151365 DCon01   VirtualBox: object created
+00:00:04.362375 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:04.962853 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:06.852515 DCon04   Launched VM: 872418512 pid: 10369 (0x2881) frontend: GUI/Qt name: windows
+00:00:06.914392 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.965624 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:07.873016 DCon07   Platform architecture set to 'x86'
+00:00:07.955337 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:07.988972 DCon06   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:11.339219 DCon08   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:11.654733 DCon08   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:12.028109 DCon07   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:12.360519 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:12.445061 DCon09   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:00:12.571638 DCon05   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:12.958282 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:12.964942 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:12.973542 DCon03   HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:12.974061 DCon03   HostDnsMonitorProxy::GetNameServers:
+00:00:12.974094 DCon03     name server 1: 192.168.0.1
+00:00:12.974108 DCon03     name server 2: 192.168.68.1
+00:00:12.974462 DCon03   HostDnsMonitorProxy::GetSearchStrings:
+00:00:12.974485 DCon03     no search string entries
+00:00:13.334979 DCon08   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:13.483624 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:13.592964 DCon11   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:01:25.680991 DCon16   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:25.681300 DCon15   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:25.699746 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:01:27.346809 DCon05   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:27.360235 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Stopping)}, preserve=false aResultDetail=0
+00:01:27.366436 DCon05   Saving settings file "/home/slova/VirtualBox VMs/windows/windows.vbox" with version "1.19-linux"
+00:01:27.391524 DCon05   Finished saving settings file "/home/slova/VirtualBox VMs/windows/windows.vbox"
+00:01:27.425453 DCon16   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:27.501061 DCon16   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:27.569616 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:27.585739 DCon11   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:27.731978 DCon16   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:01:28.963320 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:29.003749 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:35.666364 main     VirtualBox: object deletion starts
+00:01:35.666422 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/slova/VirtualBox VMs/windows/windows.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:35.666959 main     HostDnsMonitor: shutting down ...
+00:01:35.667097 main     HostDnsMonitor: shut down
+00:01:35.677788 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:35.677888 main     VirtualBox: object deleted

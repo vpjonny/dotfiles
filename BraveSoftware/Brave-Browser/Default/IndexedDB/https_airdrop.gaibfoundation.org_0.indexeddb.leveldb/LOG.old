@@ -1,0 +1,6 @@
+2025/12/07-21:13:44.563 841 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_airdrop.gaibfoundation.org_0.indexeddb.leveldb since it was missing.
+2025/12/07-21:13:44.568 841 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_airdrop.gaibfoundation.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/07-21:15:05.307 841 Level-0 table #5: started
+2025/12/07-21:15:05.310 841 Level-0 table #5: 5457 bytes OK
+2025/12/07-21:15:05.313 841 Delete type=0 #3
+2025/12/07-21:15:05.314 841 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

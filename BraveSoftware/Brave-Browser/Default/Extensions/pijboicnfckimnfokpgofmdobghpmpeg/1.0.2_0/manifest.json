@@ -1,0 +1,58 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon-128.png",
+         "16": "icon-16.png",
+         "19": "icon-19.png",
+         "32": "icon-32.png",
+         "38": "icon-38.png",
+         "48": "icon-48.png"
+      }
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "contentStyle.css", "assets/index-5IOMNKw_.css" ],
+      "exclude_matches": [ "*://accounts.google.com/*", "*://appleid.apple.com/*", "*://discord.com/oauth2/*", "*://discordapp.com/oauth2/*", "*://www.facebook.com/v*/dialog/oauth*", "*://www.facebook.com/dialog/oauth*", "*://access.line.me/*", "*://oauth.telegram.org/*", "*://embedded-wallet.thirdweb.com/sdk/oauth/*" ],
+      "js": [ "assets/index.js-loader-BUZ6UyLy.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "css": [ "contentStyle.css" ],
+      "js": [ "assets/api-interceptor.ts-loader-Ck5wI-76.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'; worker-src 'self';"
+   },
+   "description": "Build your 5D Persona and earn rewards. T-Rex is the intelligent engagement layer reshaping value in the Web3 economy.",
+   "devtools_page": "src/pages/devtools/index.html",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "19": "icon-19.png",
+      "32": "icon-32.png",
+      "38": "icon-38.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArXwVKA29VBqc2iK4zGhgbzmFcSLcuj9pMg74dhA8tq9Hx1B9XVeNB4GWaWVpd0Ps2qktYU9KclKn2fpNOq5GaDXEBRKgKslUnkrw1jM4tnHc7L5L90uxyqj3dB1u0WkbTpnLiocsIjvtgwdAaCekNGJupHU0fkYXB3J9BZ661LigKSrG7H6I6IQp20kOeEchfCl1x5XtdD2egakPgWFrDr1F9oLSjaf3j3sXPyHm6248yISdaQyQ5J+3Qw/glBBql3zdGDe0n7fNzRgIvtJo/0iSMudaaIs/doDO+K1Wg2jUt/EJ6vNdqdjrCWNADQauQe9fIRYJ++N8PIVBCqeUiQIDAQAB",
+   "manifest_version": 3,
+   "name": "Trex",
+   "options_ui": {
+      "page": "src/pages/options/index.html"
+   },
+   "permissions": [ "activeTab", "scripting", "notifications", "sidePanel", "tabs", "webRequest", "storage", "offscreen", "cookies" ],
+   "side_panel": {
+      "default_path": "src/pages/panel/index.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "reclaim-browser-extension-sdk/offscreen/offscreen.html", "reclaim-browser-extension-sdk/offscreen/offscreen.bundle.js", "reclaim-browser-extension-sdk/interceptor/network-interceptor.bundle.js", "reclaim-browser-extension-sdk/interceptor/injection-scripts.bundle.js", "reclaim-browser-extension-sdk/content/components/reclaim-provider-verification-popup.css", "reclaim-browser-extension-sdk/content/components/reclaim-provider-verification-popup.html", "trex_notification_content.webp", "icon-close.png", "notification_indicator.png", "fonts/Poppins-Regular.ttf", "fonts/Poppins-Bold.ttf", "fonts/Poppins-Medium.ttf", "fonts/Noka.otf", "trex_content_default.png", "assets/client-DtcM3YKn.js", "assets/index-DuBoYDor.js", "assets/actions-CDg_QFWJ.js", "assets/TrexAnchorApiProxy-BplFWDBp.js", "assets/api-CJSKnqK3.js", "assets/_commonjsHelpers-Cpj98o6Y.js", "assets/index.js-Cx9R_Flw.js", "assets/api-interceptor.ts-CFnWcWOr.js" ],
+      "use_dynamic_url": false
+   } ]
+}

@@ -1,0 +1,7 @@
+2025/11/18-18:51:58.063 5c1 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morkie.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/18-18:51:58.064 5c1 Recovering log #41
+2025/11/18-18:51:58.064 5c1 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morkie.xyz_0.indexeddb.leveldb/000041.log 
+2025/11/18-18:51:58.112 5d0 Level-0 table #47: started
+2025/11/18-18:51:58.114 5d0 Level-0 table #47: 6655 bytes OK
+2025/11/18-18:51:58.117 5d0 Delete type=0 #41
+2025/11/18-18:51:58.117 5c1 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,76 @@
+{
+   "action": {
+      "chrome_style": false,
+      "default_icon": {
+         "128": "misc/icon-128.png",
+         "16": "misc/icon-16.png",
+         "19": "misc/icon-19.png",
+         "38": "misc/icon-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Temple Wallet"
+   },
+   "author": "https://madfish.solutions",
+   "background": {
+      "service_worker": "background/index.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "scripts/main.js" ],
+      "matches": [ "http://localhost/*", "http://127.0.0.1/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "exclude_matches": [ "http://localhost/*" ],
+      "js": [ "scripts/replaceAds.js", "scripts/replaceReferrals.js" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "scripts/inpage.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "scripts/keepBackgroundWorkerAlive.js" ],
+      "match_about_blank": true,
+      "match_origin_as_fallback": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "Seamless and secure multichain wallet for Tezos & EVM blockchains.",
+   "homepage_url": "https://github.com/madfish-solutions/templewallet-extension",
+   "host_permissions": [ "http://localhost:8732/" ],
+   "icons": {
+      "128": "misc/icon-128.png",
+      "16": "misc/icon-16.png",
+      "19": "misc/icon-19.png",
+      "38": "misc/icon-38.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhXs0/acZP0MPNYLVOtxx2t72tbxIoq0TywdHXiTu3HXNbFPWGQ4bq9VNpdwd18qJaP/DcSkcHdrgza1lKtP39LbQUAWPXT6T00bUHzVgxiMmZYxLoqQkt5pTI7VOHNRQKwRZK4kiQTyE15HjxnjCYa502CSvNH4hwTmRbDeH5pc02uLCqd3aRobpy3zWR+GJv1pt/kBpvfZMQhZylZH5QflVly0ZIBY94I6zPKiNA9/6iW55frFJehHNA9izWtF0gaJPuBZweGm3WobOXSNnlxOgtgqd15wbwfI94Y0urKk+l9PN8uZBHHyPIbV3XwU/HsF3TMmFic4AsI7K3dlquQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "103",
+   "name": "Temple Wallet",
+   "optional_permissions": [ "clipboardRead" ],
+   "options_page": "options.html",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "unlimitedStorage", "clipboardWrite", "activeTab", "sidePanel" ],
+   "short_name": "Temple Wallet",
+   "side_panel": {
+      "default_path": "sidebar.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.22",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*/*", "http://*/*" ],
+      "resources": [ "scripts/*.chunk.js", "scripts/*.embed.js", "fullpage.html", "misc/ad-banners/*", "iframes/ads-stack.html" ]
+   } ]
+}

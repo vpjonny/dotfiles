@@ -1,0 +1,6 @@
+2025/10/15-14:55:54.307 5c3 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_missions.xociety.io_0.indexeddb.leveldb since it was missing.
+2025/10/15-14:55:54.406 5c3 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_missions.xociety.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/15-14:55:54.678 5d4 Level-0 table #5: started
+2025/10/15-14:55:54.760 5d4 Level-0 table #5: 1332 bytes OK
+2025/10/15-14:55:54.817 5d4 Delete type=0 #3
+2025/10/15-14:55:54.818 5c3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

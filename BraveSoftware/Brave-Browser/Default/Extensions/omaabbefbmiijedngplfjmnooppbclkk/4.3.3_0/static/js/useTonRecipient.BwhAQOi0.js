@@ -1,0 +1,1 @@
+import{f as u,r as t,g as i,B as a,h as f}from"./main.D-W_HyrW.js";function p(e){const o=u(),n=t.useRef(!0),{isLoading:c,data:s,mutate:r}=i();return t.useEffect(()=>{n.current=!1,r({address:e})},[e]),{recipient:t.useMemo(()=>({address:{address:f(e,o,!0),blockchain:a.TON},comment:"",done:!1,toAccount:s}),[s,o]),isLoading:n.current?!0:c}}export{p as u};

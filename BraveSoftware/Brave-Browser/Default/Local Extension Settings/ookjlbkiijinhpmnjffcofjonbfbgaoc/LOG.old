@@ -1,0 +1,126 @@
+2026/01/20-21:56:38.968 c25 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ookjlbkiijinhpmnjffcofjonbfbgaoc/MANIFEST-000001
+2026/01/20-21:56:38.969 c25 Recovering log #1093
+2026/01/20-21:56:39.083 c25 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ookjlbkiijinhpmnjffcofjonbfbgaoc/001093.log 
+2026/01/20-22:07:23.771 c13 Level-0 table #1097: started
+2026/01/20-22:07:23.792 c13 Level-0 table #1097: 906564 bytes OK
+2026/01/20-22:07:23.796 c13 Delete type=0 #1093
+2026/01/21-00:05:23.268 c13 Level-0 table #1099: started
+2026/01/21-00:05:23.314 c13 Level-0 table #1099: 906565 bytes OK
+2026/01/21-00:05:23.324 c13 Delete type=0 #1096
+2026/01/21-00:05:23.327 c13 Compacting 4@0 + 1@1 files
+2026/01/21-00:05:23.364 c13 Generated table #1100@0: 2 keys, 14341 bytes
+2026/01/21-00:05:23.364 c13 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/21-00:05:23.367 c13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/21-00:05:23.368 c13 Delete type=2 #1097
+2026/01/21-00:05:23.368 c13 Delete type=2 #1099
+2026/01/21-00:05:23.369 c13 Delete type=2 #1090
+2026/01/21-00:05:23.369 c13 Delete type=2 #1094
+2026/01/21-00:05:23.369 c13 Delete type=2 #1092
+2026/01/21-01:39:26.978 c13 Level-0 table #1102: started
+2026/01/21-01:39:26.992 c13 Level-0 table #1102: 906566 bytes OK
+2026/01/21-01:39:26.995 c13 Delete type=0 #1098
+2026/01/21-03:06:23.116 c13 Level-0 table #1104: started
+2026/01/21-03:06:23.131 c13 Level-0 table #1104: 906561 bytes OK
+2026/01/21-03:06:23.135 c13 Delete type=0 #1101
+2026/01/21-04:49:23.113 c13 Level-0 table #1106: started
+2026/01/21-04:49:23.131 c13 Level-0 table #1106: 906561 bytes OK
+2026/01/21-04:49:23.134 c13 Delete type=0 #1103
+2026/01/21-06:31:23.089 c13 Level-0 table #1108: started
+2026/01/21-06:31:23.105 c13 Level-0 table #1108: 906566 bytes OK
+2026/01/21-06:31:23.109 c13 Delete type=0 #1105
+2026/01/21-06:31:23.110 c13 Compacting 4@0 + 1@1 files
+2026/01/21-06:31:23.123 c13 Generated table #1109@0: 2 keys, 14341 bytes
+2026/01/21-06:31:23.123 c13 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/21-06:31:23.126 c13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/21-06:31:23.126 c13 Delete type=2 #1102
+2026/01/21-06:31:23.126 c13 Delete type=2 #1108
+2026/01/21-06:31:23.126 c13 Delete type=2 #1104
+2026/01/21-06:31:23.126 c13 Delete type=2 #1100
+2026/01/21-06:31:23.126 c13 Delete type=2 #1106
+2026/01/21-08:15:46.074 c13 Level-0 table #1111: started
+2026/01/21-08:15:46.091 c13 Level-0 table #1111: 906560 bytes OK
+2026/01/21-08:15:46.095 c13 Delete type=0 #1107
+2026/01/21-09:58:23.114 c13 Level-0 table #1113: started
+2026/01/21-09:58:23.133 c13 Level-0 table #1113: 906563 bytes OK
+2026/01/21-09:58:23.137 c13 Delete type=0 #1110
+2026/01/21-11:41:27.106 c13 Level-0 table #1115: started
+2026/01/21-11:41:27.126 c13 Level-0 table #1115: 906564 bytes OK
+2026/01/21-11:41:27.130 c13 Delete type=0 #1112
+2026/01/21-13:23:23.102 c23 Level-0 table #1117: started
+2026/01/21-13:23:23.153 c23 Level-0 table #1117: 906560 bytes OK
+2026/01/21-13:23:23.207 c23 Delete type=0 #1114
+2026/01/21-13:23:23.209 c23 Compacting 4@0 + 1@1 files
+2026/01/21-13:23:23.270 c23 Generated table #1118@0: 2 keys, 14341 bytes
+2026/01/21-13:23:23.270 c23 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/21-13:23:23.370 c23 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/21-13:23:23.370 c23 Delete type=2 #1117
+2026/01/21-13:23:23.370 c23 Delete type=2 #1109
+2026/01/21-13:23:23.371 c23 Delete type=2 #1113
+2026/01/21-13:23:23.371 c23 Delete type=2 #1111
+2026/01/21-13:23:23.371 c23 Delete type=2 #1115
+2026/01/21-14:54:01.508 c13 Level-0 table #1120: started
+2026/01/21-14:54:01.525 c13 Level-0 table #1120: 906565 bytes OK
+2026/01/21-14:54:01.529 c13 Delete type=0 #1116
+2026/01/21-16:11:23.156 c13 Level-0 table #1122: started
+2026/01/21-16:11:23.214 c13 Level-0 table #1122: 906561 bytes OK
+2026/01/21-16:11:23.239 c13 Delete type=0 #1119
+2026/01/21-18:21:23.327 c13 Level-0 table #1124: started
+2026/01/21-18:21:23.345 c13 Level-0 table #1124: 906559 bytes OK
+2026/01/21-18:21:23.349 c13 Delete type=0 #1121
+2026/01/21-20:21:40.579 c24 Level-0 table #1126: started
+2026/01/21-20:21:40.620 c24 Level-0 table #1126: 906561 bytes OK
+2026/01/21-20:21:40.711 c24 Delete type=0 #1123
+2026/01/21-20:21:40.713 c11 Compacting 4@0 + 1@1 files
+2026/01/21-20:21:40.795 c11 Generated table #1127@0: 2 keys, 14341 bytes
+2026/01/21-20:21:40.795 c11 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/21-20:21:40.888 c11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/21-20:21:40.888 c11 Delete type=2 #1124
+2026/01/21-20:21:40.889 c11 Delete type=2 #1126
+2026/01/21-20:21:40.889 c11 Delete type=2 #1122
+2026/01/21-20:21:40.889 c11 Delete type=2 #1118
+2026/01/21-20:21:40.889 c11 Delete type=2 #1120
+2026/01/21-22:15:24.766 c13 Level-0 table #1129: started
+2026/01/21-22:15:24.781 c13 Level-0 table #1129: 906561 bytes OK
+2026/01/21-22:15:24.786 c13 Delete type=0 #1125
+2026/01/22-00:27:23.127 c13 Level-0 table #1131: started
+2026/01/22-00:27:23.147 c13 Level-0 table #1131: 906562 bytes OK
+2026/01/22-00:27:23.151 c13 Delete type=0 #1128
+2026/01/22-02:41:23.175 c13 Level-0 table #1133: started
+2026/01/22-02:41:23.189 c13 Level-0 table #1133: 906558 bytes OK
+2026/01/22-02:41:23.194 c13 Delete type=0 #1130
+2026/01/22-04:57:23.292 c13 Level-0 table #1135: started
+2026/01/22-04:57:23.320 c13 Level-0 table #1135: 906561 bytes OK
+2026/01/22-04:57:23.324 c13 Delete type=0 #1132
+2026/01/22-04:57:23.329 c11 Compacting 4@0 + 1@1 files
+2026/01/22-04:57:23.354 c11 Generated table #1136@0: 2 keys, 14341 bytes
+2026/01/22-04:57:23.354 c11 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/22-04:57:23.356 c11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/22-04:57:23.357 c11 Delete type=2 #1133
+2026/01/22-04:57:23.357 c11 Delete type=2 #1129
+2026/01/22-04:57:23.357 c11 Delete type=2 #1131
+2026/01/22-04:57:23.357 c11 Delete type=2 #1127
+2026/01/22-04:57:23.357 c11 Delete type=2 #1135
+2026/01/22-07:11:23.085 c13 Level-0 table #1138: started
+2026/01/22-07:11:23.097 c13 Level-0 table #1138: 906558 bytes OK
+2026/01/22-07:11:23.100 c13 Delete type=0 #1134
+2026/01/22-09:27:23.285 c13 Level-0 table #1140: started
+2026/01/22-09:27:23.303 c13 Level-0 table #1140: 906566 bytes OK
+2026/01/22-09:27:23.306 c13 Delete type=0 #1137
+2026/01/22-11:41:29.069 c13 Level-0 table #1142: started
+2026/01/22-11:41:29.081 c13 Level-0 table #1142: 906565 bytes OK
+2026/01/22-11:41:29.084 c13 Delete type=0 #1139
+2026/01/22-14:02:24.212 c13 Level-0 table #1144: started
+2026/01/22-14:02:24.243 c13 Level-0 table #1144: 906561 bytes OK
+2026/01/22-14:02:24.248 c13 Delete type=0 #1141
+2026/01/22-14:02:24.250 c13 Compacting 4@0 + 1@1 files
+2026/01/22-14:02:24.274 c13 Generated table #1145@0: 2 keys, 14341 bytes
+2026/01/22-14:02:24.275 c13 Compacted 4@0 + 1@1 files => 14341 bytes
+2026/01/22-14:02:24.277 c13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/22-14:02:24.278 c13 Delete type=2 #1140
+2026/01/22-14:02:24.278 c13 Delete type=2 #1142
+2026/01/22-14:02:24.278 c13 Delete type=2 #1138
+2026/01/22-14:02:24.278 c13 Delete type=2 #1144
+2026/01/22-14:02:24.278 c13 Delete type=2 #1136
+2026/01/22-15:44:23.096 c13 Level-0 table #1147: started
+2026/01/22-15:44:23.110 c13 Level-0 table #1147: 906563 bytes OK
+2026/01/22-15:44:23.113 c13 Delete type=0 #1143

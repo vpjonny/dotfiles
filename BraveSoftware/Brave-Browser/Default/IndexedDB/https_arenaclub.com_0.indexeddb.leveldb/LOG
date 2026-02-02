@@ -1,0 +1,7 @@
+2026/01/22-15:56:12.352 c13 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_arenaclub.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/22-15:56:12.353 c13 Recovering log #4
+2026/01/22-15:56:12.355 c13 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_arenaclub.com_0.indexeddb.leveldb/000004.log 
+2026/01/22-15:56:12.522 c24 Level-0 table #8: started
+2026/01/22-15:56:12.547 c24 Level-0 table #8: 25516 bytes OK
+2026/01/22-15:56:12.594 c24 Delete type=0 #4
+2026/01/22-15:56:12.595 c23 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

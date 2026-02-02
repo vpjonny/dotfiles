@@ -1,0 +1,7 @@
+2025/12/17-20:15:27.206 831 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2025/12/17-20:15:27.230 831 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/17-20:15:28.773 844 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/17-20:16:06.163 833 Level-0 table #5: started
+2025/12/17-20:16:06.173 833 Level-0 table #5: 248647 bytes OK
+2025/12/17-20:16:06.176 833 Delete type=0 #3
+2025/12/17-20:16:06.176 833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

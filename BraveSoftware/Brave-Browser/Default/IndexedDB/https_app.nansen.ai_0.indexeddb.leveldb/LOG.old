@@ -1,0 +1,15 @@
+2026/02/01-14:36:54.941 678 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nansen.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-14:36:54.941 678 Recovering log #11
+2026/02/01-14:36:54.942 678 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.nansen.ai_0.indexeddb.leveldb/000011.log 
+2026/02/01-14:39:56.512 676 Level-0 table #16: started
+2026/02/01-14:39:56.572 676 Level-0 table #16: 958 bytes OK
+2026/02/01-14:39:56.674 676 Delete type=0 #11
+2026/02/01-14:39:56.674 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/01-14:39:56.675 664 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 902 : 1
+2026/02/01-14:39:56.675 664 Compacting 1@1 + 1@2 files
+2026/02/01-14:39:56.757 664 Generated table #17@1: 115 keys, 2057 bytes
+2026/02/01-14:39:56.757 664 Compacted 1@1 + 1@2 files => 2057 bytes
+2026/02/01-14:39:56.824 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-14:39:56.824 664 Delete type=2 #16
+2026/02/01-14:39:56.824 664 Delete type=2 #13
+2026/02/01-14:39:56.825 664 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 902 : 1 .. (end); will stop at (end)

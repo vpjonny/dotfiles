@@ -1,0 +1,2 @@
+import{e as i}from"./chunk-W6ZDZJCJ.js";import{c}from"./chunk-4ADHM5NM.js";import{o as n,q as d}from"./chunk-UWURTNRY.js";n();d();var a=class extends Error{constructor({code:s,message:e,data:t}){super(e),this.code=s,this.data=t,this.name=this.constructor.name}},h=o=>{let s=i(),{code:e,message:t}=o||{},r;switch(s){case c.WALLET_CONNECT:[5e3,5001,5002].includes(e)&&(r=new a({code:4001,message:t}));break;case c.OKX_WALLET:[300].includes(e)&&(r={code:4001,message:t});break;default:break}return r||o};export{h as a};
+//# sourceMappingURL=chunk-UIVIYQF2.js.map

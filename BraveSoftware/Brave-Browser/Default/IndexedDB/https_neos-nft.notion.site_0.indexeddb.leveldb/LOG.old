@@ -1,0 +1,6 @@
+2026/01/04-16:02:27.082 819 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neos-nft.notion.site_0.indexeddb.leveldb since it was missing.
+2026/01/04-16:02:27.094 819 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neos-nft.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/04-16:02:27.842 82d Level-0 table #5: started
+2026/01/04-16:02:27.844 82d Level-0 table #5: 580 bytes OK
+2026/01/04-16:02:27.847 82d Delete type=0 #3
+2026/01/04-16:02:27.848 819 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

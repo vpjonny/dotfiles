@@ -1,0 +1,6 @@
+2026/01/15-21:30:18.518 83c Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_accounts.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/15-21:30:18.519 83c Recovering log #10
+2026/01/15-21:30:18.684 83c Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_accounts.binance.com_0.indexeddb.leveldb/000010.log 
+2026/01/15-21:30:19.475 84d Level-0 table #14: started
+2026/01/15-21:30:19.500 84d Level-0 table #14: 2562766 bytes OK
+2026/01/15-21:30:19.504 84d Delete type=0 #10

@@ -1,0 +1,7 @@
+2025/12/13-14:46:34.990 e50 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sato.kindredlabs.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/13-14:46:34.991 e50 Recovering log #4
+2025/12/13-14:46:34.991 e50 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sato.kindredlabs.ai_0.indexeddb.leveldb/000004.log 
+2025/12/13-14:46:35.092 e50 Level-0 table #8: started
+2025/12/13-14:46:35.096 e50 Level-0 table #8: 6942 bytes OK
+2025/12/13-14:46:35.099 e50 Delete type=0 #4
+2025/12/13-14:46:35.099 e50 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

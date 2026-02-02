@@ -1,0 +1,9 @@
+2025/12/20-17:38:00.713 b99 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_metawin.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/20-17:38:00.713 b99 Recovering log #10
+2025/12/20-17:38:00.714 b99 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_metawin.com_0.indexeddb.leveldb/000010.log 
+2025/12/20-17:38:05.736 b9b Compacting 1@0 + 1@1 files
+2025/12/20-17:38:05.742 b9b Generated table #13@0: 751 keys, 9692 bytes
+2025/12/20-17:38:05.742 b9b Compacted 1@0 + 1@1 files => 9692 bytes
+2025/12/20-17:38:05.744 b9b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/20-17:38:05.745 b9b Delete type=2 #11
+2025/12/20-17:38:05.745 b9b Delete type=2 #8

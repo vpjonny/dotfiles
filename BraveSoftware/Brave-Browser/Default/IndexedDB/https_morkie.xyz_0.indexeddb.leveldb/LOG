@@ -1,0 +1,13 @@
+2026/01/24-21:40:07.627 3c345 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morkie.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/24-21:40:07.627 3c345 Recovering log #46
+2026/01/24-21:40:07.629 3c345 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_morkie.xyz_0.indexeddb.leveldb/000046.log 
+2026/01/24-21:40:07.660 3c357 Level-0 table #50: started
+2026/01/24-21:40:07.662 3c357 Level-0 table #50: 12067 bytes OK
+2026/01/24-21:40:07.664 3c357 Delete type=0 #46
+2026/01/24-21:40:07.665 3c345 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 1148 : 1
+2026/01/24-21:40:07.665 3c345 Compacting 1@0 + 1@1 files
+2026/01/24-21:40:07.667 3c345 Generated table #51@0: 95 keys, 6901 bytes
+2026/01/24-21:40:07.667 3c345 Compacted 1@0 + 1@1 files => 6901 bytes
+2026/01/24-21:40:07.669 3c345 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/24-21:40:07.669 3c345 Delete type=2 #50
+2026/01/24-21:40:07.669 3c345 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 1148 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

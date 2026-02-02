@@ -1,0 +1,7 @@
+2025/10/02-15:25:37.548 604 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_handsnft.fun_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/02-15:25:37.549 604 Recovering log #3
+2025/10/02-15:25:37.550 604 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_handsnft.fun_0.indexeddb.leveldb/000003.log 
+2025/10/02-15:38:06.826 604 Level-0 table #5: started
+2025/10/02-15:38:06.829 604 Level-0 table #5: 1765 bytes OK
+2025/10/02-15:38:06.833 604 Delete type=0 #3
+2025/10/02-15:38:06.833 604 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

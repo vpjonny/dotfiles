@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'Aeonik-Light';
+  src: url('./assets/fonts/aeonik/Aeonik-Light.otf') format('opentype');
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Aeonik-Regular';
+  src: url('./assets/fonts/aeonik/Aeonik-Regular.otf') format('opentype');
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Aeonik-Medium';
+  src: url('./assets/fonts/aeonik/Aeonik-Medium.otf') format('opentype');
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Aeonik-Bold';
+  src: url('./assets/fonts/aeonik/Aeonik-Bold.otf') format('opentype');
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Aeonik-Black';
+  src: url('./assets/fonts/aeonik/Aeonik-Black.otf') format('opentype');
+  font-style: normal;
+  font-display: block;
+}
+
+body {
+  background-color: black;
+  margin: 0px;
+  font-family: 'Aeonik-Regular';
+  overflow: hidden;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+#root {
+  overflow: hidden;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes text-gradient {
+  0% {
+    background-position: 120% 0%;
+  }
+
+  50% {
+    background-position: 50% 0%;
+  }
+
+  100% {
+    background-position: -20% 0%;
+  }
+}
+
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+  from {
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.rotating {
+  -webkit-animation: rotating 1440ms linear infinite;
+  -moz-animation: rotating 1440ms linear infinite;
+  -ms-animation: rotating 1440ms linear infinite;
+  -o-animation: rotating 1440ms linear infinite;
+  animation: rotating 1440ms linear infinite;
+}
+
+
+/* used for hover effects */
+svg * {
+  transition: fill-opacity ease 0.2s;
+}
+
+::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+iframe {
+  border: 0;
+}

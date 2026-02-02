@@ -1,0 +1,52 @@
+2026/01/28-20:40:29.009 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web3.okx.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-20:40:29.009 8c5 Recovering log #198
+2026/01/28-20:40:29.029 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web3.okx.com_0.indexeddb.leveldb/000198.log 
+2026/01/28-20:40:43.124 8d7 Level-0 table #203: started
+2026/01/28-20:40:43.132 8d7 Level-0 table #203: 600073 bytes OK
+2026/01/28-20:40:43.135 8d7 Delete type=0 #198
+2026/01/28-20:40:43.136 8c5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/28-20:40:43.136 8c5 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x1f\x01\x0c\x00u\x00s\x00e\x00r\x00I\x00n\x00f\x00o\x00D\x00a\x00t\x00a\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 82525 : 1
+2026/01/28-20:40:43.136 8c5 Compacting 1@1 + 1@2 files
+2026/01/28-20:40:43.144 8c5 Generated table #204@1: 317 keys, 173744 bytes
+2026/01/28-20:40:43.144 8c5 Compacted 1@1 + 1@2 files => 173744 bytes
+2026/01/28-20:40:43.149 8c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-20:40:43.149 8c5 Delete type=2 #203
+2026/01/28-20:40:43.150 8d9 Manual compaction at level-1 from '\x00\x04\x01\x1f\x01\x0c\x00u\x00s\x00e\x00r\x00I\x00n\x00f\x00o\x00D\x00a\x00t\x00a\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 82525 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/28-20:41:19.617 8c5 Level-0 table #206: started
+2026/01/28-20:41:19.633 8c5 Level-0 table #206: 1083913 bytes OK
+2026/01/28-20:41:19.636 8c5 Delete type=0 #202
+2026/01/28-20:41:19.636 8c5 Delete type=2 #200
+2026/01/28-20:41:19.987 8c5 Level-0 table #208: started
+2026/01/28-20:41:20.003 8c5 Level-0 table #208: 885977 bytes OK
+2026/01/28-20:41:20.006 8c5 Delete type=0 #205
+2026/01/28-20:41:20.911 8c7 Compacting 1@1 + 1@2 files
+2026/01/28-20:41:20.922 8c7 Generated table #209@1: 349 keys, 183202 bytes
+2026/01/28-20:41:20.922 8c7 Compacted 1@1 + 1@2 files => 183202 bytes
+2026/01/28-20:41:20.924 8c7 compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/01/28-20:41:21.494 8d7 Moved #208 to level-1 885977 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/01/28-20:41:22.730 8c5 Level-0 table #211: started
+2026/01/28-20:41:22.740 8c5 Level-0 table #211: 887322 bytes OK
+2026/01/28-20:41:22.743 8c5 Delete type=0 #207
+2026/01/28-20:41:22.743 8c5 Delete type=2 #204
+2026/01/28-20:41:22.743 8c5 Delete type=2 #206
+2026/01/28-20:41:24.324 8c5 Compacting 1@0 + 1@1 files
+2026/01/28-20:41:24.394 8c5 Generated table #212@0: 753 keys, 23570 bytes
+2026/01/28-20:41:24.394 8c5 Compacted 1@0 + 1@1 files => 23570 bytes
+2026/01/28-20:41:24.481 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/28-20:41:24.481 8c5 Delete type=2 #211
+2026/01/28-20:41:24.481 8c5 Delete type=2 #208
+2026/01/28-20:45:49.945 8c7 Compacting 1@1 + 1@2 files
+2026/01/28-20:45:50.006 8c7 Generated table #213@1: 352 keys, 184213 bytes
+2026/01/28-20:45:50.006 8c7 Compacted 1@1 + 1@2 files => 184213 bytes
+2026/01/28-20:45:50.073 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-20:45:50.074 8c7 Delete type=2 #212
+2026/01/28-20:45:50.074 8c7 Delete type=2 #209
+2026/01/29-07:00:52.205 8c5 Level-0 table #215: started
+2026/01/29-07:00:52.219 8c5 Level-0 table #215: 848565 bytes OK
+2026/01/29-07:00:52.222 8c5 Delete type=0 #210
+2026/01/29-11:46:10.034 8c5 Compacting 1@1 + 1@2 files
+2026/01/29-11:46:10.048 8c5 Generated table #216@1: 352 keys, 185579 bytes
+2026/01/29-11:46:10.048 8c5 Compacted 1@1 + 1@2 files => 185579 bytes
+2026/01/29-11:46:10.051 8c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/29-11:46:10.051 8c5 Delete type=2 #213
+2026/01/29-11:46:10.051 8c5 Delete type=2 #215

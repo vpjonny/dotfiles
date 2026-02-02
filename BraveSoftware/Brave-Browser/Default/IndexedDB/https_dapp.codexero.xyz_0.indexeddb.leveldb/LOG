@@ -1,0 +1,7 @@
+2025/12/15-12:39:16.955 831 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dapp.codexero.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/15-12:39:16.955 831 Recovering log #3
+2025/12/15-12:39:16.956 831 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dapp.codexero.xyz_0.indexeddb.leveldb/000003.log 
+2025/12/15-12:41:41.581 833 Level-0 table #5: started
+2025/12/15-12:41:41.622 833 Level-0 table #5: 5445 bytes OK
+2025/12/15-12:41:41.665 833 Delete type=0 #3
+2025/12/15-12:41:41.666 833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

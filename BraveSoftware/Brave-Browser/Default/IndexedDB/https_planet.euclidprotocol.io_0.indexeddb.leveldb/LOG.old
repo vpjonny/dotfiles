@@ -1,0 +1,15 @@
+2025/09/30-15:57:33.687 59b Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_planet.euclidprotocol.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/30-15:57:33.688 59b Recovering log #7
+2025/09/30-15:57:33.689 59b Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_planet.euclidprotocol.io_0.indexeddb.leveldb/000007.log 
+2025/09/30-16:00:29.520 59b Level-0 table #12: started
+2025/09/30-16:00:29.522 59b Level-0 table #12: 190 bytes OK
+2025/09/30-16:00:29.524 59b Delete type=0 #7
+2025/09/30-16:00:29.524 59b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/30-16:00:29.525 59b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 71 : 1
+2025/09/30-16:00:29.525 59b Compacting 1@1 + 1@2 files
+2025/09/30-16:00:29.528 59b Generated table #13@1: 23 keys, 844 bytes
+2025/09/30-16:00:29.528 59b Compacted 1@1 + 1@2 files => 844 bytes
+2025/09/30-16:00:29.530 59b compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/30-16:00:29.530 59b Delete type=2 #12
+2025/09/30-16:00:29.530 59b Delete type=2 #9
+2025/09/30-16:00:29.530 59b Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 71 : 1 .. (end); will stop at (end)

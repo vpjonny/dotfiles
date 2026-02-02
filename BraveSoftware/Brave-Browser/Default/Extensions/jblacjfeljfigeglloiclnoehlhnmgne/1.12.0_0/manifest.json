@@ -1,0 +1,52 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/prod/icon128.png",
+         "16": "icons/prod/icon16.png",
+         "48": "icons/prod/icon48.png"
+      },
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "styles-twitter.css" ],
+      "js": [ "content-twitter.js" ],
+      "matches": [ "https://x.com/*", "https://twitter.com/*" ]
+   }, {
+      "js": [ "content-yaps.js" ],
+      "matches": [ "https://yaps.kaito.ai/*" ]
+   }, {
+      "css": [ "styles-opensea.css" ],
+      "js": [ "content-opensea.js" ],
+      "matches": [ "https://opensea.io/*" ]
+   }, {
+      "css": [ "styles-farcaster.css" ],
+      "js": [ "content-farcaster.js" ],
+      "matches": [ "https://farcaster.xyz/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "View Ethos credibility scores and data to enhance your web3 browsing experience, ensuring you always know who’s trustworthy in web3.",
+   "host_permissions": [ "https://x.com/*", "https://twitter.com/*", "https://api.ethos.network/*" ],
+   "icons": {
+      "128": "icons/prod/icon128.png",
+      "16": "icons/prod/icon16.png",
+      "48": "icons/prod/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiOrUQ0CFgoVMXoSAd6XALoSn+bTuox2+uHOXaNHzh5KArolipZHRDKG/kyCzbDx+1Hy21Fj1OJDLuFOuqAgcAoaih9NIcNX0EvnapuQLrP+RRb0rkWsL8u+y6eoy4qBF/wzqggD820FN9KybTr5wO+iDknPg8kcbTSYkVnua8XsVagFsOvK4k5s0wn1gX8K47VvSmPG4lJjbKuUk3QtREJ9J0+sLVtgu4V4MZtwr8VK8bo2b+UDtRDLrXyQC91Ly1N7Diz0kVmIAKL129/64dIS/xV/KIZGR07DAnWc1dIaE9xdyv5FG2qpwLk2I6RY0F4jm8QojTqaTPJGxSTcaewIDAQAB",
+   "manifest_version": 3,
+   "name": "Ethos Everywhere",
+   "optional_host_permissions": [ "https://zora.co/*" ],
+   "options_page": "options.html",
+   "permissions": [ "storage", "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.12.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/*.png", "fonts/*.woff2" ]
+   } ]
+}

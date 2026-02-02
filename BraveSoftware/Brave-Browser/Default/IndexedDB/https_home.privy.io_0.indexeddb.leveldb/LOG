@@ -1,0 +1,15 @@
+2026/02/01-15:34:50.762 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_home.privy.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-15:34:50.763 662 Recovering log #19
+2026/02/01-15:34:50.763 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_home.privy.io_0.indexeddb.leveldb/000019.log 
+2026/02/01-15:35:45.982 664 Level-0 table #24: started
+2026/02/01-15:35:46.046 664 Level-0 table #24: 190 bytes OK
+2026/02/01-15:35:46.120 664 Delete type=0 #19
+2026/02/01-15:35:46.120 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/01-15:35:46.120 664 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 62 : 1
+2026/02/01-15:35:46.120 664 Compacting 1@1 + 1@2 files
+2026/02/01-15:35:46.175 664 Generated table #25@1: 21 keys, 651 bytes
+2026/02/01-15:35:46.175 664 Compacted 1@1 + 1@2 files => 651 bytes
+2026/02/01-15:35:46.230 664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-15:35:46.230 664 Delete type=2 #24
+2026/02/01-15:35:46.230 664 Delete type=2 #21
+2026/02/01-15:35:46.230 664 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 62 : 1 .. (end); will stop at (end)

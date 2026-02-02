@@ -1,0 +1,3 @@
+2025/09/15-20:10:31.300 10981 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_framevr.io_0.indexeddb.leveldb since it was missing.
+2025/09/15-20:10:31.306 10981 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_framevr.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/15-20:10:31.351 10981 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

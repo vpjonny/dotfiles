@@ -1,0 +1,15 @@
+2026/02/02-17:12:47.818 612 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.merkl.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:12:47.819 612 Recovering log #7
+2026/02/02-17:12:47.841 612 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.merkl.xyz_0.indexeddb.leveldb/000007.log 
+2026/02/02-17:13:05.920 613 Level-0 table #12: started
+2026/02/02-17:13:05.927 613 Level-0 table #12: 242155 bytes OK
+2026/02/02-17:13:05.931 613 Delete type=0 #7
+2026/02/02-17:13:05.931 613 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/02-17:13:05.932 613 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 1599 : 1
+2026/02/02-17:13:05.932 613 Compacting 1@1 + 1@2 files
+2026/02/02-17:13:05.937 613 Generated table #13@1: 73 keys, 1511 bytes
+2026/02/02-17:13:05.937 613 Compacted 1@1 + 1@2 files => 1511 bytes
+2026/02/02-17:13:05.939 613 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-17:13:05.939 613 Delete type=2 #12
+2026/02/02-17:13:05.939 613 Delete type=2 #9
+2026/02/02-17:13:05.940 613 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0c\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00d\x00b' @ 1599 : 1 .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2025/12/04-17:06:04.751 5ac Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_apy.plasma.finance_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/04-17:06:04.751 5ac Recovering log #3
+2025/12/04-17:06:04.752 5ac Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_apy.plasma.finance_0.indexeddb.leveldb/000003.log 
+2025/12/04-17:14:19.665 5ad Level-0 table #5: started
+2025/12/04-17:14:19.698 5ad Level-0 table #5: 1417 bytes OK
+2025/12/04-17:14:19.764 5ad Delete type=0 #3
+2025/12/04-17:14:19.764 5ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

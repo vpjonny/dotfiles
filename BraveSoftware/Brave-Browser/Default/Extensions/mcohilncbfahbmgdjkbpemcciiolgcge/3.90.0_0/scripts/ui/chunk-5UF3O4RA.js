@@ -1,0 +1,2 @@
+import{a as s}from"./chunk-LHFDZX73.js";import{e as a}from"./chunk-OLICTWCW.js";import{p as t}from"./chunk-DSNMNSMD.js";import{d as o}from"./chunk-URGJ6D4O.js";import{o as e,q as r}from"./chunk-UWURTNRY.js";e();r();var p=({unapproved:n})=>{let i=s(n);return a(i.initialType)?{type:o.TYPE.error,message:t("wallet_extension_top_toast_dapp_comingsoon")}:null},f=p;export{f as a};
+//# sourceMappingURL=chunk-5UF3O4RA.js.map

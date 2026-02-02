@@ -1,0 +1,2 @@
+import{f as n}from"./chunk-CKHT4PIF.js";import{o as r}from"./chunk-KGMP5AO5.js";import{o as t,q as o}from"./chunk-UWURTNRY.js";t();o();var m=n("Chain"),i={blockNumber:0},a=r({name:m,initialState:i,reducers:{setBlockNumber:(e,{payload:c})=>{e.blockNumber=c}}}),d=e=>e[a.name].blockNumber;var{actions:u,reducer:s}=a,{setBlockNumber:N}=u;var g=s;export{m as a,d as b,N as c,g as d};
+//# sourceMappingURL=chunk-T5XGANNY.js.map

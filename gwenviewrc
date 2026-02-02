@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Downloads/result_image (3).jpg
+File10[$e]=/run/media/slova/xec1964/phone/volkswagen-golf-golf-3-gti-20-jahre-2-0-16v-abf-schwarz_6991457026.jpg
+File2[$e]=$HOME/Documents/Downloads/436657062_369616799460695_1975607734803575543_n.jpg
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot_20251112_164414-1.png
+File4[$e]=$HOME/Downloads/agent_27355/card.png
+File5[$e]=$HOME/Downloads/penis/WhatsAppVideo2025-10-09at19.42.07-ezgif.com-optimize.gif
+File6[$e]=$HOME/Downloads/penis/A0b4cbdaf2d5c4fdfb769ccef19485acdX.webp
+File7[$e]=$HOME/Downloads/penis/3333.jpg
+File8[$e]=$HOME/Downloads/bulb socket/x3384g5znxibfrmoic6h06v9r8bp.png
+File9[$e]=/run/media/slova/xec1964/UBUNTU/452441729_988155406437856_4904939680114793929_n.jpg
+Name1[$e]=result_image (3).jpg
+Name10[$e]=volkswagen-golf-golf-3-gti-20-jahre-2-0-16v-abf-schwarz_6991457026.jpg
+Name2[$e]=436657062_369616799460695_1975607734803575543_n.jpg
+Name3[$e]=Screenshot_20251112_164414-1.png
+Name4[$e]=card.png
+Name5[$e]=WhatsAppVideo2025-10-09at19.42.07-ezgif.com-optimize.gif
+Name6[$e]=A0b4cbdaf2d5c4fdfb769ccef19485acdX.webp
+Name7[$e]=3333.jpg
+Name8[$e]=x3384g5znxibfrmoic6h06v9r8bp.png
+Name9[$e]=452441729_988155406437856_4904939680114793929_n.jpg
+
+[SideBar]
+InformationSplitterSizes=220,255
+IsVisible ViewMode=true
+SideBarSplitterSizes=210,1709

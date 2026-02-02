@@ -1,0 +1,7 @@
+2026/01/11-17:06:57.217 bfd Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.yieldbay.fi_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/11-17:06:57.217 bfd Recovering log #3
+2026/01/11-17:06:57.217 bfd Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.yieldbay.fi_0.indexeddb.leveldb/000003.log 
+2026/01/11-17:11:14.545 c0e Level-0 table #5: started
+2026/01/11-17:11:14.666 c0e Level-0 table #5: 1151 bytes OK
+2026/01/11-17:11:14.820 c0e Delete type=0 #3
+2026/01/11-17:11:14.820 bfb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,22 @@
+2026/02/01-12:34:15.628 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quests.yom.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-12:34:15.628 662 Recovering log #268
+2026/02/01-12:34:15.629 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quests.yom.net_0.indexeddb.leveldb/000268.log 
+2026/02/01-12:35:56.295 662 Level-0 table #273: started
+2026/02/01-12:35:56.331 662 Level-0 table #273: 358 bytes OK
+2026/02/01-12:35:56.415 662 Delete type=0 #268
+2026/02/01-12:35:56.415 662 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00D\x00\x00\x05' @ 1349 : 1
+2026/02/01-12:35:56.416 662 Compacting 1@0 + 1@1 files
+2026/02/01-12:35:56.475 662 Generated table #274@0: 15 keys, 432 bytes
+2026/02/01-12:35:56.475 662 Compacted 1@0 + 1@1 files => 432 bytes
+2026/02/01-12:35:56.535 662 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/01-12:35:56.536 662 Delete type=2 #270
+2026/02/01-12:35:56.536 662 Delete type=2 #273
+2026/02/01-12:35:56.536 662 Manual compaction at level-0 from '\x00D\x00\x00\x05' @ 1349 : 1 .. (end); will stop at (end)
+2026/02/01-12:35:56.536 662 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00D\x00\x00\x05' @ 1349 : 1
+2026/02/01-12:35:56.536 662 Compacting 1@1 + 1@2 files
+2026/02/01-12:35:56.604 662 Generated table #275@1: 63 keys, 1238 bytes
+2026/02/01-12:35:56.604 662 Compacted 1@1 + 1@2 files => 1238 bytes
+2026/02/01-12:35:56.664 662 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/01-12:35:56.664 662 Delete type=2 #274
+2026/02/01-12:35:56.664 662 Delete type=2 #187
+2026/02/01-12:35:56.664 662 Manual compaction at level-1 from '\x00D\x00\x00\x05' @ 1349 : 1 .. (end); will stop at (end)

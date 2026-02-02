@@ -1,0 +1,2 @@
+import{w as s}from"./chunk-XYWWXNVK.js";import{a as n}from"./chunk-FB3ILH2L.js";import{b as d}from"./chunk-FLSAETOH.js";import{f as a,o,q as e}from"./chunk-UWURTNRY.js";o();e();var r=a(d()),m=a(n());o();e();var f=({overwriteClassName:t=!1,size:p=s.SIZE.lg,className:i=""})=>r.default.createElement("div",{className:(0,m.default)({"ok-page__loader":!t},i)},r.default.createElement(s,{size:p})),v=r.default.memo(f);export{v as a};
+//# sourceMappingURL=chunk-HE577UXH.js.map

@@ -1,0 +1,7 @@
+2025/12/09-17:31:39.730 2fb6f Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lookerstudio.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/09-17:31:39.730 2fb6f Recovering log #4
+2025/12/09-17:31:39.730 2fb6f Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lookerstudio.google.com_0.indexeddb.leveldb/000004.log 
+2025/12/09-17:31:40.290 2fb82 Level-0 table #8: started
+2025/12/09-17:31:40.293 2fb82 Level-0 table #8: 1511 bytes OK
+2025/12/09-17:31:40.295 2fb82 Delete type=0 #4
+2025/12/09-17:31:40.295 2fb71 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

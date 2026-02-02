@@ -1,0 +1,25 @@
+2026/01/13-14:12:32.558 843 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sandchain.forge.gg_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-14:12:32.558 843 Recovering log #187
+2026/01/13-14:12:32.559 843 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sandchain.forge.gg_0.indexeddb.leveldb/000187.log 
+2026/01/13-14:12:32.559 843 Delete type=2 #186
+2026/01/13-14:12:32.583 854 Level-0 table #192: started
+2026/01/13-14:12:32.585 854 Level-0 table #192: 952 bytes OK
+2026/01/13-14:12:32.587 854 Delete type=0 #187
+2026/01/13-14:12:32.587 841 Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at '\x00>\x00\x00\x05' @ 2216 : 1
+2026/01/13-14:12:32.587 841 Compacting 1@0 + 1@1 files
+2026/01/13-14:12:32.591 841 Generated table #193@0: 239 keys, 3790 bytes
+2026/01/13-14:12:32.591 841 Compacted 1@0 + 1@1 files => 3790 bytes
+2026/01/13-14:12:32.593 841 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-14:12:32.593 841 Delete type=2 #192
+2026/01/13-14:12:32.593 841 Manual compaction at level-0 from '\x00>\x00\x00\x05' @ 2216 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/13-14:14:16.951 841 Level-0 table #195: started
+2026/01/13-14:14:16.985 841 Level-0 table #195: 2325 bytes OK
+2026/01/13-14:14:17.071 841 Delete type=2 #189
+2026/01/13-14:14:17.072 841 Delete type=0 #191
+2026/01/13-14:14:17.072 841 Manual compaction at level-0 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at '\x00?\x00\x00\x05' @ 2261 : 1
+2026/01/13-14:14:17.072 841 Compacting 1@0 + 1@1 files
+2026/01/13-14:14:17.125 841 Generated table #196@0: 246 keys, 3875 bytes
+2026/01/13-14:14:17.125 841 Compacted 1@0 + 1@1 files => 3875 bytes
+2026/01/13-14:14:17.201 841 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-14:14:17.202 841 Delete type=2 #195
+2026/01/13-14:14:17.202 841 Manual compaction at level-0 from '\x00?\x00\x00\x05' @ 2261 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)

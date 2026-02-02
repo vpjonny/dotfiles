@@ -1,0 +1,6 @@
+2026/02/01-15:19:10.213 662 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_eth.nftscan.com_0.indexeddb.leveldb since it was missing.
+2026/02/01-15:19:10.362 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_eth.nftscan.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/01-15:22:29.019 678 Level-0 table #5: started
+2026/02/01-15:22:29.162 678 Level-0 table #5: 816 bytes OK
+2026/02/01-15:22:29.289 678 Delete type=0 #3
+2026/02/01-15:22:29.290 664 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

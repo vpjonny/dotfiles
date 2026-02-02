@@ -1,0 +1,2 @@
+import{c,d as r}from"./chunk-YLT6ZRGE.js";import{a as u,c as d}from"./chunk-KC2XLVFC.js";import{o as C,q as a}from"./chunk-UWURTNRY.js";C();a();var l=(o,t=!1)=>{let n=r(o),i;t?n?.baseCoinId===0?i=void 0:typeof n?.baseCoinId=="number"&&(i=n?.baseCoinId):i=void 0;let e=r(i);return d(()=>({coin:n??{},baseCoin:n?.baseCoinId===0?n:e??{}}),[n,e])},h=()=>{let o=c();return u(async(n,i=!1)=>{let e=await o(n);if(!e)return{};let s;return i&&(e.baseCoinId===0?s={...e}:s=await o(e.baseCoinId)),{coin:e,baseCoin:s}})};export{l as a,h as b};
+//# sourceMappingURL=chunk-U44ZBWPF.js.map

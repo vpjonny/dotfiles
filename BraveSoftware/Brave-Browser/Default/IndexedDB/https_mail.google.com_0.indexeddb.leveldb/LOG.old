@@ -1,0 +1,21 @@
+2026/01/06-17:45:58.217 81b Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/06-17:45:58.225 81b Recovering log #79
+2026/01/06-17:45:58.357 81b Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000079.log 
+2026/01/06-17:46:03.951 81b Compacting 1@1 + 1@2 files
+2026/01/06-17:46:04.020 81b Generated table #82@1: 200 keys, 906115 bytes
+2026/01/06-17:46:04.020 81b Compacted 1@1 + 1@2 files => 906115 bytes
+2026/01/06-17:46:04.024 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-17:46:04.025 81b Delete type=2 #80
+2026/01/06-17:46:04.025 81b Delete type=2 #78
+2026/01/06-17:46:17.870 81b Level-0 table #84: started
+2026/01/06-17:46:17.913 81b Level-0 table #84: 3246846 bytes OK
+2026/01/06-17:46:17.976 81b Delete type=0 #79
+2026/01/06-19:59:09.709 82b Compacting 1@1 + 1@2 files
+2026/01/06-19:59:09.732 82b Generated table #85@1: 194 keys, 859033 bytes
+2026/01/06-19:59:09.732 82b Compacted 1@1 + 1@2 files => 859033 bytes
+2026/01/06-19:59:09.734 82b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-19:59:09.735 82b Delete type=2 #82
+2026/01/06-19:59:09.735 82b Delete type=2 #84
+2026/01/06-19:59:19.628 81b Level-0 table #87: started
+2026/01/06-19:59:19.664 81b Level-0 table #87: 3248283 bytes OK
+2026/01/06-19:59:19.667 81b Delete type=0 #83

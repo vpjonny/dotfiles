@@ -1,0 +1,7 @@
+2025/12/19-21:27:21.746 b99 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.helioschain.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/19-21:27:21.746 b99 Recovering log #3
+2025/12/19-21:27:21.760 b99 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.helioschain.network_0.indexeddb.leveldb/000003.log 
+2025/12/19-21:32:03.299 b9b Level-0 table #5: started
+2025/12/19-21:32:03.302 b9b Level-0 table #5: 2978 bytes OK
+2025/12/19-21:32:03.306 b9b Delete type=0 #3
+2025/12/19-21:32:03.307 b9b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

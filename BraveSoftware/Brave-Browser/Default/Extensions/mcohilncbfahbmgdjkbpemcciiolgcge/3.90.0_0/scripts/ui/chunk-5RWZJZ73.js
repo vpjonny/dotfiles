@@ -1,0 +1,2 @@
+import{o as r}from"./chunk-KGMP5AO5.js";import{o as t,q as a}from"./chunk-UWURTNRY.js";t();a();var c={seedPhrase:"",privateKey:"",unlockHardwareWallets:{},chooseNetworkList:[],mpcInfo:{},isTonMnemonicImport:!1},s=r({name:"importAccount",initialState:c,reducers:{setUnlockHardwareWallets:(e,o)=>{e.unlockHardwareWallets=o.payload},setMpcInfo:(e,o)=>{e.mpcInfo=o.payload}}}),{actions:n,reducer:l}=s,p=l,{setUnlockHardwareWallets:m,setMpcInfo:f}=n;export{p as a,m as b,f as c};
+//# sourceMappingURL=chunk-5RWZJZ73.js.map

@@ -1,0 +1,6 @@
+2026/01/27-15:24:54.283 c77 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.vastatmos.io_0.indexeddb.leveldb since it was missing.
+2026/01/27-15:24:54.290 c77 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.vastatmos.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-15:25:30.860 c88 Level-0 table #5: started
+2026/01/27-15:25:30.886 c88 Level-0 table #5: 4794 bytes OK
+2026/01/27-15:25:30.973 c88 Delete type=0 #3
+2026/01/27-15:25:30.973 c88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

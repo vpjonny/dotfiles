@@ -1,0 +1,2 @@
+import{a as i}from"./chunk-PDAPPSN7.js";import{a as s}from"./chunk-K4DJNG3I.js";import{b as a}from"./chunk-FLSAETOH.js";import{f,o as n,q as u}from"./chunk-UWURTNRY.js";n();u();var m=f(a());var U=()=>{let t=s(),{mainnetListForUI:r,testnetListForUI:e,customListForUI:o}=i("");return(0,m.useMemo)(()=>[...r,...e,...o].find(d=>d.id===t),[r,e,o,t])};export{U as a};
+//# sourceMappingURL=chunk-4VVKOCP5.js.map

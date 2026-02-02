@@ -1,0 +1,14 @@
+2026/02/02-12:20:41.739 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.kyo.finance_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-12:20:41.740 662 Recovering log #378
+2026/02/02-12:20:41.741 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.kyo.finance_0.indexeddb.leveldb/000378.log 
+2026/02/02-12:20:41.741 662 Delete type=2 #376
+2026/02/02-12:20:45.541 664 Level-0 table #383: started
+2026/02/02-12:20:45.603 664 Level-0 table #383: 2323 bytes OK
+2026/02/02-12:20:45.680 664 Delete type=0 #378
+2026/02/02-12:20:45.680 664 Manual compaction at level-0 from '\x00e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at '\x00e\x00\x00\x05' @ 6529 : 1
+2026/02/02-12:20:45.681 664 Compacting 1@0 + 1@1 files
+2026/02/02-12:20:45.773 664 Generated table #384@0: 49 keys, 2003 bytes
+2026/02/02-12:20:45.773 664 Compacted 1@0 + 1@1 files => 2003 bytes
+2026/02/02-12:20:45.880 664 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-12:20:45.881 664 Delete type=2 #383
+2026/02/02-12:20:45.881 664 Manual compaction at level-0 from '\x00e\x00\x00\x05' @ 6529 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at (end)

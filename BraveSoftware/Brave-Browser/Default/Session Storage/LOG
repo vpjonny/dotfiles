@@ -1,0 +1,42 @@
+2026/02/02-15:35:36.744 5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-066471
+2026/02/02-15:35:36.835 5 Recovering log #88670
+2026/02/02-15:35:36.850 5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/Session Storage/088670.log 
+2026/02/02-15:35:36.851 5 Delete type=2 #88672
+2026/02/02-15:35:36.851 5 Delete type=2 #88673
+2026/02/02-15:35:36.856 7 Compacting 4@0 + 2@1 files
+2026/02/02-15:35:37.208 7 Generated table #88673@0: 107990 keys, 2126030 bytes
+2026/02/02-15:35:37.322 7 Generated table #88674@0: 54455 keys, 1643257 bytes
+2026/02/02-15:35:37.322 7 Compacted 4@0 + 2@1 files => 3769287 bytes
+2026/02/02-15:35:37.384 7 compacted to: files[ 0 2 5 0 0 0 0 ]
+2026/02/02-15:35:37.387 7 Delete type=2 #88662
+2026/02/02-15:35:37.387 7 Delete type=2 #88663
+2026/02/02-15:35:37.387 7 Delete type=2 #88671
+2026/02/02-15:35:37.387 7 Delete type=2 #88667
+2026/02/02-15:35:37.387 7 Delete type=2 #88665
+2026/02/02-15:35:37.388 7 Delete type=2 #88669
+2026/02/02-16:01:14.662 7 Level-0 table #88676: started
+2026/02/02-16:01:14.669 7 Level-0 table #88676: 16637 bytes OK
+2026/02/02-16:01:14.680 7 Delete type=0 #88670
+2026/02/02-17:13:03.899 7 Level-0 table #88678: started
+2026/02/02-17:13:03.906 7 Level-0 table #88678: 17556 bytes OK
+2026/02/02-17:13:03.909 7 Delete type=0 #88675
+2026/02/02-17:24:04.312 7 Level-0 table #88680: started
+2026/02/02-17:24:04.321 7 Level-0 table #88680: 17062 bytes OK
+2026/02/02-17:24:04.324 7 Delete type=0 #88677
+2026/02/02-17:41:16.093 7 Level-0 table #88682: started
+2026/02/02-17:41:16.435 7 Level-0 table #88682: 23491 bytes OK
+2026/02/02-17:41:16.643 7 Delete type=0 #88679
+2026/02/02-17:41:16.644 7 Compacting 4@0 + 2@1 files
+2026/02/02-17:41:16.929 7 Generated table #88683@0: 120329 keys, 2133958 bytes
+2026/02/02-17:41:17.018 7 Generated table #88684@0: 42744 keys, 1287188 bytes
+2026/02/02-17:41:17.018 7 Compacted 4@0 + 2@1 files => 3421146 bytes
+2026/02/02-17:41:17.027 7 compacted to: files[ 0 2 5 0 0 0 0 ]
+2026/02/02-17:41:17.029 7 Delete type=2 #88674
+2026/02/02-17:41:17.029 7 Delete type=2 #88673
+2026/02/02-17:41:17.029 7 Delete type=2 #88678
+2026/02/02-17:41:17.029 7 Delete type=2 #88682
+2026/02/02-17:41:17.029 7 Delete type=2 #88676
+2026/02/02-17:41:17.029 7 Delete type=2 #88680
+2026/02/02-18:10:36.349 8 Level-0 table #88686: started
+2026/02/02-18:10:36.473 8 Level-0 table #88686: 33382 bytes OK
+2026/02/02-18:10:36.856 8 Delete type=0 #88681

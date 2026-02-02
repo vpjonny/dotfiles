@@ -1,0 +1,6 @@
+2026/02/02-16:02:49.586 624 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mcohilncbfahbmgdjkbpemcciiolgcge_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-16:02:49.590 624 Recovering log #11972
+2026/02/02-16:02:49.625 624 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mcohilncbfahbmgdjkbpemcciiolgcge_0.indexeddb.leveldb/011972.log 
+2026/02/02-18:36:04.380 613 Level-0 table #11977: started
+2026/02/02-18:36:04.418 613 Level-0 table #11977: 1112433 bytes OK
+2026/02/02-18:36:04.423 613 Delete type=0 #11972

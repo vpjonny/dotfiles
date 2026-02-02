@@ -1,0 +1,14 @@
+2025/12/24-12:30:47.480 829 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.playfull.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/24-12:30:47.480 829 Recovering log #245
+2025/12/24-12:30:47.482 829 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.playfull.com_0.indexeddb.leveldb/000245.log 
+2025/12/24-12:30:47.482 829 Delete type=2 #243
+2025/12/24-12:30:48.282 83b Level-0 table #250: started
+2025/12/24-12:30:48.285 83b Level-0 table #250: 26646 bytes OK
+2025/12/24-12:30:48.287 83b Delete type=0 #245
+2025/12/24-12:30:48.288 829 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x00\x00\x05' @ 42354 : 1
+2025/12/24-12:30:48.288 829 Compacting 1@0 + 1@1 files
+2025/12/24-12:30:48.291 829 Generated table #251@0: 1153 keys, 16946 bytes
+2025/12/24-12:30:48.291 829 Compacted 1@0 + 1@1 files => 16946 bytes
+2025/12/24-12:30:48.293 829 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/24-12:30:48.293 829 Delete type=2 #250
+2025/12/24-12:30:48.294 829 Manual compaction at level-0 from '\x00A\x00\x00\x05' @ 42354 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)

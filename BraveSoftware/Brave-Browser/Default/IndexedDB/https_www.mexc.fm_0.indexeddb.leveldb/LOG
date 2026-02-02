@@ -1,0 +1,24 @@
+2025/09/22-20:24:08.019 5f9 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mexc.fm_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/22-20:24:08.019 5f9 Recovering log #6
+2025/09/22-20:24:08.019 5f9 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mexc.fm_0.indexeddb.leveldb/000006.log 
+2025/09/22-20:24:16.710 626 Level-0 table #10: started
+2025/09/22-20:24:16.713 626 Level-0 table #10: 14947 bytes OK
+2025/09/22-20:24:16.715 626 Delete type=0 #6
+2025/09/22-20:24:16.715 5f9 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 491 : 1
+2025/09/22-20:24:16.715 5f9 Compacting 1@0 + 1@1 files
+2025/09/22-20:24:16.718 5f9 Generated table #11@0: 245 keys, 11124 bytes
+2025/09/22-20:24:16.719 5f9 Compacted 1@0 + 1@1 files => 11124 bytes
+2025/09/22-20:24:16.720 5f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/22-20:24:16.721 5f9 Delete type=2 #10
+2025/09/22-20:24:16.721 5f9 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 491 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/22-20:24:41.292 623 Level-0 table #13: started
+2025/09/22-20:24:41.295 623 Level-0 table #13: 32166 bytes OK
+2025/09/22-20:24:41.297 623 Delete type=2 #7
+2025/09/22-20:24:41.298 623 Delete type=0 #9
+2025/09/22-20:24:41.298 5fb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 1140 : 1
+2025/09/22-20:24:41.298 5fb Compacting 1@0 + 1@1 files
+2025/09/22-20:24:41.301 5fb Generated table #14@0: 497 keys, 16894 bytes
+2025/09/22-20:24:41.301 5fb Compacted 1@0 + 1@1 files => 16894 bytes
+2025/09/22-20:24:41.303 5fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/22-20:24:41.304 5fb Delete type=2 #13
+2025/09/22-20:24:41.304 5fb Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 1140 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

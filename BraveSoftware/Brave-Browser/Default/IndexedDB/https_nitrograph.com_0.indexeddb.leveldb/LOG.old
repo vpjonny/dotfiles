@@ -1,0 +1,6 @@
+2025/10/08-16:55:45.234 5b8 Creating DB /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nitrograph.com_0.indexeddb.leveldb since it was missing.
+2025/10/08-16:55:45.254 5b8 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nitrograph.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/08-17:06:00.470 5b7 Level-0 table #5: started
+2025/10/08-17:06:00.477 5b7 Level-0 table #5: 97605 bytes OK
+2025/10/08-17:06:00.480 5b7 Delete type=0 #3
+2025/10/08-17:06:00.481 5b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

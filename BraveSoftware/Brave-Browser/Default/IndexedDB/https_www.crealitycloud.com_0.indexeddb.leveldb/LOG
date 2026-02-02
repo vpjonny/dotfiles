@@ -1,0 +1,13 @@
+2026/01/28-17:10:56.448 8c5 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.crealitycloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-17:10:56.448 8c5 Recovering log #15
+2026/01/28-17:10:56.448 8c5 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.crealitycloud.com_0.indexeddb.leveldb/000015.log 
+2026/01/28-17:10:59.022 8c7 Level-0 table #20: started
+2026/01/28-17:10:59.025 8c7 Level-0 table #20: 8257 bytes OK
+2026/01/28-17:10:59.028 8c7 Delete type=0 #15
+2026/01/28-17:10:59.028 8c7 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/28-17:10:59.510 8c7 Compacting 1@1 + 1@2 files
+2026/01/28-17:10:59.527 8c7 Generated table #21@1: 1725 keys, 213698 bytes
+2026/01/28-17:10:59.527 8c7 Compacted 1@1 + 1@2 files => 213698 bytes
+2026/01/28-17:10:59.529 8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-17:10:59.530 8c7 Delete type=2 #20
+2026/01/28-17:10:59.530 8c7 Delete type=2 #17

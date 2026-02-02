@@ -1,0 +1,12 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Age of Wonders 4/start
+File2[$e]=$HOME/Downloads/TDS.pdf
+Name1[$e]=start
+Name2[$e]=TDS.pdf

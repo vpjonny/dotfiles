@@ -1,0 +1,2 @@
+import{j as m,l as u}from"./chunk-AP4E6GDF.js";import{o as t,q as n}from"./chunk-UWURTNRY.js";t();n();var l=c=>{let{commonStore:{currencyConversion:s,computedNowCurrencySymbol:a}}=c(),r={needPlaceholder:!0,needK:!1};return{getUsd:(o,e={})=>m(s(o).toString(),a,{...r,...e}),getTokenAmount:(o,e={})=>u(o,{needBillionMillionUnit:!0,...r,...e})}};export{l as a};
+//# sourceMappingURL=chunk-DQD6P25P.js.map

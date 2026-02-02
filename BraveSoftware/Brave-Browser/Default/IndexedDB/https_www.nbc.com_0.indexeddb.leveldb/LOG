@@ -1,0 +1,25 @@
+2025/12/19-04:42:12.730 831 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/19-04:42:12.730 831 Recovering log #50
+2025/12/19-04:42:12.731 831 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nbc.com_0.indexeddb.leveldb/000050.log 
+2025/12/19-04:42:12.731 831 Delete type=2 #49
+2025/12/19-04:42:12.744 842 Level-0 table #55: started
+2025/12/19-04:42:12.748 842 Level-0 table #55: 646 bytes OK
+2025/12/19-04:42:12.750 842 Delete type=0 #50
+2025/12/19-04:42:12.751 831 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 363 : 1
+2025/12/19-04:42:12.751 831 Compacting 1@0 + 1@1 files
+2025/12/19-04:42:12.753 831 Generated table #56@0: 50 keys, 1301 bytes
+2025/12/19-04:42:12.753 831 Compacted 1@0 + 1@1 files => 1301 bytes
+2025/12/19-04:42:12.756 831 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/19-04:42:12.757 831 Delete type=2 #55
+2025/12/19-04:42:12.757 831 Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 363 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/19-04:42:12.759 831 Level-0 table #58: started
+2025/12/19-04:42:12.762 831 Level-0 table #58: 646 bytes OK
+2025/12/19-04:42:12.764 831 Delete type=2 #52
+2025/12/19-04:42:12.764 831 Delete type=0 #54
+2025/12/19-04:42:12.764 831 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 380 : 1
+2025/12/19-04:42:12.764 831 Compacting 1@0 + 1@1 files
+2025/12/19-04:42:12.767 831 Generated table #59@0: 50 keys, 1302 bytes
+2025/12/19-04:42:12.767 831 Compacted 1@0 + 1@1 files => 1302 bytes
+2025/12/19-04:42:12.769 831 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/19-04:42:12.769 831 Delete type=2 #58
+2025/12/19-04:42:12.769 831 Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 380 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)

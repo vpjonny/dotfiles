@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension, displayed in the web store.",
+      "message": "Exodus unifies Web3 by providing best-in-class, non-custodial, and multi-chain support–from Solana to Ethereum and beyond."
+   },
+   "appName": {
+      "description": "The name of the extension, displayed in the web store.",
+      "message": "Exodus Web3 Wallet"
+   }
+}

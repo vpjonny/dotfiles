@@ -1,0 +1,15 @@
+2025/12/18-00:31:20.010 831 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explorer.somnia.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/18-00:31:20.010 831 Recovering log #7
+2025/12/18-00:31:20.010 831 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explorer.somnia.network_0.indexeddb.leveldb/000007.log 
+2025/12/18-00:35:51.496 833 Level-0 table #12: started
+2025/12/18-00:35:51.499 833 Level-0 table #12: 226 bytes OK
+2025/12/18-00:35:51.502 833 Delete type=0 #7
+2025/12/18-00:35:51.503 833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/18-00:35:51.503 833 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 61 : 1
+2025/12/18-00:35:51.503 833 Compacting 1@1 + 1@2 files
+2025/12/18-00:35:51.505 833 Generated table #13@1: 21 keys, 664 bytes
+2025/12/18-00:35:51.506 833 Compacted 1@1 + 1@2 files => 664 bytes
+2025/12/18-00:35:51.508 833 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/18-00:35:51.508 833 Delete type=2 #12
+2025/12/18-00:35:51.508 833 Delete type=2 #9
+2025/12/18-00:35:51.508 833 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 61 : 1 .. (end); will stop at (end)

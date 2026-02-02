@@ -1,0 +1,56 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/png/icon_128x128.png",
+         "16": "assets/png/icon_16x16.png",
+         "32": "assets/png/icon_32x32.png"
+      },
+      "default_popup": "index.html?scaletofit=true&isPopup=true",
+      "default_title": "Exodus"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "description": "Open Exodus",
+         "suggested_key": {
+            "default": "Ctrl+Shift+E"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://*/*", "http://localhost/*", "http://127.0.0.1/*", "http://[::1]/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "connect-banner.css" ],
+      "js": [ "content-connect-banner.js" ],
+      "matches": [ "https://*.convexfinance.com/*", "https://*.launchmynft.io/*", "https://*.penguinfinance.org/*", "https://*.sandbox.game/*", "https://*.sushi.com/*", "https://apeswap.finance/*", "https://app.aave.com/*", "https://app.aavegotchi.com/*", "https://app.airnfts.com/*", "https://app.balancer.fi/*", "https://app.benqi.fi/*", "https://app.deus.finance/*", "https://app.dodoex.io/*", "https://app.ens.domains/*", "https://app.fantohm.com/*", "https://app.firebird.finance/*", "https://app.gmx.io/*", "https://app.hop.exchange/*", "https://app.mugenswap.xyz/*", "https://app.pangolin.exchange/*", "https://app.spartacus.finance/*", "https://app.uniswap.org/*", "https://audius.co/*", "https://beets.fi/*", "https://dappradar.com/*", "https://galxe.com/*", "https://homora.alphaventuredao.io/*", "https://joepegs.com/*", "https://magiceden.io/*", "https://opensea.io/*", "https://paintswap.finance/*", "https://pancakeswap.finance/*", "https://planetix.com/*", "https://quickswap.exchange/*", "https://shibaswap.com/*", "https://spooky.fi/*", "https://stargate.finance/*", "https://swap.cow.fi/*", "https://trade.dydx.exchange/*", "https://traderjoexyz.com/*", "https://wallet-beta.polygon.technology/*", "https://wallet.polygon.technology/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'self'; frame-src 'none'; frame-ancestors 'self'; form-action 'none'; object-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' https://fetch-n-cache.a.exodus.io data:; connect-src https: wss: data: blob:",
+      "sandbox": "sandbox default-src 'self'; frame-src 'none'; frame-ancestors 'self'; form-action 'none'; object-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' https://fetch-n-cache.a.exodus.io data:; connect-src https: wss: data: blob:"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "homepage_url": "https://www.exodus.com",
+   "icons": {
+      "128": "assets/png/icon_128x128.png",
+      "16": "assets/png/icon_16x16.png",
+      "32": "assets/png/icon_32x32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl2M1MR6TuRszEaGBOM4JSXqo9uGmx9lPK6WuMOO6cG/AcW2PEXBAGL51QhhLQzsVuHZ02tH4W2zfJHum6hCxDk+0o4jja54hvJke43WOv5A8OjgdVeG42O7OWk8TxEj0f0JXxzMDiT8stpqmDfL9OhMwA7p2pctw7qBQ6oBqFhkbqCA5oo4YKcGPnsR0OA1cHwxkETvUpnjpDW4HBfPhZnmoI7W88BrnpaUTTdECZQEdv+oc93+kGSmgXV9jKVdLNGO6HIsuxm4rdH6KPcd68j4+N5z0bEdgf2e2rVFpVDrKu64naa0/fFg+/vukLVQSWlElHogr/rCplUAxFmKxUwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "100",
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "unlimitedStorage", "alarms" ],
+   "short_name": "Exodus",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "25.46.4",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*/*", "http://localhost/*", "http://127.0.0.1/*", "http://[::1]/*" ],
+      "resources": [ "canvas-worker.js", "assets/fonts/rubik/Rubik-Light.ttf", "assets/fonts/rubik/Rubik-Medium.ttf", "assets/fonts/rubik/Rubik-Regular.ttf", "assets/png/logo.png", "assets/png/icon_white.png", "assets/png/banner-bg-right.png", "assets/png/dapp_icons/*", "algorand-provider.js", "buy-crypto.html", "buy-crypto.js", "ethereum-provider.js", "cardano-provider.js", "cosmos-provider.js", "solana-provider.js", "management-provider.js", "inapp.js", "connect-banner.js", "sell-crypto.html", "sell-crypto.js" ]
+   } ]
+}

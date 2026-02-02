@@ -1,0 +1,15 @@
+2026/02/02-13:19:11.654 662 Reusing MANIFEST /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_swap.iopn.tech_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-13:19:11.654 662 Recovering log #23
+2026/02/02-13:19:11.654 662 Reusing old log /home/slova/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_swap.iopn.tech_0.indexeddb.leveldb/000023.log 
+2026/02/02-14:14:14.203 676 Level-0 table #28: started
+2026/02/02-14:14:14.258 676 Level-0 table #28: 226 bytes OK
+2026/02/02-14:14:14.345 676 Delete type=0 #23
+2026/02/02-14:14:14.346 676 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/02-14:14:14.346 676 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 69 : 1
+2026/02/02-14:14:14.347 676 Compacting 1@1 + 1@2 files
+2026/02/02-14:14:14.401 676 Generated table #29@1: 21 keys, 678 bytes
+2026/02/02-14:14:14.401 676 Compacted 1@1 + 1@2 files => 678 bytes
+2026/02/02-14:14:14.488 676 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-14:14:14.489 676 Delete type=2 #25
+2026/02/02-14:14:14.489 676 Delete type=2 #28
+2026/02/02-14:14:14.490 676 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 69 : 1 .. (end); will stop at (end)
